@@ -7,11 +7,11 @@
 
 - title: Recensioni
   url: /recensioni/
-  excerpt: "Se l'ho recensito, sta qui"
+  excerpt: "Se l'ho recensito, è qui"
   image: 300x200.gif
   
 - title: Xabologia
-  url: /_posts/xabologia/
+  url: /xabologia/
   excerpt: "Pensieri e filosofie di vita"
   image: 300x200.gif
   
