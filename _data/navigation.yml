@@ -6,6 +6,16 @@
   image:
 
 - title: Recensioni
-  url: /Recensioni/
-  excerpt: "Tutte le recensioni di xabacadabra"
+  url: /_posts/Recensioni/
+  excerpt: "Se l'ho recensito, sta qui"
+  image: 300x200.gif
+  
+- title: Xabologia
+  url: /_posts/Xabologia/
+  excerpt: "Pensieri e filosofie di vita"
+  image: 300x200.gif
+  
+- title: About
+  url: /About/
+  excerpt: "Chi è Xab?"
   image: 300x200.gif
