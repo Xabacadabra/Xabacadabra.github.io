@@ -1,20 +1,23 @@
 ---
 layout: article
 title: "Star Wars 7 - Il Risveglio della Forza | Recensione [NO SPOILER]"
-modified:
-categories: {{ dir }}
-excerpt:
+modified: null
+categories: 
+  "[object Object]": null
+excerpt: null
 tags: []
-image:
-  feature:
-  teaser:
-  thumb:
+image: 
+  feature: null
+  teaser: null
+  thumb: null
+published: true
 ---
+
 Comincerò in modo brutale:
 
-Il Risveglio della Forza è la più bella fan fiction che io abbia mai visto.
+**Il Risveglio della Forza è la più bella fan fiction che io abbia mai visto.**
 
-È il ritorno all'avventura che io e massima parte dei fan desideravamo, senza derby Jedi-Sith, Jar Jar, Ewok o altre menate più o meno astruse...
+È il ritorno all'avventura che io e massima parte dei fan desideravamo, senza **derby Jedi-Sith**, Jar Jar, Ewok o altre menate più o meno astruse...
 
 Da questo punto di vista, è un film fantastico.
 
@@ -23,8 +26,7 @@ Del resto, è esattamente quel che voleva il fandom: Una Nuova Speranza 2.0
 Seriamente: se esiste un confine tra il celebrare citando ed il riproporre paro paro, JJ Abrams l'ha superato con tutte le scarpe.
 
 Tralasciando questo punto (che meriterebbe un post a parte) parliamo più approfonditamente dell'Episodio VII per com'è in se stesso
-Una Meraviglia
-
+## Una Meraviglia
 La regia, i tempi, la sceneggiatura, le battute (forse pure un po' troppe), Han Solo, la nostalgia, i combattimenti, le scenografie, l'interpretazione, le musiche di John Williams (che secondo me oramai è il vero regista)...
 
 Insomma, è tutto confezionato e diretto in modo superbo, un autentico capolavoro di tecnica cinematografica, fatta giusto eccezione per...
@@ -36,8 +38,7 @@ Per quanto possa essere tecnicamente al massimo dei livelli consentiti da Hollyw
 Gli alieni più pupazzosi forse risulteranno buffi, ma mi sembrano sempre migliori, più concreti e reali del digitale appiccicato qua e la.
 
 In ogni caso questa è na piccolezza: i problemi del film sono certamente altri (ma ci arriviamo poi)
-I Protagonisti
-
+## I Protagonisti
 Ho trovato Rey e Finn dei personaggi superbi.
 
 In particolar modo: Finn è meraviglioso, mi piace il suo background ed il suo stile a volte sguaiato trovo funzioni un casino (mi verrebbe da dire nigga power, scusatemi)
