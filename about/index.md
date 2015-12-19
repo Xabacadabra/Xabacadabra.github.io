@@ -34,9 +34,7 @@ Dall'estate del 2008 fino a l'autunno 2014 ho risieduto a Genova, oscuro capoluo
 
 Nel momento in cui scrivo, vivo in un paesino della bassa Brianza (si, i'm back) giusto una manciata di chilometri a nord della malvagia Milano.
 
-In futuro, chissà! 
-
----
+In futuro, chissà!
 
 ## Passioni
 Tra le passioni più grandi (che non richiedono censure da parte della polizia postale, perché la prima passione accomuna banalmente un po' tutto il genere eterosessuale maschile ed è sintetizzabile così) direi che si annoverano musica, videogiochi, letteratura, fumetti, animazione e una buona dose di amore per esoterismo, teologia, storia e tanta tanta poltica, più tantissime altre cose che sul momento non mi ricordo
