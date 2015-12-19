@@ -26,7 +26,9 @@ Del resto, è esattamente quel che voleva il fandom: Una Nuova Speranza 2.0
 Seriamente: se esiste un confine tra il celebrare citando ed il riproporre paro paro, JJ Abrams l'ha superato con tutte le scarpe.
 
 Tralasciando questo punto (che meriterebbe un post a parte) parliamo più approfonditamente dell'Episodio VII per com'è in se stesso
+
 ## Una Meraviglia
+
 La regia, i tempi, la sceneggiatura, le battute (forse pure un po' troppe), Han Solo, la nostalgia, i combattimenti, le scenografie, l'interpretazione, le musiche di John Williams (che secondo me oramai è il vero regista)...
 
 Insomma, è tutto confezionato e diretto in modo superbo, un autentico capolavoro di tecnica cinematografica, fatta giusto eccezione per...
@@ -38,7 +40,9 @@ Per quanto possa essere tecnicamente al massimo dei livelli consentiti da Hollyw
 Gli alieni più pupazzosi forse risulteranno buffi, ma mi sembrano sempre migliori, più concreti e reali del digitale appiccicato qua e la.
 
 In ogni caso questa è na piccolezza: i problemi del film sono certamente altri (ma ci arriviamo poi)
+
 ## I Protagonisti
+
 Ho trovato Rey e Finn dei personaggi superbi.
 
 In particolar modo: Finn è meraviglioso, mi piace il suo background ed il suo stile a volte sguaiato trovo funzioni un casino (mi verrebbe da dire nigga power, scusatemi)
@@ -50,9 +54,8 @@ Rey, tralasciando il fatto che Daisy Ridley è gnocca molto brava, risulta senz'
 Insomma, la coppia di new entry m'ha convinto su tutta la linea.
 
 Sui membri del cast originale, ovviamente, è troppo spoileroso (nonché superfluo) scrivere alcunché quindi in questo post li salterò a piè pari.
-Dove casca il Bantha ?
 
-
+## Dove casca il Bantha ?
 
 Fermo restando quello che dicevo all'inizio, e cioè che l'operazione è dettata principalmente da esigenze commerciali, che il film in se è tutta una splendida cover di una canzone che già conosciamo bene e che BB8 è l'R2D2 dei poveri...
 
@@ -74,23 +77,24 @@ Avendo a maggior ragione tessuto le lodi degli ottimi personaggi principali, li 
 E tutto questo, in un film d'avventura tanto fanta quanto poco scientifica, pesa un casino.
 
 Spero che per i prossimi episodi ci sia il coraggio di provare una certa strada di cui eventualmente parlerò in un articolo spoileroso.
-Voto
 
-Star Wars - Il Risveglio della Forza | Recensione [NO SPOILER]
+## Voto
 
 Ci sono due valutazioni diverse, per due Xab diversi.
 
 Scegliete pure quello in cui v'identificate di più.
-Xab amante del bello senza dietrologie:
 
-Quattro Braccobaldi su Cinque:
+## Xab amante del bello senza dietrologie:
+
+**Quattro Braccobaldi su Cinque:**
 
 i destini di questa nuova trilogia ovviamente determineranno meglio l'esito complessivo per tutto il malloppo, ma c'erano così tanti motivi per cui questo film poteva fare seriamente schifo che beh, alla fine l'applauso a me lo ha strappato.
 
 è L'Avventura, è tornata, viaggia alla velocità dell'iperspazio...e sì, da questo lato direi proprio che la Forzia sia con lei.
-Xab cinico idealista:
 
-Due Braccobaldi diventati magrissimi:
+## Xab cinico idealista:
+
+**Due Braccobaldi diventati magrissimi:**
 
 Guerre Stellari nasce come il sogno di un uomo, l'opera di un artista che voleva comunicare qualcosa, un artista geniale ed imperfetto, un regista non all'altezza delle sue stesse ambizioni, di una creatura decisamente troppo grande per chiunque, un autore che con la seconda trilogia la mandò qualitativamente in vacca...ma un uomo che con i suoi film non si "vendette" mai nel vero senso della parola, ma si sputtanò solo in quanto se stesso.
 
