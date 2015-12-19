@@ -10,7 +10,7 @@ feature:
   category: xabologia
 ---
 
-{% for post in site.categories.articles %}
+{% for post in site.categories.xabologia %}
   {% if post.featured != true %}
   {% include archive__item.html %}
   {% endif %}
