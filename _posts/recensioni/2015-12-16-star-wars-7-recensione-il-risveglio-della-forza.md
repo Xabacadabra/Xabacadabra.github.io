@@ -3,9 +3,9 @@ layout: article
 title: "Star Wars 7 - Il Risveglio della Forza | Recensione [NO SPOILER]"
 modified: null
 categories: 
-  "[object Object]": null
+  recensioni
 excerpt: null
-tags: []
+tags: "star wars"
 image: 
   feature: null
   teaser: null
