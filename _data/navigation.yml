@@ -6,22 +6,22 @@
   image:
 
 - title: Recensioni
-  url: /_posts/Recensioni/
+  url: /_posts/recensioni/
   excerpt: "Se l'ho recensito, sta qui"
   image: 300x200.gif
   
 - title: Xabologia
-  url: /_posts/Xabologia/
+  url: /_posts/xabologia/
   excerpt: "Pensieri e filosofie di vita"
   image: 300x200.gif
   
 - title: Progetti
-  url: /_posts/Xabologia/
+  url: /progetti/
   excerpt: "Cose mie"
   image: 300x200.gif
   
 - title: Link
-  url: /_posts/Xabologia/
+  url: /link/
   excerpt: "Siti amici"
   image: 300x200.gif
   
