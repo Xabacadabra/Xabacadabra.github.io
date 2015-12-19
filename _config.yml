@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Xaba Cadabra - Recensioni e Caciara
+title: "Xaba Cadabra - Recensioni e Caciara"
 description: "Blog che offre una caustica visione su Fumetti, Videogiochi, Cinema, Musica, Politica, diserbante agricolo e insomma tutte quelle cose da nerd."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -21,14 +21,14 @@ gems:
 
 
 # Site owner
-owner: Andrea Corinti
-  name: Xab
+owner:
+  name: "Andrea Xab Corinti"
   email: xabarasff@gmail.com
   twitter: xabaras89
-  google: AndreaXabCorinti
+  google:
     ad-client:
     ad-slot:
-  bio:
+  bio: "Final Fantasy, Dylan Dog, Web 1.5, Bakunin e Faith No More. In TV tifa Gazebo, nel basket Cantù. Ama Lubuntu e venera Neil Gaiman."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: xabaras89
 
