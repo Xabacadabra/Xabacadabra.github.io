@@ -4,7 +4,7 @@ title: "Star Wars 7 - Il Risveglio della Forza | Recensione [NO SPOILER]"
 modified: null
 categories: 
   recensioni
-excerpt: null
+excerpt: "Comincerò in modo brutale: Il Risveglio della Forza è la più..."
 tags: "star wars"
 image: 
   feature: null
