@@ -9,7 +9,7 @@ locales:
     toc: "La Robaccia"
     written_by: "Scritto da"
     updated: "Updated"
-    share: "Condividi con"
+    share: "Condividi su"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
