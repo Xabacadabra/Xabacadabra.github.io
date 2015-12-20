@@ -3,11 +3,9 @@
 <script type="text/javascript">
 	/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
 	var disqus_shortname = '{{ site.owner.disqus-shortname }}';
-	{% unless page.gamla_disqus_satte %}
     var disqus_identifier = '{{ page.id | escape }}';
     var disqus_title = '{{ page.title | escape }}';
     var disqus_url = '{{site.url}}{{site.baseurl}}{{ page.url }}';
-  {% endunless %}
 
 	/* * * DON'T EDIT BELOW THIS LINE * * */
 	(function() {
