@@ -9,3 +9,8 @@ feature:
   headline: "Featured Articles"
   category: xabologia
 ---
+<div class="tiles">
+{% for post in site.categories.xabologia %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
