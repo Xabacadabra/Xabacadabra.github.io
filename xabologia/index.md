@@ -9,9 +9,3 @@ feature:
   headline: "Featured Articles"
   category: xabologia
 ---
-
-{% for post in site.categories.xabologia %}
-  {% if post.featured != true %}
-  {% include archive__item.html %}
-  {% endif %}
-{% endfor %}
