@@ -30,7 +30,7 @@ owner:
     ad-slot:
   bio: "Final Fantasy, Dylan Dog, Web 1.5, Bakunin e Faith No More. In TV tifa Gazebo, nel basket Cantù. Ama Lubuntu e venera Neil Gaiman."
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname: xabaras89
+  disqus-shortname: xabacadabra
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
