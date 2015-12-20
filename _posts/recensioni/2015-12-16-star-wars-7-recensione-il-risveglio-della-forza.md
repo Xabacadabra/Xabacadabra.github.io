@@ -7,8 +7,8 @@ excerpt: "Comincerò in modo brutale: Il Risveglio della Forza è la più..."
 tags: star wars
 image: 
   feature: StarWars7RecensioneIlRisveglioDellaForza.jpg
-  teaser: null
-  thumb: ThumbReceStarWars7.jpg
+  teaser: TeaserReceStarWars7.jpg
+  thumb: 
 published: true
 comments: true
 ---
