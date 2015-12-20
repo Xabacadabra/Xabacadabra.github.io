@@ -2,9 +2,9 @@
 # see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
 
 locales:
-  # English translation (Italiano "pigro" in atto :D)
+  # Italiano "pigro" in atto
   # -------------------
-  en: &DEFAULT_EN
+  it: &DEFAULT_IT
     overview: "Panoramica"
     toc: "La Robaccia"
     written_by: "Scritto da"
