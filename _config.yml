@@ -14,7 +14,7 @@ sass:
     style: compressed
 permalink: /:categories/:title/
 kramdown:
-  Cinema
+  toc_levels: 1..2
 highlighter: pygments
 gems:
   - jekyll-sitemap
