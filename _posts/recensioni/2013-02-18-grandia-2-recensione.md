@@ -6,13 +6,14 @@ categories: recensioni
 excerpt: "La serie di JRPG Grandia è composta da tre episodi "ufficiali" più vari spin-off..."
 tags: [videogiochi]
 image: 
-  feature: 
-  teaser: 
+  feature:
+  teaser:
   thumb: 
 published: true
 comments: true
 disqus_identifier: 
 ---
+
 
 La serie di JRPG Grandia è composta da tre episodi "ufficiali" più vari spin-off, ma è opportuno considerare che ogni capitolo "numerato", come succede in Final Fantasy, è totalmente autonomo e comprende un proprio universo narrativo
 
