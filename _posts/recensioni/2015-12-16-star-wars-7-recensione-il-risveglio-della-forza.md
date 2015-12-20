@@ -111,3 +111,9 @@ Nel bene o nel male, il messaggio, la storia, e l'epopea restavano roba sua.
 è un bel film, una bella storia, ha degli ottimi personaggi...che però non vogliono trasmettere nessun messaggio, nessuna visione particolare.
 
 **Il Risveglio della Forza è puro, semplice ed ottimo entertainment.**
+
+<div itemscope itemtype="http://schema.org/Review">
+<div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">Star Wars 7 - Il Risveglio della Forza | Recensione [NO SPOILER]</span></div> <div itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"> Andrea Xab Corinti</span></div><meta itemprop="datePublished" content = "2015-12-16">December 16, 2015  <div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating" 
+<meta itemprop="worstRating" content = "1"/><span itemprop="ratingValue">3</span>/<span itemprop="bestRating">5</span> stars </div>
+<span itemprop="description"> Il Risveglio della Forza è puro, semplice ed ottimo entertainment </span>
+</div>
