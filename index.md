@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Le ultime, fresche fresche"
 ---
 
 <div class="tiles">
