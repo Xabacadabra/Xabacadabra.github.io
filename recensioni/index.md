@@ -9,3 +9,8 @@ feature:
   headline: "Recensioni"
   category: recensioni
 ---
+<div class="tiles">
+{% for post in site.categories.recensioni %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
