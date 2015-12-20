@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: Cinema
+tag: "Articoli in Cinema"
 permalink: /blog/tag/cinema/
 ---
