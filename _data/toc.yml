@@ -1,4 +1,30 @@
+- title: Videogiochi
+  url: /blog/tag/videogiochi/
+  excerpt: "Spegni la console che ti brucia gli occhi"
+  image: 300x200.gif
+
 - title: Cinema
   url: /blog/tag/cinema/
   excerpt: "tutti al cinematografo"
   image: 300x200.gif
+  
+- title: Fumetti
+  url: /blog/tag/fumetti/
+  excerpt: "tutti da topolino"
+  image: 300x200.gif
+
+- title: Web
+  url: /blog/tag/web/
+  excerpt: "cyberpunk"
+  image: 300x200.gif
+
+- title: Musica
+  url: /blog/tag/musica/
+  excerpt: "TOM WAITS!"
+  image: 300x200.gif
+  
+- title: Xabologia
+  url: /blog/tag/xabologia/
+  excerpt: "Politica e Società"
+  image: 300x200.gif
+
