@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Xaba Cadabra"
+title: "Xaba Cadabra - Recensioni & Caciara"
 excerpt: "Le ultime, fresche fresche"
 ---
 
