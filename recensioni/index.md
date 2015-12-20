@@ -9,9 +9,3 @@ feature:
   headline: "Recensioni Top"
   category: recensioni
 ---
-
-{% for post in site.categories.recensioni %}
-  {% if post.featured != true %}
-  {% include archive__item.html %}
-  {% endif %}
-{% endfor %}
