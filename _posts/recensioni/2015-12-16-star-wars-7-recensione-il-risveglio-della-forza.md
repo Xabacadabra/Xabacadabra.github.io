@@ -6,7 +6,7 @@ categories: recensioni
 excerpt: "Comincerò in modo brutale: Il Risveglio della Forza è la più..."
 tags: star wars
 image: 
-  feature: null
+  feature: StarWars7RecensioneIlRisveglioDellaForza.jpg
   teaser: null
   thumb: null
 published: true
