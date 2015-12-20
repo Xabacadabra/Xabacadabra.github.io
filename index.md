@@ -2,7 +2,7 @@
 layout: archive
 permalink: /
 title: "Xaba Cadabra - Recensioni & Caciara"
-excerpt: "Le ultime, fresche fresche"
+excerpt: "Appena sfornati:"
 ---
 
 <div class="tiles">
