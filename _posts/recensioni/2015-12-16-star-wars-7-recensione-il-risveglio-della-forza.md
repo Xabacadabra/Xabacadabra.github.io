@@ -10,6 +10,7 @@ image:
   teaser: null
   thumb: null
 published: true
+comments: true
 ---
 
 
