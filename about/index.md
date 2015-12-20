@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Chi è Xab
-date: {}
+date: 2015-12-20
 excerpt: A (web) world citizen.
 image: 
   feature: null
