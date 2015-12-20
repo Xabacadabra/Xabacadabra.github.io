@@ -2,14 +2,14 @@
 # see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
 
 locales:
-  # English translation
+  # English translation (Italiano "pigro" in atto :D)
   # -------------------
   en: &DEFAULT_EN
-    overview: "Overview"
+    overview: "Panoramica"
     toc: "Table of Contents"
-    written_by: "Written by"
+    written_by: "Scritto da"
     updated: "Updated"
-    share: "Share on"
+    share: "Condividi con"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
