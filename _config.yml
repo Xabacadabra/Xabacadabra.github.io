@@ -4,7 +4,7 @@ title: "Xaba Cadabra"
 description: "Recensioni che offrono una caustica visione su Videogiochi, Serie TV, Fumetti e tutte quelle cose da nerd."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: it
 url: //xabacadabra.github.io
 
 # Jekyll configuration
