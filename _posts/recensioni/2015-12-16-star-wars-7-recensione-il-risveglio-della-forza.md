@@ -8,7 +8,7 @@ tags: star wars
 image: 
   feature: StarWars7RecensioneIlRisveglioDellaForza.jpg
   teaser: null
-  thumb: null
+  thumb: ThumbReceStarWars7.jpg
 published: true
 comments: true
 ---
