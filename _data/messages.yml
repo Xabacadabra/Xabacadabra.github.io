@@ -4,7 +4,7 @@
 locales:
   # Italiano "pigro" in atto
   # -------------------
-  it: &DEFAULT_IT
+  en: &DEFAULT_EN
     overview: "Panoramica"
     toc: "La Robaccia"
     written_by: "Scritto da"
