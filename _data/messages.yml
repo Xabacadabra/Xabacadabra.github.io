@@ -6,7 +6,7 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Panoramica"
-    toc: "Table of Contents"
+    toc: "La Robaccia"
     written_by: "Scritto da"
     updated: "Updated"
     share: "Condividi con"
