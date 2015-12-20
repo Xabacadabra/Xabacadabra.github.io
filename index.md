@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "Le ultime, fresche fresche"
+title: "Xaba Cadabra"
+excerpt: "Le ultime, fresche fresche"
 ---
 
 <div class="tiles">
