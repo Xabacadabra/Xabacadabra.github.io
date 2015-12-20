@@ -59,7 +59,7 @@ Insomma, **la coppia di new entry m'ha convinto su tutta la linea.**
 
 Sui membri del cast originale, ovviamente, è troppo spoileroso (nonché superfluo) scrivere alcunché quindi in questo post li salterò a piè pari.
 
-## Dove casca il [Bantha](https://it.wikipedia.org/wiki/Bantha "Clicca se ti stai chiedendo "che diavolo è un Bantha?"") ?
+## Dove casca il [_Bantha_](https://it.wikipedia.org/wiki/Bantha "Clicca se ti stai chiedendo "che diavolo è un Bantha?"") ?
 
 Fermo restando quello che dicevo all'inizio, e cioè che **l'operazione è dettata principalmente da esigenze commerciali**, che **il film in se è tutta una splendida cover di una canzone che già conosciamo bene** e che BB8 è l'R2D2 dei poveri...
 
