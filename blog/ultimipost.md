@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /
 title: "Ultimi Post"
 ---
