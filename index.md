@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-phone-square"></i> Contatti</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89">inviarmi un tweet</a>, precisando che i messaggi privati non li leggo dal 2010 quindi lì è inutile che vi aspettate risposta. Per il resto, date pure un'occhiata ai profili sociali qui sotto.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
