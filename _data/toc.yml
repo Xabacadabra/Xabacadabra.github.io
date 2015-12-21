@@ -8,23 +8,33 @@
   excerpt: "tutti al cinematografo"
   image: 300x200.gif
   
+- title: Cyberspazio
+  url: /blog/tag/cyberspazio/
+  excerpt: "Di Web, Software e Tecnologie"
+  image: 300x200.gif
+  
+- title: Serie TV
+  url: /blog/tag/serie-tv/
+  excerpt: "Thread Carefully"
+  image: 300x200.gif
+  
 - title: Fumetti
   url: /blog/tag/fumetti/
   excerpt: "tutti da topolino"
-  image: 300x200.gif
-
-- title: Web
-  url: /blog/tag/web/
-  excerpt: "cyberpunk"
   image: 300x200.gif
 
 - title: Musica
   url: /blog/tag/musica/
   excerpt: "TOM WAITS!"
   image: 300x200.gif
+
+- title: Libri
+  url: /blog/tag/libri/
+  excerpt: "Gibson!"
+  image: 300x200.gif
   
 - title: Xabologia
   url: /blog/tag/xabologia/
-  excerpt: "Politica e Società"
+  excerpt: "Politica, Televisione, Costume e Società"
   image: 300x200.gif
 
