@@ -1,6 +1,14 @@
 # Footer navigation links
 
-- title: Link
+- title: <i class="fa fa-link"></i> Link
   url: #
 - title: <i class="fa fa-twitter-square"></i> Twitter
+  url: #
+- title: <i class="fa fa-facebook-square"></i> Facebook
+  url: #
+- title: <i class="fa fa-google-plus-square"></i> Google+
+  url: #
+- title: <i class="fa fa-steam-square"></i> Steam
+  url: #
+- title: <i class="fa fa-lastfm-square"></i> Last.fm
   url: #
