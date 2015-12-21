@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /blog/ultimipost.md
+permalink: /blog/archivio/
 title: "Ultimi Post"
 ---
 
