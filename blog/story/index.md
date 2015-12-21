@@ -51,6 +51,7 @@ L'ordine, fatta eccezione per le prime tre posizioni, è semi-casuale.
 - **I miei lettori:** Quelli fissi, pochi ma buoni, che commentino o meno (su disqus, su facebook, via mail, boh)...io sono uno che scriverebbe anche se non lo cagasse proprio nessuno, è risaputo, ma il fatto che qualche anima interessata alle mie ciarle esista mi riempie di gioia 
 
 Nelle pagine che seguono trovate le precedenti versioni di Xaba Cadabra.
+******
 
 1.0
 
