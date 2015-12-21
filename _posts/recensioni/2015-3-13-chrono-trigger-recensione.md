@@ -1,5 +1,16 @@
 ---
-published: false
+layout: article
+title: "Chrono Trigger | Recensione"
+modified: null
+categories: recensioni
+excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
+tags: [videogiochi]
+image: 
+  feature: 
+  teaser:
+  thumb: 
+published: true
+comments: true
 ---
 
 Prima di tutto specifico che qui si va a parare direttamente nella Serie A del videogioco: si parla di una delle grandi inconrastate divinità dei videogiochi di ruolo nipponici, che non fosse per titoli come Final Fantasy VI e VII (o uno Xenogears in sordina) probabilmente non avrebbe manco dei rivali lassù
