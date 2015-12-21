@@ -11,7 +11,6 @@ image:
   thumb: 
 published: true
 comments: true
-disqus_identifier: 
 ---
 
 
