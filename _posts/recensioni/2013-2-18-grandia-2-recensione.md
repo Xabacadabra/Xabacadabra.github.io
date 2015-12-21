@@ -1,5 +1,16 @@
 ---
-published: false
+layout: article
+title: "Grandia 2 | Recensione"
+modified: null
+categories: recensioni
+excerpt: "La serie di JRPG Grandia è composta da tre episodi "ufficiali" più vari spin-off, ma è opportuno considerare che..."
+tags: [videogiochi]
+image: 
+  feature: 
+  teaser:
+  thumb: 
+published: true
+comments: true
 ---
 
 ## A New Post
