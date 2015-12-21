@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Dove ti trovi</h2>
-  <p class="post-excerpt">Xaba Cadabra è un blog, un Cetramod ad personam ed un aggregatore di tutto quello che Xab combina in rete (o quasi). Per saperne di più sulla sua storia, clicca qui.</p>
+  <p class="post-excerpt">Xaba Cadabra è un blog, un Cetramod ad personam ed un aggregatore di tutto quello che <a href="/about/">Xab</a> combina in rete (o quasi). Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
