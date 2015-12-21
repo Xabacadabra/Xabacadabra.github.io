@@ -1,5 +1,15 @@
 ---
-published: false
+layout: article
+title: "Il significato del finale di Birdman [SPOILER]"
+modified: null
+categories: null
+excerpt: "Come avrete visto nel titolo e dovrebbe essere ovvio, questo post è totalmente spoiler..."
+tags: [cinema]
+image: 
+  feature: 
+  teaser:
+  thumb: 
+published: true
 ---
 
 Ok, l'avevo preannunciato, e ci siamo arrivati.
