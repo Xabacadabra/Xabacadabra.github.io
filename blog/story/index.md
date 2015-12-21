@@ -50,8 +50,7 @@ L'ordine, fatta eccezione per le prime tre posizioni, è semi-casuale.
 - **Federico Buffa:** che sembra c'entrare poco qui in mezzo, essendo noto prevalentemente come giornalista sportivo, ma invece c'entra tutto con un modo d'intendere la narrazione e il racconto, posto che io scrivo quattro stronzate in simpatia su robe più o meno nerd mentre lui crea delle vere e proprie Iliadi sportive
 - **I miei lettori:** Quelli fissi, pochi ma buoni, che commentino o meno (su disqus, su facebook, via mail, boh)...io sono uno che scriverebbe anche se non lo cagasse proprio nessuno, è risaputo, ma il fatto che qualche anima interessata alle mie ciarle esista mi riempie di gioia 
 
-Nelle pagine che seguono trovate le precedenti versioni di Xaba Cadabra.
-******
+Segue una panoramica delle precedenti versioni di Xaba Cadabra:
 
 1.0
 
