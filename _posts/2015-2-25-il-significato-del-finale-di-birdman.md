@@ -10,6 +10,7 @@ image:
   teaser:
   thumb: 
 published: true
+comments: true
 ---
 
 Ok, l'avevo preannunciato, e ci siamo arrivati.
