@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: galbadiacyberpunk.jpg
+  feature: home.jpg
 ---
 
 <div class="tiles">
