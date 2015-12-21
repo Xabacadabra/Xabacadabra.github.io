@@ -8,13 +8,13 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Dove ti trovi</h2>
+  <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
   <p class="post-excerpt">Xaba Cadabra è un blog, un Cetramod ad personam ed un aggregatore di tutto quello che <a href="/about/">Xab</a> combina in rete (o quasi). Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Work in Progress!</h2>
+  <p class="post-excerpt">Il blog è ancora in fase di migrazione/assemblamento! Non dovresti essere qui!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
