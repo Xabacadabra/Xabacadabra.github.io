@@ -13,7 +13,6 @@ published: true
 comments: true
 ---
 
-## A New Post
 La serie di JRPG Grandia è composta da tre episodi "ufficiali" più vari spin-off, ma è opportuno considerare che ogni capitolo "numerato", come succede in Final Fantasy, è totalmente autonomo e comprende un proprio universo narrativo
 
 Grandia 2 nella fattispecie è stato originariamente concepito per il defunto Sega Dreamcast (mai troppo compianto, davvero) avendo avuto in seguito porting per PS2 e PC - e finora è l'unico esponente della serie, se non erro, ad essere approdato su computer (erano evidentemente gli anni che i giapponesi ancora ci si cagava il PC), andiamo dunque alla scoperta di questo piccolo e misconosciuto gioiellino del ruolismo del sol levante!
