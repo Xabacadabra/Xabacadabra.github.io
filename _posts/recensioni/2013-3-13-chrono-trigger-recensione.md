@@ -6,8 +6,8 @@ categories: recensioni
 excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
 tags: [videogiochi]
 image: 
-  feature: 
-  teaser:
+  feature: ChronoTriggerRecensione.jpg
+  teaser:  TeaserChronoTrigger.jpg
   thumb: 
 published: true
 comments: true
