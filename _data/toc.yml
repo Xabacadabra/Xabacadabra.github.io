@@ -3,19 +3,14 @@
   excerpt: "Spegni la console che ti bruci gli occhi"
   image: 300x200.gif
 
-- title: Cinema
+- title: Cinema & Serie TV
   url: /blog/tag/cinema/
-  excerpt: "tutti al cinematografo"
+  excerpt: "Thread Carefully""
   image: 300x200.gif
   
 - title: Cyberspazio
   url: /blog/tag/cyberspazio/
   excerpt: "Di Web, Software e Tecnologie"
-  image: 300x200.gif
-  
-- title: Serie TV
-  url: /blog/tag/serie-tv/
-  excerpt: "Thread Carefully"
   image: 300x200.gif
   
 - title: Fumetti
@@ -35,6 +30,6 @@
   
 - title: Xabologia
   url: /blog/tag/xabologia/
-  excerpt: "Politica, Televisione, Costume e Società"
+  excerpt: "Politica, televisione, costume, società e filosfie spicce"
   image: 300x200.gif
 
