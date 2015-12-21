@@ -7,8 +7,8 @@ excerpt: "Come avrete visto nel titolo e dovrebbe essere ovvio, questo post è t
 tags: 
   - cinema
 image: 
-  feature: null
-  teaser: null
+  feature: Ilsignificatodelfinaledibirdman.jpg
+  teaser: TeaserFinaleBirdman.jpg
   thumb: null
 published: true
 comments: true
