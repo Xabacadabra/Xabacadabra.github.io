@@ -6,8 +6,8 @@ categories: null
 excerpt: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta..."
 tags: 
 image: 
-  feature:
-  teaser:
+  feature: narutocagata.jpg
+  teaser: teasernaruto.jpg
   thumb: null
 published: true
 ---
