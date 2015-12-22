@@ -5,6 +5,8 @@ image:
   feature: home.jpg
 ---
 
+<div id="recentcomments" class="dsq-widget"><script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=1&hide_avatars=0&avatar_size=32&excerpt_length=50"></script></div>
+
 <div class="tiles">
 
 <div class="tile">
@@ -14,8 +16,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
-  <p class="post-excerpt"><div id="recentcomments" class="dsq-widget"><script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=1&hide_avatars=0&avatar_size=32&excerpt_length=50"></script></div>
-  Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p>
+  <p class="post-excerpt">Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
