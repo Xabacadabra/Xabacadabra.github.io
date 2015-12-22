@@ -1,35 +1,35 @@
 - title: Videogiochi
   url: /blog/tag/videogiochi/
   excerpt: "Spegni la console che ti bruci gli occhi"
-  image: 300x200.gif
+  image: videogiochi.jpg
 
 - title: "Cinema & Serie TV"
   url: /blog/tag/cinema/
   excerpt: "Thread Carefully"
-  image: 300x200.gif
+  image: cinema.jpg
   
 - title: Cyberspazio
   url: /blog/tag/cyberspazio/
   excerpt: "Di Web, Software e Tecnologie"
-  image: 300x200.gif
+  image: cyberspazio.jpg
   
 - title: Fumetti
   url: /blog/tag/fumetti/
   excerpt: "tutti da topolino"
-  image: 300x200.gif
+  image: fumetti.jpg
 
 - title: Musica
   url: /blog/tag/musica/
-  excerpt: "TOM WAITS!"
-  image: 300x200.gif
+  excerpt: "Suonala ancora gino!"
+  image: musica.jpg
 
 - title: Libri
   url: /blog/tag/libri/
   excerpt: "Gibson!"
-  image: 300x200.gif
-  
+  image: libri.jpg
+
 - title: Xabologia
   url: /blog/tag/xabologia/
   excerpt: "Politica, televisione, costume, società e filosfie spicce"
-  image: 300x200.gif
+  image: xabologia.jpg
 
