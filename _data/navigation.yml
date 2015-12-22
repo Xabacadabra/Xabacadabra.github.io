@@ -4,11 +4,6 @@
   url: //xabacadabra.github.io
   excerpt:
   image:
-
-- title: Recensioni
-  url: /recensioni/
-  excerpt: "Se l'ho recensito, è qui"
-  image: 300x200.gif
   
 - title: Archivio
   url: /blog/archivio/
@@ -18,6 +13,11 @@
 - title: Progetti
   url: /progetti/
   excerpt: "Cose mie"
+  image: 300x200.gif
+
+- title: Recensioni
+  url: /recensioni/
+  excerpt: "Se l'ho recensito, è qui"
   image: 300x200.gif
   
 - title: Link
