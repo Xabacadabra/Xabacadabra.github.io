@@ -1,27 +1,31 @@
 ---
 layout: article
 title: "Grandia 2 | Recensione"
-modified: null
+modified: 2015-12-22T00:00:00.000Z
 categories: recensioni
 excerpt: "La serie di JRPG Grandia è composta da tre episodi ufficiali più vari spin-off, ma è opportuno considerare..."
-tags: [videogiochi]
+tags: 
+  - videogiochi
 image: 
   feature: Grandia2Recensione.jpg
-  teaser:  TeaserGrandia2.jpg
-  thumb: 
+  teaser: TeaserGrandia2.jpg
+  thumb: null
 published: true
 comments: true
 ---
 
+
 La serie di JRPG Grandia è composta da tre episodi "ufficiali" più vari spin-off, ma è opportuno considerare che ogni capitolo "numerato", come succede in Final Fantasy, è totalmente autonomo e comprende un proprio universo narrativo
 
-Grandia 2 nella fattispecie è stato originariamente concepito per il defunto Sega Dreamcast (mai troppo compianto, davvero) avendo avuto in seguito porting per PS2 e PC - e finora è l'unico esponente della serie, se non erro, ad essere approdato su computer (erano evidentemente gli anni che i giapponesi ancora ci si cagava il PC), andiamo dunque alla scoperta di questo piccolo e misconosciuto gioiellino del ruolismo del sol levante!
+Grandia 2 nella fattispecie è stato originariamente concepito per il defunto Sega Dreamcast (mai troppo compianto, davvero) avendo avuto in seguito porting per PS2 e PC - e finora è l'unico esponente della serie, se non erro, ad essere approdato su computer (mica roba da poco negli anni in uci i giapponesi si cagavano il PC giusto per qualche visual novel)
+
+> **UPDATE:** di recente (2015) Grandia 2 è approdato pure su Steam in una versione bella fresca e tirata a lucido! Per la serie a volte ritornano... // **UPDATE**
+
+Andiamo dunque alla scoperta di questo piccolo e misconosciuto gioiellino del ruolismo del sol levante!
 
 ## Quel simpaticone di Valmar
 
 L'universo di Grandia 2 è il vostro abituale nippo-fantasy di fiducia, e lo stesso stile grafico rivela la spiccata origine mangofila del gioco - cosa che si ripercuote anche nello stile dei dialoghi e nella trama - (per farla breve: se non siete in buoni rapporti con lo stile giappo che più giappo non si può sto gioco non vi piacerà mai, io vi ho avvisati)
-
-Andiam, andiam, andiam ad accopà Valmar *lalalala lalalalà*
 
 L'ambientazione ad una prima occhiata sa di già visto, e in effetti l'incipt narrativo è quanto di più classico possa esistere : la battaglia tra il bene e il male
 
@@ -45,7 +49,6 @@ Nonostante le innovazioni i combattimenti restano più che intuitivi e non tropp
 
 ## Grafica
 
-Un protagonista che ne sa
 Grandia 2 sfrutta in modo eccellente il superdeformed portandolo a confrontarsi con le console dei primi anni 2000 e ad esso come si diceva sopra si unisce un character design in puro stile manga (che se permettete ha un tratto davvero sbavosamente gnocco - si, sto pensando a Millenia -)
 
 Per quanto riguarda il gioco giocato, gli sviluppatori hanno addottato il collaudato schema di esplorazione in fondali 3d (bellissimi ma forse troppo confusionari, sopratutto nei dungeon) già visto in titoli quali War Arms e Xenogears, ma unendoci modelli dei personaggi anchessi realizzati in tredimensioni
@@ -62,7 +65,6 @@ Un vero peccato che il gioco sia solo in inglese anche per i testi, ma in ogni c
 
 ## Parentele con Final Fantasy X
 
-Daje de tacco daje de punta
 È interessante notare (cosa che credo sia capitata a tutti quelli che hanno giocato ad entrambi i titoli) le numerose parentele che la storia di Grandia 2 (anno 2001) ha nei confronti di quella di Final Fantasy X (anno 2002, parlando della versione internazionale), partendo dal contesto del pellegrinaggio religioso arrivando fino ai personaggi di Mareg/Kimhari, o il rapporto tra Ryudo e Melfice che ricorda in più di un frangente quello tra Tidus e Jecht
 
 Ma è probabile che tratterò la cosa in un post dedicato più in la, quindi lasciamo n'attimo in caldo le speCULazioni del caso (e voi intanto giocatevi Grandia 2, così potete farvi le vostre idee)
