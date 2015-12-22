@@ -5,8 +5,6 @@ image:
   feature: home.jpg
 ---
 
-<div id="recentcomments" class="dsq-widget"><script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=1&hide_avatars=0&avatar_size=32&excerpt_length=50"></script></div>
-
 <div class="tiles">
 
 <div class="tile">
