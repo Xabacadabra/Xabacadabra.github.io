@@ -7,7 +7,7 @@ excerpt: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è
 tags: 
 image: 
   feature: narutocagata.jpg
-  teaser: teasernaruto.jpg
+  teaser: TeaserNaruto.jpg
   thumb: null
 published: true
 ---
