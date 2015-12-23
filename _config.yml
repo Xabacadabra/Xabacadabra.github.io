@@ -33,6 +33,6 @@ owner:
   disqus-shortname: xabacadabra
 
 # Impaginazione
-paginate: 5
+paginate_path: "/blog/archivio:5/"
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
