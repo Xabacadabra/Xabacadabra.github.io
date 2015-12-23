@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: archive
 permalink: /blog/xabologia/
 image:
   feature:
