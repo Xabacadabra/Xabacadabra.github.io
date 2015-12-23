@@ -12,17 +12,17 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-hand-grab-o"></i> POLITICA</h2>
+  <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2>
   <p class="post-excerpt">Che parolaccia!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-phone-square"></i> SPETTACOLO</h2>
-  <p class="post-excerpt">Non solo Gazebo. Ma Quasi...</p>
+  <h2 class="post-title"><i class="fa fa-camera-retro"></i> SPETTACOLO</h2>
+  <p class="post-excerpt">A tutto Gazebo, e qualcos'altro sparso</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-creative-commons"></i> SPORT</h2>
+  <h2 class="post-title"><i class="fa fa-soccer-ball-o"></i> SPORT</h2>
   <p class="post-excerpt">Principalmente basket, con qualche polemica calcistica qua e la</p>
 </div><!-- /.tile -->
 
