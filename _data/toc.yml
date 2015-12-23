@@ -1,6 +1,6 @@
 - title: Videogiochi
   url: /blog/tag/videogiochi/
-  excerpt: "Spegni la console che ti bruci gli occhi"
+  excerpt: "Allontanati dallo schermo che ti bruci gli occhi"
   image: videogiochi.jpg
 
 - title: "Cinema & Serie TV"
@@ -15,21 +15,21 @@
   
 - title: Fumetti
   url: /blog/tag/fumetti/
-  excerpt: "tutti da topolino"
+  excerpt: "Dylan Dog, Sandman, PK, Berserk, Alan Moore.."
   image: fumetti.jpg
 
 - title: Musica
   url: /blog/tag/musica/
-  excerpt: "Suonala ancora gino!"
+  excerpt: "Testimonianze di vita sonora, ballando d'architettura"
   image: musica.jpg
 
 - title: Libri
   url: /blog/tag/libri/
-  excerpt: "Gibson!"
+  excerpt: "'Sono i libri che un uomo legge, quelli che lo accusano maggiormente'"
   image: libri.jpg
 
 - title: Xabologia
   url: /blog/tag/xabologia/
-  excerpt: "Politica, televisione, costume, società e filosfie spicce"
+  excerpt: "Politica, televisione, costume, società e filosofie spicce"
   image: xabologia.jpg
 
