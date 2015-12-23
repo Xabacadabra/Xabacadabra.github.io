@@ -1,5 +1,15 @@
 ---
-published: false
+layout: article
+title: "Linkin Park - A Thousand Suns | Recensione"
+modified: null
+categories: recensioni
+excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
+tags: [musica]
+image: 
+  feature:
+  teaser: 
+  thumb: 
+published: true
 ---
 
 Recensione / Analisi della penultima fatica dei Linkin Park (uscita in anno domini 2010), album dal grande impatto commerciale ma che nasconde dentro di se tanta roba tostissima, ed è ascoltabile secondo chiavi di lettura estremamente diverse tra loro
