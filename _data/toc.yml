@@ -13,16 +13,11 @@
   excerpt: "Di Web, Software e Tecnologie"
   image: cyberspazio.jpg
   
-- title: Fumetti
+- title: "Fumetti & Animazione"
   url: /blog/tag/fumetti/
-  excerpt: "Dylan Dog, Sandman, Alan Moore, Berserk...fumettame senza frontiere"
+  excerpt: "Non è che io scriva scempiaggini, è che mi disegnano così"
   image: fumetti.jpg
   
-- title: Animazione
-  url: /blog/tag/animazione/
-  excerpt: "Arte in movimento"
-  image: 300x200.gif
-
 - title: Musica
   url: /blog/tag/musica/
   excerpt: "Testimonianze di vita sonora, ballando d'architettura"

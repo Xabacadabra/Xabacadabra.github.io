@@ -6,8 +6,8 @@ categories: recensioni
 excerpt: "Se è mai esistito qualcuno in grado di fondere assieme lo Spaghetti Western con la _Blaxploitation_ quel qualcuno non poteva essere nient'altri che il caro vecchio **Quentin Tarantino**"
 tags: [cinema]
 image: 
-  feature: 
-  teaser:
+  feature: djangounchained.jpg
+  teaser:  teaserdjangounchained.jpg
   thumb: 
 published: true
 comments: true
