@@ -18,7 +18,8 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
-
+    # Impaginazione
+    paginate_path: "/blog/archivio:5/"
 
 # Site owner
 owner:
@@ -31,8 +32,5 @@ owner:
   bio: "A (web) world citizen. Svezzato da Final Fantasy, Dylan Dog, Web 1.5, Bakunin e Faith No More."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: xabacadabra
-
-# Impaginazione
-paginate_path: "/blog/archivio:5/"
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
