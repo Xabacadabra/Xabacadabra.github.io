@@ -52,20 +52,18 @@ Non mi piace il Calcio sopratutto per come lo si vive (e si gioca) in Italia, pe
 
 Per il resto, tifo Pallacanestro Cantù e sono un umile amante del basket in generale
 
+## Scrittura
+
+Mi diverto a raccontare storie, più che realizzare dei veri e propri _articoli_.
+
+Sarà che "articolo" è un termine sensato ma forse un po' troppo freddo per i miei gusti...del resto tendo **a scrivere tanto, di getto e correggermi poco** (perché sarei sempre tentato a rifare tutto daccapo), per questo motivo spesso non mi faccio troppi problemi a stuprare la grammatica italiana (per cui comunque non nutro chissà che stima, a livello _d'estetica lessicale_).
+
+Amo pure un sacco inventarmi neologismi al volo, molti termini gergo-dialettali e talune forme di slang caciarone (di cui il Dr Manhattan risulta sommo maestro internettiano)
+
 ## Riguardo Xaba Cadabra
 
 Questo blog nasce nel 2013 come contenitore di ciarpame di varia natura, roba più o meno seria.
 
 Mi piace anche definirlo come una sorta di Cetramod ad personam , un posto dove sopperire il vuoto (assieme ad una certa frustrazione, occorre sottolinearlo) che la dipartita di quella folle community mi ha lasciato
 
-Considerando solo i miei blog più attivi direi che questo attualmente rappresenta il mio terzo esperimento nel "settore": cominciai nel 2006-2007 con un po' di robacce, ma non ho mai dimostrato la benché minima costanza (ne destato il benché minimo interesse), con un po' di fortuna forse la situazione adesso è cambiata
-
-## Scrittura
-
-Siccome come s'è capito ho molteplici passioni e mi piace darmi arie da tuttologo da quattro soldi , mi diverto a raccontare storie, più che realizzare dei veri e propri "articoli" (che ogni tanto possono pure capitare, ma tranquilli: roba passeggera)
-
-Tendo **a scrivere tanto, di getto e correggermi poco** (perché sarei sempre tentato a rifare tutto daccapo), per questo motivo spesso non mi faccio troppi problemi a stuprare la grammatica italiana (che sinceramente mi fa anche un po' schifo a livello d'estetica lessicale) anche se tento di mantenere una forma testuale accettabile, almeno per quanto possibile.
-
-Amo pure un sacco inventarmi neologismi al volo, molti termini gergo-dialettali e talune forme di slang caciarone (di cui il Dr Manhattan risulta sommo maestro internettiano)
-
-Ergo, **grammar nazi avvisato mezzo salvato.**
+Considerando solo i miei blog più attivi direi che questo attualmente rappresenta il mio terzo esperimento nel "settore": cominciai nel 2006-2007 con un po' di robacce, ma non ho mai dimostrato la benché minima costanza (ne destato il benché minimo interesse), con un po' di fortuna forse la situazione adesso è cambiata...per sapere la storia recente del blog, cliccate qui.
