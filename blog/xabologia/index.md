@@ -15,7 +15,7 @@ published: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  [<img src="/images/TeaserChronoTrigger.jpg">](#)
+  <img src="/images/TeaserChronoTrigger.jpg">
   <h2 class="post-title"> <i class="fa fa-heartbeat"></i> RIFLESSIONI</h2>
   <p class="post-excerpt">Perchè a volte è bello fare i blog in senso tradizionale, almeno un pochino...</p> 
 </div><!-- /.tile -->
