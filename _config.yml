@@ -18,7 +18,9 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
-  paginate: 5
+
+# Impaginazione  
+paginate: 5
 
 # Site owner
 owner:
