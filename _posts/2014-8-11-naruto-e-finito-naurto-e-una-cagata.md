@@ -1,16 +1,17 @@
 ---
 layout: article
-title: "Naruto è finito. NARUTO È UNA CAGATA PAZZESCA"
+title: Naruto è finito. NARUTO È UNA CAGATA PAZZESCA
 modified: null
 categories: null
 excerpt: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta..."
-tags: 
+tags: null
 image: 
   feature: narutocagata.jpg
   teaser: TeaserNaruto.jpg
   thumb: null
 published: true
 ---
+
 
 Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta, il discorso complessivo sul mio allontanamento dai manga cosa recente.
 
@@ -20,7 +21,7 @@ Ecco, beh. La solita premessina per farmi comprendere
 
 Mo v'aspettate la mia solita manfrina "Naruto per me ha significato bla bla..." io con "Naruto ho imparato a piangere facendo gli origami e perciò..."
 
-ecco, andate tranquilli: io e Naruto abbiamo una storia molto travagliata, che per dovere di cronaca e amor di sintesi enuncerò nei piccoli seguenti punti :
+ecco, andate tranquilli: **io e Naruto abbiamo una storia molto travagliata**, che per dovere di cronaca e amor di sintesi enuncerò nei piccoli seguenti punti :
 
 ## Round 1
 
@@ -69,6 +70,6 @@ Tanta amarezza, in ogni caso, per un crollo così grande - forse il peggiore del
 
 E tanta preoccupazione per il solito discorso del passaggio del testimone, dell'eredità del manga mainstream, con l'assenza di nomi abbastanza grossi da poter raccoglierla
 
-Perché parliamoci chiaro: piaccia o no (si è capito che sono per il no) Naruto è stato un manga epocale che ha influenzato tutto il medium fumettistico del sol levante, e senza di lui una bella fetta di cultura pop del Giappone (e non solo) oggi non esisterebbe
+Perché parliamoci chiaro: piaccia o no (si è capito che sono per il no) Naruto è stato un manga epocale che ha influenzato tutto il medium fumettistico del sol levante, e **senza di lui una bella fetta di cultura pop del Giappone (e non solo) oggi non esisterebbe**
 
 In questo senso, tanto di cappello a Kishimoto. Peccato aver perso le redini della volpe, ecco.
