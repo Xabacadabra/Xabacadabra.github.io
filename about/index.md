@@ -50,7 +50,7 @@ Politicamente sarei eticamente vicino all'**anarco-indivdualismo**, ma essendo e
 
 Non mi piace il Calcio sopratutto per come lo si vive (e si gioca) in Italia, però da bimbo confesso di aver adorato (sopratutto) Roberto Baggio, Zinedine Zidane, Gianluca Zambrotta, Beppe Bergomi e George Weah.
 
-Per il resto, tifo Pallacanestro Cantù e sono un umile amante del basket in generale
+Per il resto, tifo Pallacanestro Cantù e sono un umile amante del basket in generale: in termini di NBA ho una vecchia simpatia per i Chicaco Bulls derivata dall'infanzia Jordaniana, poi vabbè Allen Iverson negli anni 2000 mi fece innamorare dei Philadelphia 76ers (complice anche la splendida canotta dell'epoca e l'effetto Rocky Balboa)
 
 ## Scrittura
 
