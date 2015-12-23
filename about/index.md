@@ -44,7 +44,7 @@ In un certo senso sono davvero l'emblema di quanto detto dal buon Pascal (il fil
 
 ## Politica
 
-Politicamente sarei eticamente vicino all'**anarco-indivdualismo**, ma essendo estremamente pragmatico, dovendo scendere a patti col collettivo (il mondo in cui volenti o nolenti viviamo) possiamo dire che **ho una visione genericamente socialista e sinistrosa dell'esistenza.**, pur con diverse tendenze libertarie.
+Politicamente sarei eticamente vicino all'**anarco-indivdualismo**, ma essendo estremamente pragmatico, dovendo scendere a patti col collettivo (il mondo in cui volenti o nolenti viviamo) possiamo dire che **ho una visione genericamente socialista e sinistrosa dell'esistenza**, seppur con diverse **tendenze libertarie**.
 
 ## Sport
 
