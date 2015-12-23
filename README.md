@@ -1,10 +1,10 @@
 # Xabacadabra.github.io
 
-to do: 
+to do:
+- impaginazione dell'archivio
+- effetto link sull'index di xabologia
 - aggiungere una funzione di ricerca
 - aggiungere (se possibile) i related post
-- rivedere l'header
-- picchiarsi con disqus
 - importare tutto l'importabile dal vecchio blog
 - sistemare SEO, meta, keywords
 - integrare Google Analytics
@@ -18,3 +18,5 @@ già fatto:
 - Sistemato la homepage
 - Aggiunto l'archivio
 - Aggiunta la blog story
+- rivedere l'header
+- picchiarsi con disqus
