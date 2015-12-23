@@ -45,7 +45,7 @@ L'ordine, fatta eccezione per le prime tre posizioni, è semi-casuale.
 - **Cetramod:** già citato a più non posso, imprescindibile catalizzatore del mio vissuto online (e non!), ci ho stretto delle amicizie importantissime, ci ho sputato sangue, l'ho mandato affanculo, l'ho odiato, amato ed in sintesi non ne ho mai potuto fare a meno. Tanto che, quando non c'era più, mi sono inventato questo blog.
 - **Marco "lparcshinoda" Bortone:** con ogni probabilità il mio best buddy internettiano, nonché autore di Cetramod e compagno svariate sventure digitali da tantissimi anni a questa parte
 - **The Games Machine, Giochi Per il Mio Computer, Playstation World:** ed un sacco di altre testate videoludiche che segnarono gli anni '90 e i primi anni 2000...la mia fissa per il recensire direi che deriva MOLTO da quelle parti, ed in effetti a 10 anni il "videogioco-giornalista" mi pareva uno dei mestieri più fighi del mondo...un mondo che oggi mi sembra essersi perso tra youtube e siti internet e recensioni comprate. Sigh...
-- **Topolino:** ovviamente inteso come giornalino (il personaggio lo odio, com'è giusto che sia), a cui possiamo allargare PK e tutto un settore autorale troppo spesso sottovalutato: Don Rosa, Silvia Ziche, Tito Faraci, Rodolfo Cimino, Casty, Bruno Enna...c'è davvero tutto un MONDO di talento tra le pagine di quelle storie dedicate all'infanzia, ma che a dispetto di quello che si possa pensare proprio per questo risultano tra le più importanti e fondamentali per l'adulto che verrà: ad oggi, dopo qualche scambio di parole riesco quasi sempre ad indovinare se un mio coetaneo leggeva Topolino con una certa costanza.
+- **Topolino:** ovviamente inteso come giornalino (il personaggio lo odio, com'è giusto che sia), a cui possiamo allargare PK e tutto un settore autorale troppo spesso sottovalutato: Don Rosa, Silvia Ziche, Tito Faraci, Rodolfo Cimino, Casty, Bruno Enna...c'è davvero tutto un MONDO di talento tra le pagine di quelle storie dedicate all'infanzia, ma che a dispetto di quello che si potrebbe pensare proprio per questo risultano tra le più importanti e fondamentali per l'adulto che verrà: ad oggi, dopo qualche scambio di parole riesco quasi sempre ad indovinare se un mio coetaneo leggeva Topolino con una certa costanza.
 - **Your Final Fantasy:** fu il mio primo vero e proprio forum, a cui m'iscrissi nel 2003. Imparai davvero tante cose da quelle parti, e forse più sul modo di "vivere" in un Forum online che su Final Fantasy in senso stretto. Mi spiace davvero tanto che abbia chiuso i battenti, ormai già un po' di anni fa.
 - **FFonline**: altra, ben più celebre community (ormai solo consultabile) con cui ho vissuto turbolenti e vivaci scambi di discussione trascesi nel braccobaldismo. In realtà devo molto a FFonline, per quanto la mia attività laggiù fosse abbastanza precaria per i miei standard: è stato forse il primo contesto dove ho capito che Videogioco e argomenti seri (Religione, Politica, Società...) non dovevano per forza stare così lontani come una certo sottotesto sembrerebbe sempre imporre.
 - **L'Antro Atomico del Dr. Manhattan:** perché se esiste un blogger italiano che vale la pena seguire, quello è lui. Perché ha inventato un linguaggio, perché ha italianizzato un settore fin troppo spesso esclusivamente esterofilo, perché è puro orgoglio terronico nel più alto senso del termine (e la mia quota di sangue sicula approva ogni suo calabresismo più o meno inconscio) e sopratutto perché ne sa davvero a pacchi. E scrive da Dio. (Del resto con quel nick, poco ci manca)
@@ -55,22 +55,22 @@ L'ordine, fatta eccezione per le prime tre posizioni, è semi-casuale.
 
 Segue una panoramica delle precedenti versioni di Xaba Cadabra:
 
-1.0
+1.0 : Cadabra Pois
 
-La debuttante, molto particolare e warholiana: l'intento era quello di essere abbastanza minimal e retrò, il rischio quello di risultare poco funzionali alla lettura
+La debuttante, molto particolare e _Warhol_ : l'intento era quello di essere abbastanza minimal e retrò, il rischio quello di risultare poco funzionali alla lettura
 
 Duro relativamente poco nel tempo (9 mesi, un parto) ma molto per mole di post, visto che il 2013 fu quello dei post a mitraglia
 
-2.0 
+2.0 : Rockabilly Bakunin
 
 Molto in stile "Metro", ma mi piace un sacco ancora adesso, esteticamente (parlando della home) forse pure più di quella odierna. 
 
 Non a caso, è durata quasi per due anni esatti
 
-3.0
+3.0: Enter Sandman
 
 Minimal a suo modo, molto più magazine, con un'intestazione meno ottundente e decisamente più ottimizzata per smartphone e motori di ricerca...durata pochissimi mesi, perché il suo codice non m'entusiasmava e nel frattempo avevo iniziato a considerare una nuova possibilità...
 
-4.0
+4.0 : Tears' Point 
 
 La quarta incarnazione di Xaba Cadabra è, per una somma di motivi, la più grande rivoluzione che il blog ha avuto nella sua giovane vita: l'abbandono di blogger, dei cms, dei database e il ritorno al web statico, ma più veloce e performante che mai
