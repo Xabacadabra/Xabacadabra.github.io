@@ -7,22 +7,22 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"> <i class="fa fa-home"></i> Riflessioni</h2>
+  <h2 class="post-title"> <i class="fa fa-home"></i> RIFLESSIONI</h2>
   <p class="post-excerpt">Xaba Cadabra è un blog, un Cetramod ad personam ed un aggregatore di tutto quello che <a href="/about/">Xab</a> combina in rete (o quasi). Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Politica</h2>
+  <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> POLITICA</h2>
   <p class="post-excerpt">Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-phone-square"></i> Spettacolo</h2>
+  <h2 class="post-title"><i class="fa fa-phone-square"></i> SPETTACOLO</h2>
   <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89"><b>inviarmi un tweet</b></a> (e preciso TWEET: i messaggi privati non li leggo dal 2010). Per il resto, date pure un'occhiata ai profili sociali qui sotto.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-creative-commons"></i> Sport</h2>
+  <h2 class="post-title"><i class="fa fa-creative-commons"></i> SPORT</h2>
   <p class="post-excerpt"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" align="center"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Xaba Cadabra</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="http://xabacadabra.github.io/" property="cc:attributionName" rel="cc:attributionURL"> Andrea Corinti</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.</p>
 </div><!-- /.tile -->
 
