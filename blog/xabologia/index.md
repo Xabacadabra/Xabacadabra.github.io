@@ -18,7 +18,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-camera-retro"></i> SPETTACOLO</h2>
-  <p class="post-excerpt">A tutto Gazebo, e qualcos'altro sparso</p>
+  <p class="post-excerpt">A tutto Gazebo! E magari qualcos'altro sparso</p>
 </div><!-- /.tile -->
 
 <div class="tile">
