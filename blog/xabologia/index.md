@@ -8,7 +8,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2>
-  <img src="images/ChronoTeaser.jpg">
+  <img src="TeaserChronoTrigger.jpg">
   <p class="post-excerpt">Che parolaccia!</p>
 </div><!-- /.tile -->
 
