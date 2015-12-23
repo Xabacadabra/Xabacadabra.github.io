@@ -5,9 +5,7 @@ title: "Ultimi Post"
 ---
 
 <div class="tiles">
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-
-{% include impaginazione.html %}
