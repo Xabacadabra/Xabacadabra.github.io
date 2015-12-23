@@ -18,6 +18,7 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
+  paginate: 5
 
 # Site owner
 owner:
