@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: post-index
 permalink: /blog/archivio/
 title: "Ultimi Post"
 ---
