@@ -1,5 +1,15 @@
 ---
-published: false
+layout: article
+title: "Catherine | Recensione"
+modified: null
+categories: recensioni
+excerpt: "Catherine è un gioco che fondamentalmente o si ama o si odia**, e molto difficilmente può essere "digerito" per il verso giusto da tutti i palati"
+tags: [videogiochi]
+image: 
+  feature:
+  teaser: 
+  thumb: 
+published: true
 ---
 
 Lo dico subito: 
