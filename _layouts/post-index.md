@@ -5,7 +5,7 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-{% include head.html %}
+{% include header.html %}
 </head>
 
 <body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
@@ -37,8 +37,6 @@
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
-
-{% include scripts.html %}          
 
 </body>
 </html>
