@@ -8,6 +8,3 @@ title: "Ultimi Post"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-
-{% include pagination.html %}
-
