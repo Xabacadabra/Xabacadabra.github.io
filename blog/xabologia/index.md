@@ -7,7 +7,6 @@ image:
 <div class="tiles">
 
 <div class="tile">
- 	<div class="wrap">
   <a href="#"><img src="/images/TeaserChronoTrigger.jpg"></div>
   <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2></a>
   <p class="post-excerpt">Che parolaccia!</p>
