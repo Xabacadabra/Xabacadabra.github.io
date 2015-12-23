@@ -6,8 +6,8 @@ categories: recensioni
 excerpt: "Questa non è una recensione per i fan dei Linkin Park, essendo scritta da un loro fan per modo di dire."
 tags: [musica]
 image: 
-  feature:
-  teaser: 
+  feature: linkinparkats.jpg
+  teaser: teaserlinkinparkats.jpg
   thumb: 
 published: true
 ---
