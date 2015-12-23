@@ -7,8 +7,8 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <img src="/images/TeaserChronoTrigger.jpg">
-  <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2>
+  <a href="#"><img src="/images/TeaserChronoTrigger.jpg">
+  <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2></a>
   <p class="post-excerpt">Che parolaccia!</p>
 </div><!-- /.tile -->
 
