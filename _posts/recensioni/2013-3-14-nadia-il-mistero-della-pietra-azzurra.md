@@ -1,5 +1,16 @@
 ---
-published: false
+layout: article
+title: "Nadia - Il Mistero della Pietra Azzurra | Recensione"
+modified: 2015-12-22T00:00:00.000Z
+categories: recensioni
+excerpt: "_Fushigi no umi no Nadia_, altrimenti detto _The Secret of Blue Water_ ma noto nel bel paese con il nome _Il Mistero della Pietra Azzurra_ è un anime del 1989..."
+tags: 
+  - animazione
+image: 
+  feature: 
+  teaser:
+  thumb: null
+published: true
 ---
 
 _Fushigi no umi no Nadia_, altrimenti detto _The Secret of Blue Water_ ma noto nel bel paese con il nome _Il Mistero della Pietra Azzurra_ è un anime del 1989 (non per niente coetaneo del sottoscritto), opera prima del celeberrimo studio d'animazione **Gainax** nonché **seconda fatica da regista per il buon Hideaki Anno**...se non v'interessate molto di Anime probabilmente questi nomi non vi diranno niente, ma immagino che ogni buon otaku che si rispetti dovrebbe aver già urlato _"Oh cazzo, **Neon Genesis Evangelion** !!! KYAAAAAAA"_
