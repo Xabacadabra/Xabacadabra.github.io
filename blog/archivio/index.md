@@ -2,7 +2,6 @@
 layout: archive
 permalink: /blog/archivio/
 title: "Ultimi Post"
-paginate: 5
 ---
 
 <div class="tiles">
