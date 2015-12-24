@@ -5,7 +5,7 @@ modified: null
 categories: null
 excerpt: "Come chi ha avuto l'ardire di seguire questo blog saprà, spesso ho scritto qualcosina in merito alla..."
 tags: 
-  - cinema
+  - politica
   - xabologia
 image: 
   feature:
