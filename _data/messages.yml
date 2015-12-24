@@ -2,15 +2,28 @@
 # see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
 
 locales:
-  # Italiano "pigro" in atto
+en: &DEFAULT_EN
+  # English translation
   # -------------------
   en: &DEFAULT_EN
+    overview: "Overview"
+    toc: "Table of Contents"
+    written_by: "Written by"
+    updated: "Updated"
+    share: "Share on"
+  en_US:
+    <<: *DEFAULT_EN     # use English translation for en_US
+  en_UK:
+    <<: *DEFAULT_EN     # use English translation for en_UK
+
+  # Italiano "pigro" in atto
+  # -------------------
+  it: &DEFAULT_IT
+    <<: *DEFAULT_EN     # load English values as default
     overview: "Panoramica"
     toc: "La Robaccia"
     written_by: "Scritto da"
     updated: "Updated"
     share: "Condividi su"
-  en_US:
-    <<: *DEFAULT_EN     # use English translation for en_US
-  en_UK:
-    <<: *DEFAULT_EN     # use English translation for en_UK
+  it_IT:
+    <<: *DEFAULT_IT     # use English translation for en_US
