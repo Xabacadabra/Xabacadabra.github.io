@@ -4,7 +4,7 @@ permalink: /
 image:
   feature: home.jpg
 ---
-    <!-- Html Elements for Search -->
+<!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
 <ul id="results-container"></ul>
