@@ -12,10 +12,10 @@
   {% endfor %}
   {% if prev_post %}<a class="prev" href="{{ site.url }}{{ prev_post.url }}">{{ prev_post.title }}</a>{% endif %}
   {% if next_post %}<a class="next" href="{{ site.url }}{{ next_post.url }}">{{ next_post.title }}</a>{% endif %}
-</nav>
+  
+<!--prova-->
 {% if paginator.total_pages > 1 %}
 
-<div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
@@ -39,3 +39,5 @@
   {% endif %}
 </div>
 {% endif %}
+
+</nav>
