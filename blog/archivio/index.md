@@ -6,7 +6,7 @@ paginate: 5
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
