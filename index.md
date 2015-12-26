@@ -21,14 +21,6 @@ SimpleJekyllSearch({
 })
 </script>
 
-{{ page.title }}
-
-Posts:
-
- {% for post in paginator.posts %}
-  {% include post-grid.html %}
-  {% endfor %}
-
 <div class="tiles">
 
 <div class="tile">
