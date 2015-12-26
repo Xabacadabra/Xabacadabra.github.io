@@ -23,7 +23,6 @@ gems:
 # Impaginazione
 pagination:  
 per_page: 5
-  limit: false
 
 # Site owner
 owner:
