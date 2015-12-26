@@ -18,6 +18,7 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
+  - octopress-paginate
 
 # Impaginazione  
 paginate: 5
