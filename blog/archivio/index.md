@@ -8,8 +8,6 @@ paginate: true
 
 Posts:
 
- <div class="tiles">
  {% for post in paginator.posts %}
   {% include post-grid.html %}
   {% endfor %}
-  </div><!-- /.tiles -->
