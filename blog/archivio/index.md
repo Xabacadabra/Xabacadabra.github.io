@@ -4,6 +4,10 @@ permalink: /blog/archivio/
 title: "Ultimi Post"
 paginate: true
 ---
+{{ page.title }}
+
+Posts:
+
  <div class="tiles">
  {% for post in paginator.posts %}
   {% include post-grid.html %}
