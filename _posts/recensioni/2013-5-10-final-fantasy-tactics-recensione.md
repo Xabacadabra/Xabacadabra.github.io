@@ -8,8 +8,8 @@ tags:
   - post del 2013
   - videogiochi
 image: 
-  feature: 
-  teaser:
+  feature: finalfantasytacticsrecensione.jpg
+  teaser:  teaserfft.jpg
   thumb: null
 published: true
 comments: true

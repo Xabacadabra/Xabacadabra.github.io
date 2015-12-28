@@ -8,8 +8,8 @@ tags:
   - post del 2013
   - videogiochi
 image: 
-  feature: 
-  teaser:
+  feature: ninokunirecensione.jpg
+  teaser: teaserninokuni.jpg
   thumb: null
 published: true
 comments: true
