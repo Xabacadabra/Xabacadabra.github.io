@@ -4,7 +4,6 @@ permalink: /blog/archivio/
 title: "Ultimi Post"
 ---
 
-<div class="tiles">
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -31,4 +30,4 @@ title: "Ultimi Post"
 </div>
 {% endif %}
 
-</div><!-- /.tiles -->
+{% include paginator.html %}
