@@ -3,7 +3,7 @@ layout: article
 title: "Nadia - Il Mistero della Pietra Azzurra | Recensione"
 modified: 2015-12-22T00:00:00.000Z
 categories: recensioni
-excerpt: "_Fushigi no umi no Nadia_, altrimenti detto _The Secret of Blue Water_ ma noto nel bel paese con il nome _Il Mistero della Pietra Azzurra_ è un anime del 1989..."
+excerpt: "Fushigi no umi no Nadia, altrimenti detto The Secret of Blue Water ma noto nel bel paese con il nome Il Mistero della Pietra Azzurra, è un anime del 1989..."
 tags:
   - post del 2013 
   - animazione
@@ -62,7 +62,7 @@ Nadia nasce celebrando numerosi classici dell'animazione nipponica (Yattaman in 
 
 Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'Impero Perduto (41° classico della casa di produzione del topastro), per la quale rimando tutti quelli che conoscono entrambe le opere (e non temono quindi spoiler di sorta) [a questa pagina](http://www.thesecretofbluewater.com/atlantis-i.htm) in cui lo spinoso argomento viene accuratamente trattato
 
-**Perché guardarlo**
+**Perché guardarlo:**
 1. Storia appassionante
 2. Ambientazione "storica" originale
 3. Pregevole realizzazione tecnica
@@ -71,7 +71,7 @@ Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'I
 6. Un vero e proprio cult
 {: .notice-success}
 
-**Perché NON guardarlo**
+**Perché NON guardarlo:** 
 1. Puntate filler fastidiosissime
 2. Un po' lento ad entrare "nel vivo"
 3. Ripetitività di alcuni dialoghi volti ad enfatizzare il duello "scienza/natura", a tratti portandolo all'esasperazione
