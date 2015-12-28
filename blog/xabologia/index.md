@@ -6,7 +6,8 @@ image:
 published: true
 ---
 
-<div class="wrap">
+<div id="main" role="main">     
+  <div class="wrap">
 
 <div class="tile">
   <a href="#"><img src="/images/TeaserChronoTrigger.jpg"></div>
@@ -33,3 +34,11 @@ published: true
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+<div class="archive-wrap">
+      <div class="page-content">
+        {{ content }}
+      </div><!-- /.page-content -->
+    </div class="archive-wrap"><!-- /.archive-wrap -->
+
+</div>
