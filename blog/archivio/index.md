@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 permalink: /blog/archivio/
 title: "Ultimi Post"
 paginate: true
@@ -8,6 +8,6 @@ paginate: true
 
 Posts:
 
- {% for post in paginator.posts %}
+ {% for post in site.posts %}
   {% include post-grid.html %}
   {% endfor %}
