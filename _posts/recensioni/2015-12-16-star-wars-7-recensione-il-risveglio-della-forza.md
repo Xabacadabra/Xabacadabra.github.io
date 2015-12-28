@@ -13,7 +13,6 @@ published: true
 comments: true
 ---
 
-
 Comincerò in modo brutale:
 
 **Il Risveglio della Forza è la più bella fan fiction che io abbia mai visto.**

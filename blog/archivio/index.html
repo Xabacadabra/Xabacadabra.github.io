@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /blog/archivio/
-title: "Ultimi Post1"
+title: "Ultimi Post2"
 ---
 
 <div class="tiles">
@@ -17,6 +17,7 @@ title: "Ultimi Post1"
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
+	<h2>
     {% comment %} Link for previous page {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
@@ -77,5 +78,6 @@ title: "Ultimi Post1"
     {% if paginator.next_page %}
       <a href="{{ /blog/archivio/ }}/page{{ paginator.next_page }}/" class="btn">Next</a>
     {% endif %}
+  </h2>
 </div>
 {% endif %}
