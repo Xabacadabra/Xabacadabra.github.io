@@ -21,7 +21,7 @@ gems:
   - jekyll-paginate
 # Impaginazione
 paginate: 5
-paginate_path: "blog/archivio/page:num/"
+paginate_path: "blog/archivio/page/:num/"
 
 # Site owner
 owner:
