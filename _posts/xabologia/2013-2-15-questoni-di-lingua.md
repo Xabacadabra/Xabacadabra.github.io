@@ -8,8 +8,8 @@ tags:
   - post del 2013
   - xabologia
 image: 
-  feature: teaserquestionilingua.jpg
-  teaser: questionilingua.jpg
+  feature: questionilingua.jpg
+  teaser: teaserquestionilingua.jpg
   thumb: null
 published: true
 ---
