@@ -3,7 +3,9 @@
 - slug: post del 2014
   name: post del 2014
 - slug: post del 2015
-  name: post del 2015  
+  name: post del 2015
+- slug: animazione
+  name: animazione     
 - slug: cinema
   name: cinema
 - slug: cyberspazio
@@ -13,4 +15,8 @@
 - slug: musica
   name: musica
 - slug: libri
-  name: libri  
+  name: libri
+- slug: serie tv
+  name: serie tv
+- slug: fumetti
+  name: fumetti    
