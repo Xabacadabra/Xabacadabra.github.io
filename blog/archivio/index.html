@@ -17,7 +17,6 @@ title: "Ultimi Post"
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
-  <ul class="list">
     {% comment %} Link for previous page {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
@@ -78,6 +77,5 @@ title: "Ultimi Post"
     {% if paginator.next_page %}
       <li><a href="{{ /blog/archivio/ }}/page{{ paginator.next_page }}/" class="btn">Next</a></li>
     {% endif %}
-  </ul>
 </div>
 {% endif %}
