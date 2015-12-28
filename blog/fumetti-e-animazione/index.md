@@ -8,5 +8,5 @@ published: true
 <figure class="half">
   <a href="#"><img src="/images/TeaserChronoTrigger.jpg"></a>
   <a href="#"><img src="/images/TeaserGrandia2.jpg"></a>
-  <figcaption>Caption describing these two images.</figcaption>
+  <figcaption>900 x 450</figcaption>
 </figure>
