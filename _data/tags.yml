@@ -27,4 +27,6 @@
 - slug: spettacolo
   name: spettacolo
 - slug: sport
-  name: sport                       
+  name: sport
+- slug: recensioni
+  name: recensioni                             
