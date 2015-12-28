@@ -62,8 +62,7 @@ Nadia nasce celebrando numerosi classici dell'animazione nipponica (Yattaman in 
 
 Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'Impero Perduto (41° classico della casa di produzione del topastro), per la quale rimando tutti quelli che conoscono entrambe le opere (e non temono quindi spoiler di sorta) [a questa pagina](http://www.thesecretofbluewater.com/atlantis-i.htm) in cui lo spinoso argomento viene accuratamente trattato
 
-## Perché guardarlo
-
+**Perché guardarlo**
 1. Storia appassionante
 2. Ambientazione "storica" originale
 3. Pregevole realizzazione tecnica
@@ -72,8 +71,7 @@ Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'I
 6. Un vero e proprio cult
 {: .notice-success}
 
-## Perché NON guardarlo
-
+**Perché NON guardarlo**
 1. Puntate filler fastidiosissime
 2. Un po' lento ad entrare "nel vivo"
 3. Ripetitività di alcuni dialoghi volti ad enfatizzare il duello "scienza/natura", a tratti portandolo all'esasperazione
