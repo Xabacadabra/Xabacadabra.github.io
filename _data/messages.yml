@@ -6,11 +6,11 @@ en: &DEFAULT_EN
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    overview: "Overview"
-    toc: "Table of Contents"
-    written_by: "Written by"
+    overview: "Panoramica"
+    toc: "La Robaccia"
+    written_by: "Scritto da"
     updated: "Updated"
-    share: "Share on"
+    share: "Condividi su"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
@@ -26,4 +26,4 @@ en: &DEFAULT_EN
     updated: "Updated"
     share: "Condividi su"
   it_IT:
-    <<: *DEFAULT_IT     # use English translation for en_US
+    <<: *DEFAULT_IT     # use Italian translation for it_It
