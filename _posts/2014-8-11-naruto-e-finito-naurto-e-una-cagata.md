@@ -4,7 +4,10 @@ title: Naruto è finito. NARUTO È UNA CAGATA PAZZESCA
 modified: null
 categories: null
 excerpt: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta..."
-tags: null
+tags: 
+   - post del 2014
+   - animazione
+   - fumetti
 image: 
   feature: narutocagata.jpg
   teaser: TeaserNaruto.jpg

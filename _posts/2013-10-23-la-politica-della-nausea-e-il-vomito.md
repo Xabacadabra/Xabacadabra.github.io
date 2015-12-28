@@ -4,7 +4,8 @@ title: "La Politica della Nausea e il Vomito Catartico"
 modified: null
 categories: null
 excerpt: "Come chi ha avuto l'ardire di seguire questo blog saprà, spesso ho scritto qualcosina in merito alla..."
-tags: 
+tags:
+  - post del 2013
   - politica
   - xabologia
 image: 

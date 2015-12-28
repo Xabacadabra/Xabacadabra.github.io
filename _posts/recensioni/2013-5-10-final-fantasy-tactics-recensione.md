@@ -1,5 +1,18 @@
 ---
-published: false
+layout: article
+title: "Final Fantasy Tactics | Recensione"
+modified: 2015-12-22T00:00:00.000Z
+categories: recensioni
+excerpt: "Final Fantasy Tactics è uno spin-off della celeberrima serie, dato alle stampe nel 1998..."
+tags: 
+  - post del 2013
+  - videogiochi
+image: 
+  feature: 
+  teaser:
+  thumb: null
+published: true
+comments: true
 ---
 
 Final Fantasy Tactics è uno spin-off della celeberrima serie, dato alle stampe nel 1998 come esclusiva per i mercati di America e Giappone (evidentemente secondo i geni della distribuzione i JRPG non erano congeniali a noi europei o qualcosa del genere, da cui il NO MOTHERFUCKING PAL, ONLY NTSC - triste standard antecedente all'avvento dei moderni prodotti Region Free )

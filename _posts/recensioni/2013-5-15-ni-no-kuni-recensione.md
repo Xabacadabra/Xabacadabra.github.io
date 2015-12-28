@@ -1,5 +1,18 @@
 ---
-published: false
+layout: article
+title: "Ni no Kuni | Recensione"
+modified: 2015-12-22T00:00:00.000Z
+categories: recensioni
+excerpt: "Sintetizzandola in breve, potrei dire da subito che Ni no Kuni è la testimonianza vivente dell'..."
+tags: 
+  - post del 2013
+  - videogiochi
+image: 
+  feature: 
+  teaser:
+  thumb: null
+published: true
+comments: true
 ---
 
 Sintetizzandola in breve, potrei dire da subito che Ni no Kuni è la testimonianza vivente dell'infedeltà di Square Enix (no, Giove non c'entra sta volta)

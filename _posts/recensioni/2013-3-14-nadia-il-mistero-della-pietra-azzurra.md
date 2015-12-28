@@ -4,7 +4,8 @@ title: "Nadia - Il Mistero della Pietra Azzurra | Recensione"
 modified: 2015-12-22T00:00:00.000Z
 categories: recensioni
 excerpt: "_Fushigi no umi no Nadia_, altrimenti detto _The Secret of Blue Water_ ma noto nel bel paese con il nome _Il Mistero della Pietra Azzurra_ è un anime del 1989..."
-tags: 
+tags:
+  - post del 2013 
   - animazione
 image: 
   feature: nadia.jpg
