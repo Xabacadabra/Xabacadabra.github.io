@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /blog/archivio/
 title: "Ultimi Post"
 paginate: true
