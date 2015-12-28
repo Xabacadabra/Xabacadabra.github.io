@@ -2,9 +2,9 @@
 layout: article
 title: "Catherine | Recensione"
 modified: null
-categories: recensioni
+categories: 2013
 excerpt: "Catherine è un gioco che fondamentalmente o si ama o si odia, e molto difficilmente può essere digerito per il verso giusto da tutti i palati"
-tags: [post del 2013, videogiochi]
+tags: [recensioni, videogiochi]
 image: 
   feature: catherine.jpg
   teaser: teasercatherine.jpg
