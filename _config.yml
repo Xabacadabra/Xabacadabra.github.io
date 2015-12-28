@@ -20,8 +20,8 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 # Impaginazione
-paginate: 5
-paginate_path: "blog/archivio/page:num/"
+# paginate: 5
+# paginate_path: "blog/archivio/page:num/"
 
 # Site owner
 owner:
