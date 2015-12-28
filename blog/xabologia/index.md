@@ -6,11 +6,10 @@ image:
 published: true
 ---
 
-<div id="main" role="main">     
-  <div class="wrap">
-
 <div class="tile">
-  <a href="#"><img src="/images/TeaserChronoTrigger.jpg"></div>
+  <figure>
+  <a href="#"><img src="/images/TeaserChronoTrigger.jpg">
+  </figure>
   <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2></a>
   <p class="post-excerpt">Che parolaccia!</p>
 </div><!-- /.tile -->
@@ -36,4 +35,3 @@ published: true
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-</div>
