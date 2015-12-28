@@ -1,12 +1,16 @@
-- slug: 2013
-  name: 2013
-- slug: 2014
-  name: 2014
-- slug: 2015
-  name: 2015  
+- slug: "2013"
+  name: "2013"
+- slug: "2014"
+  name: "2014"
+- slug: "2015"
+  name: "2015"  
 - slug: cinema
   name: cinema
+- slug: cyberspazio
+  name: cyberspazio  
 - slug: videogiochi
   name: videogiochi
 - slug: musica
   name: musica
+- slug: libri
+  name: libri  
