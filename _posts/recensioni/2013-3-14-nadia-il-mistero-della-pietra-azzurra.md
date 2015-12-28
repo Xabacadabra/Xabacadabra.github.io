@@ -17,6 +17,7 @@ published: true
 _Fushigi no umi no Nadia_, altrimenti detto _The Secret of Blue Water_ ma noto nel bel paese con il nome _Il Mistero della Pietra Azzurra_ è un anime del 1989 (non per niente coetaneo del sottoscritto), opera prima del celeberrimo studio d'animazione **Gainax** nonché **seconda fatica da regista per il buon Hideaki Anno**...se non v'interessate molto di Anime probabilmente questi nomi non vi diranno niente, ma immagino che ogni buon otaku che si rispetti dovrebbe aver già urlato _"Oh cazzo, **Neon Genesis Evangelion** !!! KYAAAAAAA"_
 
 ## Ventimila leghe sotto i mari 
+
 ### e il papà di Evangelion
 
 Una strana coppia, è proprio il caso di dirlo: specialmente se vi ricordate Nadia per qualche sporadico episodio visto sulle reti mediaset e lo associate alla celeberrima sigla di **Cristina D'Avena**.
@@ -36,6 +37,7 @@ Beh, per farla breve, dopo un bel po' di episodi di fattura squisitamente Ghibli
 Esagero? Forse. Ma sta a voi giudicare provando l'evoluzione narrativa di questo grande classico Gainax sulla vostra pelle e traendo quindi le vostre personali conclusioni
 
 ## Isole. 
+
 ### Dannatissime, maledettissime, isole
 
 Si parla di un anime di 39 episodi, di certo non abbastanza per farne un vero e proprio shonen ma neppure così pochi come ci si aspetterebbe dallo standard dei seinen, ma di fatti va detto che buona parte delle puntate sembrano scadere inevitabilmente nel filleraggio più becero:
@@ -68,12 +70,14 @@ Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'I
 4. Staff d'eccezione
 5. Il leggendario team Gratan!
 6. Un vero e proprio cult
+{: .notice-success}
 
 ## Perché NON guardarlo
 
 1. Puntate filler fastidiosissime
 2. Un po' lento ad entrare "nel vivo"
 3. Ripetitività di alcuni dialoghi volti ad enfatizzare il duello "scienza/natura", a tratti portandolo all'esasperazione
+{: .notice-danger}
 
 ## Note
 
