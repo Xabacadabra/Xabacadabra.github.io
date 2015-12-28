@@ -9,8 +9,8 @@ tags:
   - politica
   - xabologia
 image: 
-  feature:
-  teaser:
+  feature: politicanausea.jpg
+  teaser: teaserpoliticanausea.jpg
   thumb: null
 published: true
 ---
