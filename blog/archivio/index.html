@@ -1,12 +1,10 @@
 ---
-layout: archive
+layout: ultimipost
 permalink: /blog/archivio/
 title: "Ultimi Post"
-paginate: true
 ---
 
 {% for post in paginator.posts %}
-<article class="hentry">
   <header>
     {% if post.image.feature %}
       <div class="entry-image-index">
@@ -31,7 +29,6 @@ paginate: true
   <div class="entry-content">
     {{ post.content }}
   </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
 {% endfor %}
 
 {% include pagination.html %}

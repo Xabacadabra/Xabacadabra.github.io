@@ -18,11 +18,9 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
-  - octopress-paginate
-
+  - jekyll-paginate
 # Impaginazione
-pagination:  
-per_page: 5
+paginate: 5
 
 # Site owner
 owner:
