@@ -5,7 +5,7 @@ image:
   feature: null
 published: true
 ---
-
+<div class="tiles">
 <div class="tile">
   <figure><a href="#"><img src="/images/TeaserChronoTrigger.jpg"></figure>
   <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2></a>
