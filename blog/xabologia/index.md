@@ -34,11 +34,4 @@ published: true
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-
-<div class="archive-wrap">
-      <div class="page-content">
-        {{ content }}
-      </div><!-- /.page-content -->
-    </div class="archive-wrap"><!-- /.archive-wrap -->
-
 </div>
