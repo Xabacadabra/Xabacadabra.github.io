@@ -2,10 +2,10 @@
 layout: article
 title: "Final Fantasy Tactics | Recensione"
 modified: 2015-12-22T00:00:00.000Z
-categories: recensioni
+categories: [2013]
 excerpt: "Final Fantasy Tactics è uno spin-off della celeberrima serie, dato alle stampe nel 1998..."
 tags: 
-  - post del 2013
+  - recensioni
   - videogiochi
 image: 
   feature: finalfantasytacticsrecensione.jpg

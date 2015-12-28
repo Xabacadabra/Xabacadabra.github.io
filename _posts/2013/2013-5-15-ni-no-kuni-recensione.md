@@ -2,10 +2,10 @@
 layout: article
 title: "Ni no Kuni | Recensione"
 modified: 2015-12-22T00:00:00.000Z
-categories: recensioni
+categories: [2013]
 excerpt: "Sintetizzandola in breve, potrei dire da subito che Ni no Kuni è la testimonianza vivente dell'..."
 tags: 
-  - post del 2013
+  - recensioni
   - videogiochi
 image: 
   feature: ninokunirecensione.jpg

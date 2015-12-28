@@ -2,9 +2,9 @@
 layout: article
 title: "Linkin Park - A Thousand Suns | Recensione"
 modified: null
-categories: recensioni
+categories: [2013]
 excerpt: "Questa non è una recensione per i fan dei Linkin Park, essendo scritta da un loro fan per modo di dire."
-tags: [post del 2013, musica]
+tags: [recensioni, musica]
 image: 
   feature: linkinparkats.jpg
   teaser: teaserlinkinparkats.jpg

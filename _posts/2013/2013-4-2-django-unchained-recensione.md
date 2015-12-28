@@ -2,9 +2,9 @@
 layout: article
 title: "Django Unchained | Recensione"
 modified: null
-categories: recensioni
+categories: [2013]
 excerpt: "Se è mai esistito qualcuno in grado di fondere assieme lo Spaghetti Western con la _Blaxploitation_ quel qualcuno non poteva essere nient'altri che il caro vecchio **Quentin Tarantino**"
-tags: [post del 2013, cinema]
+tags: [recensioni, cinema]
 image: 
   feature: djangounchained.jpg
   teaser:  teaserdjangounchained.jpg

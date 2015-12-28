@@ -2,9 +2,9 @@
 layout: article
 title: "Chrono Trigger | Recensione"
 modified: null
-categories: recensioni
+categories: [2013]
 excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
-tags: [post del 2013, videogiochi]
+tags: [recensioni, videogiochi]
 image: 
   feature: ChronoTriggerRecensione.jpg
   teaser:  TeaserChronoTrigger.jpg

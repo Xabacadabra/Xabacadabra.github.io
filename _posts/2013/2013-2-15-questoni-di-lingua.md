@@ -2,10 +2,9 @@
 layout: article
 title: "Questioni di Lingua"
 modified: null
-categories: xabologia
+categories: [2013]
 excerpt: "Tempo fa (13 Settembre 2009 a detta della memoria storica del web) mi ritrovai in una..."
 tags:
-  - post del 2013
   - xabologia
 image: 
   feature: questionilingua.jpg

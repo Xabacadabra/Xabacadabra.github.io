@@ -2,10 +2,9 @@
 layout: article
 title: "I Braccobaldi"
 modified: null
-categories: xabologia
+categories: [2013]
 excerpt: "Questi sconosciuti. (Correva l'anno 2008, se le mie idiozie erano ancora più..."
 tags:
-  - post del 2013
   - xabologia
 image: 
   feature:

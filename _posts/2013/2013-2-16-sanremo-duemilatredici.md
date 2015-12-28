@@ -2,10 +2,9 @@
 layout: article
 title: "Sanremo Duemilatredici"
 modified: null
-categories: xabologia
+categories: [2013]
 excerpt: "Perché si, si, LO SO che è uno spreco di soldi, che gli intrallazzi politico-televisivi palesi o nascosti..."
 tags:
-  - post del 2013
   - spettacolo
 image: 
   feature:
