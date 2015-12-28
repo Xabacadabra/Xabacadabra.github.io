@@ -6,12 +6,10 @@ image:
 published: true
 ---
 
-<div class="tiles">
-
-<div class="archive-wrap">
- <div class="page-content">
+<div class="wrap">
 
 <div class="tile">
+  <div class="page-feature">
   <a href="#"><img src="/images/TeaserChronoTrigger.jpg"></div>
   <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2></a>
   <p class="post-excerpt">Che parolaccia!</p>
@@ -34,8 +32,5 @@ published: true
   <h2 class="post-title"><i class="fa fa-soccer-ball-o"></i> SPORT</h2>
   <p class="post-excerpt">Principalmente basket, con qualche polemica calcistica qua e la</p>
 </div><!-- /.tile -->
- 
- </div><!-- /.page content -->
-</div class="archive-wrap"><!-- /.archive-wrap -->
 
 </div><!-- /.tiles -->
