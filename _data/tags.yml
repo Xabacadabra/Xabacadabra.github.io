@@ -19,4 +19,12 @@
 - slug: serie tv
   name: serie tv
 - slug: fumetti
-  name: fumetti    
+  name: fumetti
+- slug: politica
+  name: politica
+- slug: xabologia
+  name: xabologia
+- slug: spettacolo
+  name: spettacolo
+- slug: sport
+  name: sport                       

@@ -6,10 +6,9 @@ image:
 published: true
 ---
 
-<div class="wrap">
+<div class="tiles">
 
 <div class="tile">
-  <div class="page-feature">
   <a href="#"><img src="/images/TeaserChronoTrigger.jpg"></div>
   <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2></a>
   <p class="post-excerpt">Che parolaccia!</p>
@@ -18,7 +17,7 @@ published: true
 <div class="tile">
   <img src="/images/TeaserChronoTrigger.jpg">
   <h2 class="post-title"> <i class="fa fa-heartbeat"></i> RIFLESSIONI</h2>
-  <p class="post-excerpt">Perchè a volte è bello fare i blog in senso tradizionale, almeno un pochino...</p> 
+  <p class="post-excerpt">La Xabologia vera e propria. Perchè a volte è bello fare i blog in senso tradizionale, almeno un pochino...</p> 
 </div><!-- /.tile -->
 
 <div class="tile">
