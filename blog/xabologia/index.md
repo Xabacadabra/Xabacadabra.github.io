@@ -6,10 +6,10 @@ image:
 published: true
 ---
 
-<div class="tiles">
+<div class="wrap">
 
 <div class="tile">
-  <a href="#"><img src="/images/TeaserChronoTrigger.jpg" class="teaser"></div>
+  <a href="#"><img src="/images/TeaserChronoTrigger.jpg"></div>
   <h2 class="post-title"><i class="fa fa-globe"></i> POLITICA</h2></a>
   <p class="post-excerpt">Che parolaccia!</p>
 </div><!-- /.tile -->
