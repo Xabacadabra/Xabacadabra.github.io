@@ -7,10 +7,11 @@ excerpt: "Perché si, si, LO SO che è uno spreco di soldi, che gli intrallazzi 
 tags:
   - spettacolo
 image: 
-  feature:
-  teaser:
+  feature: sanremo2013
+  teaser: teasersanremo2013
   thumb: null
 published: true
+comments: true
 ---
 
 Perché si, si, LO SO che è uno spreco di soldi, che gli intrallazzi politico-televisivi palesi o nascosti sputtanano da sempre la (quasi sempre scarsa) proposta musicale

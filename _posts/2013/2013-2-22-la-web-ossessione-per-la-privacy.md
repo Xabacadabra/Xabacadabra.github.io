@@ -11,6 +11,7 @@ image:
   teaser: teaserwebprivacy.jpg
   thumb: null
 published: true
+comments: true
 ---
 
 Nel fantastico mondo di Internet **il diritto alla Privacy ha assunto un peso ed un'importanza che hanno del surreale**: 

@@ -11,6 +11,7 @@ image:
   teaser: teaserdragonball.jpg
   thumb: null
 published: true
+comments: true
 ---
 
 Esiste un'ancestrale domanda che ci si pone sin dalla fine di _Non è la Rai_ :

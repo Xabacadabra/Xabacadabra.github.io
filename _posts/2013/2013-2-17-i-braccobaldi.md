@@ -7,10 +7,11 @@ excerpt: "Questi sconosciuti. (Correva l'anno 2008, se le mie idiozie erano anco
 tags:
   - xabologia
 image: 
-  feature:
-  teaser:
+  feature: braccobaldi.jpg
+  teaser: teaserbraccobaldi.jpg
   thumb: null
 published: true
+comments: true
 ---
 
 Questi sconosciuti. (Correva l'anno 2008, se le mie idiozie erano ancora più acerbamente idiote è imputabile alle insoddisfazioni dettate dal Governo Prodi) Attenzione, il post è ABNORME anche perché è la somma di 3-4 discussioni diverse
