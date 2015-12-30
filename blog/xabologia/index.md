@@ -13,7 +13,7 @@ published: true
 </li>
 
 <li>
-  <a href="/blog/tag/riflessioni"><img src="/images/riflessioni.jpg">
+  <a href="/blog/tag/xabologia"><img src="/images/riflessioni.jpg">
   <h2 class="post-title"> <i class="fa fa-heartbeat"></i> RIFLESSIONI</h2>
   <p class="post-excerpt">La Xabologia vera e propria. Perchè a volte è bello fare i blog in senso tradizionale, almeno un pochino...</p> 
 </li>
