@@ -7,8 +7,8 @@ excerpt: "Perché si, si, LO SO che è uno spreco di soldi, che gli intrallazzi 
 tags:
   - spettacolo
 image: 
-  feature: sanremo2013
-  teaser: teasersanremo2013
+  feature: sanremo2013.jpg
+  teaser: teasersanremo2013.jpg
   thumb: null
 published: true
 comments: true
