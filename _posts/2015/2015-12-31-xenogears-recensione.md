@@ -58,12 +58,14 @@ Confrontiamo ora il suo modo di raccontarla con quello di questo suo ombroso _cu
 
 **In FF7 ci si rende subito conto della capacità di creare suspance, tenere sempre vivo l'interesse e l'attenzione del giocatore ad ogni dialogo**:
 
-Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, rendendo il relativo stupore figlio di un progressivo percorso facile da ricordare, con più e più rimandi autoreferenziali...per capirci: in un colpo di scena narrativo di FF7 è facile esclamare _"Ah, allora ecco perché quel pirla di Cloud faceva così!"_ 
+Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, rendendo il relativo stupore figlio di un progressivo percorso facile da ricordare, con più e più rimandi autoreferenziali...per capirci: in un colpo di scena narrativo di FF7 è facile esclamare _"Ah, allora ecco perché quel pirla di Cloud faceva così!"_
+
 [Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato]
 
-**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo (quelli degli Anziani del Ministero di Gazel su tutti credo, roba che un momento ti pare di star guardando Escaflowne e l'attimo dopo ti ritrovi a Ballarò) avrà un senso solo dopo 40 ore buone di gioco - quando, con ogni probabilità, il giocatore medio si sarà bello che scordato tutto.
+**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso solo dopo 40 ore buone di gioco quando, con ogni probabilità, il giocatore medio si sarà bello che scordato tutto (palma d'oro agli Anziani del Ministero di Gazel su tutti credo, roba che un momento ti pare di star guardando Escaflowne e l'attimo dopo ti ritrovi a Ballarò).
 
-a proposito di dialogoni, se v'interessa la traduzione del gioco annate a fare un saluto ai Sadnes qui {: .notice-info}
+Traduzione: proposito di dialogoni, se v'interessa Xenogears in italiano annate a fare un saluto ai Sadnes qui 
+{: .notice-info}
 
 Chiaro: c'è il fattore rigiocabilità, ma trattandosi di un JRPG non proprio brevissimo e con altri problemi di cui parliamo tra poco, non credo sia il caso di farci troppo affidamento.
 
@@ -82,7 +84,8 @@ La verità, più semplicemente, è che l'autore **Tatsuya Takahashi** risultava 
 
 Xenogears nasce come quinto episodio di un'ideale serie mai realizzata (Che NO, non è Xenosaga. Temi, autore e citazioni rimandanti a Xenogears ci sono, è vero, ma si parla comunque di un'altra storia) e per forza di cose tenta di concentrare in se stesso tanti rimandi e riferimenti che non avranno mai degni approfondimenti se non nel _Perfect Works_ 
 
-_**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano qui {: .notice-info}
+_**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano qui
+{: .notice-info}
 
 
 Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo potesse ricevere lo stesso riscontro di pubblico di un capitolo di un brand già arcinoto quale Final Fantasy era non utopico..._deppiù._
