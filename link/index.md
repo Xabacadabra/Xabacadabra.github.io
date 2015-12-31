@@ -25,13 +25,19 @@ Siti e Blog amici o consigliati per un motivo o per l'altro, tutti angoli dell'I
 <li>
   <a href="#"><img src="/images/politica.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Antro Atomico</h2></a>
-  <p class="post-excerpt"> IL Blog italiano per eccellenza. (spero che Beppe Grillo non is offenda)</p>
+  <p class="post-excerpt"> Il Blog italiano per eccellenza. (spero che Beppe Grillo non is offenda)</p>
 </li>
 
 <li>
   <a href="#"><img src="/images/politica.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Gazebo</h2></a>
   <p class="post-excerpt">Il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico</p>
+</li>
+
+<li>
+  <a href="#"><img src="/images/politica.jpg">
+  <h2 class="post-title"><i class="fa fa-circle"></i> Sadnes</h2></a>
+  <p class="post-excerpt">Miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose dei traduttori anglofoni</p>
 </li>
 
 <li>
