@@ -3,7 +3,7 @@ layout: archive
 title: "Progetti"
 date: 2015-12-19
 modified: 2015-12-19
-excerpt: "blabla."
+excerpt: "(work in progress)"
 feature:
   visible: true
   headline: "Featured Articles"
