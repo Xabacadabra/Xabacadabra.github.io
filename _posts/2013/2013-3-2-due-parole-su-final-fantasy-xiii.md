@@ -21,10 +21,10 @@ In breve? Tanto potenziale sprecato.
 
 Dopo averci giocato in prima persona per la maggior parte della sua durata (10 capitoli su 13) l'ho abbandonato, restituito all'amico che me l'aveva prestato e terminato solo di recente per i fatti miei via youtube (lo so, sono un profano bastardo che non si guadagnerà mai l'olimpo dei nerd, ma m'ero rotto le balle)
 
-
-[!Spoiler: il boss finale!](http://luniversovibra.altervista.org/wp-content/uploads/2014/01/nazi-youth-pope-ratzinger.jpg?raw=true)
-
-(il boss finale)
+<figure>
+	<img src="http://luniversovibra.altervista.org/wp-content/uploads/2014/01/nazi-youth-pope-ratzinger.jpg" alt="il boss finale di final fantasy xiii">
+	<figcaption>Spoiler: il boss finale!</figcaption>
+</figure>
 
 Abbandonai FFXIII per una ragione molto semplice: 
 
@@ -52,3 +52,5 @@ Eppure ero convintissimo che FFXIII avesse ancora molto da dire (nonostante la c
 In definitiva un bel JRPG, un'esperienza TOTALMENTE diversa da un Final Fantasy dell'era classica (come per FFXII, il nome ha un senso solo per motivi strettamente commerciali) ma carina, e che forse avrebbe potuto essere migliore se tutti gli sforzi della Square Enix fossero stati concentrati su di lui.
 
 [!lebreau](http://www.cosplayisland.co.uk/files/costumes/992/19746/483fa33d.jpg?raw=true)
+
+Ciao, sono un grandissimo tocco di figa che nel gioco riesce ad essere meno rilevante del coltello di Lightning
