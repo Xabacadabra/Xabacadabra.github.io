@@ -64,7 +64,7 @@ Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, re
 
 **Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso solo dopo 40 ore buone di gioco quando, con ogni probabilità, il giocatore medio si sarà bello che scordato tutto (palma d'oro agli Anziani del Ministero di Gazel su tutti credo, roba che un momento ti pare di star guardando Escaflowne e l'attimo dopo ti ritrovi a Ballarò).
 
-Traduzione: proposito di dialogoni, se v'interessa Xenogears in italiano annate a fare un saluto ai Sadnes qui 
+A proposito di dialogoni: se v'interessa **Xenogears in italiano** annate a fare un saluto ai Sadnes [qui](http://www.sadnescity.it/traduzioni/xeno/xeno.php) ! 
 {: .notice-info}
 
 Chiaro: c'è il fattore rigiocabilità, ma trattandosi di un JRPG non proprio brevissimo e con altri problemi di cui parliamo tra poco, non credo sia il caso di farci troppo affidamento.
@@ -84,7 +84,7 @@ La verità, più semplicemente, è che l'autore **Tatsuya Takahashi** risultava 
 
 Xenogears nasce come quinto episodio di un'ideale serie mai realizzata (Che NO, non è Xenosaga. Temi, autore e citazioni rimandanti a Xenogears ci sono, è vero, ma si parla comunque di un'altra storia) e per forza di cose tenta di concentrare in se stesso tanti rimandi e riferimenti che non avranno mai degni approfondimenti se non nel _Perfect Works_ 
 
-_**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano qui
+_**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano [qui](http://xenogearsitalia.jimdo.com/)
 {: .notice-info}
 
 
