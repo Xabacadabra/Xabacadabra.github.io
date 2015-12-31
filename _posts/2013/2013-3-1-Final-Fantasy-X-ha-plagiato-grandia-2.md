@@ -15,7 +15,7 @@ comments: true
 ---
 ATTENZIONE! Questo post è estremamente complottista (e infatti è derivato per buona parte da alcune discussioni su ffonline)
 
-Prima di tutto se non conoscete Grandia 2, andate qua.
+Prima di tutto se non conoscete Grandia 2, [andate qua.](http://xabacadabra.github.io/2013/grandia-2-recensione/)
 
 Se invece non conoscete Final Fantasy X , amen. Che non c'ho voglia di recensirlo ed è già abbastanza famoso di suo
 
