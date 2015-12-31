@@ -3,7 +3,7 @@ layout: article
 title: "Xenogears | Recensione"
 modified: null
 categories: [2015]
-excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
+excerpt: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che sembra quasi una presa per il di dietro..."
 tags: [recensioni, videogiochi]
 image: 
   feature: xenogearsrecensione.jpg
