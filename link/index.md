@@ -24,7 +24,7 @@ Siti e Blog amici o consigliati per un motivo o per l'altro, tutti angoli dell'I
 
 <li>
   <a href="#"><img src="/images/politica.jpg">
-  <h2 class="post-title"><i class="fa fa-circle"></i> L'Antro Atomico</h2></a>
+  <h2 class="post-title"><i class="fa fa-circle"></i> Antro Atomico</h2></a>
   <p class="post-excerpt"> IL Blog italiano per eccellenza. (spero che Beppe Grillo non is offenda)</p>
 </li>
 
