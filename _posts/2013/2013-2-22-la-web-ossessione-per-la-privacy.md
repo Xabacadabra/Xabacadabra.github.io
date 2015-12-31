@@ -50,13 +50,13 @@ Stavamo dicendo: _a chi gliene dovrebbe fregare dei cazzi miei ?_
 
 Io direi a nessuno, ma visto che esiste gente che fa pettegolezzi anche sui caloriferi, **devo mettere in conto che qualcuno potrebbe reperire informazioni su di me e utilizzarle per sparlare del sottoscritto.**
 
-Tralasciando il fatto che come dicevo sopra a me non frega poco di quel che si racconta alle mie spalle, ho molto banalmente concluso che **questo tipo d'atteggiamento era presente già ben prima della venuta dei Social Network** , ed oggi come allora era alimentato dal mero passaparola. 
+Tralasciando il fatto che come dicevo sopra a me frega poco di quel che si racconta alle mie spalle, ho molto banalmente concluso che **questo tipo d'atteggiamento era presente già ben prima della venuta dei Social Network** , ed oggi come allora era alimentato dal mero passaparola. 
 
 Da cui, un'altra considerazione: 
 
-Se esiste qualcuno messo tanto male dal ritenere le nostre esternazioni facebookiane più bieche un valido argomento di conversazione... **in un modo o nell'altro sto tizio mi deve conoscere**, ergo 10 a 1 ce l'ho tra gli amici di facebook (o al limite è amico di amici), quindi che cacchio la tengo a fare la bacheca privata dagli sconosciuti quando le scimmie curiose sono già nel mio club ?
+Se esiste qualcuno messo tanto male dal ritenere le nostre esternazioni facebookiane più bieche un valido argomento di conversazione... **in un modo o nell'altro sto tizio ci deve conoscere**, ergo 10 a 1 è tra gli amici di facebook (o al limite _amico di amici_), quindi che cacchio la tengo a fare la bacheca privata dagli sconosciuti quando le scimmie curiose sono già nel mio club ?
 
-E poi, ancora, se io pubblico qualcosa... lo dice la parola stessa: PUBBLICO!
+E poi, ancora, se io _pubblico_ qualcosa... lo dice la parola stessa: PUBBLICO!
 
 Dovrei avere anche il carattere per prendermi la responsabilità di quello che ho appena pubblicato.
 
