@@ -15,14 +15,14 @@ comments: true
 ---
 
 **Attenzione!** non c'è nessuno Spoiler diretto, ma la letta potrebbe rovinarvi l'esperienza di gioco se non lo conoscete) 
-{: .notice: warning}
+{: .notice-warning}
 
 In breve? Tanto potenziale sprecato. 
 
 Dopo averci giocato in prima persona per la maggior parte della sua durata (10 capitoli su 13) l'ho abbandonato, restituito all'amico che me l'aveva prestato e terminato solo di recente per i fatti miei via youtube (lo so, sono un profano bastardo che non si guadagnerà mai l'olimpo dei nerd, ma m'ero rotto le balle)
 
 
-[!Spoiler: il boss finale!](http://luniversovibra.altervista.org/wp-content/uploads/2014/01/nazi-youth-pope-ratzinger.jpg)
+[!Spoiler: il boss finale!](http://luniversovibra.altervista.org/wp-content/uploads/2014/01/nazi-youth-pope-ratzinger.jpg?raw=true)
 
 (il boss finale)
 
@@ -44,11 +44,11 @@ Non saprei neppure dare una spiegazione nettissima del perché, parliamo più ch
 
 3. **Boss finale/nemico:** è un po' un fattore che pesa in tutto il gioco, ho sentito la mancanza di un vero e proprio cattivo o di una "pura" minaccia nel senso final fantasyano del termine...quello che offre FFXIII ha perfettamente senso per lo stile narrativo che ha, però l'ho trovato lo stesso un po' scialbo (e manco mi ricordo come si chiama, ora che ci penso)
 
-[!vanille e fang final fantasy xiii](http://gay-nerds.com/site/wp-content/uploads/2010/08/Fang_Vanille_Guard-600x337.jpg)
+[!vanille e fang final fantasy xiii](http://gay-nerds.com/site/wp-content/uploads/2010/08/Fang_Vanille_Guard-600x337.jpg?raw=true)
 Xena e Olimp...ehm, Vanille e Fang
 
 Eppure ero convintissimo che FFXIII avesse ancora molto da dire (nonostante la conclusione giustifichi davvero poco il sequel...), e forse è proprio per la sua natura "da compilation" che mi sembra non riesca a stare in piedi fino in fondo da solo
 
 In definitiva un bel JRPG, un'esperienza TOTALMENTE diversa da un Final Fantasy dell'era classica (come per FFXII, il nome ha un senso solo per motivi strettamente commerciali) ma carina, e che forse avrebbe potuto essere migliore se tutti gli sforzi della Square Enix fossero stati concentrati su di lui.
 
-[!lebreau](http://www.cosplayisland.co.uk/files/costumes/992/19746/483fa33d.jpg)
+[!lebreau](http://www.cosplayisland.co.uk/files/costumes/992/19746/483fa33d.jpg?raw=true)
