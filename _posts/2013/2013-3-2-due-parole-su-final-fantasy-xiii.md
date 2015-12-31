@@ -44,13 +44,17 @@ Non saprei neppure dare una spiegazione nettissima del perché, parliamo più ch
 
 3. **Boss finale/nemico:** è un po' un fattore che pesa in tutto il gioco, ho sentito la mancanza di un vero e proprio cattivo o di una "pura" minaccia nel senso final fantasyano del termine...quello che offre FFXIII ha perfettamente senso per lo stile narrativo che ha, però l'ho trovato lo stesso un po' scialbo (e manco mi ricordo come si chiama, ora che ci penso)
 
-[!vanille e fang final fantasy xiii](http://gay-nerds.com/site/wp-content/uploads/2010/08/Fang_Vanille_Guard-600x337.jpg?raw=true)
-Xena e Olimp...ehm, Vanille e Fang
+<figure>
+	<img src="http://gay-nerds.com/site/wp-content/uploads/2010/08/Fang_Vanille_Guard-600x337.jpg" alt="vanille e fang final fantasy xiii">
+	<figcaption>Xena e Olimp...ehm, Vanille e Fang</figcaption>
+</figure>
 
 Eppure ero convintissimo che FFXIII avesse ancora molto da dire (nonostante la conclusione giustifichi davvero poco il sequel...), e forse è proprio per la sua natura "da compilation" che mi sembra non riesca a stare in piedi fino in fondo da solo
 
 In definitiva un bel JRPG, un'esperienza TOTALMENTE diversa da un Final Fantasy dell'era classica (come per FFXII, il nome ha un senso solo per motivi strettamente commerciali) ma carina, e che forse avrebbe potuto essere migliore se tutti gli sforzi della Square Enix fossero stati concentrati su di lui.
 
-[!lebreau](http://www.cosplayisland.co.uk/files/costumes/992/19746/483fa33d.jpg?raw=true)
+<figure>
+	<img src="http://www.cosplayisland.co.uk/files/costumes/992/19746/483fa33d.jpg" alt="lebreau">
+	<figcaption>Ciao, sono un grandissimo tocco di figa che nel gioco riesce ad essere meno rilevante del coltello di Lightning</figcaption>
+</figure>
 
-Ciao, sono un grandissimo tocco di figa che nel gioco riesce ad essere meno rilevante del coltello di Lightning
