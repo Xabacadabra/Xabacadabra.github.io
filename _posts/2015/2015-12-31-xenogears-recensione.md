@@ -105,33 +105,40 @@ Ed il binomio sprite 2D per ambienti 3D (curioso opposto allo stile usato all'ep
 
 Nonostante sia con ogni probabilità uno dei videogames migliori mai realizzati e un vero e proprio metro di paragone per il suo genere di riferimento, non consiglierei mai e poi mai Xenogears a chiunque.
 
-battle system xenogears
-Io ODIO i robottoni, ma Xenogears è riuscito a farmeli sopportare
-Anzitutto bisogna avere una certa storia (possibilmente d'amore) coi JRPG.
+Anzitutto **bisogna avere una certa storia (possibilmente d'amore) coi JRPG.**
 
-Non che Xeno risulti poi mostruosamente difficile, ma non lo ritengo un buon punto di partenza per il genere (del resto già quando fu sviluppato era più che altro un punto d'arrivo: i vari Chrono Trigger, Final Fantasy VI e VII c'erano del resto già stati), e aldilà di questo:
+Non che Xeno risulti poi mostruosamente difficile, ma **non lo ritengo un buon punto di partenza per il genere**...e del resto già quando fu sviluppato era più che altro un punto d'arrivo: 
 
-1) possedere un notevole spirito di sacrificio (visto quanto detto sopra, lo avrete pure intuito) per sopportare tante cose, più che altro la svolta del secondo cd
+i vari Chrono Trigger, Final Fantasy VI e VII c'erano già stati.
 
-2) giocarlo possibilmente in volata (riprenderlo dopo settimane da quando lo si è iniziato è tremendamente controproducente datemi retta, pijatevi le ferie)
+Poi, aldilà di questo, ci sono un po' di requisiti pressoché indispensabili:
 
-3) non avere un razzismo troppo forte nei confronti dei Mecha (e io confesso che un po' ce l'ho, e raramente riesco a passarci sopra, Xenogears è uno di quei casi in cui me ne so fregato)
+1. possedere un notevole spirito di sacrificio (visto quanto detto sopra, lo avrete pure intuito) per sopportare tante cose, sopratutto la svolta del secondo cd
 
-4) una mentalità aperta nel trattare temi religiosi e filosofico/psicologici (anche se non è affatto così blasfemo come fin troppo spesso viene tacciato, a voler ben vedere - poi uno vede quel che dice Grahf qua sopra e non ci crede, ma fidatevi)
+2. giocarlo possibilmente in volata: **riprenderlo dopo settimane da quando lo si è iniziato è tremendamente controproducente.** (datemi retta, pijatevi le ferie)
 
-5) non essere dei casual gamer (nella maniera più assoluta, annatevene a giocà a God of War - che lo so che non è poi un esempio così casual, ma shhh -)
+3. non avere un "razzismo" troppo forte nei confronti dei Mecha (e come detto sopra io confesso che un po' ce l'ho e raramente riesco a passarci sopra...Xenogears è uno di quei casi in cui me ne so fregato)
+
+4. una mentalità aperta nel trattare **temi religiosi e filosofico/psicologici**, anche se non è affatto così blasfemo come fin troppo spesso viene tacciato, a voler ben vedere
+
+5. non essere dei casual gamer (scontato, ma non si sa mai)
   
-6) non pretendere grafica next gen (che pure quella di Xenogears è invecchiata molto bene oggettivamente ) e possedere una buona dose di pazienza (non proprio a livello nipponico, ma quasi)
+6. non pretendere grafica next gen e possedere una buona dose di pazienza per gestire gli incontri casuali (non proprio a livello nipponico, ma quasi)
 
-Intendiamoci, Xenogears è pure divertente eh! Da come ne ho parlato può sembrà che sia na specie d'agonia, ma in realtà ha un sistema di combattimento - o meglio due - decisamente innovativi e piacevoli, un bel mondo tutto da esplorare e una trama che vabbè, s'è capito
+Intendiamoci, **Xenogears è pure divertente eh!** 
+
+So che da come ne ho parlato può sembrà che sia na specie d'agonia, ma in realtà ha un sistema di combattimento - o meglio due - decisamente innovativi e piacevoli, un bel mondo tutto da esplorare e una trama che vabbè, s'è capito
 
 Se sembro esagerato nel "mettere in guardia" chi ci si avvicina è principalmente perché:
 
-1) Conosco abbastanza bene Xenogears
-2) Conosco (ahimé) il pubblico di videogiocatori odierno
+1. Conosco abbastanza bene Xenogears
+2. Conosco (ahimé) il pubblico videogiocatore odierno
 
 E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tanto, si corre il rischio di creare aspettative fuorivanti, sopratutto per le persone "sbagliate"
 
-In sintesi: Xenogears è solo per il penitente che vorrà passare, un percorso di fede chesitrasformainunrazzomissile/cuoreacciaio, concepito per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), ma che sa abbondantemente ripagare chi avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
+## Conclusioni: 
 
-_originariamente scritto nel 2012_
+Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede chesitrasformainunrazzomissile/cuoreacciaio, **concepito per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri** (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), ma che sa abbondantemente ripagare chi avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
+
+I braccobaldi non possono che essere 5
+{: .notice-success}
