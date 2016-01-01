@@ -9,7 +9,7 @@ tags:
   - cyberspazio
 image: 
   feature: pixelart.jpg
-  teaser: teaserpixelar.jpg
+  teaser: teaserpixelart.jpg
   thumb: null
 published: true
 comments: true
