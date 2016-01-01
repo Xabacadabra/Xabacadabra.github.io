@@ -11,32 +11,32 @@ Siti e Blog amici o consigliati per un motivo o per l'altro, tutti angoli dell'I
 
 <ul class="th-grid">
 <li>
-  <a href="#"><img src="/images/politica.jpg">
+  <a href="#"><img src="/images/arcweb.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Arcweb</h2></a>
   <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster della megaditta più pazza del mondo</p>
 </li>
 
 <li>
-  <a href="#"><img src="/images/politica.jpg">
+  <a href="#"><img src="/images/teasercetramod.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Cetramod</h2></a>
   <p class="post-excerpt">Il forum più bello del mondo (perché ci scriviamo solo io e quello del link di prima)</p>
 </li>
 
 <li>
-  <a href="#"><img src="/images/politica.jpg">
+  <a href="#"><img src="/images/antroatomico.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Antro Atomico</h2></a>
   <p class="post-excerpt"> Il Blog italiano per eccellenza. (spero che Beppe Grillo non is offenda)</p>
 </li>
 
 <li>
-  <a href="#"><img src="/images/politica.jpg">
+  <a href="#"><img src="/images/teasergazebo.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Gazebo</h2></a>
   <p class="post-excerpt">Il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico</p>
 </li>
 
 <li>
   <a href="#"><img src="/images/politica.jpg">
-  <h2 class="post-title"><i class="fa fa-circle"></i> Sadnes</h2></a>
+  <h2 class="post-title"><i class="fa fa-circle"></i> SadNES City</h2></a>
   <p class="post-excerpt">Miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose dei traduttori anglofoni</p>
 </li>
 
