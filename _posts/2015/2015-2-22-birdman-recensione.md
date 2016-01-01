@@ -96,6 +96,6 @@ Birdman mi ha progressivamente alleggerito di tanti pesi che mi portavo inconsap
 
 M'ha riportato ad un cinema puro al limite del sacrale, quello che credevo mi sembrasse tale solo perché l'avevo visto tra adolescenza ed infanzia
 
-**Birdman mi ha liberato dai miei peccati di spettatore.
+**Birdman mi ha liberato dai miei peccati di spettatore.**
 
-Alleluia.**
+**Alleluia.**
