@@ -7,8 +7,8 @@ excerpt: "Il tema principale, i concetti di fondo (principalmente la questione t
 tags: 
   - videogiochi
 image: 
-  feature: 
-  teaser: 
+  feature: finalfantasyxgrandia2plagio.jpg
+  teaser: teaserfinalfantasyxgrandia2plagio.jpg
   thumb: null
 published: true
 comments: true

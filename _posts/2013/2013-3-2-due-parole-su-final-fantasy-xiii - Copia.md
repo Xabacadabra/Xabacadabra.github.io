@@ -7,8 +7,8 @@ excerpt: "Dopo averci giocato in prima persona per la maggior parte della sua du
 tags: 
   - videogiochi
 image: 
-  feature: 
-  teaser: 
+  feature: finalfantasyxiii.jpg
+  teaser: teaserfinalfantasyxiii.jpg
   thumb: null
 published: true
 comments: true

@@ -7,7 +7,7 @@ excerpt: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pes
 tags: [recensioni, videogiochi]
 image: 
   feature: xenogearsrecensione.jpg
-  teaser:  TeaserXenogears.jpg
+  teaser:  teaserxenogears.jpg
   thumb: 
 published: true
 comments: true

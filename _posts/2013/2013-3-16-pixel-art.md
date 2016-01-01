@@ -8,8 +8,8 @@ tags:
   - videogiochi
   - cyberspazio
 image: 
-  feature: 
-  teaser: 
+  feature: pixelart.jpg
+  teaser: teaserpixelar.jpg
   thumb: null
 published: true
 comments: true
