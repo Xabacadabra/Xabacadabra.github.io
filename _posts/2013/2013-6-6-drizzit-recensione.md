@@ -2,14 +2,14 @@
 layout: article
 title: Drizzit | Recensione
 modified: null
-categories: [2014]
+categories: [2013]
 excerpt: "Venite a scoprire le deliranti e sagaci avventure dell'elfo oscuro più bonaccione del mondo..."
 tags: 
    - recensioni
    - fumetti
 image: 
   feature: drizzit.jpg
-  teaser: Teaserdrizzit.jpg
+  teaser: teaserdrizzit.jpg
   thumb: null
 published: true
 ---
