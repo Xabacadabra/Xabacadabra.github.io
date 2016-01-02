@@ -5,7 +5,7 @@ locales:
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    overview: "Panoramica"
+    overview: "Indice"
     toc: "La Robaccia"
     written_by: "Scritto da"
     updated: "Updated"
@@ -19,7 +19,7 @@ locales:
   # -------------------
   it: &DEFAULT_IT
     <<: *DEFAULT_EN     # load English values as default
-    overview: "Panoramica"
+    overview: "Indice"
     toc: "La Robaccia"
     written_by: "Scritto da"
     updated: "Updated"

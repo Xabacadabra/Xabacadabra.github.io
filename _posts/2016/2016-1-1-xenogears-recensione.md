@@ -166,7 +166,7 @@ Se sembro esagerato nel "mettere in guardia" chi ci si avvicina è principalment
 
 E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tanto, si corre il rischio di creare aspettative fuorivanti, sopratutto per le persone "sbagliate"
 
-## Conclusioni: 
+## Valutazione
 
 Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede chesitrasformainunrazzomissile/cuoreacciaio, **concepito per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri** (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), che saprà abbondantemente ripagare, donando una delle massime esperienze videoludiche a chiunque avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
 
