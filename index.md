@@ -4,6 +4,8 @@ permalink: /
 image:
   feature: home.jpg
 ---
+{% include JB/setup %}
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -31,9 +33,18 @@ SimpleJekyllSearch({
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
   <p class="post-excerpt">Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p>
-  <p>{% for post in site.posts limit:1 %}
-   ... Show the first post all big ...
-   {% endfor %}></p>
+  <p>
+  <ul class="posts">  
+  {% for post in site.posts limit:5 %}
+        <h1 class="entry-title">
+    {% if post.title %}
+      <a href=""></a>
+    {% endif %}
+  </h1>
+  <div class="entry-content"></div>
+  {% endfor %}  
+  </ul>
+  </p>
 </div><!-- /.tile -->
 
 <div class="tile">
