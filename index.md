@@ -8,7 +8,7 @@ image:
 <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
   <p>Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p></div>
 
-<div class="tiles">
+<div class="tiles" align="center">
 <h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
   {% for post in site.posts limit:3 %}
     {% include post-grid.html %}
