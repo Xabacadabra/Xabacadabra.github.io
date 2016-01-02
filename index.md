@@ -31,15 +31,17 @@ SimpleJekyllSearch({
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
   <p class="post-excerpt">Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p>
+  <p>
   <ul class="posts">  
-  {% for post in site.posts limit:20 %}  
+  {% for post in site.posts limit:3 %}  
      <li>  
        <span>{{ post.date | date_to_string }}</span> &raquo;  
        <a href="{{ BASE_PATH }}{{ post.url }}">  
        {{ post.title }}</a>  
      </li>  
   {% endfor %}  
-</ul>
+ </ul>
+ </p>
 </div><!-- /.tile -->
 
 <div class="tile">
