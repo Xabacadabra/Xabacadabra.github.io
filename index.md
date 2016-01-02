@@ -4,6 +4,10 @@ permalink: /
 image:
   feature: home.jpg
 ---
+<div>
+<h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
+  <p>Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p></div>
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -29,8 +33,7 @@ SimpleJekyllSearch({
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
-  <p class="post-excerpt">Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p>
+  <h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2>
   <p>
   <ul class="posts">  
   {% for post in site.posts limit:3 %}  
