@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 permalink: /
 image:
   feature: home.jpg
@@ -10,7 +10,7 @@ image:
 
 <div class="tiles">
 <h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts limit:4 %}
     {% include post-grid.html %}
   {% endfor %}
 </div>
