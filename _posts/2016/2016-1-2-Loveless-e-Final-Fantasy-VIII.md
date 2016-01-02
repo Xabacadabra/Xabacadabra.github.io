@@ -3,7 +3,7 @@ layout: article
 title: "Loveless e Final Fantasy VIII"
 modified: null
 categories: [2016]
-excerpt: "Quando dico che giocando e rigocando i vecchi Final Fantasy mi sembra di scoprire qualcosa di nuovo non lo dico tanto per dire..."
+excerpt: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra di scoprire qualcosa di nuovo non lo dico tanto per dire..."
 tags: 
    - videogiochi
 image: 
@@ -15,16 +15,16 @@ comments: true
 ---
 
 **Attenzione:** anche se non dovrebbero esserci spoiler particolari per sicurezza la lettura è sconsigliata a chi non dovesse aver giocato a Final Fantasy VII e Final Fantasy VIII
-{: .notice_warning}
+{: .notice-warning}
 
-Quando dico che giocando e rigocando i vecchi Final Fantasy mi sembra di scoprire qualcosa di nuovo non lo dico tanto per dire:
+Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra di scoprire qualcosa di nuovo non lo dico tanto per dire:
 
 Ciondolando in giro con l'Highwind verso la fine di **Final Fantasy VII** (inizio Disco 3) ho parlato con il buon vecchio Cid, che di punto in bianco ha iniziato a raccontare di quella volta in cui andò a vedere _Loveless_ a teatro (!)
 
 Dopo aver sottolineato il suo essersi bellamente addormentato ad opera in corso, il nostro caro Capitano ha recitato a memoria le ultime battute della _piece_, probabilmente le uniche che aveva effettivamente ascoltato (e solo perché svegliato da un altro spettatore stizzito dal suo russare imperterrito):
 
 <figure>
-	<img src="images/loveless/cid.jpg">
+	<img src="/images/loveless/cid.jpg" alt="Cid Higwind cita Loveless">
 	<figcaption>Lo screenshot vero e proprio</figcaption>
 </figure>
 
@@ -50,17 +50,17 @@ _Loveless_ è un album del 1991 della band irlandese **My Bloody Valentine** (vi
 se si fa attenzione lo si può anche leggere in uno dei poster che appaiono nel Settore 8 di Midgar:
 
 <figure>
-	<img src="images/loveless/sector8loveless.jpg">
+	<img src="/images/loveless/sector8loveless.jpg" alt="Sector 8 Loveless">
 </figure>
 
 <figure>
-	<img src="images/loveless/mybloodyvalentine.jpg">
+	<img src="/images/loveless/mybloodyvalentine.jpg" alt="My Bloody Valentine">
 	<figcaption>Lo screenshot vero e proprio</figcaption>
 </figure>
 
 la ragazza raffigurata nello stesso poster poi, sarebbe ispirata a Bilinda Butcher, cantante del gruppo
 
 <figure>
-	<img src="images/loveless/BlindaButcher.jpg">
+	<img src="/images/loveless/BlindaButcher.jpg" alt="Bilinda Butcher">
 	<figcaption>Bilinda Butcher</figcaption>
 </figure>
