@@ -12,6 +12,7 @@ image:
   teaser: teaserpoliticanausea.jpg
   thumb: null
 published: true
+comments: true
 ---
 
 Come chi ha avuto l'ardire di seguire questo blog saprà, spesso ho scritto qualcosina in merito alla situazione politica italiana.

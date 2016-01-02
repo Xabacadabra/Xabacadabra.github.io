@@ -10,6 +10,7 @@ image:
   teaser: teasercatherine.jpg
   thumb: 
 published: true
+comments: true
 ---
 
 Lo dico subito: 

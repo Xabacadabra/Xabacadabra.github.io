@@ -11,6 +11,7 @@ image:
   teaser: teaserquestionilingua.jpg
   thumb: null
 published: true
+comments: true
 ---
 
 Tempo fa (13 Settembre 2009 a detta della memoria storica del web) mi ritrovai in una delle tante interessanti discussioni su quel buffo e braccobaldico sito che era ed è ffonline (che ovviamente come tutte le discussioni interessanti di quel sito, con Final Fantasy non aveva nulla a che fare )
