@@ -52,6 +52,11 @@ SimpleJekyllSearch({
   {% endfor %}  
  </ul>
  </p>
+ <p>
+  {% for post in site.posts limit:1 %}
+  {% include post-grid.html %}
+  {% endfor %}
+ </p>
 </div><!-- /.tile -->
 
 <div class="tile">
