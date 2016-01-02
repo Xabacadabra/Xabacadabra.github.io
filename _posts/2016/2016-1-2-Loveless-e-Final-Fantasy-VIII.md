@@ -69,3 +69,5 @@ Infine, la ragazza raffigurata nel suddetto poster sarebbe ispirata a nient'altr
 	<img src="/gallery/loveless/BilindaButcher.jpg" alt="Bilinda Butcher">
 	<figcaption>Bilinda Butcher</figcaption>
 </figure>
+
+Insomma: _Loveless_ nascondeva già qualche chicca ben prima di diventare una scusa per far dire a Gackt _"The Gift of the Goddess"_ ogni 5 minuti, e non è da escludere si trattasse di una sorta di bozza / riferimento indiretto verso quello che sarebbe stato Final Fantasy VIII, il cui sviluppo [cominciò nel 1997, proprio durante la traduzione inglese di Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII#Development).
