@@ -8,6 +8,14 @@ image:
 <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
   <p>Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p></div>
 
+<div class="tiles">
+<h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
+  <p>{% for post in site.posts limit:4 %}
+    {% include post-grid.html %}
+  {% endfor %}
+  </p>
+</div>
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -58,11 +66,3 @@ SimpleJekyllSearch({
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-
-<div>
-<h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
-  <p>{% for post in site.posts limit:4 %}
-    {% include post-grid.html %}
-  {% endfor %}
-  </p>
-</div>
