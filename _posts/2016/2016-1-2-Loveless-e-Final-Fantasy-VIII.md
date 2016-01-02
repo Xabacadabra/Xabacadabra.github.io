@@ -24,17 +24,17 @@ Ciondolando in giro con l'Highwind verso la fine di **Final Fantasy VII** (inizi
 Dopo aver sottolineato il suo essersi bellamente addormentato ad opera in corso, il nostro caro Capitano ha recitato a memoria le ultime battute della _piece_, probabilmente le uniche che aveva effettivamente ascoltato (e solo perché svegliato da un altro spettatore stizzito dal suo russare imperterrito):
 
 <figure>
-	<img src="/images/loveless/cid.jpg" alt="Cid Higwind cita Loveless">
+	<img src="/gallery/loveless/cid.jpg" alt="Cid Higwind cita Loveless">
 	<figcaption>Lo screenshot vero e proprio</figcaption>
 </figure>
 
 > "Do you really have to leave?"
 
-> "I promised. The people I love, are waiting."
+ "I promised. The people I love, are waiting."
 
-> "...I don't understand. Not at all. But... please take care of yourself."
+ "...I don't understand. Not at all. But... please take care of yourself."
 
-> "Of course... I'll come back to you. Even if you don't promise to wait. I'll return knowing you'll be here."
+ "Of course... I'll come back to you. Even if you don't promise to wait. I'll return knowing you'll be here."
 
 La cosa interessante che mi è saltata immediatamente all'occhio è che, sopratutto l'ultima frase, **sembra grossomodo il fulcro del discorso tra Squall e Rinoa nelle fasi conclusive di Final Fantasy VIII:** 
 
@@ -53,17 +53,17 @@ _Loveless_ è un album del 1991 della band irlandese **My Bloody Valentine** (vi
 se si fa attenzione lo si può anche leggere in uno dei poster che appaiono nel Settore 8 di Midgar:
 
 <figure>
-	<img src="/images/loveless/sector8loveless.jpg" alt="Sector 8 Loveless">
+	<img src="/gallery/loveless/sector8loveless.jpg" alt="Sector 8 Loveless">
 </figure>
 
 <figure>
-	<img src="/images/loveless/mybloodyvalentine.jpg" alt="My Bloody Valentine">
+	<img src="/gallery/loveless/mybloodyvalentine.jpg" alt="My Bloody Valentine">
 	<figcaption>Lo screenshot vero e proprio</figcaption>
 </figure>
 
 la ragazza raffigurata nello stesso poster poi, sarebbe ispirata a Bilinda Butcher, cantante del gruppo
 
 <figure>
-	<img src="/images/loveless/BlindaButcher.jpg" alt="Bilinda Butcher">
+	<img src="/gallery/loveless/BlindaButcher.jpg" alt="Bilinda Butcher">
 	<figcaption>Bilinda Butcher</figcaption>
 </figure>
