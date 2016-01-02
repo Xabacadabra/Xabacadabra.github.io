@@ -31,6 +31,9 @@ SimpleJekyllSearch({
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
   <p class="post-excerpt">Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p>
+  <p>{% for post in site.posts limit:1 %}
+   ... Show the first post all big ...
+   {% endfor %}></p>
 </div><!-- /.tile -->
 
 <div class="tile">
