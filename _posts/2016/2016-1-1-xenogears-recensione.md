@@ -16,6 +16,8 @@ comments: true
 **Nota:** Sono all'incirca quattro annetti che provo a recensire come si deve Xenogears...questa è la terza riedizione. Parlare di questo gioco non è mai un'impresa facile.
 {: .notice-info}
 
+{% include toc.html %}
+
 ## Xeno chi ?
 
 Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che sembra quasi una presa per il di dietro: 
