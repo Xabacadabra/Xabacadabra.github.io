@@ -8,14 +8,12 @@ image:
 <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
   <p>Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p></div>
 
-<div class="archive-wrap">
-<div class="page-content">
+<div>
 <h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
   <p>{% for post in site.posts limit:4 %}
-  {% include post-grid.html %}
+  {% include latest-post-grid.html %}
   {% endfor %}
   </p>
-</div>
 </div>
 
 <!-- Html Elements for Search -->
@@ -39,7 +37,7 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
-  <p class="post-excerpt">Xaba Cadabra è un blog, un Cetramod ad personam ed un aggregatore di tutto quello che <a href="/about/">Xab</a> combina in rete (o quasi). Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
+  <p class="post-excerpt">Xaba Cadabra è un blog, un <i><a href="/2013/cetramod/">Cetramod</a> ad personam</i> ed un aggregatore di tutto quello che <a href="/about/"><b>Xab</b></a> combina in rete (o quasi). Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
