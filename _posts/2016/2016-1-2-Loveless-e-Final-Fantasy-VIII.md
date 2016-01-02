@@ -29,9 +29,12 @@ Dopo aver sottolineato il suo essersi bellamente addormentato ad opera in corso,
 </figure>
 
 > "Do you really have to leave?"
-"I promised. The people I love, are waiting."
-"...I don't understand. Not at all. But... please take care of yourself."
-"Of course... I'll come back to you. Even if you don't promise to wait. I'll return knowing you'll be here."
+
+> "I promised. The people I love, are waiting."
+
+> "...I don't understand. Not at all. But... please take care of yourself."
+
+> "Of course... I'll come back to you. Even if you don't promise to wait. I'll return knowing you'll be here."
 
 La cosa interessante che mi è saltata immediatamente all'occhio è che, sopratutto l'ultima frase, **sembra grossomodo il fulcro del discorso tra Squall e Rinoa nelle fasi conclusive di Final Fantasy VIII:** 
 
