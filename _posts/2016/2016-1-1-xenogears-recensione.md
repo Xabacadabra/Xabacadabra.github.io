@@ -108,23 +108,23 @@ Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo pote
 
 ## Gameplay
 
-Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-corpo tanto quanto nel proverbiale scontro robottonico (che di mio non ho mai sopportato per la mia antipatia nei confronti dei mecha, ma soprassediamo)
+Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-corpo tanto quanto nel proverbiale scontro robottonico (che di mio non ho mai sopportato per la mia antipatia nei confronti dei mecha, ma soprassediamo)...
 
 <figure>
 	<img src="http://www.time4rpgs.net/wp-content/uploads/2010/04/xenogears_battle.png" alt="combattimenti xenogears">
 	<figcaption>Il Battle System "fisico", molto classico e dinamico</figcaption>
 </figure>
 
- **Le parte esplorative e sopratutto il dungeon design fanno immensamente schifo.**
+ **...le parte esplorative e (sopratutto) il dungeon design fanno invece immensamente schifo.**
 
-Ed il binomio sprite 2D per ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso temo non abbia aiutato.
+Il binomio grafico sprite 2D + ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso temo non abbia aiutato.
 
 <figure>
 	<img src="http://lparchive.org/Xenogears/Update%2029/4-SLUS_006.69_30072007_184131_0828.jpg" alt="dungeon xenogears">
 	<figcaption>Esplorare un Dungeon in Xenogears può seriamente provocare il mal di mare...</figcaption>
 </figure>
 
-Per contrasto bisogna considerare come **il livello grafico del gioco risulti pregevole, curatissimo tanto nella pixel art quanto nel character design animato:** onore al merito agli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
+Per contrasto bisogna considerare come **il livello grafico del gioco risulti pregevole:**, curatissimo tanto nella pixel art quanto nel :**character design delle sequenze animate:** onore al merito agli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
 
 ## Chi dovrebbe giocare a Xenogears
 
