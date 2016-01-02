@@ -67,9 +67,9 @@ Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, re
 	<figcaption>Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato</figcaption>
 </figure>
 
-**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso giusto giusto **dopo 40 ore buone di gioco** (a voler ottimisti eh)
+**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso giusto giusto **dopo 40 ore buone di gioco** (a voler essere ottimisti, eh)
 
-Cioè quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** (in questo senso palma d'oro agli Anziani del Ministero di Gazel credo: roba che un momento ti pare di star guardando _Escaflowne_ e nel giro di un secondo ti ritrovi a _Ballarò_).
+Quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** (in questo senso palma d'oro agli Anziani del Ministero di Gazel: roba che un momento ti pare di star guardando _Escaflowne_, ed un secondo dopo ti ritrovi a _Ballarò_).
 
 A proposito di dialoghi: se v'interessa **Xenogears in italiano** annate a fare un saluto ai SadNES [qui](http://www.sadnescity.it/traduzioni/xeno/xeno.php) ! 
 {: .notice-info}
@@ -106,33 +106,32 @@ Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo pote
 
 ## Gameplay
 
-Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-corpo tanto quanto nel proverbiale scontro robottonico (che di mio non ho mai sopportato per la mia antipatia nei confronti dei mecha, ma soprassediamo) **le parte esplorative e sopratutto il dungeon design fanno immensamente schifo.**
+Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-corpo tanto quanto nel proverbiale scontro robottonico (che di mio non ho mai sopportato per la mia antipatia nei confronti dei mecha, ma soprassediamo)
 
 <figure>
 	<img src="http://www.time4rpgs.net/wp-content/uploads/2010/04/xenogears_battle.png" alt="combattimenti xenogears">
 	<figcaption>Il Battle System "fisico", molto classico e dinamico</figcaption>
 </figure>
 
-Ed il binomio sprite 2D per ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso non aiuta
+ **Le parte esplorative e sopratutto il dungeon design fanno immensamente schifo.**
+
+Ed il binomio sprite 2D per ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso temo non abbia aiutato.
 
 <figure>
 	<img src="http://lparchive.org/Xenogears/Update%2029/4-SLUS_006.69_30072007_184131_0828.jpg" alt="dungeon xenogears">
 	<figcaption>Esplorare un Dungeon in Xenogears può seriamente provocare il mal di mare...</figcaption>
 </figure>
 
-
-Per quanto, bisogna considerare quanto **il livello grafico del gioco risulti pregevole e curatissimo tanto nella pixel art quanto nel character design complessivo:**
-
-onore al merito degli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
+Per contrasto bisogna considerare come **il livello grafico del gioco risulti pregevole, curatissimo tanto nella pixel art quanto nel character design animato:** onore al merito agli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
 
 ## Chi dovrebbe giocare a Xenogears
 
 <figure>
 	<img src="http://lparchive.org/Xenogears-(by-The-Dark-Id)/Update%2076/9-babel14.jpg" alt="combattimenti xenogears">
-	<figcaption>Ed il Battle System "robottonico", non lontano anni luce dal primo ma decisamente profondo e appagante in tutt'altra forma</figcaption>
+	<figcaption>il Battle System "robottonico", non lontano anni luce dal primo ma decisamente profondo e appagante</figcaption>
 </figure>
 
-Nonostante sia con ogni probabilità uno dei videogames migliori mai realizzati e un vero e proprio metro di paragone per il suo genere di riferimento, non consiglierei mai e poi mai Xenogears a chiunque.
+Nonostante sia con ogni probabilità **uno dei videogames migliori mai realizzati e un vero e proprio metro di paragone per il suo genere di riferimento**, non consiglierei mai e poi mai Xenogears a chiunque.
 
 Anzitutto **bisogna avere una certa storia (possibilmente d'amore) coi JRPG.**
 
