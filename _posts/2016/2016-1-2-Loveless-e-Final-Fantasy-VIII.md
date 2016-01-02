@@ -3,7 +3,7 @@ layout: article
 title: "Loveless e Final Fantasy VIII"
 modified: null
 categories: [2016]
-excerpt: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra di scoprire qualcosa di nuovo non lo dico tanto per dire..."
+excerpt: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."
 tags: 
    - videogiochi
 image: 
@@ -17,7 +17,7 @@ comments: true
 **Attenzione:** anche se non dovrebbero esserci spoiler particolari, per sicurezza la lettura è sconsigliata a chi non dovesse aver terminato Final Fantasy VII e Final Fantasy VIII.
 {: .notice-warning}
 
-Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra di scoprire qualcosa di nuovo non lo dico tanto per dire:
+Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire:
 
 Ciondolando in giro con l'Highwind verso la fine di **Final Fantasy VII** (inizio Disco 3) ho parlato con il buon vecchio Cid che, di punto in bianco, ha iniziato a raccontare di quella volta in cui andò a vedere _Loveless_ a teatro (!)
 
@@ -42,7 +42,7 @@ Il dialogo è **un elemento catalizzante del gioco**, tanto che non a caso le re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1GHCJJXqneU" frameborder="0" allowfullscreen></iframe>
 
-Insomma, emergono parentele interessanti, che non so quanto siano state considerate poi con tutto il _ricamo nomuriano_ mostrato in **Crisis Core** e altri esponenti della Compilation di Final Fantasy VI (sigh)
+Insomma, emergono parentele interessanti, che non so quanto siano state considerate poi con tutto il _ricamo nomuriano_ mostrato in **Crisis Core** e altri esponenti della Compilation di Final Fantasy VII (sigh)
 
 ## Curiosità: L'origine di Loveless
 
@@ -63,7 +63,7 @@ Se si fa attenzione, si può anche intravedere il nome della band in uno dei pos
 	<figcaption>close-up</figcaption>
 </figure>
 
-la ragazza raffigurata nel suddetto poster poi sarebbe ispirata a Bilinda Butcher, cantante del gruppo
+la ragazza raffigurata nel suddetto poster poi sarebbe ispirata a nient'altri che Bilinda Butcher, cantante del gruppo
 
 <figure>
 	<img src="/gallery/loveless/BilindaButcher.jpg" alt="Bilinda Butcher">

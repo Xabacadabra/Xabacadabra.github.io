@@ -47,10 +47,12 @@ Ed ecco, regia e "tempi" della sceneggiatura un pochino Xenogears rischiano d'am
 
 Ma andiamo con ordine
 
-[Grahf xenogears
-Le modeste ambizioni di quel simpaticone di Grahf]
+<figure>
+	<img src="http://www.blogcdn.com/www.joystiq.com/media/2012/01/xenogears7vr.jpg" alt="Grahf xenogears">
+	<figcaption>Le modeste ambizioni di quel simpaticone di Grahf</figcaption>
+</figure>
 
-**L'importanza della regia**
+## L'importanza della regia
 
 Prendiamo il classico dei classici, Final Fantasy VII (o un qualsiasi altro FF dell'era Squaresoft, chi più chi meno), vantante una trama certamente abbastanza complessa ed intricata...
 
@@ -60,7 +62,10 @@ Confrontiamo ora il suo modo di raccontarla con quello di questo suo ombroso _cu
 
 Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, rendendo il relativo stupore figlio di un progressivo percorso facile da ricordare, con più e più rimandi autoreferenziali...per capirci: in un colpo di scena narrativo di FF7 è facile esclamare _"Ah, allora ecco perché quel pirla di Cloud faceva così!"_
 
-[Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato]
+<figure>
+	<img src="http://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="cast xenogears">
+	<figcaption>Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato</figcaption>
+</figure>
 
 **Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso solo dopo 40 ore buone di gioco quando, con ogni probabilità, il giocatore medio si sarà bello che scordato tutto (palma d'oro agli Anziani del Ministero di Gazel su tutti credo, roba che un momento ti pare di star guardando Escaflowne e l'attimo dopo ti ritrovi a Ballarò).
 
@@ -73,8 +78,10 @@ Tutto ciò incide anche nella memoria: non avete idea di quante volte mi è capi
 
 ## Disco 2, Budget e Mutilazioni
 
-[chu-chu xenogears
-l'unico vero ABNORME difetto del gioco.]
+<figure>
+	<img src="http://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="chu-chu xenogears">
+	<figcaption>l'unico vero ABNORME difetto del gioco.</figcaption>
+</figure>
 
 Se a tutto questo discorso ci uniamo il fatto che **il secondo disco di gioco è praticamente una visual novel che si risolve da sola**, si capisce che la situazione va precipitando.
 
@@ -90,10 +97,10 @@ _**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatori
 
 Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo potesse ricevere lo stesso riscontro di pubblico di un capitolo di un brand già arcinoto quale Final Fantasy era non utopico..._deppiù._
 
-[fei xenogears bambino
-Pensavate che 
-la storia di Cloud fosse triste ? 
-AHAHAHAHAHHA!]
+<figure>
+	<img src="http://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="fei bambino xenogears">
+	<figcaption>Pensavate che la storia di Cloud fosse triste ? AHAHAHAHAHHA!</figcaption>
+</figure>
 
 ## Gameplay
 
