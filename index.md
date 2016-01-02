@@ -9,11 +9,14 @@ image:
   <p>Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p></div>
 
 <div class="archive-wrap">
+<div class="page-content">
 <h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
   <p>{% for post in site.posts limit:4 %}
   {% include post-grid.html %}
   {% endfor %}
-  </p></div>
+  </p>
+</div>
+</div>
 
 <!-- Html Elements for Search -->
 <div id="search-container">
