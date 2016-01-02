@@ -8,6 +8,13 @@ image:
 <h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
   <p>Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p></div>
 
+<div>
+<h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
+  <p>{% for post in site.posts limit:3 %}
+  {% include post-grid.html %}
+  {% endfor %}
+  </p></div>
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
