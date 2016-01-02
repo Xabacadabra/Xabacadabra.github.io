@@ -43,7 +43,7 @@ Mi piglio tutte le responsabilità del caso per il peso assolutistico di quest'a
 
 Poi, intendiamoci: narrativamente ci sono delle debolezze (talvolta pure abnormi), perché **una cosa è avere una storia bella intricata e profonda, un'altra è saperla raccontare come si deve.** 
 
-Ed ecco, regia e "tempi" della sceneggiatura un pochino Xenogears rischiano d'ammazzarlo (e no, non solo nel famigerato Disco 2).
+Ed ecco, regia e tempi di sceneggiatura un pochino Xenogears rischiano d'ammazzarlo (e no, non alludo solo al famigerato Disco 2).
 
 Ma andiamo con ordine
 
@@ -54,32 +54,34 @@ Ma andiamo con ordine
 
 ## L'importanza della regia
 
-Prendiamo il classico dei classici, Final Fantasy VII (o un qualsiasi altro FF dell'era Squaresoft, chi più chi meno), vantante una trama certamente abbastanza complessa ed intricata...
+Prendiamo il classico dei classici, Final Fantasy VII (o al limite un qualsiasi altro FF dell'era Squaresoft, chi più chi meno), vantante una trama certamente abbastanza complessa ed intricata...
 
 Confrontiamo ora il suo modo di raccontarla con quello di questo suo ombroso _cugino_ di nome Xenogears:
 
 **In FF7 ci si rende subito conto della capacità di creare suspance, tenere sempre vivo l'interesse e l'attenzione del giocatore ad ogni dialogo**:
 
-Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, rendendo il relativo stupore figlio di un progressivo percorso facile da ricordare, con più e più rimandi autoreferenziali...per capirci: in un colpo di scena narrativo di FF7 è facile esclamare _"Ah, allora ecco perché quel pirla di Cloud faceva così!"_
+Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, rendendo il relativo stupore figlio di un progressivo percorso facile da ricordare, con più e più rimandi autoreferenziali...per capirci: in un colpo di scena di Final Fantasy VII è facile esclamare _"Ah, allora ecco perché quel pirla di Cloud aveva le convulsioni peggio di Lino Banfi imbizzarrito!"_
 
 <figure>
 	<img src="http://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="cast xenogears">
 	<figcaption>Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato</figcaption>
 </figure>
 
-**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso solo dopo 40 ore buone di gioco quando, con ogni probabilità, il giocatore medio si sarà bello che scordato tutto (palma d'oro agli Anziani del Ministero di Gazel su tutti credo, roba che un momento ti pare di star guardando Escaflowne e l'attimo dopo ti ritrovi a Ballarò).
+**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso giusto giusto **dopo 40 ore buone di gioco** (a voler ottimisti eh)
 
-A proposito di dialogoni: se v'interessa **Xenogears in italiano** annate a fare un saluto ai Sadnes [qui](http://www.sadnescity.it/traduzioni/xeno/xeno.php) ! 
+Cioè quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** (in questo senso palma d'oro agli Anziani del Ministero di Gazel credo: roba che un momento ti pare di star guardando _Escaflowne_ e nel giro di un secondo ti ritrovi a _Ballarò_).
+
+A proposito di dialoghi: se v'interessa **Xenogears in italiano** annate a fare un saluto ai SadNES [qui](http://www.sadnescity.it/traduzioni/xeno/xeno.php) ! 
 {: .notice-info}
 
-Chiaro: c'è il fattore rigiocabilità, ma trattandosi di un JRPG non proprio brevissimo e con altri problemi di cui parliamo tra poco, non credo sia il caso di farci troppo affidamento.
+Chiaro: **c'è il fattore rigiocabilità**, ma trattandosi di un JRPG non proprio brevissimo e con altri problemi di cui parliamo tra poco, **non credo sia il caso di farci troppo affidamento.**
 
-Tutto ciò incide anche nella memoria: non avete idea di quante volte mi è capitato di discutere con giocatori di Xenogears che si ricordavano poco o nulla della trama (io stesso se non l'avessi rigiocato un paio di volte confesso che probabilmente non ricorderei na ceppa)
+Tutto ciò incide anche nella memoria: non avete idea di quante volte mi è capitato di discutere con giocatori di Xenogears che si ricordavano poco o nulla della trama (io stesso se non l'avessi rigiocato un paio di volte confesso che probabilmente non ricorderei un tubone)
 
 ## Disco 2, Budget e Mutilazioni
 
 <figure>
-	<img src="http://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="chu-chu xenogears">
+	<img src="http://lparchive.org/Xenogears/Update%2018/31-SLUS_006.64_08072007_050210_0546.jpg" alt="chu-chu xenogears">
 	<figcaption>l'unico vero ABNORME difetto del gioco.</figcaption>
 </figure>
 
@@ -87,9 +89,9 @@ Se a tutto questo discorso ci uniamo il fatto che **il secondo disco di gioco è
 
 Certo è facile attaccarsi a tutti i costi agli ovvi tagli al budget ad opera di Squaresoft come dei bravi complottisti della domenica, ma se ci si ragiona un attimo **è lecito rendersi conto che le ambizioni di Xenogears superavano qualsiasi budget sensato un'azienda quale la Square dell'epoca (non certo prodiga in termini di spese) avrebbe potuto concedergli**:
 
-La verità, più semplicemente, è che l'autore **Tatsuya Takahashi** risultava affetto da _kojimismo_ anteliteram, pretendendo troppo aldilà di ogni ragionevole compromesso, pur di dare sfogo al suo genio...e se da un lato questo è stato indubbiamente una fortuna, ha sicuramente inciso nella scarsa accessibilità della sua opera magna:
+La verità, più semplicemente, è che l'autore **Tatsuya Takahashi** risultava affetto da _kojimismo_ anteliteram, pretendendo troppo aldilà di ogni ragionevole compromesso, pur di dare sfogo al suo genio...e se da un lato questo è stato indubbiamente una fortuna, ha sicuramente inciso nella celeberrima scarsa accessibilità della sua opera magna:
 
-Xenogears nasce come quinto episodio di un'ideale serie mai realizzata (Che NO, non è Xenosaga. Temi, autore e citazioni rimandanti a Xenogears ci sono, è vero, ma si parla comunque di un'altra storia) e per forza di cose tenta di concentrare in se stesso tanti rimandi e riferimenti che non avranno mai degni approfondimenti se non nel _Perfect Works_ 
+**Xenogears nasce come quinto episodio di un'ideale serie mai realizzata** (Che NO, non è Xenosaga. Temi, autore e citazioni rimandanti a Xenogears ci sono, è vero, ma si parla comunque di un'altra storia) e per forza di cose tenta di concentrare in se stesso tanti rimandi e riferimenti che non avranno mai degni approfondimenti se non nel _Perfect Works_ 
 
 _**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano [qui](http://xenogearsitalia.jimdo.com/)
 {: .notice-info}
@@ -98,7 +100,7 @@ _**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatori
 Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo potesse ricevere lo stesso riscontro di pubblico di un capitolo di un brand già arcinoto quale Final Fantasy era non utopico..._deppiù._
 
 <figure>
-	<img src="http://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="fei bambino xenogears">
+	<img src="http://4.bp.blogspot.com/-oWA0kG-vneY/UEUtYlPbgQI/AAAAAAAAB8M/Fah9L_iwdZc/s200/Xenogears3.jpg" alt="fei bambino xenogears">
 	<figcaption>Pensavate che la storia di Cloud fosse triste ? AHAHAHAHAHHA!</figcaption>
 </figure>
 
@@ -106,9 +108,29 @@ Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo pote
 
 Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-corpo tanto quanto nel proverbiale scontro robottonico (che di mio non ho mai sopportato per la mia antipatia nei confronti dei mecha, ma soprassediamo) **le parte esplorative e sopratutto il dungeon design fanno immensamente schifo.**
 
-Ed il binomio sprite 2D per ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso non aiuta, per quanto il livello grafico del gioco risulti pregevole e curatissimo tanto nella pixel art quanto nel design complessivo: menzione di merito va a 
+<figure>
+	<img src="http://www.time4rpgs.net/wp-content/uploads/2010/04/xenogears_battle.png" alt="combattimenti xenogears">
+	<figcaption>Il Battle System "fisico", molto classico e dinamico</figcaption>
+</figure>
+
+Ed il binomio sprite 2D per ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso non aiuta
+
+<figure>
+	<img src="http://lparchive.org/Xenogears/Update%2029/4-SLUS_006.69_30072007_184131_0828.jpg" alt="dungeon xenogears">
+	<figcaption>Esplorare un Dungeon in Xenogears può seriamente provocare il mal di mare...</figcaption>
+</figure>
+
+
+Per quanto, bisogna considerare quanto **il livello grafico del gioco risulti pregevole e curatissimo tanto nella pixel art quanto nel character design complessivo:**
+
+onore al merito degli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
 
 ## Chi dovrebbe giocare a Xenogears
+
+<figure>
+	<img src="http://lparchive.org/Xenogears-(by-The-Dark-Id)/Update%2076/9-babel14.jpg" alt="combattimenti xenogears">
+	<figcaption>Ed il Battle System "robottonico", non lontano anni luce dal primo ma decisamente profondo e appagante in tutt'altra forma</figcaption>
+</figure>
 
 Nonostante sia con ogni probabilità uno dei videogames migliori mai realizzati e un vero e proprio metro di paragone per il suo genere di riferimento, non consiglierei mai e poi mai Xenogears a chiunque.
 

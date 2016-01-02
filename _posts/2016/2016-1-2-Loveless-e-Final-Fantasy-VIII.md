@@ -63,7 +63,7 @@ Se si fa attenzione, si può anche intravedere il nome della band in uno dei pos
 	<figcaption>close-up</figcaption>
 </figure>
 
-la ragazza raffigurata nel suddetto poster poi sarebbe ispirata a nient'altri che Bilinda Butcher, cantante del gruppo
+Infine, la ragazza raffigurata nel suddetto poster sarebbe ispirata a nient'altri che Bilinda Butcher, cantante del gruppo.
 
 <figure>
 	<img src="/gallery/loveless/BilindaButcher.jpg" alt="Bilinda Butcher">
