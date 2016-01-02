@@ -11,9 +11,12 @@ image:
 <div>
 <h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2>
   <p>{% for post in site.posts limit:4 %}
-  {% include latest-posts-grid.html %}
+  {% include post-grid.html %}
   {% endfor %}
   </p>
+  <p>
+  {% include latest-posts-grid.html %}
+  </p>  
 </div>
 
 <!-- Html Elements for Search -->
