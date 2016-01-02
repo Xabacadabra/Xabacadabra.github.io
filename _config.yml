@@ -18,11 +18,7 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
-  - jekyll-paginate
-# Impaginazione
-# paginate: 5
-# paginate_path: "blog/archivio/page:num/"
-
+  
 # Site owner
 owner:
   name: "Andrea Xab Corinti"
