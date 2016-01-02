@@ -8,5 +8,4 @@ published: true
 <figure class="half">
   <a href="/blog/tag/fumetti/"><img src="/images/fumettigrande.jpg"></a>
   <a href="/blog/tag/animazione/"><img src="/images/animazionegrande.jpg"></a>
-  <figcaption>900 x 450</figcaption>
 </figure>
