@@ -30,10 +30,10 @@ Buttiamo giù un po' di nomi pesanti ?
 - Deus Ex
 - Metal Gear Solid
 - Final Fantasy VII
-- Final Fantasy Tactics
-- Persona 3 e 4
+- [Final Fantasy Tactics](http://xabacadabra.github.io/2013/final-fantasy-tactics-recensione/)
+- I vari Persona (e Shin Megami Tensei)
 
-E avoja quanti altri titoli si potrebbe citare...
+avoja quanti altri titoli si potrebbe citare...
 
 Eppure, sinceramente **non credo di aver mai visto un intreccio narrativo e sopratutto un'ambientazione tanto curata ed elaborata come si presenta quella di Xenogears.** 
 
