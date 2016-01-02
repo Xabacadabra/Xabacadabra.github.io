@@ -83,14 +83,16 @@ Non me ne frega niente se mi darete del fanboy, di quello che sale sul carro, se
 **Birdman è un Capolavoro.**
 
 Lo so che si abusa di questo termine, ma lo è.
-« Vorrei strapparti gli occhi e metterli al posto dei miei. Per poter vedere questa strada con gli occhi di quando ero ragazzo »
+
+> Vorrei strapparti gli occhi e metterli al posto dei miei. Per poter vedere questa strada con gli occhi di quando ero ragazzo
+
 è un film che si misura con la storia esattamente come tutti i film che la storia l'hanno fatta, è il motivo per cui sembra che io mi lamenti sempre del grosso del cinema perché semplicemente questo cazzo di film è quello che STAVO ASPETTANDO DA UNA VITA INTERA, rifugiandomi nell'unico conforto rappresentato da qualche Serie Tv (Breaking Bad su tutte)
 
 Sono enfatico oltre ogni dire, lo so, mea culpa, andrò a sentirmi un comizio di qualche politico a caso o leggere due tweet di Renzi per tornare alla realtà.
 
 Ma la verità è questa:
 
-**Birdman è il film americano più bello del mondo moderno. E l'ha fatto un chicano.**
+**Birdman è il film americano più bello del mondo moderno. E l'ha fatto un _chicano._**
 
 Birdman mi ha progressivamente alleggerito di tanti pesi che mi portavo inconsapevolmente in corpo.
 
