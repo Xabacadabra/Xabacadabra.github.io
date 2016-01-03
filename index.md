@@ -43,7 +43,7 @@ SimpleJekyllSearch({
   <h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2>
   <p>
   <ul class="posts">  
-  {% for post in site.posts limit:3 %}  
+  {% for post in site.posts limit:4 %}  
      <li>  
        <span>{{ post.date | date_to_string }}</span> &raquo;  
        <a href="{{ BASE_PATH }}{{ post.url }}">  
