@@ -10,6 +10,7 @@ image:
   teaser: teaserlinkinparkats.jpg
   thumb: 
 published: true
+comments: true
 ---
 
 Recensione / Analisi della penultima fatica dei Linkin Park (uscita in anno domini 2010), album dal grande impatto commerciale ma che nasconde dentro di se tanta roba tostissima, ed è ascoltabile secondo chiavi di lettura estremamente diverse tra loro
