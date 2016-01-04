@@ -4,6 +4,15 @@ permalink: /
 image:
   feature: home.jpg
 ---
+
+<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
+
+<div class="tiles">
+  {% for post in site.posts limit:4 %}
+    {% include post-grid.html %}
+  {% endfor %}
+</div>
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -21,16 +30,6 @@ SimpleJekyllSearch({
 })
 </script>  
 
-<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
-
-<div class="tiles">
-  {% for post in site.posts limit:4 %}
-    {% include post-grid.html %}
-  {% endfor %}
-</div> 
-
-  <div><h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Informazioni</h2></div> 
-
 <div class="tiles">
 
 <div class="tile">
@@ -40,7 +39,7 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-clock-o"></i> Commento Fresco</h2>
-<script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=1&hide_avatars=0&avatar_size=100&excerpt_length=32"></script>
+<script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=1&hide_avatars=0&avatar_size=100&excerpt_length=40"></script>
 </div><!-- /.tile -->
 
 <div class="tile">
