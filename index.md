@@ -21,7 +21,7 @@ SimpleJekyllSearch({
 })
 </script>  
 
-<div align="center"><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
+<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
 <div class="tiles">
   {% for post in site.posts limit:4 %}
@@ -29,9 +29,9 @@ SimpleJekyllSearch({
   {% endfor %}
 </div> 
 
+  <div><h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Informazioni</h2></div> 
+
 <div class="tiles">
-  
-  <div align="center"><h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Informazioni</h2></div> 
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
@@ -45,7 +45,7 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-phone-square"></i> Contatti</h2>
-  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89"><b>inviarmi un tweet</b></a> (e preciso TWEET: i messaggi privati non li leggo dal 2010). Per il resto, date pure un'occhiata ai profili sociali qui sotto.</p>
+  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89"><b>inviarmi un tweet</b></a> (e preciso TWEET: i messaggi privati non li leggo dal 2010). </p>
 </div><!-- /.tile -->
 
 <div class="tile">
