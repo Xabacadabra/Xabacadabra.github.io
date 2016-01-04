@@ -8,8 +8,8 @@ tags:
   - "serie tv"
   - recensioni
 image: 
-  feature: narcosrecensione.jpg
-  teaser: narcosrecensione.jpg
+  feature: narcos.jpg
+  teaser: teasernarcos.jpg
   thumb: null
 published: true
 comments: true
