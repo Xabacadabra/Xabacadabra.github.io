@@ -21,25 +21,26 @@ SimpleJekyllSearch({
 })
 </script>  
 
-<div align="center"><h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2></div>
+<div align="center"><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
 <div class="tiles">
   {% for post in site.posts limit:4 %}
     {% include post-grid.html %}
   {% endfor %}
-</div>
-
-<div align="center"><h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Informazioni</h2></div>  
+</div> 
 
 <div class="tiles">
+  
+  <div align="center"><h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Informazioni</h2></div> 
+
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
   <p class="post-excerpt">Xaba Cadabra è un blog, un <i><a href="/2013/cetramod/">Cetramod</a> ad personam</i> ed un aggregatore di tutto quello che <a href="/about/"><b>Xab</b></a> combina in rete (o quasi). Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Commenti</h2>
-<script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=100&excerpt_length=32"></script>
+  <h2 class="post-title"><i class="fa fa-clock-o"></i> Commento Fresco</h2>
+<script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=1&hide_avatars=0&avatar_size=100&excerpt_length=32"></script>
 </div><!-- /.tile -->
 
 <div class="tile">
