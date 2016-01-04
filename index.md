@@ -4,18 +4,6 @@ permalink: /
 image:
   feature: home.jpg
 ---
-<div>
-<h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Work in Progress!</h2>
-  <p>Il blog è ancora in fase di migrazione / assemblamento! Non dovresti essere qui!</p></div>
-
-<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2></div>
-
-<div class="tiles">
-  {% for post in site.posts limit:4 %}
-    {% include post-grid.html %}
-  {% endfor %}
-</div>
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -31,28 +19,27 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
 })
-</script>
+</script>  
+
+<div align="center"><h2 class="post-title"><i class="fa fa-clock-o"></i> Post Freschi</h2></div>
 
 <div class="tiles">
+  {% for post in site.posts limit:4 %}
+    {% include post-grid.html %}
+  {% endfor %}
+</div>
 
+<div align="center"><h2 class="post-title"><i class="fa fa-exclamation-triangle"></i> Informazioni</h2></div>  
+
+<div class="tiles">
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
   <p class="post-excerpt">Xaba Cadabra è un blog, un <i><a href="/2013/cetramod/">Cetramod</a> ad personam</i> ed un aggregatore di tutto quello che <a href="/about/"><b>Xab</b></a> combina in rete (o quasi). Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2>
-  <p>
-  <ul class="posts">  
-  {% for post in site.posts limit:4 %}  
-     <li>  
-       <span>{{ post.date | date_to_string }}</span> &raquo;  
-       <a href="{{ BASE_PATH }}{{ post.url }}">  
-       {{ post.title }}</a>  
-     </li>  
-  {% endfor %}  
- </ul>
- </p>
+  <h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Commenti</h2>
+<script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=100&excerpt_length=32"></script>
 </div><!-- /.tile -->
 
 <div class="tile">
