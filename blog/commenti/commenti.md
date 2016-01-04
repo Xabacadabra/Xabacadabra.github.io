@@ -11,4 +11,4 @@ Xaba Cadabra si avvale della popolare piattaforma Disqus
 
 <div id="recentcomments" class="dsq-widget">
 <h2 class="dsq-widget-title">Commenti Freschi</h2>
-<script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=100&excerpt_length=100"></script></div>
+<script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=100&excerpt_length=200&hide_mod=0"></script></div>
