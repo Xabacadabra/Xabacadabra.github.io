@@ -8,5 +8,4 @@ published: true
 <figure class="half">
   <a href="/blog/tag/cinema/"><img src="/images/cinemagrande.jpg"></a>
   <a href="/blog/tag/serie-tv/"><img src="/images/serietv.jpg"></a>
-  <figcaption>900 x 450</figcaption>
 </figure>
