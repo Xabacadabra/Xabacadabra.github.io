@@ -39,10 +39,8 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-clock-o"></i> Commento Fresco</h2>
-<p>
   <script type="text/javascript" src="http://xabacadabra.disqus.com/recent_comments_widget.js?num_items=1&hide_avatars=0&avatar_size=100&excerpt_length=40">
   </script>
-</p>
 </div><!-- /.tile -->
 
 <div class="tile">
