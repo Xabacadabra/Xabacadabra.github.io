@@ -1,6 +1,8 @@
 ---
-layout: archive
+layout: archive_no_sc
 title: "Link"
+date: 2015-12-19
+modified: 2016-1-6
 permalink: /link/
 image: 
   feature: null
@@ -29,26 +31,28 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza importanze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
-- [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - Miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
+- [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
 
-- [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - Da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra prende diretta ispirazione
+- [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra prende diretta ispirazione
 
-- [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - Il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
+- [**The Cutting Room Floor**](https://tcrf.net/){:target="_blank"} - il regno degli smanettoni che amano hackerare e sviscerare i videogiochi, la Debug Room di tutte le Debug Room!
+
+- [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
 
 ### <i class="fa fa-pencil"></i> Blog
 
 - [**L'Antro Atomico**](http://docmanhattan.blogspot.it/){:target="_blank"} - per quanto mi riguarda il Dr. Manhattan è IL Blogger italiano per eccellenza. (spero che Beppe Grillo non is offenda)
 
-- [**Come Non Detto**](https://leortola.wordpress.com/){:target="_blank"} - Il Papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
+- [**Come Non Detto**](https://leortola.wordpress.com/){:target="_blank"} - il papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
 
-- [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - [in inglese] Un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. Un piacere da leggere e da guardare
+- [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - [in inglese] un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. Un piacere da leggere e da guardare
 
-- [**Silvia Ziche**](http://www.silviaziche.com/){:target="_blank"} - Una delle massime regine del fumetto disneyano all'italiana. Da _Il Grande Splash_ in poi, per il sottoscritto è assurta a Maestra di Vita
+- [**Silvia Ziche**](http://www.silviaziche.com/){:target="_blank"} - una delle massime regine del fumetto disneyano all'italiana. Da _Il Grande Splash_ in poi, per il sottoscritto è assurta a Maestra di Vita
 
-- [**Zerocalcare**](http://www.zerocalcare.it/){:target="_blank"} - Che oramai è così _mainstream_ che 'sto link ancora un po' mi si scigolie...ma adorando praticamente tutto quello che fa non potevo escluderlo
+- [**Zerocalcare**](http://www.zerocalcare.it/){:target="_blank"} - che oramai è così _mainstream_ che 'sto link ancora un po' mi si scigolie...ma adorando praticamente tutto quello che fa non potevo escluderlo
 
-- [**Dalla parte di Asso**](http://prontoallaresa.blogspot.com/){:target="_blank"} - Casa digitale di Roberto Recchioni, curatore di Dylan Dog e blogger pungente e polemico, ma che spesso ci prende un bel po' 
+- [**Dalla parte di Asso**](http://prontoallaresa.blogspot.com/){:target="_blank"} - casa digitale di Roberto Recchioni, curatore di Dylan Dog e blogger pungente e polemico, ma che spesso ci prende un bel po' 
 
-- [**Mauro Biani**](http://maurobiani.it/){:target="_blank"} - Uno dei miei "satirici" preferiti, splendido nell'impiego di soluzioni grafiche, spesso fin troppo di sinistra (direi che in Italia questo è un pregio)
+- [**Mauro Biani**](http://maurobiani.it/){:target="_blank"} - uno dei miei "satirici" preferiti, splendido nell'impiego di soluzioni grafiche, spesso fin troppo di sinistra (direi che in Italia questo è un pregio)
 
-- [**Fran**](http://www.frandemartino.net/){:target="_blank"} - Humor e disegni squisiti pregni di napoletaneità verace, spesso dolceamara, a cui difficilmente so resistere
+- [**Fran**](http://www.frandemartino.net/){:target="_blank"} - humor e disegni squisiti pregni di napoletaneità verace, spesso dolceamara, a cui difficilmente so resistere
