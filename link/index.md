@@ -13,7 +13,7 @@ Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Inter
 
 <ul class="th-grid">
 <li>
-  <a href="www.arcweb.it"><img src="/images/arcweb.jpg">
+  <a href="http://www.arcweb.it"><img src="/images/arcweb.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Arcweb</h2></a>
   <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster della megaditta più pazza del mondo</p>
 </li>
@@ -51,4 +51,4 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza importanze pa
 
 - [**Mauro Biani**](http://maurobiani.it/) - Uno dei miei "satirici" preferiti, splendido nell'impiego di soluzioni grafiche, spesso fin troppo di sinistra (direi che in Italia questo è un pregio)
 
-- [**Fran**](http://www.frandemartino.net/) - Humor e disegni squisiti pregni di napoletaneità verace, spesso dolceamara, a cui difficilmente so resistere
+- [**Fran**](http://www.frandemartino.net/){:target="_blank"} - Humor e disegni squisiti pregni di napoletaneità verace, spesso dolceamara, a cui difficilmente so resistere
