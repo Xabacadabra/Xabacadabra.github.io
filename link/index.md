@@ -11,20 +11,39 @@ Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Inter
 
 ## Affiliati
 
-1. Arcweb
-   Nel dubbio, l'Autore. Nella certezza, il webmaster della megaditta più pazza del mondo 
-2. Cetramod
+<ul class="th-grid">
+<li>
+  <a href="#"><img src="/images/arcweb.jpg">
+  <h2 class="post-title"><i class="fa fa-circle"></i> Arcweb</h2></a>
+  <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster della megaditta più pazza del mondo</p>
+</li>
+
+<li>
+  <a href="#"><img src="/images/teasercetramod.jpg">
+  <h2 class="post-title"><i class="fa fa-circle"></i> Cetramod</h2></a>
+  <p class="post-excerpt">Il forum più bello del mondo (perché ci scriviamo solo io e quello del link di prima)</p>
+</li>
+</ul>
+
+Preciso che il resto è tutto ordinato seguendo il criterio da loculo al cimitero
+
+## Siti
+
+1. **SadNES City** - Miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose dei traduttori anglofoni
+2. **Retroedicola** - Da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante riviste da cui Xaba Cadabra prende diretta ispirazione
+3. **Gazebo** - Il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
 
 ## Blog
 
-1. L'Antro Atomico
-2. Come Non Detto
-3. David Revoy
-4. Silvia Ziche
-5. Zerocalcare
-6. Dalla parte di Asso
-7. Mauro Biani
-
+1. **L'Antro Atomico** - Il Blog italiano per eccellenza. (spero che Beppe Grillo non is offenda)
+2. **Come Non Detto** - Il Papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
+3. **David Revoy** - [in inglese] Un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. Un piacere da leggere e da guardare
+4. **Silvia Ziche** - Una delle massime regine del fumetto disneyano all'italiana. Da _Il Grande Splash_ in poi, per il sottoscritto è assurta a Maestra di Vita
+5. **Zerocalcare** - Che oramai è così _mainstream_ che 'sto link ancora un po' mi si scigolie...ma adorando praticamente tutto quello che fa non potevo escluderlo
+6. **Dalla parte di Asso** - Casa digitale di Roberto Recchioni, curatore di Dylan Dog e blogger pungente e polemico, ma che spesso ci prende un bel po' 
+7. **Mauro Biani** - Uno dei miei "satirici" preferiti, splendido nell'impiego di soluzioni grafiche, spesso fin troppo di sinistra (direi che in Italia questo è un pregio)
+8. **Fran** - Humor e disegni squisiti, napoletaneità verace, spesso dolceamara, a cui difficilmente io so resistere
+9. **Makkox** - 
 
 <ul class="th-grid">
 <li>
