@@ -17,7 +17,7 @@ Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Inter
 <li>
   <a href="http://www.arcweb.it" target="blank"><img src="/images/arcweb.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Arcweb</h2></a>
-  <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster della megaditta più pazza del mondo</p>
+  <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster del Giuggizzu e Santa Rosalia™ </p>
 </li>
 
 <li>
@@ -27,7 +27,7 @@ Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Inter
 </li>
 </ul>
 
-Il resto è quasi tutto ordinato come un loculo al cimitero (senza importanze particolari)
+Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze particolari)
 
 ### <i class="fa fa-globe"></i> Siti
 
@@ -45,7 +45,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza importanze pa
 
 - [**Come Non Detto**](https://leortola.wordpress.com/){:target="_blank"} - il papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
 
-- [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - [in inglese] un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. Un piacere da leggere e da guardare
+- [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - [in inglese] un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. 
 
 - [**Silvia Ziche**](http://www.silviaziche.com/){:target="_blank"} - una delle massime regine del fumetto disneyano all'italiana. Da _Il Grande Splash_ in poi, per il sottoscritto è assurta a Maestra di Vita
 
