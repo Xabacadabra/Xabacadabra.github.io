@@ -7,7 +7,24 @@ image:
 published: true
 ---
 
-Siti e Blog amici o consigliati per un motivo o per l'altro, tutti angoli dell'Internet che a mio avviso vale la pena visitare almeno una volta prima di sconnettersi in modo perpetuo dall'esistenza.
+Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Internet che a mio avviso vale la pena visitare almeno una volta prima di sconnettersi in modo perpetuo dall'esistenza.
+
+## Affiliati
+
+1. Arcweb
+   Nel dubbio, l'Autore. Nella certezza, il webmaster della megaditta più pazza del mondo 
+2. Cetramod
+
+## Blog
+
+1. L'Antro Atomico
+2. Come Non Detto
+3. David Revoy
+4. Silvia Ziche
+5. Zerocalcare
+6. Dalla parte di Asso
+7. Mauro Biani
+
 
 <ul class="th-grid">
 <li>
