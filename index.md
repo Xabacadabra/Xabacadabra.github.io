@@ -39,7 +39,7 @@ SimpleJekyllSearch({
   Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
 </div><!-- /.tile -->
 
-<!-<div class="tile">
+<div class="tile">
   <h2 class="post-title"><i class="fa fa-rocket"></i> Powered By</h2>
   <p>Xaba Cadabra utilzza <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>, è compatibile con tutti i Browser più aggiornati e supporta un'interfaccia a portata di smartphone. 
   </p>
