@@ -28,9 +28,7 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
 })
-</script>  
-
-<hr align="center"> 
+</script>
 
 <div class="tiles">
 
