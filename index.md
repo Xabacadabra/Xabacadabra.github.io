@@ -2,7 +2,11 @@
 layout: home
 permalink: /
 image:
+<<<<<<< HEAD
   feature: galbadia.jpg
+=======
+  feature: home.jpg
+>>>>>>> origin/master
 ---
 
 <div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
