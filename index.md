@@ -22,14 +22,16 @@ image:
 <!-- Script pointing to jekyll-search.js -->
 <script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
 
+## Ricerca
+{: .notice}
+
 <script type="text/javascript">
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
 })
-</script>
-{: .notice}  
+</script>  
 
 <div class="tiles">
 
