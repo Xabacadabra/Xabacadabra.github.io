@@ -31,6 +31,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
+- [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} - specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod
+
 - [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
 
 - [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra prende diretta ispirazione
