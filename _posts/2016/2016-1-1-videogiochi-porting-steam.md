@@ -44,6 +44,10 @@ Detto sinceramente non fosse per Sakaguchi, Uematsu ed i bellissimi artwork mi s
 
 Che è solo su GOG, mentre lo splendido Bloodlines è già su Steam...sinceramente Redemption lo trovo invecchiato parecchio male sul profilo del gameplay, ed è uno di quei giochi che meriterebbero una bella riedizione luccicosa visto che portava in scena una trama splendida e coglieva alla perfezione lo spirito di Mondo di Tenebra (per quanto abbastanza linearmente, se confrontato alle potenzialità ruolistiche del suo successore)
 
+## Final Fantasy Tactics e Tactics Ogre
+
+Li metto insieme perché stretti parenti, e perché contano ambedue degli ottimi remake/porting su PSP da cui "attingere"
+
 ## Castlevania: Symphony of the Night
 
 Restando in tema vampiresco...probabilmente uno dei giochi più belli nel suo genere. Certo, dare soldi a Konami mi darebbe abbastanza fastidio visto i trascorsi kojimiani (si vedano i post su Metal Gear Solid 5 per ulteriori informazioni), ma parliamo di un capolavoro che meriterebbe di essere multipiattaformato in lungo e in largo
