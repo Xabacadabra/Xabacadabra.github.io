@@ -22,9 +22,6 @@ image:
 <!-- Script pointing to jekyll-search.js -->
 <script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
 
-## Ricerca
-{: .notice}
-
 <script type="text/javascript">
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
@@ -44,8 +41,12 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-rocket"></i> Powered By</h2>
-  <p>Xaba Cadabra utilzza <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>, è compatibile con tutti i Browser più aggiornati e supporta un'interfaccia a portata di smartphone. 
-  </p>
+  <p><a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>.
+  <!-- Inserisci questo codice nel punto in cui vuoi che venga visualizzato il badge -->
+  <a href="//plus.google.com/u/0/110802041334218664272?prsrc=3"
+   rel="publisher" target="_top" style="text-decoration:none;">
+  <img src="//ssl.gstatic.com/images/icons/gplus-64.png" alt="Google+" style="border:0;width:64px;height:64px;"/>
+</a></p>  
 </div><!-- /.tile -->
 
 <div class="tile">
