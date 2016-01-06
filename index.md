@@ -30,7 +30,7 @@ SimpleJekyllSearch({
 })
 </script>  
 
-<hr>
+<hr align="center"> 
 
 <div class="tiles">
 
