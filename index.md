@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: cascate.gif
+  feature: galbadia.jpg
 ---
 
 <div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
