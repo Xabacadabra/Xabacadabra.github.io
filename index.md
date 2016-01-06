@@ -13,13 +13,14 @@ image:
   {% endfor %}
 </div>
 
+----------------
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
 <ul id="results-container"></ul>
 </div>
 
-<div style="color:#0000FF">
 <!-- Script pointing to jekyll-search.js -->
 <script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
 
@@ -29,8 +30,9 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
 })
-</script>
-</div>  
+</script>  
+
+----------------
 
 <div class="tiles">
 
