@@ -14,7 +14,7 @@ image:
 </div>
 
 <!-- Html Elements for Search -->
-<div id="search-container" style="color: #0900C4">
+<div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
 <ul id="results-container"></ul>
 </div>
@@ -30,7 +30,7 @@ SimpleJekyllSearch({
 })
 </script>  
 
-<div align="center">----------------</div>
+<hr>
 
 <div class="tiles">
 
