@@ -11,11 +11,12 @@ image:
   {% for post in site.posts limit:4 %}
     {% include post-grid.html %}
   {% endfor %}
+</div>
 
-<figure align="center">
-<p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
+<div class="tiles">
+  <figure>
+   <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
 </figure>
-
 </div>
 
 <!-- Html Elements for Search -->
