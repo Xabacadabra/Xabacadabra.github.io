@@ -13,12 +13,6 @@ image:
   {% endfor %}
 </div>
 
-<div class="tiles">
-  <figure>
-   <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
-</figure>
-</div>
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -37,6 +31,12 @@ SimpleJekyllSearch({
 </script>
 
 <div class="tiles">
+
+<div>
+  <figure>
+   <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
+</figure>
+</div>
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
