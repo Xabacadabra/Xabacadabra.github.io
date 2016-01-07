@@ -13,8 +13,10 @@ image:
   {% endfor %}
 </div>
 
-<div align="center" class="tiles">
+<div align="center">
+<figure>
 <img src="/images/SCIMMIE.gif" alt="scimmie">
+</figure>
 </div>
 
 <!-- Html Elements for Search -->
