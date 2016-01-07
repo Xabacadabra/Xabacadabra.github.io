@@ -12,11 +12,9 @@ image:
     {% include post-grid.html %}
   {% endfor %}
 
-<div align="center">
-<figure>
+<figure align="center">
 <img src="/images/SCIMMIE.gif" alt="scimmie">
 </figure>
-</div>
 
 </div>
 
