@@ -36,14 +36,14 @@ SimpleJekyllSearch({
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
   <p class="post-excerpt">Xaba Cadabra è un blog, un <i><a href="/2013/cetramod/">Cetramod</a> ad personam</i> ed un aggregatore di tutto quello che <a href="/about/"><b>Xab</b></a> combina in rete (o quasi). 
 
-  Per saperne di più sulla sua storia, <a href="/blog/story/">clicca qui.</a></p> 
+  Per saperne di più sulla sua storia, <a href="/blog/story/"><b>clicca qui.</b></a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-rocket"></i> Powered By</h2>
   <p><a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>.
 
-  Xaba Cadabra è assolutamente libero da pubblicità e [Cookies](https://it.wikipedia.org/wiki/Cookie)</p>
+  Xaba Cadabra <b>è al 100% privo di pubblicità e <a href="https://it.wikipedia.org/wiki/Cookie">cookies</a></b></p>
 </div><!-- /.tile -->
 
 <div class="tile">
