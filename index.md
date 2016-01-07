@@ -30,13 +30,13 @@ SimpleJekyllSearch({
 })
 </script>
 
-<div class="tiles">
-
 <div>
   <figure>
    <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
 </figure>
 </div>
+
+<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
