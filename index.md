@@ -22,6 +22,10 @@ image:
 <!-- Script pointing to jekyll-search.js -->
 <script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
 
+<div align="center">
+<img src="/images/SCIMMIE.gif" alt="scimmie">
+</div>
+
 <script type="text/javascript">
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
