@@ -13,7 +13,7 @@ image:
   {% endfor %}
 
 <figure align="center">
-<img src="/images/SCIMMIE.gif" alt="scimmie">
+<center><img src="/images/SCIMMIE.gif" alt="scimmie"></center>
 </figure>
 
 </div>
