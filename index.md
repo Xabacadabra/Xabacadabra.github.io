@@ -13,7 +13,7 @@ image:
   {% endfor %}
 </div>
 
-<div align="center">
+<div align="center" class="tiles">
 <img src="/images/SCIMMIE.gif" alt="scimmie">
 </div>
 
