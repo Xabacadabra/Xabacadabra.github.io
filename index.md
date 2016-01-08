@@ -4,6 +4,9 @@ permalink: /
 image:
   feature: centra.gif
 ---
+<div>
+  (Il blog è ancora in fase di migrazione, aspettatevi errori, macelli con disqus e redirect strani)
+</div>
 
 <div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
