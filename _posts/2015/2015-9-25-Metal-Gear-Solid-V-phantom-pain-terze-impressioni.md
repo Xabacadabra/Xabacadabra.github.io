@@ -3,7 +3,7 @@ layout: article
 title: "Metal Gear Solid V: The Phantom Pain | Terze Impressioni a freddo"
 modified: null
 categories: [2015]
-excerpt: "Sono più 60 ore. Che ho smesso di contare le ore. Devo ancora raggiungere il "vero finale", per cui preciso che la recensione..."
+excerpt: "Sono più 60 ore. Che ho smesso di contare le ore. Devo ancora raggiungere il vero finale, per cui preciso che la recensione..."
 tags: [videogiochi]
 image: 
   feature: mgsv3.jpg
