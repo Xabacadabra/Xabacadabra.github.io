@@ -40,9 +40,9 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
-  <p class="post-excerpt">Xaba Cadabra è un blog, un <i><a href="/2013/cetramod/">Cetramod</a> ad personam</i> ed un aggregatore di tutto quello che <a href="/about/"><b>Xab</b></a> combina in rete (o quasi). 
+  <p class="post-excerpt">Xaba Cadabra è un blog, un <i><a href="/2013/cetramod/">Cetramod</a> ad personam</i> ed un aggregatore di tutto quello che <a href="/about/"><b>Xab</b></a> combina in rete (o quasi).</p> 
 
-  Per saperne di più sulla sua storia, <a href="/blog/story/"><b>clicca qui.</b></a></p> 
+  <p>Per saperne di più sulla sua storia, <a href="/blog/story/"><b>clicca qui.</b></a></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -52,9 +52,8 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-phone-square"></i> Contatti</h2>
-  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89"><b>inviarmi un tweet</b></a>. (no messaggi privati please)
-
-  Per il resto, valgono i profili sociali qua sotto </p>
+  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89"><b>inviarmi un tweet</b></a>. (no messaggi privati please)</p>
+  <p>Per il resto, valgono i profili sociali qua sotto</p>
 </div><!-- /.tile -->
 
 <div class="tile">
