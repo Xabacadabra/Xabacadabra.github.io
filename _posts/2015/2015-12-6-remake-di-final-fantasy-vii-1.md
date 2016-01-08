@@ -45,9 +45,9 @@ Cioè: non c'è ancora nulla di sputtanoso (_per ora_), e questo è un bene.
 
 Grossomodo sembrano aver reso giustizia all'intro originale, e non è davvero cosa da poco... 
 
-**Ma NON è FF7. 
+**Ma NON è FF7.** 
 
-Com'è anche giusto che sia.**
+**Com'è anche giusto che sia.**
 
 È un remake e, in quanto tale, sarà chiaramente qualcos'altro: previsto e messo in conto...il guaio è che da un lato sarà sì un gioco nuovo, magari anche bello, ma di cui temo finirò per prevedere ogni cosa.
 
