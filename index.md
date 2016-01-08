@@ -47,7 +47,7 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-rocket"></i> Powered By</h2>
-  <p><a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>.</p><p>Xaba Cadabra <b>è al 100% privo di pubblicità e <a href="https://it.wikipedia.org/wiki/Cookie">cookies</a></b></p>
+  <p><a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>. Per saperne di più, a <href="/blog/poweredby/">leggi qua</a>.</p><p>Xaba Cadabra <b>è al 100% privo di pubblicità e <a href="https://it.wikipedia.org/wiki/Cookie">cookies</a></b></p>
 </div><!-- /.tile -->
 
 <div class="tile">
