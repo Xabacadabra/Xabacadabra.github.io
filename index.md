@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: pozzo.gif
+  feature: palazzone.gif
 ---
 <div>
   (Il blog è ancora in fase di migrazione, aspettatevi errori, macelli con disqus e redirect strani)
