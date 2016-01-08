@@ -17,7 +17,7 @@ kramdown:
   toc_levels: 1..2
 highlighter: pygments
 gems:
-  - jekyll-sitemap
+#  - jekyll-sitemap
   
 # Site owner
 owner:
