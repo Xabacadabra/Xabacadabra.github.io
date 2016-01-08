@@ -3,7 +3,7 @@ layout: article
 title: Il Femminismo Oggi Le avventure di Renza & Co
 modified: null
 categories: [2013]
-excerpt: "Venite a scoprire le deliranti e sagaci avventure dell'elfo oscuro più bonaccione del mondo..."
+excerpt: "Altrimenti detto se questi fumetti li disegnava un uomo finiva crocifisso, ma evidentemente il titolo era troppo lungo..."
 tags: 
    - recensioni
    - fumetti
