@@ -14,7 +14,7 @@ published: true
 comments: true
 ---
 
-Da qualche tempo mi è capitato di notare come, sopratutto tra le Pagine di Facebook, risulti di moda farsi fighi nel non utilizzare emoticon, in genere quelle testuali (e aggiungendo un punto ad ogni paragrafo. Che sarà pure italiano corretto, ma su internet mi fa sempre immaginare [^Percy] Weasley dall'altro lato della tastiera.)
+Da qualche tempo mi è capitato di notare come, sopratutto tra le Pagine di Facebook, risulti di moda farsi fighi nel non utilizzare emoticon, in genere quelle testuali (e aggiungendo un punto ad ogni paragrafo. Che sarà pure italiano corretto, ma su internet mi fa sempre immaginare Percy Weasley[^Percy] dall'altro lato della tastiera.)
 
 [^Percy]: Se non siete pratici _Harry Potter_, sostituite pure "Percy Weasley" con "Puffo Quattrocchi" o "Cagacazzi", che tanto è uguale.  
   
