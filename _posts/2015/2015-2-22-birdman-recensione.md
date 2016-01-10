@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Birdman | Recensione"
+title: "Birdman [Recensione]"
 modified: null
 categories: [2015]
 excerpt: "Ho sentito quel qualcosa che mi facevano sentire i film di Kubrick."

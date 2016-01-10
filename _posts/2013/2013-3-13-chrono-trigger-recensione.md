@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Chrono Trigger | Recensione"
+title: "Chrono Trigger [Recensione]"
 modified: null
 categories: [2013]
 excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."

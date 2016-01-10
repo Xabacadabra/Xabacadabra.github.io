@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Drizzit | Recensione
+title: Drizzit [Recensione]
 modified: null
 categories: [2013]
 excerpt: "Venite a scoprire le deliranti e sagaci avventure dell'elfo oscuro più bonaccione del mondo..."

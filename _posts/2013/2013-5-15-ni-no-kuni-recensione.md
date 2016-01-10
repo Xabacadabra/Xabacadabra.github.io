@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Ni no Kuni | Recensione"
+title: "Ni no Kuni [Recensione]"
 modified: 2015-12-22T00:00:00.000Z
 categories: [2013]
 excerpt: "Sintetizzandola in breve, potrei dire da subito che Ni no Kuni è la testimonianza vivente dell'..."

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Metal Gear Solid V: The Phantom Pain | Recensione"
+title: "Metal Gear Solid V: The Phantom Pain [Recensione]"
 modified: null
 categories: [2015]
 excerpt: "Lo dico subito ? Lo dico subito: The Phantom Pain è ..."

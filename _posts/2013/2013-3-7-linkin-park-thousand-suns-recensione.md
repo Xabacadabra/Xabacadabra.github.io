@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Linkin Park - A Thousand Suns | Recensione"
+title: "Linkin Park - A Thousand Suns [Recensione]"
 modified: null
 categories: [2013]
 excerpt: "Questa non è una recensione per i fan dei Linkin Park, essendo scritta da un loro fan per modo di dire."

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Stardust | Mini-Recensione"
+title: "Stardust [Mini-Recensione]"
 modified: null
 categories: [2015]
 excerpt: "Fantasy neilgaimaniano, quindi per qualche motivo squisitamente digeribile e dal gusto amabilmente britannico:"
