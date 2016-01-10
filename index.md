@@ -62,7 +62,8 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-creative-commons"></i> Licenza</h2>
-  <p class="post-excerpt">Xaba Cadabra di Andrea Corinti è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.</p>
+  <p class="post-excerpt">Xaba Cadabra di Andrea Corinti è distribuito con:</p> 
+  <p>Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
