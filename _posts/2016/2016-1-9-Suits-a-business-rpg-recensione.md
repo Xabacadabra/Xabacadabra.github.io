@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Suits - A Business RPG | Mini-Recensione"
+title: "Suits - A Business RPG [Mini-Recensione]"
 modified: null
 categories: [2016]
 excerpt: "Che dire? Non posso affermare che si tratti di un gioco che tradisce le aspettative ma, sinceramente, mi sa di prodotto molto..."
