@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "La Web Ossessione per la Privacy"
+title: "Web Archive: Archeologia Cybernetica e il Tempo di Internet"
 modified: null
 categories: [2013]
 excerpt: "Chi vive internet, o meglio chi ha vissuto un certo tipo di internet, penso sia senza ombra di dubbio invecchiato precocemente..."
@@ -18,11 +18,11 @@ comments: true
   
 Certe cose del web mi lasciano sempre interdetto.  
   
-Chi _vive_ internet, o meglio chi_ ha vissuto_ un certo tipo di **internet**, penso sia senza ombra di dubbio **invecchiato precocemente**.  
+Chi _vive_ internet, o meglio chi _ha vissuto_ un certo tipo di **internet**, penso sia senza ombra di dubbio **invecchiato precocemente**.  
   
 _Perché ?_  
   
-Perché **ha dovuto adattarsi a rivoluzioni e cambiamenti rapidissimi**, concepire realtà tra loro ben distinte e impietose qual'erano i primi siti, arcaici, e passando per** le chat **(e le varie forme di messaggistica istantanea, come **msn**) **i forum** e quelle gigantesche **community**che incorporavano un po' tutto questo  
+Perché **ha dovuto adattarsi a rivoluzioni e cambiamenti rapidissimi**, concepire realtà tra loro ben distinte e impietose qual'erano i primi siti, arcaici, e passando per** le chat **(e le varie forme di messaggistica istantanea, come **msn**) **i forum** e quelle gigantesche **community** che incorporavano un po' tutto questo  
 
 ## Il Tempo del Web
   
@@ -36,7 +36,7 @@ Oggi sono **lo standard **e anzi già da qualche tempo **sanno di vecchio**, 
   
 Il che poi è anche uno standard **per l'ambito tecnologico**:  
   
-la famosa storia del costosissimo computer _ultrauber next-gen _che, esattamente un secondo dopo il momento dell'acquisto, è già un dinosauro  
+la famosa storia del costosissimo computer _ultrauber next-gen_ che, esattamente un secondo dopo il momento dell'acquisto, è già un dinosauro  
   
 **Il mondo telematico cresce, muta e si evolve (o involve) ad una velocità esponenzialmente superiore a quella del mondo reale**, che sempre più spesso al web si deve suo mal grado adeguare  
 

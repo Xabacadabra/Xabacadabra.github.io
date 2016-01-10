@@ -28,7 +28,7 @@ Ovunque esistono **i nuovi arrivi**
 <img src="http://4.bp.blogspot.com/-icHGaN0C6_8/VE-IBWb6CYI/AAAAAAAAKpY/4_ddbvuO9Jg/s1600/gangsofweb2.png" alt="storia di internet">
 </figure>
   
-Quelli che portano con se un certo tipo di **progresso, sia esso positivo o negativo, contaminando e a volte cancellando quanto c'era in precedenza* 
+Quelli che portano con se un certo tipo di **progresso, sia esso positivo o negativo, contaminando e a volte cancellando quanto c'era in precedenza**
   
 Benvenuti a _Gangs of New Web_  
 
@@ -42,21 +42,17 @@ Benvenuti a _Gangs of New Web_
 <img src="http://4.bp.blogspot.com/-xz3gAQx3mCc/VE9dRuaaeAI/AAAAAAAAKo4/kCiH6ErVVbo/s1600/BASTA56K.png" alt="storia di internet">
 </figure>
   
-Per _**Web 1.0 **_s'intende il (world wide) **Web Statico**, quello fatto di pagine html con qualche immaginetta (e le bestemmie per caricarla all'epoca della connessione 56k)  
+Per _**Web 1.0 **_ s'intende il (world wide) **Web Statico**, quello fatto di pagine html con qualche immaginetta (e le bestemmie per caricarla all'epoca della connessione 56k)  
   
-In sostanza, l'Internet di quel tempo era considerabile quasi unicamente strumento di**
-
-consultazione**  
+In sostanza, l'Internet di quel tempo era considerabile quasi unicamente strumento di **consultazione**  
   
-Il _**Web 2.0**_, che è quello che stiamo velocemente lasciandoci alle spalle, è caratterizzato dai social network, cioè dalla continua e preponderante 
-
-**interazione** del web-surfer  
+Il _**Web 2.0**_, che è quello che stiamo velocemente lasciandoci alle spalle, è caratterizzato dai social network, cioè dalla continua e preponderante **interazione** del web-surfer  
   
 Ecco, il web più figo per me sta a cavallo tra questi due: chiamiamolo **Web 1.5**  
 
-## Perché il Web 1.5 era lu megghiu
+## Perché il Web 1.5 era bellissimo
 
- Ok qui siamo andati un pelino troppo indietroAldilà del fatto che c'era [**Cetramod**](http://xabacadabra.com/2013/cetramod) in pompa magna a spirale con risucchio, complessivamente l'ambiente di **forum**, **blog **e sopratutto **community che mischiavano vecchi siti statici a piattaforme di messaggistica **(con un canale **IRC**, se non con i sopracitati forum) forniva **una straordinaria esperienza di connessione collettiva** che detta così fa molto Woodstock ed in effetti siamo li :  
+ Aldilà del fatto che c'era [**Cetramod**](http://xabacadabra.com/2013/cetramod) in pompa magna a spirale con risucchio, complessivamente l'ambiente di **forum**, **blog **e sopratutto **community che mischiavano vecchi siti statici a piattaforme di messaggistica **(con un canale **IRC**, se non con i sopracitati forum) forniva **una straordinaria esperienza di connessione collettiva** che detta così fa molto Woodstock ed in effetti siamo li :  
   
 Non che tutto fosse rosa e fiori, ovvio, semplicemente **con un internet meno massivo e più "elitario"**, meno aperto all'uomo della strada che uccise [Jimmy il Pedofilo](https://www.youtube.com/watch?v=jEiEZdY2kQA) insomma, era riscontrabile **più contenuto e meno _rumore_ **  
 
@@ -78,8 +74,8 @@ Ecco, di lui è complicato parlare.
   
 Lo scopriremo solo navigando.  
   
-E, sopratutto, in base a **_dove _navigheremo**, visto che la rivoluzione di **smartphone e tablet**rappresenta il più grosso cambiamento internettiano degli ultimi anni  
+E, sopratutto, in base a **_dove _navigheremo_**, visto che la rivoluzione di **smartphone e tablet** rappresenta il più grosso cambiamento internettiano degli ultimi anni.  
   
-Poi beh, se chiunque può scrivere qualsiasi cosa anche direttamente dal cesso poi non ci si dovrebbe stupire se in rete si leggono tante cagate (tipo questa)  
+Va detto poi che se chiunque può scrivere qualsiasi direttamente dal cesso non ci si dovrebbe stupire se in rete si vedono tante cagate (e spesso questo blog non fa eccezione!)
   
 PS: Se vorreste darvi davvero l'idea di com'eravamo come controprova, leggetevi **[questo mio vecchio post](http://xabacadabra.com/2013/web-archive-archeologia-cybernetica) **e riscopritevi neo-archeologi digitali
