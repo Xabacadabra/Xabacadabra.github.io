@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Marvel's Jessica Jones | Recensione [S1]"
+title: "Marvel's Jessica Jones [Recensione S1]"
 modified: null
 categories: [2015]
 excerpt: "Jessica Jones è una bella serie.
