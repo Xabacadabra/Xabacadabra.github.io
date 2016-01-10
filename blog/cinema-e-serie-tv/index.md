@@ -6,6 +6,6 @@ image:
 published: true
 ---
 <figure class="half">
-  <a href="/blog/tag/cinema/"><img src="/images/cinemagrande.jpg"></a>
-  <a href="/blog/tag/serie-tv/"><img src="/images/serietv.jpg"></a>
+  <a href="/blog/tag/cinema/"><img src="/images/cinemagrande.jpg" alt="cinema"></a>
+  <a href="/blog/tag/serie-tv/"><img src="/images/serietv.jpg" alt="serie-tv"></a>
 </figure>
