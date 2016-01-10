@@ -62,7 +62,7 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-creative-commons"></i> Licenza</h2>
-  <p class="post-excerpt"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" align="center"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Xaba Cadabra</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="http://xabacadabra.github.io/" property="cc:attributionName" rel="cc:attributionURL"> Andrea Corinti</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.</p>
+  <p class="post-excerpt">Xaba Cadabra di Andrea Corinti è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
