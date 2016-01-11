@@ -172,3 +172,19 @@ Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede 
 
 I braccobaldi non possono che essere **5 su 5** !
 {: .notice-success}
+
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"VideoGame",
+  "name":"Xenogears"
+  "author":"Andrea Xab Corinti"
+  "publisher": {
+    "@type":"Organization",
+    "name":"Squaresoft",
+  }
+    "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+}
+</script>
