@@ -192,7 +192,7 @@ I braccobaldi non possono che essere **5 su 5** !
       "name": "Andrea Xab Corinti"
    },
    "datePublished": "2016-01-02",
-    "reviewBody": "Xenogears è solo per il penitente che vorrà passare, un percorso di fede realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri",
+    "reviewBody": "Xenogears è solo per il penitente che vorrà passare, un percorso di fede realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri"
   }
 
 </script>
