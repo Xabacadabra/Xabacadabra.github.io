@@ -32,10 +32,10 @@ In senso buono, certo, ma m'inquietava, **sembrava mettere in discussione tutto 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/7zRMTyK_Boo" frameborder="0" allowfullscreen></iframe>
 
-Del resto David Bowie è una figura che associo indistintamente agli ascolti dei miei genitori, ad ogni forma di creatività visiva, a Hideo Kojima, a classici del Pop tanto quanto della Musica Sperimentale, a Zoolander, al Sax, a Freddie Mercury, a [Labyrinth](https://it.wikipedia.org/wiki/Labyrinth_-_Dove_tutto_%C3%A8_possibile)...a tutta una serie di universi che tra loro non dovrebbero c'entrare nulla.
+Del resto David Bowie è una figura che associo indistintamente agli ascolti dei miei genitori, ad ogni forma d'arte visiva oltre che sonora, a Hideo Kojima, a classici del Pop tanto quanto della Musica Sperimentale, a Zoolander, al Sax, a Freddie Mercury, a [Labyrinth](https://it.wikipedia.org/wiki/Labyrinth_-_Dove_tutto_%C3%A8_possibile)...a tutta una serie di universi che tra loro non dovrebbero c'entrare nulla.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Tgcc5V9Hu3g" frameborder="0" allowfullscreen></iframe>
 
 Forse proprio per questo, **David Bowie era, è e resta un nome con cui si può sintetizzare tutto ciò che è Creatività.**
 
-E nel corso della storia della storia umana, direi che non ce ne sono stati mica tanti, di nomi così.
+E nel corso della storia umana, direi che non ce ne sono stati mica tanti, di nomi così.
