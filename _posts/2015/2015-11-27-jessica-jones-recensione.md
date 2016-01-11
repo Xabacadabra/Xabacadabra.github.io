@@ -83,3 +83,25 @@ Insomma: **niente male ragazza**, però perdonami...ci sono davvero tante squadr
 
 **Tre Braccobaldi e mezzo su 5!**
 {: .notice-success}
+
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"TVSeries",
+  "name":"Marvel's Jessica Jones", 
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "3.5"
+    },
+    "name": "Un tributo ad un certo stile telefilmico anni '90",
+    "author": {
+      "@type": "Person",
+      "name": "Andrea Xab Corinti"
+   },
+   "datePublished": "2015-11-27",
+    "reviewBody": "Jessica Jones è una serie meritevole, molto femminile ed emancipata in un senso genuinamente tosto e maturo, ma che tende a ribadire un po' troppo le stesse cose in troppi episodi"
+  }
+}
+</script>
