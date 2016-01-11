@@ -178,13 +178,16 @@ I braccobaldi non possono che essere **5 su 5** !
   "@context":"http://schema.org",
   "@type":"VideoGame",
   "name":"Xenogears"
-  "author":"Andrea Xab Corinti"
+  "author": {
+    "@type": "Person",
+    "name": "Andrea Xab Corinti"
+  }
   "publisher": {
     "@type":"Organization",
     "name":"Squaresoft",
   }
-    "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-}
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5"
+  }
 </script>
