@@ -168,7 +168,7 @@ E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tan
 
 ## Valutazione
 
-Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede chesitrasformainunrazzomissile/cuoreacciaio, **concepito per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri** (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), che saprà abbondantemente ripagare, donando una delle massime esperienze videoludiche a chiunque avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
+Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede **realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri** (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), che saprà abbondantemente ripagare, donando una delle massime esperienze videoludiche a chiunque avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
 
 I braccobaldi non possono che essere **5 su 5** !
 {: .notice-success}
@@ -180,19 +180,19 @@ I braccobaldi non possono che essere **5 su 5** !
   "name":"Xenogears",
   "operatingSystem": "PlayStation",
   "applicationCategory": "http://schema.org/Game" 
-   }
-
-  "author": {
-    "@type": "Person",
-    "name": "Andrea Xab Corinti"
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+    },
+    "name": "La storia più complessa dei videogiochi",
+    "author": {
+      "@type": "Person",
+      "name": "Andrea Xab Corinti"
+   },
+   "datePublished": "2016-01-02",
+    "reviewBody": "Xenogears è solo per il penitente che vorrà passare, un percorso di fede realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri",
   }
 
-  "publisher": {
-    "@type":"Organization",
-    "name":"Squaresoft",
-  }
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "5"
-  }
 </script>
