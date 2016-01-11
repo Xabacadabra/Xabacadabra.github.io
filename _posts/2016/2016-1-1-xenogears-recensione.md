@@ -179,7 +179,7 @@ I braccobaldi non possono che essere **5 su 5** !
   "@type":"VideoGame",
   "name":"Xenogears",
   "operatingSystem": "PlayStation",
-  "applicationCategory": "http://schema.org/Game" 
+  "applicationCategory": "http://schema.org/Game", 
   "review": {
     "@type": "Review",
     "reviewRating": {
