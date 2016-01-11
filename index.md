@@ -50,20 +50,20 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-rocket"></i> Powered By</h2>
-  <p>Questo sito è costruito utilizzando <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>.</p>
-  <p>Xaba Cadabra <b>è al 100% privo di pubblicità e <a href="https://it.wikipedia.org/wiki/Cookie">cookies</a></b></p>
+  <p class="post-excerpt">Questo sito è costruito utilizzando <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">Github</a>, <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a> e <a href="https://disqus.com/">Disqus</a>.</p>
+  <p class="post-excerpt">Xaba Cadabra <b>è al 100% privo di pubblicità e <a href="https://it.wikipedia.org/wiki/Cookie">cookies</a></b></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-phone-square"></i> Contatti</h2>
   <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89"><b>inviarmi un tweet</b></a>. (no messaggi privati please)</p>
-  <p>Per il resto, valgono i profili sociali qua sotto</p>
+  <p class="post-excerpt">Per il resto, valgono i profili sociali qua sotto</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-creative-commons"></i> Licenza</h2>
-  <p class="post-excerpt">Xaba Cadabra di Andrea Corinti è distribuito con:</p> 
-  <p>Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.</p>
+  <p class="post-excerpt">Xaba Cadabra di Andrea Corinti è protetto da:</p> 
+  <p class="post-excerpt">Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
