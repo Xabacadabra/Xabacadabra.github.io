@@ -83,3 +83,25 @@ Consigliata a tutti quanti, imprescindibile per i veri amanti del genere: solo p
 
 **Quattro Braccobaldi e mezzo su 5!**
 {: .notice-success}
+
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"TVSeries",
+  "name":"Narcos", 
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4.5"
+    },
+    "name": "Una delle Serie TV più solide, intense e ben dirette che io abbia mai visto negli ultimi anni",
+    "author": {
+      "@type": "Person",
+      "name": "Andrea Xab Corinti"
+   },
+   "datePublished": "2015-11-29",
+    "reviewBody": "Narcos è uno di quei casi in cui tutta la potenza del racconto romanzato può rendere partecipi di vera storia, pur trascendendo la fredda schematica dell'inchiesta giornalistica"
+  }
+}
+</script>
