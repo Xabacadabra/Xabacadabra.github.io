@@ -37,7 +37,7 @@ Poi, a beneficio di chi dovesse capitare su questo blog per la prima volta:
 
 Bene, chiariti questi punti, avrete capito da voi che _Suburra_ sembra essere un film fatto apposta per i miei gusti.
 
-E questo nonostante Claudio _"Cesaroni"_ Amendola![Amendola^] (si scherza eh!)
+E questo nonostante Claudio _"Cesaroni"_ Amendola! [Amendola^] (si scherza eh!)
 
 [^Amendola]: Per carità Amendola è un bravo attore (in questo film direi pure bravissimo), però, a parte brivido, terrore e raccapriccio dovuti alla fresca memoria de _I Cesaroni_, c'è anche una ragione personale molto ma molto stronza per cui ho qualche preconcetto su di lui: non riesco a capacitarmi di come il figlio di Sua Maestà Ferruccio possa ritrovarsi quella vociastra lì.
 
