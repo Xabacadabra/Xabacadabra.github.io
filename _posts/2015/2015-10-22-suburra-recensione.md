@@ -37,7 +37,7 @@ Poi, a beneficio di chi dovesse capitare su questo blog per la prima volta:
 
 Bene, chiariti questi punti, avrete capito da voi che _Suburra_ sembra essere un film fatto apposta per i miei gusti.
 
-E questo nonostante Claudio _"Cesaroni"_ Amendola![amendola^] (si scherza eh!)
+E questo nonostante Claudio _"Cesaroni"_ Amendola![^amendola] (si scherza eh!)
 
 [^amendola]: Per carità Amendola è un bravo attore (in questo film direi pure bravissimo), però, a parte brivido, terrore e raccapriccio dovuti alla fresca memoria de _I Cesaroni_, c'è anche una ragione personale molto ma molto stronza per cui ho qualche preconcetto su di lui: non riesco a capacitarmi di come il figlio di Sua Maestà Ferruccio possa ritrovarsi quella vociastra lì.
 
@@ -55,7 +55,7 @@ Dirò una cosa che potrebbe suonare abbastanza fraintendibile e mi renderà sicu
   
 **La criminalità romana, cinematograficamente parlando, non mi convince per niente.**  
   
-Amo un sacco il dialetto e l'accento capitolino, l'ho semplicemente adorato in _[Arance e Martello](http://xabacadabra.com/2015/arance-e-martello-recensione/)_, piuttosto che nei vecchi classici di Alberto Sordi (a tratti anche di Tomas Milian), o altri contesti ancora (da _[Gazebo](http://xabacadabra.com/2013/gazebo) a Zerocalcare, ma ecco...in opere simili, secondo me, mostra troppo il fianco.  
+Amo un sacco il dialetto e l'accento capitolino, l'ho semplicemente adorato in _[Arance e Martello](http://xabacadabra.com/2015/arance-e-martello-recensione/)_, piuttosto che nei vecchi classici di Alberto Sordi (a tratti anche di Tomas Milian), o altri contesti ancora (da [Gazebo](http://xabacadabra.com/2013/gazebo) a Zerocalcare), ma ecco...in opere simili, secondo me, mostra troppo il fianco.  
   
 **Il romano non si traduce bene con l'epicità criminale degli eventi e delle scene che mostra.**  
   
