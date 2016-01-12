@@ -5,7 +5,7 @@ modified: null
 categories: [2015]
 excerpt: "Ho sentito quel qualcosa che mi facevano sentire i film di Kubrick."
 tags:
-  - recensione
+  - recensioni
   - cinema
 image: 
   feature: birdmanrecensione.jpg
