@@ -21,9 +21,9 @@ Premesse velocissime, se volete saltate direttamente al paragrafo sotto:
 
 2. Non ho mai letto niente di **Giancarlo De Cataldo** all'infuori di qualche sporadico articolo
 
-3. Ho in compenso** amato follemente _Gomorra _di Sollima figlio***, anche più dell'omonimo libro di Saviano e spaventosamente più del film di Garrone
+3. Ho in compenso **amato follemente _Gomorra_ di Sollima figlio** [^figlio], anche più dell'omonimo libro di Saviano e spaventosamente più del film di Garrone
 
-4. * Figlio perché beh, nel complesso ho visto più opere del **Sollima Sergio** (dal _Corsaro Nero_ a  _Sandokan_,_ _passando per il capolavoro _Città Violenta_)
+[^figlio]: Figlio perché beh, nel complesso ho visto più opere del **Sollima Sergio** (dal _Corsaro Nero_ a _Sandokan_, passando per il capolavoro _Città Violenta_)
 
 Poi, a beneficio di chi dovesse capitare su questo blog per la prima volta:  
 
@@ -35,13 +35,15 @@ Poi, a beneficio di chi dovesse capitare su questo blog per la prima volta:
 
 4. Sono morbosamente ossessionato dalle **vicende politico-malavitose** del nostro paese.
 
-Bene, chiariti questi punti, avrete capito da voi che _Suburra _sembra essere un film fatto apposta per i miei gusti.
+Bene, chiariti questi punti, avrete capito da voi che _Suburra_ sembra essere un film fatto apposta per i miei gusti.
 
 E questo nonostante Claudio _"Cesaroni"_ Amendola![Amendola^] (si scherza eh!)
 
+[^Amendola]: Per carità Amendola è un bravo attore (in questo film direi pure bravissimo), però, a parte brivido, terrore e raccapriccio dovuti alla fresca memoria de _I Cesaroni_, c'è anche una ragione personale molto ma molto stronza per cui ho qualche preconcetto su di lui: non riesco a capacitarmi di come il figlio di Sua Maestà Ferruccio possa ritrovarsi quella vociastra lì.
+
 ## Mafia Capitale negli occhi di chi guarda
 
-**L'estetica di Sollima è uno spettacolo meraviglioso**, complice la bravura di un ottimo**Paolo Carnera** alla fotografia: già solo questo aspetto tecnico-visuale rende _Suburra_ un film stupendo (e, per quanto scemo possa suonare, che bella _pioggia!_ Roba che manco _Matrix_ si sognava!).  
+**L'estetica di Sollima è uno spettacolo meraviglioso**, complice la bravura di un ottimo **Paolo Carnera** alla fotografia: già solo questo aspetto tecnico-visuale rende _Suburra_ un film stupendo (e, per quanto scemo possa suonare, che bella _pioggia!_ Roba che manco _Matrix_ si sognava!).  
   
 **Qualità internazionale, diciamo pure americana, cucita nel più pieno stile italiano.**  
   
@@ -57,9 +59,9 @@ Amo un sacco il dialetto e l'accento capitolino, l'ho semplicemente adorato in 
   
 **Il romano non si traduce bene con l'epicità criminale degli eventi e delle scene che mostra.**  
   
-E certo, _Suburra _narra per massima parte fatti praticamente reali, le inchieste parlano da sole, lo so...ma di fatti** la realtà è una cosa, la narrazione è un'altra**:  
+E certo, _Suburra_ narra per massima parte fatti praticamente reali, le inchieste parlano da sole, lo so...ma di fatti** la realtà è una cosa, la narrazione è un'altra**:  
   
-Detta brutalmente, in termini di teatralità, gesti, pathos ed intensità **ho trovato il napoletano di _Gomorra _uno spettacolo inarrivabile, che linguisticamente ****eclissa**** _Suburra_.**  
+Detta brutalmente, in termini di teatralità, gesti, pathos ed intensità **ho trovato il napoletano di _Gomorra _uno spettacolo inarrivabile, che linguisticamente eclissa _Suburra_.**  
   
 Ecco, per me passa sempre [il vecchio discorso che faceva Fiorello](https://www.youtube.com/watch?v=uy4T3Q1Ckoc) (parlando ovviamente del siciliano).  
   
@@ -73,7 +75,7 @@ Tutto ciò che il personaggio di Favino rappresenta.In questo film **si coglie 
   
 **Ragionando di testa, d'altro canto, c'è molto buio**.  
   
-Buio sui perché, sul come sia possibile uscirne, sul _se _sia possibile uscirne.  
+Buio sui perché, sul come sia possibile uscirne, sul _se_ sia possibile uscirne.  
   
 Ma, diciamocelo: queste sono frasi fatte del cazzo. Fabiofazismi senza capo ne coda.  
   
@@ -85,9 +87,9 @@ Quand'è che la piccola irregolarità del singolo, per effetto domino, inizia pi
   
 Sono cose che fanno pensare.  
   
-**_Suburra_ fa pensare**, ecco, e questo anche se non è certo un film di denuncia o un servizio di_Report_:  
+**_Suburra_ fa pensare**, ecco, e questo anche se non è certo un film di denuncia o un servizio di _Report_:  
   
-**_Suburra _resta comunque (ottimo) intrattenimento, ma, forse proprio questo, l'aspetto di cui sopra trascende in modo ancora più viscerale**.  
+**_Suburra_ resta comunque (ottimo) intrattenimento, ma, forse proprio questo, l'aspetto di cui sopra trascende in modo ancora più viscerale**.  
 
 ## Conclusioni
 
@@ -100,5 +102,3 @@ Probabilmente **troppo concentrato nel suo minutaggio per rapire quanto una Ser
 E non potete capire la mia gioia nel rivedere in Italia questo tipo di film sul grande schermo.  
   
 Onestamente, **fossi un regista italiano del nostro tempo non vorrei essere nessun'altro all'infuori di Stefano Sollima.**
-
-[^Amendola]: Per carità Amendola è un bravo attore (in questo film direi pure bravissimo), però, a parte brivido, terrore e raccapriccio dovuti alla fresca memoria de _I Cesaroni_, c'è anche una ragione personale molto ma molto stronza per cui ho qualche preconcetto su di lui: non riesco a capacitarmi di come il figlio di Sua Maestà Ferruccio possa ritrovarsi quella vociastra lì.

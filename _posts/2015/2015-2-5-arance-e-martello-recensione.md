@@ -15,7 +15,7 @@ published: true
 comments: true
 ---
 
-Della mia stima per **Zoro** (**Diego Bianchi**) e del suo **_[Gazebo](http://xabacadabra.blogspot.it/2013/11/gazebo-perche-son-tornato-guardare-tv.html)_ **televisivo ho già fatto sapere a più riprese, ed è cosa nota per chiunque mi veda bazzicare su **[twitter](https://twitter.com/Xabaras89) **nelle tarde ore della domenica e del lunedì  
+Della mia stima per **Zoro** (**Diego Bianchi**) e del suo **_[Gazebo](http://xabacadabra.com/2013/gazebo)_ **televisivo ho già fatto sapere a più riprese, ed è cosa nota per chiunque mi veda bazzicare su **[twitter](https://twitter.com/Xabaras89) **nelle tarde ore della domenica e del lunedì  
 
 Va da se che TV e Cinema sono cose ben diverse, pur senza dimenticare che il buon Diego proviene anzitutto dal Web...ergo, l'amletico dubbio:  
   
@@ -114,6 +114,6 @@ Ci fa _ridere e pensare._
 
 **_Arance & Martello_ è un film per pochi.**  
   
-E questo non tanto per il suo _romanismo_, quanto più per la sua **connotazione politicizzata**(brutale e del tutto anti-propagandistica), **difficilmente l'italiano medio, che di politica ha la nausea o comunque se ne sbatte, potrà trovarlo interessante.**  
+E questo non tanto per il suo _romanismo_, quanto più per la sua **connotazione politicizzata** (brutale e del tutto anti-propagandistica), **difficilmente l'italiano medio, che di politica ha la nausea o comunque se ne sbatte, potrà trovarlo interessante.**  
   
 Per tutti gli altri, quelli diversi dagli apolidi, gli ultimi veramente _partecipanti_ (forse addirittura anche di destra) è un film assolutamente da vedere
