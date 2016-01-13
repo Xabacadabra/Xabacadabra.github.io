@@ -3,17 +3,13 @@ layout: article
 title: "La Musica Oggi"
 modified:
 categories: [2013]
-excerpt: "Dicevo, parlando dei Pearl Jam nella mia ultima recensione musicale, che mi pareva di notare una certa..."
+excerpt: "Vecchia riflessione sparata un annetto fa riguardo la sindrome dell'epoca d'oro nel senso musicale (e da me che ne sono pure affettissimo !)..."
 tags: [musica]
 comments: true
 image: 
   feature: musicaoggi.jpg
   teaser:  teasermusicaoggi.jpg
 ---
-
-<figure>
-<img src="http://1.bp.blogspot.com/-l0N4MLkCmD4/Umd1CWg2yRI/AAAAAAAAFIU/rg3-mo6NA7s/s400/motorhead-band-2012-570x314.jpg" alt="Motorhead">
-</figure>
 
 Vecchia riflessione sparata un annetto fa riguardo la "sindrome dell'epoca d'oro" nel senso musicale (e da me che ne sono pure affettissimo ! )  
   
