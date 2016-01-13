@@ -10,8 +10,8 @@
   name: musica
 - slug: libri
   name: libri
-- slug: serie tv
-  name: serie tv
+- slug: serie-tv
+  name: serie-tv
 - slug: fumetti
   name: fumetti
 - slug: politica

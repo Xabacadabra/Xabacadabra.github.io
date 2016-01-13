@@ -5,7 +5,7 @@ modified: null
 categories: [2015]
 excerpt: "Una delle Serie TV / Crime Movie / Biografie più solide, intense e ben dirette che io abbia mai visto negli ultimi anni"
 tags:
-  - "serie tv"
+  - serie-tv
   - recensioni
 image: 
   feature: narcos.jpg

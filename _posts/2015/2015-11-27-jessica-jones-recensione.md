@@ -6,7 +6,7 @@ categories: [2015]
 excerpt: "Jessica Jones è una bella serie.
 Un tributo ad un certo stile telefilmico anni '90, ma privo di censure e filleraggio dettati dalla televisività..."
 tags:
-  - "serie tv"
+  - serie-tv
   - recensioni
 image: 
   feature: jessicajones.jpg
