@@ -49,13 +49,13 @@ Mi ricordo distintamente quando il suo nome cominciò ad apparire nei video di y
 >"Questa si che è musica, altro che Justin Bieber "
 >"You say﻿ Justin Bieber,I say PARAMORE!!! You say Lady Gaga,I say Evanescence...."
 
-Sul momento pensai si trattasse di un nomignolo per sfottere Justin Timberlake (sul serio!), poi però vedendo che i suoi detrattori si moltiplicavano come fanno i pokemon di gioco in gioco, mi son detto _"ma chi sarà mai sto tizio per fare tanto cagare ? Andiamo un po' a vedere "_
+Sul momento pensai si trattasse di un nomignolo per sfottere Justin Timberlake (sul serio!), poi però vedendo che i suoi detrattori si moltiplicavano come fanno i pokemon di gioco in gioco, mi son detto _"ma chi sarà mai sto tizio per fare tanto cagare ? Andiamo un po' a vedere"_
 
 ....ecco, non l'avessi mai fatto, ok (galeotta fu la curiosità) ma in definitiva nel suo risultarmi disgustoso Bieber non mi sembrava poi troppo diverso dai vari idoletti pop che si sono susseguiti di volta in volta negli anni.
 
 C'è però un'unica, rilevante eccezione:
 
-*Nel Luglio 2010 il video del singolo _"Baby"_ è diventato il video più visto della storia di Youtube* (sorpassato di recente solo da _Gangnam Style_ ) e che, al momento in cui scrivo ha superato di varie lunghezze le **800 milioni visualizzazioni.**
+**Nel Luglio 2010 il video del singolo _Baby_ è diventato il video più visto della storia di Youtube** (sorpassato di recente solo da _Gangnam Style_ ) e che, al momento in cui scrivo ha superato di varie lunghezze le **800 milioni visualizzazioni.**
 
 Stando all'indice di gradimento di Youtube (il rapporto mi piace / non mi piace), **il video si conferma allo stesso tempo come uno dei più disprezzati di sempre.**
 
