@@ -3,8 +3,8 @@ layout: article
 title: "Divulgazione Culturale del Videogioco"
 modified: null
 categories: [2013]
-excerpt: "Prima di tutto specifico che qui si va a parare direttamente nella Serie A del..."
-tags: [recensioni, videogiochi]
+excerpt: "Videogiochi, arte, cultura e potenziale formativo"
+tags: [xabologia, videogiochi]
 image: 
   feature: divulgazionevideogioco.jpg
   teaser:  Teaserdivulgazionevideogioco.jpg
