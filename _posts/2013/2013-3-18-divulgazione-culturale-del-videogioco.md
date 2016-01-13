@@ -23,12 +23,12 @@ Intendiamoci, so benissimo che molti videogiochi sono dei veri e propri "_conte
 
 <figure>
 	<img src="http://4.bp.blogspot.com/-VGmK5map4vg/UMO-vXA8JGI/AAAAAAAAA_Y/7avQuwJ0Vt8/s1600/videogamesart.jpg" alt="marihol">
-	<figcaption>Itsa me, _Marihol_ !</figcaption>
+	<figcaption>Itsa me, Marihol !</figcaption>
 </figure>
 
 Ecco, partiamo da qui: 
 
-## giocare è un'arte ? 
+## Giocare è un'arte ? 
 
 Mi viene subito in mente un parallelo: in diverse lingue (tra cui l'inglese) _giocare_ e _suonare_ vengono identificati con lo stesso termine.  
   
@@ -36,9 +36,9 @@ La Musica è senza dubbio Arte, non si discute: **ma l'atto di suonare, di _pro
   
 **Suonare e ascoltare sono due cose meravigliose ma estremamente diverse tra loro**, con livelli di concentrazione, impegno e coinvolgimento richiesti in modo e quantità molto diversi...
 
-Giocando noi non stiamo all'effettivo producendo un videogame, certo, ma ci ritroviamo comunque ad interagire con lui in modo _attivo_ e non _passivo_ come accadrebbe ad esempio guardando un film o ascoltando una canzone  
+Giocando noi non stiamo all'effettivo producendo un videogame, certo, ma ci ritroviamo comunque ad interagire con lui in modo _attivo_ e non _passivo_ come accadrebbe ad esempio guardando un film o ascoltando una canzone...  
   
-Si ok, mi fermo che sto divagando: state calmi, non lanciatemi quelle pietre !  
+Ma ok, mi fermo che sto divagando troppo: state calmi, non lanciatemi quelle pietre !  
 
 ## Cultura, Industria, Infanzia
 
@@ -49,18 +49,19 @@ Si ok, mi fermo che sto divagando: state calmi, non lanciatemi quelle pietre !
 	<figcaption>Poi ecco, magari la Muraglia Cinese a Salerno e il Colosso di Rodi a Gallarate si potrebbero evitare</figcaption>
 </figure>
 
-[Già parlai](http://xabacadabra.blogspot.it/2013/03/videogiochi-italiani.html) di come, in Italia, l'industria videoludica se la cagano quanto io mi cago i programmi di Maria de Filippi quindi non mi dilungherò troppo su questo punto che è anche quello mi fa sempre salire un po' la bile.  
+[Già parlai](http://xabacadabra.blogspot.it/2013/03/videogiochi-italiani.html) di come, in Italia, l'industria videoludica sia pressapoco evanescente, ma penso sia il caso di riproporre alcune osservazioni di massima:
   
-Per farla breve **i Videogiochi danno da mangiare**, e pure tanto visto che si parla di un'industria estremamente attiva. 
+Per farla breve, **i Videogiochi danno da mangiare**, pure tanto considerando che si parla di un'industria estremamente attiva. 
   
 Ciò che probabilmente ha minore enfatizzazione, anche nei paesi capitalisti dove la maggior parte dei videogiochi viene prodotta (Stati Uniti e Giappone) è la possibilità del videogioco di farsi valere **anche in ambito accademico.**   
   
-Ora, quell'"accademico" pigliatelo con le pinze, non sto dicendo che i medici dovrebbero laurearsi con _Trauma  Center_ (anche se oh, [forse ad alcuni farsi na partita male non farebbe)](http://www.ilsecoloxix.it/p/italia/2013/02/23/APJ9POpE-stomaco_medici_indagati.shtml), sto pensando più che altro ad un _Civilization_, per fare un esempio classico:  
+Ora, quell'"accademico" pigliatelo con le pinze, **non sto dicendo che i medici dovrebbero laurearsi con _Trauma  Center_** (anche se oh, [forse ad alcuni farsi na partita male non farebbe)](http://www.ilsecoloxix.it/p/italia/2013/02/23/APJ9POpE-stomaco_medici_indagati.shtml), sto pensando più che altro ad un _Civilization_, per fare un esempio classico:  
   
 la celeberrima serie di **Sid Meier** ha infatti offerto negli anni un videogioco strategicamente divertente tanto quanto **congenitamente colto:** 
 
-la **Civilopedia**, oltre a dare fondamentali nozioni strettamente giocose, di fatto è anche per molti versi un un piccolo compendio storico.   
-Ovviamente non dico che _Civilization_, piuttosto che _Age of Empire_ o i_Total War_ di turno possano sostituire delle vere e proprie lezioni, anche perché **non sono certamente nati con questo scopo in mente.**  
+la **Civilopedia**, oltre a dare fondamentali nozioni strettamente giocose, di fatto è anche per molti versi un un piccolo compendio storico.
+
+Ovviamente non dico che _Civilization_, piuttosto che _Age of Empire_ o i _Total War_ di turno possano integrarsi con delle vere e proprie lezioni, anche perché **non sono certamente nati con questo scopo in mente.**  
   
 Ma il punto è: **se così fosse stato** ?  
   
@@ -68,7 +69,7 @@ Se la divulgazione, come l'avrebbe intesa un **Asimov** (leggetevi _Il vagabond
 
 <figure>
 	<img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/2534690/uncharted_4_drake_smile.0.jpg" alt="Nathan Drake">
-	<figcaption>Ok alunni, dite buon giorno al **Professor Drake**, che oggi ci parlerà di Shambala</figcaption>
+	<figcaption>Ok alunni, dite buon giorno al Professor Drake, che oggi ci parlerà di Shambala</figcaption>
 </figure>
 
 Ricordiamoci che i videogiochi nascono, fondamentalmente, come prodotti dedicati **all'infanzia** (spesso vengono ancora relegati _solo_ a questo, ma è un altro discorso) e che quindi hanno parte integrante in quella che è **l'età dell'apprendimento**  
@@ -80,7 +81,7 @@ Improbabile, ma divertente da immaginare !
 <figure>
 	<img src="http://www.tombraiders.net/stella/images/savegame/sg_karate.jpg
 " alt="Lara Croft">
-	<figcaption>"DRAKE ?! INSEGNARE ?!? NON SE QUALCOSA IN PROPOSITO DA DIRE IO HO ! [cit]"</figcaption>
+	<figcaption>"DRAKE ?! INSEGNARE ?!? NON SE QUALCOSA IN PROPOSITO DA DIRE IO HO !"</figcaption>
 </figure>
 
 Probabilmente in molti si ritroveranno a storcere il naso borbottando _storicamente accurato_ qua e la, ma vorrei fare una piccola osservazione: 
