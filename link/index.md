@@ -31,8 +31,6 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
-- [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - Forse il mio autore preferito in assoluto, parlando almeno dei miei contemporanei. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
-
 - [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} - specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod
 
 - [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
@@ -44,6 +42,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 - [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
 
 ### <i class="fa fa-pencil"></i> Blog
+
+- [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - [in inglese] forse il mio autore preferito in assoluto. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
 
 - [**L'Antro Atomico**](http://docmanhattan.blogspot.it/){:target="_blank"} - per quanto mi riguarda il Dr. Manhattan è IL Blogger italiano per eccellenza. (spero che Beppe Grillo non is offenda)
 
