@@ -35,7 +35,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
 
-- [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra prende diretta ispirazione
+- [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra trae diretta ispirazione
 
 - [**The Cutting Room Floor**](https://tcrf.net/){:target="_blank"} - il regno degli smanettoni che amano hackerare e sviscerare i videogiochi, la Debug Room di tutte le Debug Room!
 
