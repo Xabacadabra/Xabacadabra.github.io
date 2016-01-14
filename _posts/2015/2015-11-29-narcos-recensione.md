@@ -23,7 +23,7 @@ Il binomio brasiliano **José Padilha** (regia) e **Wagner Moura** (interprete d
 
 **Narcos è uno di quei casi in cui tutta la potenza del racconto romanzato può rendere partecipi di vera storia, pur trascendendo la fredda schematica dell'inchiesta giornalistica.**
 
-Vale un po' quello che dissi per _Suburra_:
+Vale un po' quello che dissi per [_Suburra_](http://xabacadabra.com/2015/suburra-recensione/):
 
 **Narcos non è un documentario**, è puro intrattenimento d'alta qualità, e proprio per questo riesce ad essere incredibilmente potente, abbastanza dal restare scolpito nelle memorie di chi lo guarda.
 
