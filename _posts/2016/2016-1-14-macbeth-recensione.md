@@ -15,15 +15,15 @@ published: true
 comments: true
 ---
 
-## Commento lapidario ma onesto?
+### Commento lapidario ma onesto?
 
 _**Che palle.**_
 
-## Commento un minimo più articolato ed esplicatore ?
+### Commento un minimo più articolato ed esplicatore ?
 
 **Macbeth non è un brutto film, anzi!**
 
-Cioè, non si può definire brutto un film dove degli attori fantastici quali **Michael Fassbender** e **Marion Cotillard** reinterpretano superbamente uno dei più celebri capolavori shakespeariani...anzi, nulla togliendo agli ottimi doppiatori (Francesco Prando e Stella Musy) questo è uno di quei casi in cui penso si necessiti una visione in lingua originale per valutare a dovere le considerevoli capacità interpretative qui messe in mostra.
+Cioè, non si può definire brutto un film dove degli attori fantastici quali **Michael Fassbender** e **Marion Cotillard** reinterpretano superbamente uno dei più celebri capolavori shakespeariani...anzi, nulla togliendo agli ottimi doppiatori (Francesco Prando e Stella Musy) questo è uno di quei casi in cui **penso si necessiti una visione in lingua originale** per valutare a dovere le considerevoli capacità interpretative qui messe in mostra.
 
 Il punto, però, è che nel paragrafo sopra ho scritto _"che palle"_ e mo tocca spiegarmi meglio, visto che parebbe cozzare quanto appena affermato...
 
@@ -36,9 +36,11 @@ Il punto, però, è che nel paragrafo sopra ho scritto _"che palle"_ e mo tocca 
 
 Premetto che non ho mai visto una rappresentazione teatrale della tragedia: 
 
-l'ho letta parecchi anni fa e ho visto i film di Welles[^Welles] e Polanksi[^polanski]. (l'adattamento giapposo di Kurosawa continua a mancare colpevolmente al mio appello, lo so!) quindi in termini di paragone potrei fare solo un commento parziale...che comunque detesto, e quindi eviterò: preferisco giudicare il film per quello che offre in se stesso, ergo terrò conto unicamente della fonte shakespeariana (che per forza di cose non si può ignorare).
+l'ho letta parecchi anni fa e ho visto i film di Welles[^orson] e Polanksi[^polanski]. (l'adattamento giapposo di Kurosawa continua a mancare colpevolmente al mio appello, lo so!) quindi in termini di paragone potrei fare solo un commento parziale...che comunque eviterò: 
 
-[^welles]: Oscuro ma parecchio strano, forse per il poco budget: è un film recitato con ombre e sguardi, ma il buon Orson non mi ha convinto nel ruolo di Macbeth (ecco, per paradosso ad averci una macchina del tempo sarebbe stato bellissimo vedere lui alla regia di un Fassbender)
+**preferisco giudicare il film per quello che offre in se stesso, ergo terrò conto unicamente della fonte shakespeariana** (che per forza di cose non si può ignorare).
+
+[^orson]: Oscuro ma parecchio strano, forse per il poco budget: è un film recitato con ombre e sguardi, ma il buon Orson non mi ha convinto nel ruolo di Macbeth (ecco, per paradosso ad averci una macchina del tempo sarebbe stato bellissimo vedere lui alla regia di un Fassbender)
 
 [^polanski]: Da fan di Polanski quale sono (_La Nona Porta_ è uno dei miei film preferiti), devo dire che il suo Macbeth settantiano non mi piacque affatto: forse dovrei riguardarmelo, o forse a questo punto c'han ragione quelli che sostengono che la tragedia porti male, mah!
 
@@ -65,7 +67,7 @@ Diciamo che mi è sembrato di vedere l'opera di un regista che vorrebbe essere R
 
 **Valutare un film del genere è perciò davvero difficile:** 
 
-So che adesso sembrerò ritrattare quanto scritto, ma non credo che Justin Kurzel sia necessariamente un cattivo regista, **solo penso che una storia del genere sia per forza di cose materia da pesi massimi**, e che per certi versi in questa produzione la si sia trattata con fin troppo timore reverenziale, e un tono fin troppo freddo e distaccato.
+So che adesso sembrerò ritrattare quanto scritto, ma non credo che Justin Kurzel sia necessariamente un cattivo regista, **solo penso che una storia del genere sia per forza di cose materia da pesi massimi**, e che per certi versi in questa produzione la si è trattata con **fin troppo timore reverenziale**.
 
 ## Conclusioni
 
@@ -74,18 +76,18 @@ So che adesso sembrerò ritrattare quanto scritto, ma non credo che Justin Kurze
 " alt="macbeth 2016 michael fassbender">
 </figure>
 
-**Macbeth è un buon film**, che come detto personalmente m'ha annoiato (e non poco) ma che può benissimo piacere ad un certo tipo di pubblico (anche abbastanza esigente) sopratutto grazie alle ottime prove di Fassbender e Cotillard.
+**Macbeth è un buon film**, che come detto personalmente m'ha annoiato (e non poco) ma che può benissimo piacere ad un determinato tipo di pubblico "colto" (anche esigente), sopratutto grazie alle ottime prove di Fassbender e Cotillard.
 
-Il punto è che **una tragedia come Macbeth non può permettersi di essere "solo" un buon film**, sopratutto con un cast simile, e la prima cosa che ho pensato uscendo dalla sala è che con un altro "direttore d'orchestra" forse forse avremmo potuto avere il film dell'anno.
+Il punto è che **una tragedia come Macbeth non può permettersi di essere "solo" un buon film**, sopratutto con un cast simile: la prima cosa che ho pensato uscendo dalla sala è che **con un'altra produzione dietro forse avremmo potuto avere uno dei film migliori dell'anno**...ma con i se e con i ma non si fa la storia.
 
 ## Voto
 
 Dovendo braccobaldizzarlo:
 
 **nella solita scala da 1 a 5 ci metterei un dignitoso 3**
-{: .notice-success}
+{: .notice-warning}
 
-anche se confesso che personalmente probabilmente starebbe pure un punto sotto...ma che ci volete fare, ogni tanto mi tocca fare _l'oggettivo._
+Personalmente lo vedrei pure un punto sotto...ma che ci volete fare, ogni tanto mi tocca fare _l'oggettivo._
 
 <script type="application/ld+json">
 {
