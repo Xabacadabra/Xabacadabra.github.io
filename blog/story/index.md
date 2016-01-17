@@ -55,19 +55,31 @@ L'ordine, fatta eccezione per le prime tre posizioni, è semi-casuale.
 
 Segue una panoramica delle precedenti versioni di Xaba Cadabra:
 
-1.0 : Cadabra Pois
+## 1.0 : Cadabra Pois
+
+<figure>
+	<img src="/gallery/xabacadabra-story/xabacadabra1.png" alt="Cadabra Pois">
+</figure>
 
 La debuttante, molto particolare e _Warhol_ : l'intento era quello di essere abbastanza minimal e retrò, il rischio quello di risultare poco funzionali alla lettura
 
 Duro relativamente poco nel tempo (9 mesi, un parto) ma molto per mole di post, visto che il 2013 fu quello dei post a mitraglia
 
-2.0 : Rockabilly Bakunin
+## 2.0 : Rockabilly Bakunin
 
-Molto in stile "Metro", ma mi piace un sacco ancora adesso, esteticamente (parlando della home) forse pure più di quella odierna. 
+<figure>
+	<img src="/gallery/xabacadabra-story/xabacadabra2.jpg" alt="Rockabilly Bakunin">
+</figure>
+
+Molto in stile "Metro", ma mi piace un sacco ancora adesso
 
 Non a caso, è durata quasi per due anni esatti
 
-3.0: Enter Sandman
+## 3.0: Enter Sandman
+
+<figure>
+	<img src="/gallery/xabacadabra-story/xabacadabra3.jpg" alt="Enter Sandman">
+</figure>
 
 Minimal a suo modo, molto più magazine, con un'intestazione meno ottundente e decisamente più ottimizzata per smartphone e motori di ricerca...durata pochissimi mesi, perché il suo codice non m'entusiasmava e nel frattempo avevo iniziato a considerare una nuova possibilità...
 
