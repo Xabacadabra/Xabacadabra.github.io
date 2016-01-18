@@ -120,6 +120,6 @@ l'umorismo random e scemo, l'ossessione per il _kawaii_, le contaminazioni che s
 
 Termine con cui sintetizzo **l'unione tra elementi tradizionalmente legati al mondo dell'infanzia** (cartoni animati con target dagli 11 anni in giù) e **dinamiche più o meno adulte** (deliri psicotici, omicidi, sessualità, humor nero).
 
-Parecchi anime degli anni '10 (si veda per esempio _Puella Magi Madoka Magica_), il grosso della scena _Newgrounds_, **le Imageboard**, vari Youtubers nonché parecchi videogiochi indie sono tutti ottimi esempi di questa moderna sottocultura, che com'è naturale è andata tralvolta contaminando (e/o a sua volta contaminandosi) con il _mainstream_
+Parecchi anime degli anni '10 (si veda per esempio _Puella Magi Madoka Magica_), il grosso della scena _Newgrounds_, **le Imageboard**, vari Youtubers nonché parecchi videogiochi indie sono tutti ottimi esempi di questa moderna sottocultura, che com'è naturale è andata talvolta contaminando (e/o a sua volta contaminandosi) con il _mainstream_
 
 Jessica Nigri, capace di fare video da milioni di visualizzazioni in cui spazia agevolmente tra rutti, caramelle gommose, pokemon, tette, brillantini e piselli di gomma, **è un po' l'esasperazione personificata di tutto questo**, come tale tanto condannabile da quello stesso mondo (che non di rado la disprezza in modi inauditi) tanto quanto identificabile come sua alfiera definitiva.    
