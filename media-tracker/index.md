@@ -2,7 +2,7 @@
 layout: default
 title: "Media Tracker"
 permalink: /media-tracker/
-----
+---
 
 | **Media** |         **Titolo**        |   **Status**  | **Valutazione** |
 |:---------:|:-------------------------:|:-------------:|:---------------:|
