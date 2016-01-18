@@ -109,7 +109,7 @@ Questo è il punto per me un po' più triste, ma forse **quello davvero cruciale
 
 **Jessica Nigri è l'esatta rappresentazione coatta della pop-culture nerd americana** e, di riflesso, mondiale (per il discorso che facevo sopra)
 
-l'umorismo random e scemo, l'ossessione per il _kawaii_, le contaminazioni che spaziano dalle mode Idol giapponesi ai minipony, **l'infantilismo maturo**.
+l'umorismo random e scemo, l'ossessione per il _kawaii_, le contaminazioni che spaziano dalle mode Idol giapponesi ai minipony, **l'infantilismo maturo**
 
 ## Infantilismo Maturo
 
