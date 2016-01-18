@@ -77,7 +77,7 @@ Anche se cresciuta in Nuova Zelanda, l'avere un pubblico di riferimento anglofon
 
 **fotografie, passaparola, _online buzz_ eccetera eccetera pesano _estremamente_ di più se provengono dagli USA, poiché è praticamente da lì che ogni realtà internettiana trae ispirazione:**
 
-Per intenderci, il _Comkiket_ di Tokyo o anche "solo" il nostro **Lucca Comics & Games** conteranno pure più avventori, ma il **San Diego Comic-Con** (o del più recente "cugino" newyorkese) finisce per catalaizzare l'attenzione di tutto popolo del web interessato a certe cose, a Pechino tanto quanto a Bari Vecchia o Città del Capo.
+Per intenderci, il _Comkiket_ di Tokyo o anche "solo" il nostro **Lucca Comics & Games** conteranno pure più avventori, ma il **San Diego Comic-Con** (o del più recente "cugino" newyorkese) finisce per catalizzare l'attenzione di tutto popolo del web interessato a certe cose, a Pechino tanto quanto a Bari Vecchia o Città del Capo.
 
 Chiaro: pure tenendo conto del solo numero di "cosplayer gnocche americane" non possiamo dire di ritrovarci con quel che si dice una cifra ridotta, ma pensavo fosse il caso di sottolineare quest'ovvietà prima di passare al resto.
 
