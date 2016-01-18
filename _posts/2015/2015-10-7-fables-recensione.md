@@ -64,7 +64,7 @@ Leggendolo **è abbastanza chiaro come all'origine non fosse pensato come un fum
 <figure>
 <img src="http://1.bp.blogspot.com/-uN0Bs5l9_Bs/VhVzyCznAwI/AAAAAAAAMyg/XiwEiYpL0nw/s1600/lana%2Bparilla.jpg" alt="Once Upon A Time ha plagiato Fables?
 ">
-<figcaption>(lei comunque può plagiare me quando vuole)/figcaption>
+<figcaption>(lei comunque può plagiare me quando vuole)</figcaption>
 </figure>
 
 La serie _Once Upon A Time_ ha plagiato Fables?

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "La Sexy Cosplayer"
+title: "Le Sexy Cosplayer"
 modified: null
 categories: [2014]
 excerpt: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, hanno edificato qualcosa in una landa inesplorata e vi hanno messo radici..."

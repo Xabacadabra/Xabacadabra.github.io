@@ -1,12 +1,24 @@
 ---
-published: false
+layout: article
+title: "Il Successo di Jessica Nigri"
+modified: null
+categories: [2016]
+excerpt: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, hanno edificato qualcosa in una landa inesplorata e vi hanno messo radici..."
+tags:
+  - cyberspazio
+  - xabologia
+  - spettacolo
+image: 
+  feature: jessicanigri.jpg
+  teaser: teaserjessicanigri.jpg
+  thumb: null
+published: true
+comments: true
 ---
 
-Il Successo di Jessica Nigri
+Tempo fa [avevo fatto un post più generale a proposito delle sexy cosplayer](http://xabacadabra.com/2014/le-sexy-cosplayer/), ma numericamente parlando (e quindi anche economicamente) mi sono reso conto che Jessica Nigri merita un discorso a parte e, comunque la si pensi nel merito, trovo che parlare di lei in quanto fenomeno dell'internet ci porti ad un discorso parecchio globale nel [Cyberspazio](http://xabacadabra.com/blog/tag/cyberspazio/) moderno.
 
-Tempo fa avevo fatto un post più generale a proposito delle sexy cosplayer, ma numericamente parlando (e quindi anche economicamente) mi sono reso conto che Jessica Nigri merita un discorso a parte e, comunque la si pensi nel merito, trovo che parlare di lei in quanto fenomeno dell'internet ci porti ad un discorso parecchio globale nel Cyberspazio moderno.
-
-Ma voi non mi credete, e pensate alle zinne. Lo so.
+Ma voi non mi credete, e pensate solo alle _zinne_. Lo so.
 
 Vediamo se riesco a farvi cambiare idea: pronti ?
 
@@ -20,7 +32,9 @@ Vediamo se riesco a farvi cambiare idea: pronti ?
 
 Partiamo col botto siliconato, giustappunto.
 
-Le tette.
+Le bocce.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/3F28sWMFBOQ" frameborder="0" allowfullscreen></iframe>
 
 O meglio, **la risposta semplice che otto persone su dieci vi daranno riguardo per spiegare la spasmodica fama di Jessica Nigri.**
 
