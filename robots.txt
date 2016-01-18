@@ -3,3 +3,6 @@
 
 User-agent: *
 Sitemap: http://xabacadabra.com/sitemap.xml
+
+User-agent: *
+Disallow: http://xabacadabra.com/media-tracker
