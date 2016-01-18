@@ -3,9 +3,9 @@ layout: article
 title: "Le Sexy Cosplayer"
 modified: null
 categories: [2014]
-excerpt: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, hanno edificato qualcosa in una landa inesplorata e vi hanno messo radici..."
+excerpt: "O come le chiamo io (tra i tanti modi) le gnappone strappone (boh si, il testosterone e il file dizionario installato..."
 tags:
-  - cyberspazio
+  - spettacolo
   - xabologia
 image: 
   feature: sexycosplayer.jpg
