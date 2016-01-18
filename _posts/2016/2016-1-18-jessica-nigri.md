@@ -3,7 +3,8 @@ layout: article
 title: "Il Successo di Jessica Nigri"
 modified: null
 categories: [2016]
-excerpt: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, hanno edificato qualcosa in una landa inesplorata e vi hanno messo radici..."
+excerpt: "Ma voi non mi credete, e pensate solo alle zinne. Lo so.
+Vediamo se riesco a farvi cambiare idea: pronti ?..."
 tags:
   - cyberspazio
   - xabologia
@@ -36,7 +37,7 @@ Le bocce.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/3F28sWMFBOQ" frameborder="0" allowfullscreen></iframe>
 
-O meglio, **la risposta semplice che otto persone su dieci vi daranno riguardo per spiegare la spasmodica fama di Jessica Nigri.**
+O meglio, **la risposta semplice che otto persone su dieci vi daranno per spiegare la spasmodica fama di Jessica Nigri.**
 
 E intendiamoci, "risposta semplice" non significa necessariamente risposta sbagliata: 
 
@@ -44,7 +45,9 @@ E intendiamoci, "risposta semplice" non significa necessariamente risposta sbagl
 
 [^cosplayer]: si può discutere a lungo sul fatto che lei sia considerabile o meno una cosplayer (non è mio interesse entrare nel merito della questione) ma **più di 3 milioni e mezzo di like su facebook**, senza contare Youtube e altri social media, direi che vogliono dire qualcosa.
 
-Il _Tetta Factor_ va poi combinandosi con il discorso che facevo in merito al cosplay, cioè _ragazze sexy + universo nerd_ binomio oggi abbastanza sdoganato ma scoperta pur sempre molto moderna, e quindi terreno senz'altro più vergine di altri (sì, ho scritto "vergine" in un post su Jessica Nigri, smettetela di far sobbalzare quelle sopracciglia).
+Il _Tetta Factor_ va poi combinandosi con il discorso che facevo in merito al cosplay, cioè _ragazze sexy + universo nerd_: 
+
+oggigiorno è oramai un binomio abbastanza sdoganato, certo, ma resta **una scoperta pur sempre molto moderna** e quindi con meno **competitor**.
 
 Anche così però, restiamo nel regno delle risposte semplici e palesi...
 
@@ -60,7 +63,7 @@ Eppure **nessuna**, nemmeno una star/imprenditrice del settore quale **Yaya Han*
 
 La domanda quindi, riformulata avendo assodato i punti di cui sopra, resta sempre la stessa: 
 
-_perché Jessica Nigri riscuote tutto questo successo_ ?
+_**perché Jessica Nigri riscuote tutto questo successo**_ ?
 
 Proverò a spiegarlo tramite qualche altro punto.
 
@@ -74,9 +77,9 @@ Anche se cresciuta in Nuova Zelanda, l'avere un pubblico di riferimento anglofon
 
 **fotografie, passaparola, _online buzz_ eccetera eccetera pesano _estremamente_ di più se provengono dagli USA, poiché è praticamente da lì che ogni realtà internettiana trae ispirazione:**
 
-Per intenderci, il Comkiket di Tokyo o anche "solo" il nostro Lucca Comics & Games conteranno pure più avventori, ma del San Diego Comic-Con (o del più recente "cugino" newyorkese) finisce per catalaizzare l'attenzione di tutto il web interessato, a Pechino tanto quanto a Bari Vecchia o Città del Capo.
+Per intenderci, il _Comkiket_ di Tokyo o anche "solo" il nostro **Lucca Comics & Games** conteranno pure più avventori, ma il **San Diego Comic-Con** (o del più recente "cugino" newyorkese) finisce per catalaizzare l'attenzione di tutto popolo del web interessato a certe cose, a Pechino tanto quanto a Bari Vecchia o Città del Capo.
 
-Chiaro: il numero di "cosplayer gnocche americane" non è esattamente quel che si dice ridotto, ma pensavo fosse il caso di sottolineare un'ovvietà prima di passare al resto.
+Chiaro: pure tenendo conto del solo numero di "cosplayer gnocche americane" non possiamo dire di ritrovarci con quel che si dice una cifra ridotta, ma pensavo fosse il caso di sottolineare quest'ovvietà prima di passare al resto.
 
 ## Gestione consapevole del proprio "tasso erotico"
 
@@ -84,13 +87,11 @@ Chiaro: il numero di "cosplayer gnocche americane" non è esattamente quel che s
 <img src="http://i.imgur.com/SxgMXkr.jpg" alt="Il successo di Jessica Nigri">
 </figure>
 
-Che si può sintetizzare molto bene con una parola inglese: 
-
-_teasing_ (che per me rende parecchio meglio del nostro "stuzzicare")
+Che si può sintetizzare molto bene con una parola inglese: _**teasing**_ (per me rende parecchio meglio del nostro "stuzzicare")
 
 Questo punto è una regola fondamentale per ogni modella/attrice/cantante che lavora facendo leva sulla propria immagine, e più precisamente sulla propria sessualità: 
 
-**scoprirsi, alludere, provocare senza MAI sconfinare nel nudo integrale o la pornografia** (salvo si tratti di leak, ma quella è n'altra faccenda) è la chiave per costruirsi.
+**scoprirsi, alludere, provocare senza MAI sconfinare nel nudo integrale o la pornografia** (salvo si tratti di leak, ma quella è n'altra faccenda) è la chiave per costruirsi un pubblico più o meno morboso ma _fidelizzato_ e attento.
 
 Lo so, sembra un controsenso, eppure è la fatidica _lambada_ che garantisce il successo delle varie subrette del caso a scapito delle pornostar più "navigate": 
 
@@ -104,17 +105,17 @@ una specie di "scienza della profumiera" portata all'estremo.
 <img src="http://i.imgur.com/IAfPxOS.jpg" alt="Il successo di Jessica Nigri">
 </figure>
 
-Questo è il punto per me un po' più triste, ma forse **quello davvero cruciale per spiegare il successo di Jessica Nigri, che dimostra che avrebbe avuto un buon seguito (seppur infinitamente inferiore) anche se fosse nata uomo:
+Questo è il punto per me un po' più triste, ma forse **quello davvero cruciale per spiegare il successo di Jessica Nigri**, e dimostra che **avrebbe avuto un buon seguito (seppur infinitamente inferiore) anche se fosse nata uomo:**
 
-**è l'esatta rappresentazione coatta della pop-culture nerd americana** e, di riflesso, mondiale (per il discorso che facevo sopra)
+**Jessica Nigri è l'esatta rappresentazione coatta della pop-culture nerd americana** e, di riflesso, mondiale (per il discorso che facevo sopra)
 
-l'umorismo random e scemo, l'ossessione per il _kawaii_, le contaminazioni che spaziano dalle mode Idol giapponesi ai minipony, **l'infantilismo maturo**.
+l'umorismo random e scemo, l'ossessione per il _kawaii_, le contaminazioni che spaziano dalle mode Idol giapponesi ai minipony, **l'infantilismo maturo**
 
 ## Infantilismo Maturo
 
 <figure>
 <img src="http://art.ngfiles.com/images/263000/263728_g3no_i-don-t-want-to-fight.png" alt="Il successo di Jessica Nigri">
-<figcaption>Quest'artwork di [G3no](http://g3no.newgrounds.com/) è una rappresentazione lampante di questo "movimento culturale", posto che si tratta di un raro esempio di ottima qualità.
+<figcaption>Quest'artwork di <a href="http://g3no.newgrounds.com/">G3no</a> è una rappresentazione lampante di questo "movimento culturale", posto che si tratta di un raro esempio di ottima qualità.</figcaption>
 </figure>
 
 Termine con cui sintetizzo **l'unione tra elementi tradizionalmente legati al mondo dell'infanzia** (cartoni animati con target dagli 11 anni in giù) e **dinamiche più o meno adulte** (deliri psicotici, omicidi, sessualità, humor nero).
