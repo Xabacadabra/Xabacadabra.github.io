@@ -31,7 +31,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
-- [**Link-age**](http://newmediasoc.com/projects/link-age/) progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) volto alla preservazione di quel famoso certo tipo di "vecchio web" di cui anche Xaba Cadabra fa orgogliosamente parte.
+- [**Link-age**](http://newmediasoc.com/projects/link-age/) progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre
 
 - [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} - specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod
 
