@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Macbeth [Recensione]"
+title: "Macbeth (2015) [Recensione]"
 modified: null
 categories: [2016]
 excerpt: "Commento lapidario ma onesto? Che palle. Commento un minimo più articolato ed esplicatore? Macbeth non è un brutto film, anzi!"
