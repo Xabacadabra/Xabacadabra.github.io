@@ -11,7 +11,7 @@ image:
 <div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
 <div class="tiles">
-  {% for post in site.posts limit:4 %}
+  {% for post in site.posts limit:8 %}
     {% include post-grid.html %}
   {% endfor %}
 </div>
