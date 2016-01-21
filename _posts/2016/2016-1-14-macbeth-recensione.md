@@ -63,7 +63,7 @@ Non mi ha convinto nemmeno la fotografia del bravo **Adam Arkapaw** (il cui lavo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RgH_OnrYlCk" frameborder="0" allowfullscreen></iframe>
 
-Diciamo che mi è sembrato di vedere l'opera di un regista che vorrebbe essere Ridley Scott o Francis Ford Coppola (vorrebbe, appunto), **un soggetto imperioso confeziato malino ma portato in scena da due attori megagalattici come protagonisti.**
+Diciamo che mi è sembrato di vedere l'opera di un regista che vorrebbe essere Ridley Scott o Francis Ford Coppola (vorrebbe, appunto), **un soggetto imperioso confezionato malino ma portato in scena da due attori megagalattici come protagonisti.**
 
 **Valutare un film del genere è perciò davvero difficile:** 
 
