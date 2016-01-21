@@ -55,7 +55,7 @@ Nel senso che **per me la regia di Justin Kurzel ha del soporifero.**
 
 I suoi tempi, **le sue inquadrature** (specie tutti quei primi piani ballerini a rotta di collo), il suo **ritmo** e probabilmente il lavoro dei suoi sceneggiatori (che avevano comunque l'ingrato compito di riadattare fedelmente Shakespeare per il grande schermo) m'è sembrato tutto esageratamente pesante e noioso.
 
-Discorso simile anche per l'altro Kurzel (Jed), fratello minore del regista e adetto ad **una colonna sonora anonima e dimenticabilissima** nel suo voler essere piattamente tetra.
+Discorso simile anche per l'altro Kurzel (Jed), fratello minore del regista e addetto ad **una colonna sonora anonima e dimenticabilissima** nel suo voler essere piattamente tetra.
 
 Non mi ha convinto nemmeno la fotografia del bravo **Adam Arkapaw** (il cui lavoro ho semplicemente _adorato_ nella prima stagione di _True Detective_), tanto fumosa e fredda che mi pareva quasi voler ostentare il dramma, necessità che risulta abbastanza grave e ridondante nella rappresentazione di una delle tragedie per eccellenza.
 
