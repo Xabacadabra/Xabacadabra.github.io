@@ -4,7 +4,7 @@ title: "Xaba Cadabra 4"
 modified: null
 categories: [2016]
 excerpt: "Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?"
-tags: [xabologia, videogiochi]
+tags: [xabologia]
 image: 
   feature: xabacadabra4.jpg
   teaser:  teaserxabacadabra4.jpg
