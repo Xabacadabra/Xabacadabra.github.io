@@ -2,7 +2,9 @@
 published: false
 ---
 
-## Can you _read_ me, Major Tom ?
+## Can you _read_ me, Major Tom ? [^tom]
+
+[^tom]: questo titoletto l'avevo abozzato prima della <a href="http://xabacadabra.com/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono
 
 Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?
 
