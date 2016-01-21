@@ -37,7 +37,7 @@ Un'altra ragione è perché, da navigatore, sono sempre più vicino ad una parti
 
 **Il contenuto dev'essere al centro.**
 
-Credo che le belle interfacce frichettone hanno fatto il loro tempo, come il barocco o l'_hair metal_.
+Credo che le belle interfacce frichettone abbiano fatto il loro tempo, come il barocco o l'_hair metal_.
 
 ## Ehi, non trovo più il tuo post su [blabla] !
 
