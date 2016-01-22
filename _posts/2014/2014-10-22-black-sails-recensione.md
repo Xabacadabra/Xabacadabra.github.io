@@ -46,7 +46,7 @@ quel capolavoro al limite del demenziale dei Muppets con un Tim Curry STRAORDINA
 la ingiustamente sottovalutata **versione spaziale della Disney**, uno dei classici che ho conosciuto più tardi e forse l'unico in grado di commuovermi tanto (più di Mufasa, più della mamma di Bambi o chi ve pare a voi), unico film Disney in cui ho avuto modo d'identificarmi col protagonista. ma vabbè
 
 <figure>
-  <img src="http://4.bp.blogspot.com/-lhEbccX00AA/VEdB-qb2yFI/AAAAAAAAKhI/T0boT2S3rIg/s1600/treasure_planet_walt_disney-1280x1024.jpg" alt="Jessica Parker Kennedy">
+  <img src="http://4.bp.blogspot.com/-YrSxrik8Bes/VEdCKzPQ0QI/AAAAAAAAKhQ/OrZ5uvnylmc/s1600/jessica-parker-kennedy-e-max-in-black-sails.jpg" alt="Jessica Parker Kennedy">
   <figcaption>Jessica Parker Kennedy (Max) è una bravissima attrice ed una delle GNOCCHE più GNOCCHE che io abbia mai visto in vita mia</figcaption>
 </figure>
 
