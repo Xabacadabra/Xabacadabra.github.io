@@ -9,7 +9,7 @@ tags:
   - recensioni
 image: 
   feature: black-sails.jpg
-  teaser: teaserblack-sails.jpg
+  teaser: teaser-black-sails.jpg
   thumb: null
 published: true
 comments: true
