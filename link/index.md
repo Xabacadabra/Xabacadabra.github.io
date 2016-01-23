@@ -31,6 +31,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
+- [**Netwars**](http://netwars-project.com/) uno dei progetti più interessanti, emozionanti e tecnicamente manifici che mi sia mai capitato di vedere in rete
+
 - [**Link-age**](http://newmediasoc.com/projects/link-age/) progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre
 
 - [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} - specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod
@@ -45,17 +47,19 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-pencil"></i> Blog
 
-- [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - [in inglese] forse il mio autore preferito in assoluto. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
+- [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - forse il mio autore preferito in assoluto. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
 
 - [**L'Antro Atomico**](http://docmanhattan.blogspot.it/){:target="_blank"} - per quanto mi riguarda il Dr. Manhattan è IL Blogger italiano per eccellenza. (spero che Beppe Grillo non is offenda)
 
 - [**Come Non Detto**](https://leortola.wordpress.com/){:target="_blank"} - il papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
 
-- [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - [in inglese] un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. 
+- [**Lucas Pope**](http://dukope.com/) - sviluppatore di videogiochi geniale e visionario, una delle menti creative più interessanti della scena indie
+
+- [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. 
 
 - [**Silvia Ziche**](http://www.silviaziche.com/){:target="_blank"} - una delle massime regine del fumetto disneyano all'italiana. Da _Il Grande Splash_ in poi, per il sottoscritto è assurta a Maestra di Vita
 
-- [**Zerocalcare**](http://www.zerocalcare.it/){:target="_blank"} - che oramai è così _mainstream_ che 'sto link ancora un po' mi si scigolie...ma adorando praticamente tutto quello che fa non potevo escluderlo
+- [**Zerocalcare**](http://www.zerocalcare.it/){:target="_blank"} - che oramai è così _mainstream_ che 'sto link ancora un po' mi si scioglie...ma adorando praticamente tutto quello che fa non potevo escluderlo
 
 - [**Dalla parte di Asso**](http://prontoallaresa.blogspot.com/){:target="_blank"} - casa digitale di Roberto Recchioni, curatore di Dylan Dog e blogger pungente e polemico, ma che spesso ci prende un bel po' 
 
