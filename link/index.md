@@ -31,7 +31,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
-- [**Netwars**](http://netwars-project.com/) uno dei progetti più interessanti, emozionanti e tecnicamente manifici che mi sia mai capitato di vedere in rete
+- [**Netwars**](http://netwars-project.com/) uno dei progetti più interessanti, emozionanti e tecnicamente magnifici che mi sia mai capitato di vedere in rete
 
 - [**Link-age**](http://newmediasoc.com/projects/link-age/) progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre
 
@@ -53,7 +53,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Come Non Detto**](https://leortola.wordpress.com/){:target="_blank"} - il papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
 
-- [**Lucas Pope**](http://dukope.com/) - sviluppatore di videogiochi geniale e visionario, una delle menti creative più interessanti della scena indie
+- [**Lucas Pope**](http://dukope.com/) - sviluppatore di videogiochi innovativo e visionario, una delle menti creative più interessanti della scena indie
 
 - [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. 
 
