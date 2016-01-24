@@ -16,6 +16,7 @@ GEM
     fast-stemmer (1.0.2)
     ffi (1.9.10)
     ffi (1.9.10-x64-mingw32)
+    ffi (1.9.10-x86-mingw32)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
@@ -64,6 +65,8 @@ GEM
       octopress-hooks (~> 2.0)
     octopress-hooks (2.6.1)
       jekyll (>= 2.0)
+    octopress-paginate (1.1.2)
+      octopress-hooks
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.11)
@@ -87,11 +90,14 @@ GEM
 PLATFORMS
   ruby
   x64-mingw32
+  x86-mingw32
 
 DEPENDENCIES
   jekyll (= 2.5.3)
+  jekyll-paginate
   jekyll-sitemap
   octopress (~> 3.0)
+  octopress-paginate
 
 BUNDLED WITH
    1.11.2

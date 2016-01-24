@@ -1,4 +1,19 @@
-Revenant - Redivivo
+---
+layout: article
+title: "Revenant - Redivivo [Recensione]"
+modified: null
+categories: [2016]
+excerpt: "Vista l'uscita di Creed (che devo assolutamente vedere) piuttosto che una futura ed interminabile premessa ho pensato fosse il caso di scrivere un bel post dedicato a Rocky Balboa..."
+tags:
+  - cinema
+  - recensioni
+image: 
+  feature: revenant.jpg
+  teaser: tease-revenant.jpg
+  thumb: null
+published: true
+comments: true
+---
 
 Ovviamente, **nessuno spoiler**
 
@@ -18,9 +33,13 @@ Tralasciando il fatto che dovrei guardarmi _Babel_ e _Biutiful_, dire che l'idea
 
 ## Leonardo Di Caprio
 
-Anni fa, nel pieno del cazzeggio, avevo creato quest'immaginetta, sorta dimarchio DOP con il faccione del nostro Leo. 
+<figure>
+	<img src="http://3.bp.blogspot.com/-ObKHC5DT688/US5ob0XEAvI/AAAAAAAADGY/7BVsFGcwfn8/s1600/dicaprio.png" alt="marchio di caprio">
+</figure>
 
-questo perché, assodate le straordinarie qualità attoriali del nostro, dai tempi dell'abominevole _The Beach_ **Leonardo non ha più sbagliato un colpo nella scelta dei copioni**:
+Anni fa, nel pieno del cazzeggio, avevo creato quest'immaginetta, sorta di marchio DOP con il faccione del nostro Leo. 
+
+questo perché, assodate le straordinarie qualità attoriali del nostro, dal 2001 in poi **Leonardo non ha più sbagliato un colpo nella scelta dei copioni**:
 
 Gusti personali a parte, se vi fate un giro per la sua filmografia ci troverete alcune delle pellicole più significative degli ultimi vent'anni, nonché collaborazioni con dei veri e propri Maestri della Regia.
 
@@ -28,9 +47,13 @@ Da cui: _"Se c'è Di Capiro il film è bello"_ è diventato una sorta di mantra 
 
 ## Gioia per gli occhi
 
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-03-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
+
 Prima di analizzare tutti i vari punti che caratterizzano _Revenant_, occorre specificarne immediatamente uno incontestabile:
 
-**La visualità messa in scena da Iñárritu e dal suo direttore della fotografia Emmanuel Lubezki rappresenta un esercizio di stile titannico.**
+**La visualità messa in scena da Iñárritu e dal suo direttore della fotografia Emmanuel Lubezki rappresenta un esercizio di stile titanico.**
 
 è un tipo di Cinema che con l'industria schiava di CGI e schermi verdi si vede sempre meno, **un Cinema che sa di autentico**, che rimanda ai grandi classici dell'epoca di Howard Hawks e John Ford: 
 
@@ -42,9 +65,13 @@ Nel complesso, tuttavia, **nulla che comprometta le altissime qualità visuali d
 
 >Se usassimo il green screen saremmo tutti a divertirci con il caffè in mano, sarebbero tutti felici, ma molto probabilmente il film sarebbe una merda (Iñárritu) 
 
-tale concetto per chi scrive è sempre stato importantissimo e dovrebbe passare molto di più nel settore, quindi già per questo farei un grosso appaluso al regista.
+tale concetto per chi scrive è sempre stato importantissimo e dovrebbe passare molto di più nel settore, quindi già per questo farei un grosso applauso al regista.
 
 ## Frozen Western
+
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-04-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
 
 _Revenant_ è un film che trae ispirazione dalla vera storia di **Hugh Glass**, romanzandola **nel canovaccio delle più classiche storie di vendetta.**
 
@@ -56,25 +83,37 @@ Poi certo, certe storie di vendetta sono un perno dalla cinematografia americana
 
 ## Sofferenza
 
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-13-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
+
 _Revenant_ è senz'altro uno dei film che meglio mostra che significhi soffrire.
 
 Traspare più sofferenza da quest'opera di finzione che da tanta realtà, per quanto ammetterlo suoni brutto
 
 ## Interpretazioni
 
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-22-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
+
 **Tom Hardy**, fresco reduce dal fantastico _Mad Max: Fury Road_, si riconferma un attore interessantissimo: 
 
 **in un film fondato e costruito sulla pura _fisicità_ interpretativa Di Caprio il rischio di venire eclissati esisteva**, anche a scapito delle note qualità di Hardy...eppure gli sguardi, il cinismo e l'arida crudezza del suo Fitzgerald risultano magnetici.
 
-**Domhnall Gleeson**, il vecchio Bill Weasley di Harrypotteriana memoria (e più recentemente in forza all'Impero ne [_Il risveglio della forza_]()) ha rappresentato forse la sorpresa più grande: interpreta un ruolo da comprimario estremamente cruciale per gli equilibri tra protagonista e nemesi, e ha saputo tenere la scena alla grande  
+**Domhnall Gleeson**, il vecchio Bill Weasley di Harrypotteriana memoria (e più recentemente in forza all'Impero ne [_Il risveglio della forza_](http://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/)) ha rappresentato forse la sorpresa più grande: interpreta un ruolo da comprimario estremamente cruciale per gli equilibri tra protagonista e nemesi, e ha saputo tenere la scena alla grande  
 
-Bene infine **Will Poulter**: il ragazzotto ci sa fare e, considerando le torture a cui pare Iñárritu abbia sottoposto la trupe, ha tirato fuori una prova più che convincente.
+Bene infine **Will Poulter**: il ragazzotto ci sa fare e, considerando le torture a cui pare Iñárritu abbia sottoposto la troupe, ha tirato fuori una prova più che convincente.
 
 ## Doppiaggio
 
 Come ho scritto di recente riguardo [_Macbeth_](http://xabacadabra.com/2016/macbeth-recensione/) non voglio sminuire il lavoro dei doppiatori e non sono certo quel che si dice un purista, **ma per svariati motivi credo che _Revenant_ sia un film da vedersi in lingua originale.**
 
 ## Onanismo Cinematografico
+
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-01a-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
 
 Assodato che Iñárritu possiede un ego mica da poco (del resto se ha fatto _Birdman_ un motivo ci dovrà pur essere), il rischio di vedere la sua attenzione ai dettagli sforare nell'autocelebrazione pura esiste...
 
@@ -86,11 +125,19 @@ Anche in questo caso quindi lo "stalinismo" è perdonato: **l'estetica Iñárrit
 
 ## Resurrezione
 
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-19-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
+
 C'è qualcosa di spaventosamente affascinante, forse a tratti pure morboso, **nel concetto di un uomo distrutto, dato per finito che si vede _auto-costretto_ a risorgere per perseguire il proprio desiderio di vendetta:** 
 
 da _Il Conte di Montecristo_ a svariate religioni, passando per _Il Corvo_ (che come [dicevo](http://xabacadabra.com/2015/il-corvo-retrospettiva/) con questo discorso c'entra davvero parecchio), _Il Gladiatore_ e chi più ne ha più ne metta...a ben pensarci, personalmente **io faccio parte di quella grossa fetta di pubblico che quest'archetipo narrativo lo tiene in vita più che volentieri*, e _Revenant_ ne è senzadubbio uno splendido tanto quanto classico esponente
  
 ## Considerazioni Personali
+
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-20-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
 
 Personalmente **Revenant mi è piaciuto un casino.**
 
@@ -126,13 +173,17 @@ Ecco, il livello forse no, ma la "pasta" di Revenant è certamente quella lì.
 
 ### "Un film dove si parla poco"
 
-Semplicemente, affremare quanto sopra è **una stronzata megagalattica**, esattamente quanto lo è dire che in un film "_parlano troppo"_ 
+Semplicemente, affermare quanto sopra è **una stronzata megagalattica**, esattamente quanto lo è dire che in un film "_parlano troppo"_ 
 
 Per il resto, vale grossomodo quello che ho scritto sopra. 
 
 ## Conclusioni
 
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-14-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
+
 **Revenant è un magistrale esempio di Cinema**, ma forse (anzi, sicuramente) poco in linea con i nostri tempi: **fosse uscito una quarantina d'anni fa, oggi staremmo tutti a tesserne le lodi**
 
-Certo è condito da una buona dose d'egocentrismo autorale, che non guasta.
+Certo è condito da una buona dose d'egocentrismo autoriale, che non guasta.
 
