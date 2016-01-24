@@ -3,7 +3,7 @@ layout: article
 title: "Revenant - Redivivo [Recensione]"
 modified: null
 categories: [2016]
-excerpt: "Vista l'uscita di Creed (che devo assolutamente vedere) piuttosto che una futura ed interminabile premessa ho pensato fosse il caso di scrivere un bel post dedicato a Rocky Balboa..."
+excerpt: "Ovviamente, nessuno spoiler. E attenzione: questa è una di quelle lunghe..."
 tags:
   - cinema
   - recensioni
