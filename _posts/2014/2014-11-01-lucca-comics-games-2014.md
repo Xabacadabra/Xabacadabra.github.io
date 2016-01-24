@@ -13,7 +13,7 @@ published: true
 comments: true
 ---
 
-Peccato essere troppo povero e non poterci stare di più! è la stessa frase mentale che mi ripeto anche quest'anno (vedi 2013), perché Lucca da brava tentatrice qual'è offre un'esperienza davvero emozionante...ma anche terribilmente dispendiosa, specie per chi non si sa contenere (quest'anno a me è andata meglio...o quasi.)
+Peccato essere troppo povero e non poterci stare di più! è la stessa frase mentale che mi ripeto anche quest'anno ([vedi 2013](http://xabacadabra.com/2013/lucca-comics-games-2013/)), perché Lucca da brava tentatrice qual'è offre un'esperienza davvero emozionante...ma anche terribilmente dispendiosa, specie per chi non si sa contenere (quest'anno a me è andata meglio...o quasi.)
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://it-it.facebook.com/galbadia/posts/800155413382263" data-width="466"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://it-it.facebook.com/galbadia/posts/800155413382263"><p>Gente se &#xe8;, per chi c&#039;&#xe8;, magari ci si becca domani a Lucca (MAGARI eh, che qui &#xe8; gi&#xe0; tanto arrivarci), mo si parte con...</p>Pubblicato da <a href="https://www.facebook.com/galbadia">Andrea Corinti</a> su&nbsp;<a href="https://it-it.facebook.com/galbadia/posts/800155413382263">Giovedì 30 ottobre 2014</a></blockquote></div></div>
 

@@ -80,7 +80,7 @@ Che giravano per i vicoli qua e la suonando, tra le altre cose, pure la sigla di
 ### Questa Aeris 
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-IzV0dsG5ydM/VjpZsnJR8SI/AAAAAAAANRI/8Z3p4MyIOWw/s1600/100_2982.JPG" alt="Aeris">
+	<img src="http://4.bp.blogspot.com/-cwL58ZE3Cvs/VjpaBKWCSDI/AAAAAAAANRQ/HmmvF6X-SNk/s1600/aeris.jpg" alt="Aeris">
 </figure>	
 
 Vista da lontano seduta sulle mura, un fiore in mano e la luce del tardo pomeriggio: sarebbe stato il perfect shot, non fossimo in perenne movimento.
