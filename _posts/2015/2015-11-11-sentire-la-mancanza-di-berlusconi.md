@@ -3,7 +3,7 @@ layout: article
 title: "Sentire la mancanza di Berlusconi"
 modified: null
 categories: [2015]
-excerpt: "Ho letto parecchie ironie e lamentele riguardo l'ultima sparata di Grillo, un'uscita provocatoria ma non troppo..."
+excerpt: "Non che se ne sia andato eh, intendiamoci, l'altro giorno s'è pure fatto vedere! Ma beh...."
 tags: [xabologia, politica]
 image: 
   feature: mancanza-berlusconi.jpg
