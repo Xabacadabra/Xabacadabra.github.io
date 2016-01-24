@@ -49,7 +49,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - forse il mio autore preferito in assoluto. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
 
-- [**L'Antro Atomico**](http://docmanhattan.blogspot.it/){:target="_blank"} - per quanto mi riguarda il Dr. Manhattan è IL Blogger italiano per eccellenza. (spero che Beppe Grillo non is offenda)
+- [**L'Antro Atomico**](http://docmanhattan.blogspot.it/){:target="_blank"} - per quanto mi riguarda il Dr. Manhattan è IL Blogger italiano per eccellenza. (spero che Beppe Grillo non si offenda)
 
 - [**Come Non Detto**](https://leortola.wordpress.com/){:target="_blank"} - il papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
 
