@@ -16,10 +16,13 @@ comments: true
 ---
 
 Ovviamente, **nessuno spoiler**
+{: .notice-info}
 
 E attenzione: questa è una di quelle _lunghe._
 
 Un po' forse perché lungo è il film, un po' perché è uno di quei casi in cui c'è veramente TANTO da dire e in cui se non sto attento continuo ad aggiungere paragrafi su paragrafri nella speranza di riuscire a dire tutto quello che mi passa per la testa dopo aver visto _Revenant_ (fallendo miseramente, chiaro)
+
+{% include toc.html %}
 
 ## Alejandro González Iñárritu
 
@@ -187,3 +190,5 @@ Per il resto, vale grossomodo quello che ho scritto sopra.
 
 Certo è condito da una buona dose d'egocentrismo autoriale, che non guasta.
 
+4 Braccobaldi e mezzo su 5
+{: .notice-success}
