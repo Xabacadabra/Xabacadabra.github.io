@@ -9,7 +9,7 @@ tags:
   - recensioni
 image: 
   feature: revenant.jpg
-  teaser: tease-revenant.jpg
+  teaser: teaser-revenant.jpg
   thumb: null
 published: true
 comments: true
@@ -20,19 +20,19 @@ Ovviamente, **nessuno spoiler**
 
 E attenzione: questa è una di quelle _lunghe._
 
-Un po' forse perché lungo è il film, un po' perché è uno di quei casi in cui c'è veramente TANTO da dire e in cui se non sto attento continuo ad aggiungere paragrafi su paragrafri nella speranza di riuscire a dire tutto quello che mi passa per la testa dopo aver visto _Revenant_ (fallendo miseramente, chiaro)
+Un po' forse perché lungo è il film, un po' perché è uno di quei casi in cui c'è veramente TANTO da dire e in cui se non sto attento continuo ad aggiungere paragrafi su paragrafri nella speranza di riuscire a dire tutto quello che mi passa per la testa.
 
 {% include toc.html %}
 
 ## Alejandro González Iñárritu
 
-Se avete letto la mia entusiastica recensione di _Birdman_ saprete già che con Iñárritu ho avuto una sorta di ping-pong:
+Se avete letto la mia entusiastica [recensione di _Birdman_](http://xabacadabra.com/2015/birdman-recensione/) saprete già che con Iñárritu ho avuto una sorta di ping-pong:
 
 1. _**Amores Perros**_ mi piacque tantissimo
 2. _**21 grammi**_ mi fece schifo
 3. _**Birdman**_ è con ogni probabilità il mio film preferito uscito negli ultimi 5 anni
 
-Tralasciando il fatto che dovrei guardarmi _Babel_ e _Biutiful_, dire che l'idea del regista messicano a dirigere Leonardo Di Caprio m'entusiasmasse è dire poco:
+Tralasciando il fatto che dovrei guardarmi _Babel_ e _Biutiful_, possiamo tranquillamente dire che l'idea del messicano a dirigere Di Caprio m'entusiasmasse è dire poco:
 
 ## Leonardo Di Caprio
 
@@ -40,13 +40,13 @@ Tralasciando il fatto che dovrei guardarmi _Babel_ e _Biutiful_, dire che l'idea
 	<img src="http://3.bp.blogspot.com/-ObKHC5DT688/US5ob0XEAvI/AAAAAAAADGY/7BVsFGcwfn8/s1600/dicaprio.png" alt="marchio di caprio">
 </figure>
 
-Anni fa, nel pieno del cazzeggio, avevo creato quest'immaginetta, sorta di marchio DOP con il faccione del nostro Leo. 
+Perché ecco, tanto per capirci anni fa creai quest'immaginetta, una sorta di marchio DOP con il faccione del nostro Leo. 
 
-questo perché, assodate le straordinarie qualità attoriali del nostro, dal 2001 in poi **Leonardo non ha più sbagliato un colpo nella scelta dei copioni**:
+questo perché, assodate le straordinarie qualità attoriali del nostro, dal 2001 in poi **Leonardo non ha più sbagliato un copione**:
 
-Gusti personali a parte, se vi fate un giro per la sua filmografia ci troverete alcune delle pellicole più significative degli ultimi vent'anni, nonché collaborazioni con dei veri e propri Maestri della Regia.
+Gusti personali a parte, **se vi fate un giro per la sua filmografia ci troverete alcune delle pellicole più significative degli ultimi vent'anni**, nonché collaborazioni con dei veri e propri Maestri.
 
-Da cui: _"Se c'è Di Capiro il film è bello"_ è diventato una sorta di mantra recitato alla visione di ogni trailer.
+Da cui: _"Se c'è Di Capiro il film è bello"_ è diventato una sorta di mantra recitato alla visione di ogni trailer, e _Revenant_ non fa eccezione.
 
 ## Gioia per gli occhi
 
@@ -54,7 +54,7 @@ Da cui: _"Se c'è Di Capiro il film è bello"_ è diventato una sorta di mantra 
 	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-03-gallery-image.jpg" alt="Revenant Redivivo Recensione">
 </figure>
 
-Prima di analizzare tutti i vari punti che caratterizzano _Revenant_, occorre specificarne immediatamente uno incontestabile:
+Prima di analizzare tutti i vari punti che caratterizzano _Revenant_, occorre evidenziarne immediatamente uno pressoché incontestabile:
 
 **La visualità messa in scena da Iñárritu e dal suo direttore della fotografia Emmanuel Lubezki rappresenta un esercizio di stile titanico.**
 
@@ -62,7 +62,7 @@ Prima di analizzare tutti i vari punti che caratterizzano _Revenant_, occorre sp
 
 **Pura _arte figurativa in movimento_**, per l'appunto, ma con l'aggiunta di tutti i mezzi che ci garantisce l'alta definizione moderna:
 
-**C'è in fatti della CGI pure in _Revenant_**, ma impiegata generalmente in "sottofondo" escludendo un paio di momenti e sopratutto **una delle scene madri**, in cui in effetti forse **tutto questo bel popò di visualità viene tradito** pur di mostrare un determinato livello di fisicità.
+**C'è infatti della CGI pure in _Revenant_**, ma impiegata generalmente in "sottofondo" escludendo un paio di momenti (sopratutto **una delle scene madri**, in cui in effetti forse **tutto questo bel popò di visualità viene tradito** pur di mostrare un determinato livello di fisicità.
 
 Nel complesso, tuttavia, **nulla che comprometta le altissime qualità visuali di cui sopra:**
 
@@ -76,29 +76,22 @@ tale concetto per chi scrive è sempre stato importantissimo e dovrebbe passare 
 	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-04-gallery-image.jpg" alt="Revenant Redivivo Recensione">
 </figure>
 
-_Revenant_ è un film che trae ispirazione dalla vera storia di **Hugh Glass**, romanzandola **nel canovaccio delle più classiche storie di vendetta.**
+_Revenant_ è un film che trae ispirazione dalla [vera storia di **Hugh Glass**](https://it.wikipedia.org/wiki/Hugh_Glass), romanzandola **nel canovaccio delle più classiche storie di vendetta.**
 
 In questo senso, come dicevo commentando **il diverbio tra Iñárritu e James Gunn**, il **taglio latino** del messicano si sente tutto: 
 
-è una presenza costante tanto in quello che dice tanto in quello che fa come regista, quell'aria un po' tra lo snob ed il melodramma machiavellico che a parer mio **lo avvicina culturalmente molto ai capisaldi del cinema d'autore italiano.**
+è una presenza costante **tanto in quello che dice tanto in quello che fa come regista**, quell'aria un po' tra lo snob ed il melodramma machiavellico che a parer mio **lo avvicina culturalmente molto ai capisaldi del cinema d'autore italiano.**
 
-Poi certo, certe storie di vendetta sono un perno dalla cinematografia americana da cui _Revenant_ piglia ispirazione a quintali eh!   
-
-## Sofferenza
-
-<figure>
-	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-13-gallery-image.jpg" alt="Revenant Redivivo Recensione">
-</figure>
-
-_Revenant_ è senz'altro uno dei film che meglio mostra che significhi soffrire.
-
-Traspare più sofferenza da quest'opera di finzione che da tanta realtà, per quanto ammetterlo suoni brutto
-
+Poi certo, certe storie di vendetta sono pure un perno dalla cinematografia americana classica (da cui ovviamente _Revenant_ piglia ispirazione a quintali). 
 ## Interpretazioni
 
 <figure>
 	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-22-gallery-image.jpg" alt="Revenant Redivivo Recensione">
 </figure>
+
+_Revenant_ è senz'altro uno dei film che meglio mostra che cosa significhi soffrire.
+
+Traspare più sofferenza nel Di Caprio di quest'opera di finzione che in tanta realtà, per quanto ammetterlo suoni brutto
 
 **Tom Hardy**, fresco reduce dal fantastico _Mad Max: Fury Road_, si riconferma un attore interessantissimo: 
 
@@ -110,7 +103,11 @@ Bene infine **Will Poulter**: il ragazzotto ci sa fare e, considerando le tortur
 
 ## Doppiaggio
 
-Come ho scritto di recente riguardo [_Macbeth_](http://xabacadabra.com/2016/macbeth-recensione/) non voglio sminuire il lavoro dei doppiatori e non sono certo quel che si dice un purista, **ma per svariati motivi credo che _Revenant_ sia un film da vedersi in lingua originale.**
+<figure>
+	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-13-gallery-image.jpg" alt="Revenant Redivivo Recensione">
+</figure>
+
+Come ho scritto di recente riguardo [_Macbeth_](http://xabacadabra.com/2016/macbeth-recensione/) non voglio sminuire il lavoro dei doppiatori e non sono certo quel che si dice un purista, **ma per svariati motivi credo che _Revenant_ sia un altro di quei film da vedersi in lingua originale.**
 
 ## Onanismo Cinematografico
 
@@ -134,7 +131,7 @@ Anche in questo caso quindi lo "stalinismo" è perdonato: **l'estetica Iñárrit
 
 C'è qualcosa di spaventosamente affascinante, forse a tratti pure morboso, **nel concetto di un uomo distrutto, dato per finito che si vede _auto-costretto_ a risorgere per perseguire il proprio desiderio di vendetta:** 
 
-da _Il Conte di Montecristo_ a svariate religioni, passando per _Il Corvo_ (che come [dicevo](http://xabacadabra.com/2015/il-corvo-retrospettiva/) con questo discorso c'entra davvero parecchio), _Il Gladiatore_ e chi più ne ha più ne metta...a ben pensarci, personalmente **io faccio parte di quella grossa fetta di pubblico che quest'archetipo narrativo lo tiene in vita più che volentieri*, e _Revenant_ ne è senzadubbio uno splendido tanto quanto classico esponente
+da _Il Conte di Montecristo_ a svariate religioni, passando per _Il Corvo_ (che come [dicevo](http://xabacadabra.com/2015/il-corvo-retrospettiva/) con questo discorso c'entra davvero parecchio), _Il Gladiatore_ e chi più ne ha più ne metta...a ben pensarci, personalmente **io faccio parte di quella grossa fetta di pubblico che quest'archetipo narrativo lo tiene in vita più che volentieri**, e _Revenant_ ne è senzadubbio uno splendido tanto quanto classico esponente
  
 ## Considerazioni Personali
 

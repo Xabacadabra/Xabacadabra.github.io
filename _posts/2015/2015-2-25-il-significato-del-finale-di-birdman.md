@@ -14,7 +14,7 @@ published: true
 comments: true
 ---
 
-Ok, [l'avevo preannunciato](), e ci siamo arrivati.
+Ok, [l'avevo preannunciato](http://xabacadabra.com/2015/birdman-recensione/), e ci siamo arrivati.
 
 Come avrete visto nel titolo e dovrebbe essere ovvio, **questo post è totalmente spoiler:** guardatevi Birdman prima di leggere altrimenti, tanto per restare in tema, sono **volatici diabetici**
 {: .notice-warning}
