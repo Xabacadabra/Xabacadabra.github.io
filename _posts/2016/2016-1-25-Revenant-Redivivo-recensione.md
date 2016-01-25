@@ -20,7 +20,7 @@ Ovviamente, **nessuno spoiler**
 
 E attenzione: questa è una di quelle _lunghe._
 
-Un po' forse perché lungo è il film, un po' perché è uno di quei casi in cui c'è veramente TANTO da dire e in cui se non sto attento continuo ad aggiungere paragrafi su paragrafri nella speranza di riuscire a dire tutto quello che mi passa per la testa.
+Un po' forse perché lungo è il film, un po' perché è uno di quei casi in cui c'è veramente TANTO da dire e in cui se non sto attento continuo ad aggiungere paragrafi su paragrafi nella speranza di riuscire a dire tutto quello che mi passa per la testa dopo averlo visto.
 
 {% include toc.html %}
 
@@ -38,13 +38,12 @@ Tralasciando il fatto che dovrei guardarmi _Babel_ e _Biutiful_, possiamo tranqu
 
 <figure>
 	<img src="http://3.bp.blogspot.com/-ObKHC5DT688/US5ob0XEAvI/AAAAAAAADGY/7BVsFGcwfn8/s1600/dicaprio.png" alt="marchio di caprio">
+	<figcaption>Tanto per capirci anni fa creai quest'immaginetta, una sorta di marchio DOP con il faccione del nostro Leo. </figcaption>
 </figure>
 
-Perché ecco, tanto per capirci anni fa creai quest'immaginetta, una sorta di marchio DOP con il faccione del nostro Leo. 
+Questo perché, assodate le straordinarie qualità attoriali del nostro, dal 2001 in poi **Leonardo non ha più sbagliato un copione**:
 
-questo perché, assodate le straordinarie qualità attoriali del nostro, dal 2001 in poi **Leonardo non ha più sbagliato un copione**:
-
-Gusti personali a parte, **se vi fate un giro per la sua filmografia ci troverete alcune delle pellicole più significative degli ultimi vent'anni**, nonché collaborazioni con dei veri e propri Maestri.
+Gusti personali a parte, **se vi fate un giro per la sua filmografia ci troverete alcune delle pellicole più significative degli ultimi quindici anni**, nonché collaborazioni con dei veri e propri Maestri.
 
 Da cui: _"Se c'è Di Capiro il film è bello"_ è diventato una sorta di mantra recitato alla visione di ogni trailer, e _Revenant_ non fa eccezione.
 
@@ -62,7 +61,7 @@ Prima di analizzare tutti i vari punti che caratterizzano _Revenant_, occorre ev
 
 **Pura _arte figurativa in movimento_**, per l'appunto, ma con l'aggiunta di tutti i mezzi che ci garantisce l'alta definizione moderna:
 
-**C'è infatti della CGI pure in _Revenant_**, ma impiegata generalmente in "sottofondo" escludendo un paio di momenti (sopratutto **una delle scene madri**, in cui in effetti forse **tutto questo bel popò di visualità viene tradito** pur di mostrare un determinato livello di fisicità.
+**C'è infatti della CGI pure in _Revenant_**, ma impiegata generalmente in "sottofondo" escludendo un paio di momenti (sopratutto **una delle scene madri**, in cui in effetti forse **tutto questo bel popò di visualità viene tradito** pur di mostrare un determinato livello di fisicità)
 
 Nel complesso, tuttavia, **nulla che comprometta le altissime qualità visuali di cui sopra:**
 
@@ -82,7 +81,8 @@ In questo senso, come dicevo commentando **il diverbio tra Iñárritu e James Gu
 
 è una presenza costante **tanto in quello che dice tanto in quello che fa come regista**, quell'aria un po' tra lo snob ed il melodramma machiavellico che a parer mio **lo avvicina culturalmente molto ai capisaldi del cinema d'autore italiano.**
 
-Poi certo, certe storie di vendetta sono pure un perno dalla cinematografia americana classica (da cui ovviamente _Revenant_ piglia ispirazione a quintali). 
+Poi certo, certe storie di vendetta sono pure un perno dalla cinematografia americana classica (da cui ovviamente _Revenant_ piglia ispirazione a quintali).
+
 ## Interpretazioni
 
 <figure>
@@ -91,7 +91,7 @@ Poi certo, certe storie di vendetta sono pure un perno dalla cinematografia amer
 
 _Revenant_ è senz'altro uno dei film che meglio mostra che cosa significhi soffrire.
 
-Traspare più sofferenza nel Di Caprio di quest'opera di finzione che in tanta realtà, per quanto ammetterlo suoni brutto
+Traspare più sofferenza nel Di Caprio di quest'opera di finzione che in tanta realtà, per quanto suoni brutto ammetterlo.
 
 **Tom Hardy**, fresco reduce dal fantastico _Mad Max: Fury Road_, si riconferma un attore interessantissimo: 
 
@@ -107,7 +107,7 @@ Bene infine **Will Poulter**: il ragazzotto ci sa fare e, considerando le tortur
 	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-13-gallery-image.jpg" alt="Revenant Redivivo Recensione">
 </figure>
 
-Come ho scritto di recente riguardo [_Macbeth_](http://xabacadabra.com/2016/macbeth-recensione/) non voglio sminuire il lavoro dei doppiatori e non sono certo quel che si dice un purista, **ma per svariati motivi credo che _Revenant_ sia un altro di quei film da vedersi in lingua originale.**
+Come ho scritto di recente riguardo [_Macbeth_](http://xabacadabra.com/2016/macbeth-recensione/) non voglio sminuire il lavoro dei doppiatori e non sono certo quel che si dice un purista, **ma per svariati motivi credo che _Revenant_ sia un altro di quei film da rivedersi in lingua originale.**
 
 ## Onanismo Cinematografico
 
@@ -115,13 +115,13 @@ Come ho scritto di recente riguardo [_Macbeth_](http://xabacadabra.com/2016/macb
 	<img src="http://s3.foxfilm.com/foxmovies/production/films/96/images/gallery/revenant-gallery-01a-gallery-image.jpg" alt="Revenant Redivivo Recensione">
 </figure>
 
-Assodato che Iñárritu possiede un ego mica da poco (del resto se ha fatto _Birdman_ un motivo ci dovrà pur essere), il rischio di vedere la sua attenzione ai dettagli sforare nell'autocelebrazione pura esiste...
+Assodato che Iñárritu possiede un ego mica da poco (del resto se ha fatto _Birdman_ un motivo ci dovrà pur essere), **il rischio di vedere la sua attenzione ai dettagli sforare nell'autocelebrazione pura esiste.**
 
 Del resto, come diceva Sua Maestà Stephen King nell'introduzione de _La Tempesta del Secolo_:
 
 > Mostratemi un regista che non abbia qualcosa di Stalin e io vi farò vedere un cattivo regista.
 
-Anche in questo caso quindi lo "stalinismo" è perdonato: **l'estetica Iñárrituana è ancora una volta splendidamente funzionale alla bontà della pellicola.**
+Anche in questo caso quindi lo "stalinismo" è perdonato: **l'estetica dittatoriale Iñárrituana è ancora una volta splendidamente funzionale alla bontà della pellicola.**
 
 ## Resurrezione
 
@@ -163,7 +163,7 @@ I due film a livello d'estetica e genere sono lontani anni luce, eppure questo d
 
 ### "Un film lento"
 
-Questa critica la potrei anche comprendere già di più, ma la verità è che con i movimenti di telecamera e i "salti di scena" tra i vari personaggi l'ho trovata sempre un po' esagerata (non a caso chi la muove sembra aver guardato le parti con Di Caprio e basta)
+Questa critica la potrei anche comprendere già di più, ma la verità è che **con i movimenti di telecamera e i "salti di scena" tra i vari personaggi l'ho trovata sempre un po' esagerata** (non a caso chi la muove di solito sembra aver guardato le parti con Di Caprio e basta)
 
 Cioè, c'avete presente l'introduzione di _C'era una volta il West_ ? Una delle sequenze più belle della storia del cinema ? 
 
@@ -185,7 +185,9 @@ Per il resto, vale grossomodo quello che ho scritto sopra.
 
 **Revenant è un magistrale esempio di Cinema**, ma forse (anzi, sicuramente) poco in linea con i nostri tempi: **fosse uscito una quarantina d'anni fa, oggi staremmo tutti a tesserne le lodi**
 
-Certo è condito da una buona dose d'egocentrismo autoriale, che non guasta.
+Certo è condito da una buona dose d'egocentrismo autoriale, che tuttavia non guasta affatto (se apprezzate lo stile del regista).
 
-4 Braccobaldi e mezzo su 5
+## Voto:
+
+**4 Braccobaldi e mezzo su 5**
 {: .notice-success}
