@@ -8,6 +8,8 @@ image:
   (Il blog è ancora in fase di migrazione, aspettatevi errori, macelli con disqus e redirect strani)
 </div>
 
+<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Cerca nel Blog</h2></div>
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -33,13 +35,13 @@ SimpleJekyllSearch({
   {% endfor %}
 </div>
 
+<div class="tiles">
+
 <div>
   <figure>
    <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
 </figure>
 </div>
-
-<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
