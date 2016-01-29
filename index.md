@@ -41,9 +41,9 @@ SimpleJekyllSearch({
   {% endfor %}
 </div>
 
-<div class="tiles">
-
 <div><h2 class="post-title"><i class="fa fa-info-circle"></i> Informazioni</h2></div>
+
+<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
