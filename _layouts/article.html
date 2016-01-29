@@ -39,6 +39,10 @@ layout: default
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 				<hr />
+			<!--related post-->
+			<ul>
+            {% include related_posts %}
+             </ul> <!--//related post-->
 				<footer class="page-footer">
 				  <p id="post-meta">{{ tags_content }}</p> <!-- tags -->		
 					{% if page.categories %}{% include page-author.html %}{% endif %}
