@@ -40,6 +40,7 @@ SimpleJekyllSearch({
     {% include post-grid.html %}
   {% endfor %}
 </div>
+</div>
 
 <div><h2 class="post-title"><i class="fa fa-info-circle"></i> Informazioni</h2></div>
 
