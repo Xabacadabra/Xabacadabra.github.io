@@ -8,14 +8,6 @@ image:
   (Il blog è ancora in fase di migrazione, aspettatevi errori, macelli con disqus e redirect strani)
 </div>
 
-<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
-
-<div class="tiles">
-  {% for post in site.posts limit:8 %}
-    {% include post-grid.html %}
-  {% endfor %}
-</div>
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
@@ -32,6 +24,14 @@ SimpleJekyllSearch({
   json: '/search.json',
 })
 </script>
+
+<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
+
+<div class="tiles">
+  {% for post in site.posts limit:8 %}
+    {% include post-grid.html %}
+  {% endfor %}
+</div>
 
 <div>
   <figure>
