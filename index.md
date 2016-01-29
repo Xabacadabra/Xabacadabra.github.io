@@ -8,7 +8,13 @@ image:
   (Il blog è ancora in fase di migrazione, aspettatevi errori, macelli con disqus e redirect strani)
 </div>
 
-<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Cerca nel Blog</h2></div>
+<div><h2 class="post-title"><i class="fa fa-search"></i> Cerca nel Blog</h2></div>
+
+<div>
+  <figure>
+   <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
+</figure>
+</div>
 
 <!-- Html Elements for Search -->
 <div id="search-container">
@@ -36,12 +42,6 @@ SimpleJekyllSearch({
 </div>
 
 <div class="tiles">
-
-<div>
-  <figure>
-   <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
-</figure>
-</div>
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
