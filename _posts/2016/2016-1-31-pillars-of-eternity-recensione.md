@@ -15,11 +15,11 @@ published: true
 comments: true
 ---
 
-{% include toc.html %}
-
 Bene. 
 
 è stato lungo è faticoso, ma finalmente ho terminato Pillars of Eternity, e credo di poterlo recensire come si deve.
+
+{% include toc.html %}
 
 ## L'Ombra dell'Amn
 
@@ -71,7 +71,7 @@ Per dirla in breve, in parecchi punti sembra esserci **più forma che sostanza.*
 
 Allo stesso modo, **certe scelte di gameplay sembrano fatte giusto per inseguire lo spirito nostalgico a scapito della funzionalità:**
 
-Per carità, all'inizio può anche far salire la lacrimuccia rivedere le care mappone esplorabili cliccando a destra e a manca, ma dopo l'ennesimo dungeon passato ad aspettare per tre ore che il party raggiunga il punto designato inizi a capire che qualche problema c'è, e che nel 2016 _"Devi raccogliere il tuo gruppo prima di andare avanti"_ puoi davvero permetterti di dirlo solo se all'anagrafe conti più di quindici anni.
+Per carità, all'inizio può anche far salire la lacrimuccia rivedere le care mappone esplorabili cliccando a destra e a manca, ma **dopo l'ennesimo dungeon passato ad aspettare per tre ore che il party raggiunga il punto designato inizi a capire che qualche problema c'è**, e che nel 2016 _"Devi raccogliere il tuo gruppo prima di andare avanti"_ puoi davvero permetterti di dirlo solo se all'anagrafe conti più di quindici anni.
 
 ## Spunti da Master
 
@@ -83,7 +83,7 @@ O anche da Libro Game:
 
 **Le sequenze scriptate** (scene risolvibili tramite scelte condizionate dalle statistiche del nostro personaggio o da un altro membro del gruppo) **rappresentano un'idea grandiosa**...peccato siano relativamente poche, sopratutto in rapporto all'_abnorme_ numero di combattimenti (non così evitabili come si poteva sperare).
 
-Allo stesso modo, **l'innovativo sistema di reputazione è decisamente più interessante del monotono allineamento da D&D**, ed è una di quelle idee che personalmente mi piacerebbe rivedere in altri RPG.
+Allo stesso modo, **l'innovativo sistema di reputazione (o meglio, di reputazioni) è decisamente più interessante del monotono allineamento da D&D**, ed è una di quelle idee che personalmente mi piacerebbe rivedere in altri RPG.
 
 ## Planescape Avellone
 
@@ -101,7 +101,7 @@ Quel secondo punto forse si spiega evidenziando un ulteriore elemento:
 
 **per moltissimi versi, Pillars of Eternity è l'anello mancante tra Baldur's Gate II e Planescape Torment**
 
-In particolare, **Pillars of Eternity porta in scena una trama splendida con concetti e tematiche sullo stile di Planescape Torment** (non per niente la scrittura di Chris Avellone si sente parecchio), diluendola però in **un'esperienza di gioco letteralmente mastodontica e dispersiva, com'era del resto quella del celeberrimo e densissimo Baldur's Gate II**
+In particolare, **Pillars of Eternity porta in scena una trama splendida con concetti e tematiche sullo stile di Torment** (non per niente la scrittura di Chris Avellone si sente parecchio), diluendola però in **un'esperienza di gioco letteralmente mastodontica e dispersiva, com'era del resto quella del celeberrimo e gargantuesco Baldur's Gate II**
 
 ## Trama
 
@@ -131,13 +131,13 @@ Ed è allora che per paradosso **vince sempre il vecchio Baldur's Gate II, forte
 
 Gli 8 personaggi _precotti_ per formare il nostro gruppo sono scritti tutti mediamente bene, ma forse con un po' di alti e bassi qua e la
 
-- **Sagani e Hiravias** non li ho approfonditi abbastanza, per cui posso dare solo un'opinione superficiale, che sinceramente non mi ha convinto molto.
+- **Sagani e Hiravias** non li ho approfonditi abbastanza, per cui posso dare solo un'opinione superficiale, ma sinceramente non mi hanno convinto molto.
 
-- **Aloth, Edèr, Kana, Pallegina** (si, la paladina si chiama così...) rappresentano tutti una specie di versione più "adulta" e profonda dei classici cliché a cui il genere ci ha abituato, a parer mio **molto più convincenti delle ultime relative controparti che mi è capitato di vedere in casa Bioware** (coff coff Dragon Age coff coff), anche per questo però **è un peccato notare come interagiscano poco o nulla tra di loro*, limitandosi a fare da interlocutori al protagonista per le relative _quest ad personam_
+- **Aloth, Edèr, Kana, Palegina** (si, la paladina si chiama così...) rappresentano tutti una specie di versione più "adulta" e profonda dei classici cliché a cui il genere ci ha abituato, a parer mio **molto più convincenti delle ultime relative controparti che mi è capitato di vedere in casa Bioware** (coff coff Dragon Age coff coff), anche per questo però **è un peccato notare come interagiscano poco o nulla tra di loro**, limitandosi a fare da interlocutori al protagonista per le relative _quest ad personam_
 
-- **La Madre in Cordoglio** è una figura interessantissima, probabilmente quella che più sembra uscita da Planescape Torment: per certi versi **temo che il suo breve arco narrativo si esaurisca troppo presto** e che sia stata lasciata un po' a metà
+- **La Madre in Cordoglio** è una figura interessantissima, forse quella che più sembra uscita da Planescape Torment: per certi versi **temo che il suo breve arco narrativo si esaurisca troppo presto** e che sia stata lasciata un po' a metà
 
-- **Durance** è probabilmente il personaggio più riuscito, originale ed interessante del party...anche se probabilmente per molti giocatori non risulterà proprio proprio quel che si dice un fenomeno di simpatia (io personalmente lo adoro!)
+- **Durance** è probabilmente il personaggio più riuscito, originale ed interessante del party...anche se per molti giocatori non risulterà proprio proprio quel che si dice un fenomeno di simpatia (io personalmente lo adoro, ma vabbè)
 
 ## Ambientazione
 
@@ -145,9 +145,9 @@ Gli 8 personaggi _precotti_ per formare il nostro gruppo sono scritti tutti medi
 	<img src="http://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/d/d8/WorldMap.jpg" alt="pillars of eternity recensione">
 </figure>
 
-Che _Eora_ riprenda a piè mani dai Forgotten Realms e la Foresta di Dyr risulti una pittoresca discendente della Costa della Spada è chiaro come il sole, ma l'idea di mischiare le carte in tavola del fantasy classico inserendoci una connotazione prossima all'era rinascimentale, con rimandi all'epoca coloniale, ma anche preistorica (!) funziona parecchio bene:
+Che _Eora_ riprenda a piè mani dai Forgotten Realms e la Foresta di Dyr risulti una pittoresca discendente della Costa della Spada è chiaro come il sole, ma l'idea di mischiare le carte in tavola del fantasy classico inserendoci una connotazione prossima all'era rinascimentale, con rimandi all'epoca coloniale, ma anche preistorica (!) funziona parecchio:
 
-**è la dimostrazione di come, se il cuoco ci sa fare, la minestra riscaldata può sempre diventare un piatto sfiziosissimo**
+**è la dimostrazione di come, se il cuoco ci sa fare, la minestra riscaldata può sempre diventare un piatto sfiziosissimo.**
 
 Personalmente, da detrattore dell'abuso del fantasy quale sono, confesso che ne ordinerei un'altra porzione molto volentieri.
 
@@ -179,7 +179,9 @@ Personalmente, da detrattore dell'abuso del fantasy quale sono, confesso che ne 
 
 ## Conclusioni
 
-**Pillars of Eternity è un gioco di un'altra epoca, traslato un po' a forza nella modernità odierna ma con numerosi spunti interessanti e un'ambientazione che merita di essere sfruttata ancora un bel po'**, magari recuperando qualcosa di Neverwinter Nights o proseguendo delle ottime idee della compianta Troika Games
+**Pillars of Eternity è un gioco di un'altra epoca, traslato un po' a forza nella modernità odierna** ma con numerosi spunti interessanti e sopratutto un'ambientazione che merita di essere sfruttata ancora un bel po'. 
+
+Magari ecco, la prossima volta recuperando qualcosa anche da Neverwinter Nights e proseguendo delle ottime idee della compianta Troika Games.
 
 **4 Braccobaldi su 5**
 {: .notice-success}
