@@ -145,7 +145,7 @@ Gli 8 personaggi _precotti_ per formare il nostro gruppo sono scritti tutti medi
 	<img src="http://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/d/d8/WorldMap.jpg" alt="pillars of eternity recensione">
 </figure>
 
-Che _Eora_ riprenda a piè mani dai Forgotten Realms e la Foresta di Dyr risulti una pittoresca discendente della Costa della Spada è chiaro come il sole, ma l'idea di mischiare le carte in tavola del fantasy classico inserendoci una connotazione prossima all'era rinascimentale, con rimandi all'epoca coloniale, ma anche preistorica (!) funziona parecchio:
+Che _Eora_ riprenda a piene mani dai Forgotten Realms e la Foresta di Dyr risulti una pittoresca discendente della Costa della Spada è chiaro come il sole, ma l'idea di mischiare le carte in tavola del fantasy classico inserendoci una connotazione prossima all'era rinascimentale, con rimandi all'epoca coloniale, ma anche preistorica (!) funziona parecchio:
 
 **è la dimostrazione di come, se il cuoco ci sa fare, la minestra riscaldata può sempre diventare un piatto sfiziosissimo.**
 
