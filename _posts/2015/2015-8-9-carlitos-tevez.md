@@ -65,7 +65,7 @@ Il Mondiale del 2006 attenuò le cose, sì, ma fu il tempo di un'estate.
 
 Letteralmente:
 
-<a href='http://it.wikipedia.org/wiki/Scontri_di_Catania'>### 2 febbraio 2007.</a>
+<a href='http://it.wikipedia.org/wiki/Scontri_di_Catania'>**2 febbraio 2007.**</a>
 
 **Io Catania in quei giorni ci vivevo. E la bara di Raciti la sentivo vicinissima.**
 
