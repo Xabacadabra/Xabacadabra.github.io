@@ -1,0 +1,82 @@
+---
+published: false
+---
+
+{% include toc.html %}
+
+Me lo chiedono ogni anno in molti, ed è curioso notare come in tre anni di blog io abbia sommariamente "recensito" tutte le edizioni senza fare una piega:
+
+1. Sanremo 2013
+2. Sanremo 2014
+3. Sanremo 2015
+
+*Sanremo fa schifo* è uno slogan parecchio facilone, anche se spesso veritiero, come veritiere sono l'immane spesa ed il considerevole intrallazzo che ogni anno il festival si porta appresso.
+
+Ci sarebbero molte cose da dire su questo punto, ma sono sicuro che un aspirante Beppe Grillo potrebbe elencarle meglio di me, quindi saltiamolo un po'.
+
+Perché guardo Sanremo, dicevamo.
+
+## Tradizione
+
+Io sono tutto fuorché un conservatore, ma **ammetto di avere un debole per il concetto di consuetudine annuale collettiva.** 
+
+Probabilmente ha a che fare con il mio passione con la storia: 
+
+**il fatto stesso che un evento si ripeta pedissequamente in un determinato periodo dell'anno spinge, inevitabilmente, a ricordare.**
+
+A fare paragoni con le edizioni precedenti, con **le *Italie* precedenti.**
+
+E questo, **in un paese che di base memoria storica praticamente non ne ha, ha un suo valore.**
+
+## Spettacolo
+
+C'è da dire poi che **Il format del "grande varietà" con lustrini e paillette a me affascina**, anche quando finisce per annoiarmi (perché dopo 8 ore di palle ci si scogliona della grossa, è naturale)
+
+**C'è sempre dietro un certo decadentismo, nello sfarzo e nello splendore ostentati:**
+
+Per ogni grande festa, c'è sempre un Titanic che affonda, un Gatsby che piange.
+
+<figure>
+	<img src='' alt='shining'>
+	<figcaption>Un Jack Nicholson che tenta di ammazzare la moglie</figcaption>
+</figure>	
+
+Tutto molto *vecchio*, molto classico, sì...
+
+però a suo modo **più profondo, caratterizzato e dal sapore pur sempre genuino nella sua falsità tradizionale, rispetto ai format di talent e reality fatti di plastica americana wannabe**.
+
+Un po' come al ristorante, dove vi serviranno pure gli avanzi della sera prima, ma se non altro sono i *nostri* avanzi, la nostra merda, non un panino uguale a quello di altri miliardi di fast food in giro per il mondo.
+
+## Politica
+
+Solitamente a Sanremo si fotografa molto precisamente la società dell'Italia "bene", governo incluso: 
+
+- Nel Sanremo del 2012 Rocco Papaleo nella veste di comico (è pure un buon attore)  arrivò ai limiti dell'*operazione simpatia* per il Governo Monti (che a pensarci adesso sembrano passati vent'anni...)
+
+- Nel 2013 Maurizio Crozza butto lì il suo pezzo di satira molto leggera (e simpatica), rimasta celebre perché contestata da uno o più spettatori destrosi
+
+- Nel 2014 la presenza di Beppe Grillo tra gli spettatori scatenò un piccolo putiferio, con tanto di comizio (per non parlare delle sue *performance* degli anni '80)
+
+Ovviamente, l'elenco potrebbe continuare per un bel po' e per comodità ho citato a memoria solo alcuni dei casi più recenti.
+
+## Musica
+
+Tralasciando il fatto che un qualsiasi cosa contempli la presenza degli *Elio e le Storie Tese* merita di essere visto almeno in parte, bisogna considerare che non tutto ciò che passa da Sanremo è automaticamente da buttare (o quasi)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mcuMpNvBJPg" frameborder="0" allowfullscreen></iframe>
+
+Per dirne una, la cover di Annalisa di *Ti sento* dell'anno scorsa mi è piaciuta tantissimo (evitando scomodi paragoni con Antonella Ruggiero), o, per stare sugli originali, **Nina Zilli** sempre nel 2015 cacciò fuori un classicissimo blues mica male.
+
+Meglio ancora in senso musicale (ovviamente) passa dagli ospiti: dalla **PFM** a **David Garrett** o il venturo Sir **Elton John**. 
+
+Poi certo, non prendiamoci in giro: **la musica è forse l'ultimo dei motivi per cui si guarda Sanremo.**
+
+## Conclusioni
+
+*Esistono modi migliori per passare il proprio tempo ?*
+
+Assolutamente sì, a bizzeffe.
+
+Sanremo è un lusso anche in questo, **è uno spreco consapevole e un po' morboso, una sorta di autopsia dell'establishment del nostro intrattenimento (e non solo).**
+
+ 
