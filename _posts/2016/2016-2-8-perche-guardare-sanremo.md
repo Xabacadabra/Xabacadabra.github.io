@@ -83,18 +83,29 @@ Ovviamente, l'elenco potrebbe continuare per un bel po' e per comodità ho citat
 
 <figure>
 	<img src='/gallery/sanremo/sanremo-queen.jpg' alt='queen'>
-	<figcaption>(e comunque andremo tutti all'inferno in quanto nazione per aver fatto suonare i Queen in Playback)</figcaption>
+	<figcaption>(e comunque andremo tutti all'inferno in quanto nazione che ha fatto suonare i Queen in Playback)</figcaption>
 </figure>
 
 Tralasciando il fatto che un qualsiasi cosa contempli la presenza degli **Elio e le Storie Tese** merita di essere ascoltato (e visto) almeno in parte, bisogna considerare che non tutto ciò che passa da Sanremo è automaticamente da buttare (o quasi)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mcuMpNvBJPg" frameborder="0" allowfullscreen></iframe>
 
-Per dirne una, la cover di Annalisa di *Ti sento* dell'anno scorsa mi è piaciuta tantissimo (ovviamente evitando scomodi paragoni con Antonella Ruggiero), o, per stare sugli originali, **Nina Zilli** sempre nel 2015 cacciò fuori un classicissimo blues mica male.
+Per dirne una, la cover di Annalisa di *Ti sento* dell'anno scorsa mi è piaciuta tantissimo (ovviamente evitando scomodi paragoni con Antonella Ruggiero, e con tanti meriti dell'orchestra)
 
-Meglio ancora in senso musicale (ovviamente) passa dagli ospiti: dalla **PFM** a **David Garrett** o il venturo Sir **Elton John**. 
+Oppure, per stare sui brani originali, **Nina Zilli** sempre nel 2015 cacciò fuori un classicissimo pop-blues davvero niente male.
 
-Poi certo, non prendiamoci in giro: **la musica è forse l'ultimo dei motivi per cui si guarda Sanremo.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a7nqZyh3AjM" frameborder="0" allowfullscreen></iframe>
+
+Meglio ancora in senso musicale (ovviamente) passa dagli ospiti: dalla **PFM** a **David Garrett** o il venturo Sir **Elton John**, le ospitate spesso e volentieri hanno rubato la scena ai cantanti in gara.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R3h1K-_Dl_0" frameborder="0" allowfullscreen></iframe>
+"Almeno questa volta suono live, e checazz!" 
+
+Poi certo, non prendiamoci in giro: **la musica è forse l'ultimo dei motivi per cui si guarda Sanremo, ammettiamolo:**
+
+il concetto di competizione applicato alla musica è di per se una scemenza, e delle canzoni difficilmente ci si ricorda. 
+
+Quel che conta, è proprio ciò che si rinnega: *il carrozzone!* (no, non nel senso di Renato Zero)
 
 ## Conclusioni
 
@@ -102,6 +113,6 @@ Poi certo, non prendiamoci in giro: **la musica è forse l'ultimo dei motivi per
 
 *Esistono modi migliori per passare il proprio tempo ?*
 
-Assolutamente sì, a bizzeffe.
+**Assolutamente sì**, a bizzeffe.
 
 Sanremo è un lusso anche in questo, **è uno spreco consapevole e un po' morboso, una sorta di autopsia dell'establishment del nostro intrattenimento (e non solo).**
