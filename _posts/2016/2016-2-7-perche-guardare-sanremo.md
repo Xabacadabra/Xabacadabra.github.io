@@ -1,14 +1,24 @@
 ---
-published: false
+layout: article
+title: "Perché guardare Sanremo"
+modified: null
+categories: [2016]
+excerpt: "Me lo chiedono ogni anno in molti, ed è curioso notare come in tre anni di blog io abbia sommariamente "recensito" tutte le edizioni senza fare una piega:"
+tags:
+  - spettacolo
+image: 
+  feature: perche-sanremo.jpg
+  teaser: teaser-perche-sanremo.jpg
+  thumb: null
+published: true
+comments: true
 ---
-
-{% include toc.html %}
 
 Me lo chiedono ogni anno in molti, ed è curioso notare come in tre anni di blog io abbia sommariamente "recensito" tutte le edizioni senza fare una piega:
 
-1. Sanremo 2013
-2. Sanremo 2014
-3. Sanremo 2015
+1. [Sanremo 2013](http://xabacadabra.com/2013/sanremo-duemilatredici/)
+2. [Sanremo 2014](http://xabacadabra.com/2014/sanremo-2014/)
+3. [Sanremo 2015](http://xabacadabra.com/2015/sanremo-2015/)
 
 *Sanremo fa schifo* è uno slogan parecchio facilone, anche se spesso veritiero, come veritiere sono l'immane spesa ed il considerevole intrallazzo che ogni anno il festival si porta appresso.
 
@@ -16,7 +26,13 @@ Ci sarebbero molte cose da dire su questo punto, ma sono sicuro che un aspirante
 
 Perché guardo Sanremo, dicevamo.
 
+{% include toc.html %}
+
 ## Tradizione
+
+<figure>
+	<img src='gallery/sanremo/mudugno.jpg' alt='modugno'>
+</figure>
 
 Io sono tutto fuorché un conservatore, ma **ammetto di avere un debole per il concetto di consuetudine annuale collettiva.** 
 
@@ -37,8 +53,8 @@ C'è da dire poi che **Il format del "grande varietà" con lustrini e paillette 
 Per ogni grande festa, c'è sempre un Titanic che affonda, un Gatsby che piange.
 
 <figure>
-	<img src='' alt='shining'>
-	<figcaption>Un Jack Nicholson che tenta di ammazzare la moglie</figcaption>
+	<img src='http://screenprism.com/assets/img/article/_1080x400/178763.jpg' alt='shining'>
+	<figcaption>O un Jack Nicholson che tenta di ammazzare la moglie</figcaption>
 </figure>	
 
 Tutto molto *vecchio*, molto classico, sì...
@@ -48,6 +64,10 @@ però a suo modo **più profondo, caratterizzato e dal sapore pur sempre genuino
 Un po' come al ristorante, dove vi serviranno pure gli avanzi della sera prima, ma se non altro sono i *nostri* avanzi, la nostra merda, non un panino uguale a quello di altri miliardi di fast food in giro per il mondo.
 
 ## Politica
+
+<figure>
+	<img src='gallery/sanremo/grillo-sanremo-1988.jpg' alt='grillo'>
+</figure>
 
 Solitamente a Sanremo si fotografa molto precisamente la società dell'Italia "bene", governo incluso: 
 
@@ -61,6 +81,11 @@ Ovviamente, l'elenco potrebbe continuare per un bel po' e per comodità ho citat
 
 ## Musica
 
+<figure>
+	<img src='gallery/sanremo/sanremo-queen.jpg' alt='queen'>
+	<figcaption>(e comunque andremo tutti all'inferno come nazione per aver fatto suonare i Queen in Playback)</figcaption>
+</figure>
+
 Tralasciando il fatto che un qualsiasi cosa contempli la presenza degli *Elio e le Storie Tese* merita di essere visto almeno in parte, bisogna considerare che non tutto ciò che passa da Sanremo è automaticamente da buttare (o quasi)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mcuMpNvBJPg" frameborder="0" allowfullscreen></iframe>
@@ -73,10 +98,10 @@ Poi certo, non prendiamoci in giro: **la musica è forse l'ultimo dei motivi per
 
 ## Conclusioni
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/jdt4MGcZkew" frameborder="0" allowfullscreen></iframe>
+
 *Esistono modi migliori per passare il proprio tempo ?*
 
 Assolutamente sì, a bizzeffe.
 
 Sanremo è un lusso anche in questo, **è uno spreco consapevole e un po' morboso, una sorta di autopsia dell'establishment del nostro intrattenimento (e non solo).**
-
- 
