@@ -31,7 +31,7 @@ Perché guardo Sanremo, dicevamo.
 ## Tradizione
 
 <figure>
-	<img src='gallery/sanremo/mudugno.jpg' alt='modugno'>
+	<img src='/gallery/sanremo/mudugno.jpg' alt='modugno'>
 </figure>
 
 Io sono tutto fuorché un conservatore, ma **ammetto di avere un debole per il concetto di consuetudine annuale collettiva.** 
@@ -66,7 +66,7 @@ Un po' come al ristorante, dove vi serviranno pure gli avanzi della sera prima, 
 ## Politica
 
 <figure>
-	<img src='gallery/sanremo/grillo-sanremo-1988.jpg' alt='grillo'>
+	<img src='/gallery/sanremo/grillo-sanremo-1988.jpg' alt='grillo'>
 </figure>
 
 Solitamente a Sanremo si fotografa molto precisamente la società dell'Italia "bene", governo incluso: 
@@ -82,7 +82,7 @@ Ovviamente, l'elenco potrebbe continuare per un bel po' e per comodità ho citat
 ## Musica
 
 <figure>
-	<img src='gallery/sanremo/sanremo-queen.jpg' alt='queen'>
+	<img src='/gallery/sanremo/sanremo-queen.jpg' alt='queen'>
 	<figcaption>(e comunque andremo tutti all'inferno come nazione per aver fatto suonare i Queen in Playback)</figcaption>
 </figure>
 
