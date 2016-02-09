@@ -36,7 +36,7 @@ Perché guardo Sanremo, dicevamo.
 
 Io sono tutto fuorché un conservatore, ma **ammetto di avere un debole per il concetto di consuetudine annuale collettiva.** 
 
-Probabilmente ha a che fare con il mio passione con la storia: 
+Probabilmente ha a che fare con la mia passione per la storia: 
 
 **il fatto stesso che un evento si ripeta pedissequamente in un determinato periodo dell'anno spinge, inevitabilmente, a ricordare.**
 
