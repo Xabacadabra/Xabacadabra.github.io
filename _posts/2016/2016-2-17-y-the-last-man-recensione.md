@@ -3,7 +3,7 @@ layout: article
 title: Y - L'ultimo uomo sulla Terra [Recensione]
 modified: null
 categories: [2016]
-excerpt: "Quel "recensione" nel titolo serve più che altro per avere una buona scusa per piazzare questo post, rispondendo all'insopportabile esigenza..."
+excerpt: "Quel recensione nel titolo serve più che altro per avere una buona scusa per piazzare questo post, rispondendo all'insopportabile esigenza..."
 tags: 
    - recensioni
    - fumetti
