@@ -32,7 +32,7 @@ E sì, intendo proprio **la scomparsa globale degli esseri viventi di sesso masc
 L'avete immaginato ? Bene.
 
 Ora, fate conto che l'unico maschio superstite in tutto il globo, la proverbiale eccezione che conferma la regola, sia 
-**Yorick**, un timido ragazzotto di New York dal nome shakespeariano, fissa per le citazioni tratte dalla (non troppo)pop-colture che manco Deadpool e un bel principio di agorafobia latente.
+**Yorick**, un timido ragazzotto di New York dal nome shakespeariano, fissa per le citazioni tratte dalla (non troppo)pop-culture che manco Deadpool e un bel principio di agorafobia latente.
 
 Ecco, questo è l'ultimo maschio. Lui, e la sua scimmia.
 
