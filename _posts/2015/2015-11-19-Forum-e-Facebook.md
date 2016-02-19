@@ -3,7 +3,9 @@ layout: article
 title: "Forum e Facebook - Come Sundance Kid"
 modified: null
 categories: [2015]
-excerpt: "Da qualche tempo mi è capitato di notare come, sopratutto tra le Pagine di Facebook, risulti di moda farsi fighi..."
+excerpt: "Immaginatevi un cowboy.
+
+Uno di quelli verso la fine della conquista della frontiera..."
 tags:
   - cyberspazio
 image: 
