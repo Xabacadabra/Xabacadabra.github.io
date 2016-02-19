@@ -15,10 +15,9 @@ comments: true
 
 Per le puntate precedenti:
 
-- [Metal Gear Solid V: The Phantom Pain | Prime Impressioni a caldo](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/)
+1. [Prime Impressioni a caldo](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/)
 
-- [Metal Gear Solid V: The Phantom Pain | Seconde Impressioni a tiepido (?!)](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)
-
+2. [Seconde Impressioni a tiepido (?!)](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)
 Sono più 60 ore. Che ho smesso di contare le ore.
 
 Devo ancora raggiungere il "vero finale", per cui preciso che la recensione vera e propria arriverà solo in seguito (quindi tra qualche secolo).
@@ -74,7 +73,7 @@ sono dei documenti estemporanei, freddi, privi della benché minima tensione nar
 
 Per intenderci, scene così non le puoi mica fare, con le audiocassette.
 
-##Il Troppo stroppia
+## Il Troppo stroppia
 
 Non è un caso se qualche giorno fa me ne sono uscito con un post che, citando Nobuo Uematsu, parlava della grandezza dei limiti:
 

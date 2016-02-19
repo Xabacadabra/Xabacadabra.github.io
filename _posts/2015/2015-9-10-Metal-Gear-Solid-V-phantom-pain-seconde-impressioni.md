@@ -33,7 +33,7 @@ Insomma, **The Phantom Pain è la straordinaria incarnazione moderna del classic
 
 Cioè, in soldoni: se in un qualsiasi altro Metal Gear Solid farsi beccare dal nemico significava inequivocabilmente un restart della missione o addirittura di tutto il gioco (almeno per il giocatore più incallito) in The Phantom Pain, escludendo quelle principali, questa pressione la si sente poco o nulla:
 
-1. **Le missioni opzionali non hanno valutazioni**, limiti di tempo, un vero inizio o una vera fine: arrivando nella relativa area possono essere affrontate o ignorate a nostro piacere  
+1. **Le missioni opzionali non hanno valutazioni**, limiti di tempo, un vero inizio o una vera fine: arrivando nella relativa area possono essere affrontate o ignorate a nostro piacere
 
 2. **Le missioni principali sono tutte abbastanza brevi** o comunque spezzettate in checkpoint strategici, e **sopratutto possono essere rigiocate quando e come si vuole**
 

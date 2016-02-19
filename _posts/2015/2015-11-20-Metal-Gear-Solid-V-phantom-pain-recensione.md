@@ -39,7 +39,7 @@ Si perde, The Phantom Pain, quasi intimidito da quella meta, da quella benedetta
 
 E anzi, se vogliamo dirla tutta, il vero finale di Peace Walker, con il relativo monologo di Big Boss, era senz'altro più adeguato a terminare il discorso con la sua personalissima saga, esattamente come il finale di Metal Gear Solid 4 chiuse decisamente meglio tutta la serie Metal Gear.
 
-##Ludus e Pathos
+## Ludus e Pathos
 
 <figure>
  <img src="http://4.bp.blogspot.com/-2vIlvBngqv8/Vk6Q2WyBD1I/AAAAAAAANWA/TsDyzjmXyhc/s320/QuietStare.jpg" alt="Quiet">
