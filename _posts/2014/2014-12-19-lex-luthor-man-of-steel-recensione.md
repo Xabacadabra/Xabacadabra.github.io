@@ -8,8 +8,8 @@ tags:
    - recensioni
    - fumetti
 image: 
-  feature: lexluthor.jpg
-  teaser: teaserlexluthor.jpg
+  feature: lex-luthor.jpg
+  teaser: teaser-lex-luthor.jpg
   thumb: null
 published: true
 comments: true
