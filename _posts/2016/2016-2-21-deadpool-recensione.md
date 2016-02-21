@@ -3,7 +3,7 @@ layout: article
 title: "Deadpool [Recensione]"
 modified: null
 categories: [2016]
-excerpt: "Togliamoci subito il dente avvelenato: Deadpool è un film costruito per Internet. Come tale, è un film che nella sua promozione..."
+excerpt: "Togliamoci subito il dente avvelenato. Deadpool è un film costruito per Internet. Come tale, è un film che nella sua promozione..."
 tags:
   - cinema
   - recensioni
@@ -25,9 +25,9 @@ Come tale, è un film che nella sua promozione, diffusione, "memevisione" da soc
 
 Tuttavia nella mia recensione **tutto questo discorso proverò ad ignorarlo**, e al solito **considererò il film solo per quello che è in se stesso.**
 
-Prima però, occorre un breve preambolo sulla storia editoriale del personaggio, perché spiega molte delle cose che scriverò poi:
-
 {% include toc.html %}
+
+Prima di tutto occorre un breve preambolo sulla storia editoriale del personaggio, perché spiega molte delle cose che scriverò poi:
 
 ## Il Deadpool fumettistico
 
