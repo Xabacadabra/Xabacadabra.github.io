@@ -61,7 +61,9 @@ Gioco forza, **è l'incarnazione fumettistica di ciò che è buona parte dell'in
 
 ## Il film
 
-[Hideo Kojima]
+<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">Saw DEADPOOL. Full of fan service from OP to the ED roll. <a href="https://t.co/WAgONKXppM">pic.twitter.com/WAgONKXppM</a></p>&mdash; HIDEO_KOJIMA (@HIDEO_KOJIMA_EN) <a href="https://twitter.com/HIDEO_KOJIMA_EN/status/699393325636329472">16 Febbraio 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+(detto da lui è un po' paradossale, non trovate?)
 
 Per una volta **il fatto che i diritti Marvel siano sparsi in giro potrebbe aver giovato alla riuscita del film:** 
 
@@ -74,14 +76,12 @@ L'eccezione, ovviamente, sarebbero i sopracitati *X-Men*...che sono comunque un 
 ## Regia
 
 <figure>
-<img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-03-gallery-image.jpg' alt='deadpool-recensione'>
+<img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-02-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
-**Tim Miller** è alla sua seconda prova da regista dopo _The Goon_ (e dopo aver girato la scena iniziale di quella mostruosità che risponde al nome di _Thor:The Dark World_)
+**Tim Miller** è alla sua seconda prova da regista dopo _The Goon_ (e dopo aver girato la scena iniziale di quella mostruosità che risponde al nome di _Thor:The Dark World_) e direi che offre una regia niente male, anche se personalmente **le scene d'azione m'hanno annoiato parecchio**, forse per via dell'overdose da **bulletime**, (certe sequenze sono il sogno bagnato di Max Payne) 
 
-Nulla da eccepire direi, anche se personalmente **le scene d'azione m'hanno annoiato parecchio**, forse per via dell'overdose da **bulletime**, (certe sequenze sono il sogno bagnato di Max Payne) 
-
-In generale, **se Deadpool non dicesse qualche cazzata ogni petosecondo ci si annoierebbe davvero in fretta**, ma per contro questo impedisce ad ogni altra (anche se le parti più dedite alla love story, che non sono girate affatto male, anzi).
+In generale, **se Deadpool non dicesse qualche cazzata ogni petosecondo ci si annoierebbe davvero in fretta**, ma per contro questo impedisce ad ogni altro momento di spiccare più di tanto (come le parti dedite alla love story, che non sono girate affatto male, anzi).
 
 ## Ryan Reynolds & Co
 
@@ -89,11 +89,11 @@ In generale, **se Deadpool non dicesse qualche cazzata ogni petosecondo ci si an
 <img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-04-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
-Ryan è bravissimo, e sembra nato per questo ruolo, uscito dall'immaginazione collettiva dei lettori di fumetti marvel.
+**Ryan è bravissimo**, sembra nato per questo ruolo e uscito dall'immaginazione collettiva dei lettori di fumetti Marvel.
 
 In effetti, **Deadpool è probabilmente uno dei personaggi resi più fedelmente in una trasposizione cinematografica.**
  
-Buona prova per me anche **Francesco Venditti** (sì, è il figlio di Antonellone nostro), che porta a casa un signor doppiaggio ingiustamente bistrattato da molti fan (sopratutto quando abbiamo un cattivo con la voce a metà strada tra Mal dei e Raz Degan)
+Buona prova per me anche **Francesco Venditti** (sì, è il figlio di Antonellone nostro), che porta a casa un signor doppiaggio ingiustamente bistrattato da molti fan (sopratutto quando abbiamo un cattivo con la voce a metà strada tra Mal e Raz Degan)
 
 Il resto del cast fa il suo, con una menzione di merito per la bella  veneto-brasiliana **Morena Baccarin**.
 
@@ -103,11 +103,11 @@ Il resto del cast fa il suo, con una menzione di merito per la bella  veneto-bra
 <img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool1-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
-Prendendo in prestito la grandiosa definizione di JJ Abrams _made in Leo Ortolani_, direi che qui ci troviamo di fronte ad un caso abbastanza simile, ma con una strizzata d'occhio collettiva di tutta la produzione:
+Prendendo in prestito la grandiosa definizione di JJ Abrams _made in Leo Ortolani_, direi che qui ci troviamo di fronte ad un caso abbastanza simile, ma con una strizzata d'occhio collettiva da parte di tutta la produzione:
 
-**C'è un Deadpool che ad ogni momento continua a chiamarci come un bambino in cerca d'attenzioni**, ribadendo ai limiti della disperazione un implicito urlo:
+**C'è un Deadpool che ad ogni momento continua a chiamarci come un bambino molesto in cerca d'attenzioni**, ribadendo ai limiti della disperazione un implicito urlo:
 
-> "Guardate quanto sono simpatico! quante battute! visto che gag?! E c'è anche la scena dopo i titoli di coda come nei film della Marvel dei grandi! Visto che bravo che sono?? Chimichanga!"
+> "Guardate quanto sono simpatico! Quante battute! Quante parolacce! PROOOOT! Visto che gag?! E c'è anche la scena dopo i titoli di coda come nei film della Marvel dei grandi! Visto che bravo che sono?? Chimichanga!"
 
 Ora, intendiamoci: **non sono sicuro che tutto questo "strafare" sia considerabile come un vero e proprio difetto del film.**
 
@@ -118,18 +118,18 @@ Ed ecco, la fedeltà qui c'è tutta, assolutamente, e l'intrattenimento pure...
 ## Conclusioni
 
 <figure>
-<img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-02-gallery-image.jpg' alt='deadpool-recensione'>
+<img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-03-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
 > "Sto per massacrarti come i Limp Bizkit hanno massacrato la musica negli anni '90"
 
 Il problema semmai, è proprio a livello concettuale: 
 
-**Deadpool è un film divertente per farsi quattro risate, ma anche tra i più dimenticabili della grande abbuffata cinefumettistica che attraversa i nostri anni**
+**Deadpool è un film divertente per farsi quattro risate, ma anche tra i più dimenticabili della grande abbuffata cinefumettistica che attraversa questi nostri anni.**
 
-Non è quel mix epico-comico-avventuroso per famiglie che è stato il meraviglioso _Guardiani della Galassia_, **ma nemmeno una puttanata [tafazziana](https://it.wikipedia.org/wiki/Tafazzi) come i film solisti del povero _Wolverine_**:
+Non è quel mix epico-comico-avventuroso per famiglie che è stato il meraviglioso _Guardiani della Galassia_, **ma nemmeno una puttanata [tafazziana](https://it.wikipedia.org/wiki/Tafazzi) come i film solisti del povero Wolverine**:
 
-Per certi versi in effetti **Deadpool assomiglia molto ai cinecomic che uscivano prima che li chiamassimo cinecomic**, la lunga schiera che contempla i vari vecchi _Batman, Blade, X-Men_, ma anche _Sin City_ o gli _Spiderman_ di Raimi:
+Per certi versi in effetti **Deadpool assomiglia molto ai cinecomic che uscivano prima che li chiamassimo cinecomic con tanta confidenza**, cioè la lunga schiera che contempla i vari vecchi _Batman, Blade, X-Men_, ma anche _Sin City_ o gli _Spiderman_ di Raimi:
 
 Sopratutto nei suoi lati più seri (davvero, ci sono anche quelli), **trovo che Deadpool risulti un parente più stretto della scuola anni '90 - primi 2000 che dell'odierna overdose trainata dalla Marvel Studios.**
 
@@ -139,9 +139,9 @@ Sopratutto nei suoi lati più seri (davvero, ci sono anche quelli), **trovo che 
 <img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-01-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
-Deadpool è un film che può piacere ad un sacco di gente, dare fastidio al MOIGE (se ancora esiste) e sopratutto a chiunque malsopporti la sovraesposizione mediatica.
+**Deadpool è un film che può piacere ad un sacco di gente, dare fastidio al MOIGE (se ancora esiste) e sopratutto a chiunque malsopporti la sovraesposizione mediatica.**
 
-Durasse un po' meno e fosse uscito una decina d'anni fa probabilmente ne avrebbe guadagnato parecchio, ma anche così resta una bella prova d'intrattenimento.
+Durasse un po' meno e fosse uscito una decina d'anni fa probabilmente ne avrebbe guadagnato parecchio, ma anche così resta una bella prova d'intrattenimento, convincente e ben strutturata.
 
 3 Braccobaldi e mezzo su 5
-{: .notice-warning}
+{: .notice-success}
