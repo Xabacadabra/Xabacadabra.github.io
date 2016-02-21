@@ -1,4 +1,6 @@
-
+---
+published: false
+---
 Per certi versi, il mio lato bimbesco vorrebbe dire che questo film è brutto.
 
 Perché (più o meno dallo scorso Lucca) c'è stato un endorsement tale da parte di tutto il mondo del fumetto che un pochino la bastiancontraneria sale, perché l'hype è stato coltivato con una perizia molto sotteranea ma parecchio intelligente
