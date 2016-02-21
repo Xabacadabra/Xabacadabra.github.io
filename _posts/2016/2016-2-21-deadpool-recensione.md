@@ -67,11 +67,11 @@ Gioco forza, **è l'incarnazione fumettistica di ciò che è buona parte dell'in
 
 Per una volta **il fatto che i diritti Marvel siano sparsi in giro potrebbe aver giovato alla riuscita del film:** 
 
-Deadpool è infatti prodotto dalla **20th Century Fox** (come i vari X-Men), ergo **non fa parte del fin troppo ingombrante cineverso Marvel Studios**, il che penso sia stato un bene per entrambi:
+Deadpool è infatti prodotto dalla **20th Century Fox** (come i vari X-Men), ergo **non fa parte del fin troppo ingombrante cineverso Marvel Studios**, e penso sia stato un bene per entrambi:
 
-per Deadpool, in particolare, c'è stata la possibilità di **fregarsene altamente di pericolose macrotrame ventennali** e progetti a lungo termine, **puntando tutto quanto sul più puro intrattenimento da una botta e via**
+per Deadpool, in particolare, c'è stata la possibilità di **fregarsene altamente di pericolose macrotrame ventennali** e progetti a lungo termine, **puntando tutto quanto sul più puro intrattenimento da una botta e via.**
 
-L'eccezione, ovviamente, sarebbero i sopracitati *X-Men*...che sono comunque un elemento di sfondo indolore (e hanno già una storia "editoriale" parecchio complicata)
+L'eccezione, ovviamente, sarebbero i sopracitati *X-Men*...che rappresentano comunque poco più di un elemento di sfondo (e hanno già una storia "editoriale" complicata per i cavoli loro).
 
 ## Regia
 
@@ -79,7 +79,7 @@ L'eccezione, ovviamente, sarebbero i sopracitati *X-Men*...che sono comunque un 
 <img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-02-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
-**Tim Miller** è alla sua seconda prova da regista dopo _The Goon_ (e dopo aver girato la scena iniziale di quella mostruosità che risponde al nome di _Thor:The Dark World_) e direi che offre una regia niente male, anche se personalmente **le scene d'azione m'hanno annoiato parecchio**, forse per via dell'overdose da **bulletime**, (certe sequenze sono il sogno bagnato di Max Payne) 
+**Tim Miller** è alla sua seconda prova dopo _The Goon_ e direi che offre una regia niente male, anche se personalmente **le scene d'azione m'hanno annoiato parecchio**, forse per via dell'overdose da **bulletime** (certe sequenze sono il sogno bagnato di Max Payne). 
 
 In generale, **se Deadpool non dicesse qualche cazzata ogni petosecondo ci si annoierebbe davvero in fretta**, ma per contro questo impedisce ad ogni altro momento di spiccare più di tanto (come le parti dedite alla love story, che non sono girate affatto male, anzi).
 
@@ -89,11 +89,11 @@ In generale, **se Deadpool non dicesse qualche cazzata ogni petosecondo ci si an
 <img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-04-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
-**Ryan è bravissimo**, sembra nato per questo ruolo e uscito dall'immaginazione collettiva dei lettori di fumetti Marvel.
+**Ryan è bravissimo**, sembra nato per questo ruolo e uscito dall'immaginazione collettiva dei lettori di fumetti Marvel:
 
 In effetti, **Deadpool è probabilmente uno dei personaggi resi più fedelmente in una trasposizione cinematografica.**
  
-Buona prova per me anche **Francesco Venditti** (sì, è il figlio di Antonellone nostro), che porta a casa un signor doppiaggio ingiustamente bistrattato da molti fan (sopratutto quando abbiamo un cattivo con la voce a metà strada tra Mal e Raz Degan)
+Buona prova anche per **Francesco Venditti** (sì, il figlio di Antonellone nostro), che porta a casa un signor doppiaggio ingiustamente bistrattato da molti fan (sopratutto quando dall'altro lato abbiamo un cattivo con la voce a metà strada tra Mal e Raz Degan...)
 
 Il resto del cast fa il suo, con una menzione di merito per la bella  veneto-brasiliana **Morena Baccarin**.
 
@@ -139,9 +139,9 @@ Sopratutto nei suoi lati più seri (davvero, ci sono anche quelli), **trovo che 
 <img src='http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-01-gallery-image.jpg' alt='deadpool-recensione'>
 </figure>
 
-**Deadpool è un film che può piacere ad un sacco di gente, dare fastidio al MOIGE (se ancora esiste) e sopratutto a chiunque malsopporti la sovraesposizione mediatica.**
+**Deadpool è un film che può piacere ad un sacco di gente, ma dare immenso fastidio a chiunque malsopporti la sovraesposizione mediatica** (e al MOIGE, se ancora esiste). 
 
-Durasse un po' meno e fosse uscito una decina d'anni fa probabilmente ne avrebbe guadagnato parecchio, ma anche così resta una bella prova d'intrattenimento, convincente e ben strutturata.
+Durasse un po' meno e fosse uscito una decina d'anni fa probabilmente ne avrebbe guadagnato parecchio, ma anche così resta un film divertente, convincente e ben strutturato.
 
 3 Braccobaldi e mezzo su 5
 {: .notice-success}
