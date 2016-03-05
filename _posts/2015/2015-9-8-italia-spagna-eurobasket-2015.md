@@ -14,11 +14,11 @@ Premessa importante:
 
 A tutti quelli che
   
-_"è una nazionale pompata dai giornalisti"
+"è una nazionale pompata dai giornalisti"
 
 "giocatori mediocri gasati solo perché stanno in NBA"
 
-"non valiamo un cazzo"_
+"non valiamo un cazzo"
 
 Bene
 

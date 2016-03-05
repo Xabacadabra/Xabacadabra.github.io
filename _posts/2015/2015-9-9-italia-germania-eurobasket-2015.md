@@ -3,7 +3,7 @@ layout: article
 title: "Italia - Germania 89 - 82 [Eurobasket 2015]"
 modified:
 categories: [2015]
-excerpt: "Lasciate che vi narri del piacere."
+excerpt: "La meraviglia. Le lacrime. Gli infarti"
 tags: [sport]
 comments: true
 image: 
