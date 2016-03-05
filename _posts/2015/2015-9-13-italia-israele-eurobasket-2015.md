@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Italia - Israele - 82 - 52 [Eurobasket 2015]"
+title: "Italia - Israele 82 - 52 [Eurobasket 2015]"
 modified:
 categories: [2015]
 excerpt: "Potere e Potenza, dicevano gli evroniani."
