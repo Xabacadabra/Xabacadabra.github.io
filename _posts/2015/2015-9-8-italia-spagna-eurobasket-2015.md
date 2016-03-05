@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Italia - Islanda 105 - 98 [Eurobasket 2015]"
+title: "Italia - Spagna 105 - 98 [Eurobasket 2015]"
 modified:
 categories: [2015]
 excerpt: "Lasciate che vi narri del piacere."
