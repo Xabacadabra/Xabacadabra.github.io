@@ -43,9 +43,9 @@ Specificando che non sono un chissà quale esperto di Superman, **da suo conosci
 
 1. L'approccio **Superman "Dio"**
 
-2. L'approccio **Superman "Voglio essere come te"**
+2. L'approccio **Superman ["Voglio essere come te"**](https://www.youtube.com/watch?v=upQwuy8yHd0)
 
-Teologicamente parlando, visto che siamo sotto Pasqua, forse potremmo definirli anche così: 
+Teologicamente parlando, visto che siamo a Pasqua, potremmo definirli così: 
 
 1. **il Superman più assoluto, più _ebraico_**
 
