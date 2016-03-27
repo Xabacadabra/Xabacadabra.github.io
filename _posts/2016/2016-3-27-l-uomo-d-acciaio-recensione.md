@@ -27,9 +27,9 @@ Beh, anche se giusto quel paio d'anni fuori tempo massimo, ho pensato di recensi
 
 Che **è un po' il fattore che mi ha sempre reso antipatico il cinema di Zack Snyder**, salvo un paio d'eccezioni:
 
-1) _Watchmen_ : che è lentissimo certo, ma molto fedele ad un soggetto semplicemente troppo bello (anche se il fumetto è qualcosa inarrivabile, chiaro...e sì, lo so che ribadirlo è una pratica insopportabile, ma quel che è giusto e giusto)
+1) _**Watchmen**_ : che è lentissimo certo, ma molto fedele ad un soggetto semplicemente troppo bello (anche se il fumetto è qualcosa inarrivabile, chiaro...e sì, lo so che ribadirlo è una pratica insopportabile, ma quel che è giusto e giusto)
 
-2) _Sucker Punch_ : che vidi al cinema e di cui ricordo poco (andando a memoria non credo che mi fosse piaciuto poi molto, ma lo trovai decisamente con un ritmo veloce per lo standard del regista)
+2) _**Sucker Punch**_ : che vidi al cinema e di cui ricordo poco (andando a memoria non credo che mi fosse piaciuto poi molto, ma lo trovai decisamente con un ritmo veloce per lo standard del regista)
 
 ## I due approcci al Divino di Superman
 
@@ -75,7 +75,7 @@ piuttosto che **tra l'invincibilità assoluta e la vulnerabilità manifesta** di
 
 Ecco, **Snyder di Clark Kent se n'è allegramente sbattuto le balle:** 
 
-**Superman È Kal-El**, un essere supremo **costretto a sopportare le meschinità e le contradditizioni del genere umano**, una specie per cui certo, può provare un affetto circostritto nei confronti di taluni individui (i genitori, Lois Lane), **ma con cui non riesce mai davvero a relazionarsi**, per cui non riesce a provare alcuna autentica empatia.
+**Superman È Kal-El**, un essere supremo **costretto a sopportare le meschinità e le contraddizioni del genere umano**, una specie per cui certo, può provare un affetto circostritto nei confronti di taluni individui (i genitori, Lois Lane), **ma con cui non riesce mai davvero a relazionarsi**, per cui non riesce a provare alcuna autentica empatia.
 
 In tutto questo discorso, **Clark Kent resta solo una maschera**, un po' come Tarantino fece dire alla buon'anima di David Carradine nel suo _Kill Bill_:
 
@@ -99,7 +99,7 @@ Così come ha ragione **il Batman di Frank Miller** (che con il ragazzone di Kry
 <img src="http://robot6.comicbookresources.com/wp-content/uploads/2015/10/batmanvssupermantdkr.jpg" alt="batman superman miller">
 </figure> 
 
-lungi dalle sue genuine buone intenzioni, **l'incapacità di concepire le umane vulnerabilità rendono Superman nel migliore dei casi un genitore ultraprottettivo, e nel peggiore un burattinaio (e al tempo stesso burattino) di una sorta di stagnante "dittatura morbida".**
+lungi dalle sue genuine buone intenzioni, **l'incapacità di concepire le umane vulnerabilità rendono Superman nel migliore dei casi un genitore ultraprotettivo, e nel peggiore un burattinaio (e al tempo stesso burattino) di una sorta di stagnante "dittatura morbida".**
 
 ## Tutto il resto è noia...?
 
@@ -113,7 +113,7 @@ Mentre lo vedevo, la reazione di "pancia" era molto vicina alla stroncatura senz
 
 Tuttavia, dopo averci meditato sopra a freddo, dopo averlo insomma "masticato" per bene, **devo dire che è un film che mi ha dato ampi spunti di riflessione.**
 
-Certo, **forse sono più legati alla particolare natura del personaggio che alla resa del film in senso stretto**...ma va detto che dubito mi sarei trovato a fare questo tipo di ragionamenti dopo una visione di un film del trenino marvel ([sì, quello di bridgitte bardot](https://leortola.files.wordpress.com/2013/07/03.jpg)), anche se con ogni probabilità mi ci sarei divertito molto di più:
+Certo, **forse sono più legati alla particolare natura del personaggio che alla resa del film in senso stretto**...ma va detto che dubito mi sarei trovato a fare questo tipo di ragionamenti dopo una visione di un film del trenino marvel ([sì, quello di brigitte bardot](https://leortola.files.wordpress.com/2013/07/03.jpg)), anche se con ogni probabilità mi ci sarei divertito molto di più:
 
 ## Bouillabaisse vs Hot Dog
 
@@ -134,7 +134,7 @@ Certo, **forse sono più legati alla particolare natura del personaggio che alla
 
 In buona sostanza, **_L'Uomo d'Acciaio_ è un film che non mi è piaciuto per questioni stilistiche e gusti personali** (io e Snyder stiamo proprio lontani, c'aggia fa), ma che ho trovato senz'altro **più "film" nel vero senso della parola e meno episodio simpaticone di una serie tv com'è stato, ad esempio, _Age of Ultron_**
 
-In questo senso, **si sente l'eredità di Nolan** (che però come regista mi piace certamente di più) assieme ad una certa **spavalderia autorale** da parte di Zack Snyder e dei suoi sceneggiatori...
+In questo senso, **si sente l'eredità di Nolan** (che però come regista mi piace certamente di più) assieme ad una certa **spavalderia autoriale** da parte di Zack Snyder e dei suoi sceneggiatori...
 
 e vi dirò, sotto sotto forse è proprio per questo che m'è venuta voglia di andare a vedere _Batman v Superman_.
 
