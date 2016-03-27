@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "L'Uomo d'Acciaio [Mini-Recensione]"
+title: "L'Uomo d'Acciaio [Recensione]"
 modified: null
 categories: [2016]
 excerpt: "Considerando che Batman V Superman m'ispira poco ma m'incuriosisce tanto, l'altro giorno ho finalmente colto la palla mediaset al balzo ..."
@@ -19,7 +19,11 @@ Considerando che Batman V Superman m'ispira poco ma m'incuriosisce tanto, l'altr
 
 Beh, anche se giusto quel paio d'anni fuori tempo massimo, ho pensato di recensirlo sommariamente onde snellire premesse a recensioni future.
 
-## La lentezza complessiva del film 
+## La lentezza complessiva del film
+
+<figure>
+<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Russell-Crowe-image-3.jpg" alt="l'uomo d'acciaio recensione">
+</figure> 
 
 Che **è un po' il fattore che mi ha sempre reso antipatico il cinema di Zack Snyder**, salvo un paio d'eccezioni:
 
@@ -27,7 +31,11 @@ Che **è un po' il fattore che mi ha sempre reso antipatico il cinema di Zack Sn
 
 2) _Sucker Punch_ : che vidi al cinema e di cui ricordo poco (andando a memoria non credo che mi fosse piaciuto poi molto, ma lo trovai decisamente con un ritmo veloce per lo standard del regista)
 
-## I due approcci al Superman Divino
+## I due approcci al Divino di Superman
+
+<figure>
+<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Michael-Shannon-image-3.jpg" alt="l'uomo d'acciaio recensione">
+</figure> 
 
 Ovvero quello che credo sia un punto fondamentale per capire _Man of Steel_ sia per capire la creatura di Siegel e Shuster in generale:
 
@@ -59,6 +67,10 @@ piuttosto che **tra l'invincibilità assoluta e la vulnerabilità manifesta** di
 
 ## Superman senza Clark Kent
 
+<figure>
+<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-image-8.jpg" alt="l'uomo d'acciaio recensione">
+</figure> 
+
 **Clark Kent**, l'alterego di Superman (spoiler!) è un po' **l'incarnazione ideale del sopracitato aspetto "Gesuita" dell'uomo d'acciaio**, l'emblema di quel _"s'è fatto uomo"_, il filone da cui attingono molti fumetti e su cui (tra le altre cose) era basata un po' tutta la serie _Smallville_
 
 Ecco, **Snyder di Clark Kent se n'è allegramente sbattuto le balle:** 
@@ -78,7 +90,7 @@ Detto questo, stando così le cose, semplicemente **ha ragione Lex Luthor**, poc
 <figure class="half">
  <img src="http://1.bp.blogspot.com/-DGf11Tr5rIk/VJRMZhwsGOI/AAAAAAAALMY/94BAEtx2zLI/s1600/superman.gif" alt="lex luthor">
  <img src="http://1.bp.blogspot.com/-xdiaka-L-64/VJRODAfYJ0I/AAAAAAAALMk/OSf0K8gPB7s/s1600/lex.gif" alt="lex luthor">
- <figcaption>tratto da Lex Luthor: Man of Steel, che tempo fa avevo recensito [qui.](http://xabacadabra.com/2014/lex-luthor-man-of-steel-recensione/)</figcaption>
+ <figcaption>tratto da Lex Luthor: Man of Steel, che tempo fa avevo recensito <a href src="http://xabacadabra.com/2014/lex-luthor-man-of-steel-recensione">qui.</a></figcaption>
 </figure>
 
 Così come ha ragione **il Batman di Frank Miller** (che con il ragazzone di Krypton c'è sempre andato giù abbastanza pesante):
@@ -91,6 +103,10 @@ lungi dalle sue genuine buone intenzioni, **l'incapacità di concepire le umane 
 
 ## Tutto il resto è noia...?
 
+<figure>
+<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-9.jpg" alt="l'uomo d'acciaio recensione">
+</figure> 
+
 **_L'Uomo d'Acciaio_ io l'ho trovato un film estremamente noioso per tempi, inquadrature, luci, dialoghi ed impiego degli effetti speciali.**
 
 Mentre lo vedevo, la reazione di "pancia" era molto vicina alla stroncatura senza appello, lo ammetto.
@@ -101,11 +117,20 @@ Certo, **forse sono più legati alla particolare natura del personaggio che alla
 
 ## Bouillabaisse vs Hot Dog
 
+<figure>
+<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-7.jpg" alt="l'uomo d'acciaio recensione">
+</figure> 
+
 è la differenza che passa tra un piatto caratteristico al ristorante e un saporitissimo paninazzo preso al volo: 
 
 **il primo magari non ti piace anche se è cucinato con cura e perizia, il secondo ti sfama e soddisfa nonostante sia preparato con dubbi ingredienti e puro interesse economico in testa.**
 
 ## Più cine e meno comic
+
+<figure>
+<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-4.jpg" alt="l'uomo d'acciaio recensione">
+<figcaption>Cavill m'è parso adatto al ruolo, anche se il costume è un po' na chiavica</figcaption>
+</figure> 
 
 In buona sostanza, **_L'Uomo d'Acciaio_ è un film che non mi è piaciuto per questioni stilistiche e gusti personali** (io e Snyder stiamo proprio lontani, c'aggia fa), ma che ho trovato senz'altro **più "film" nel vero senso della parola e meno episodio simpaticone di una serie tv com'è stato, ad esempio, _Age of Ultron_**
 
