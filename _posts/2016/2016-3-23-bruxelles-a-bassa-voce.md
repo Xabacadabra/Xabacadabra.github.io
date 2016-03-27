@@ -9,7 +9,7 @@ image:
   feature: voto-16-anni.jpg
   teaser:  teaser-voto-16-anni.jpg
   thumb: 
-published: true
+published: false
 comments: true
 ---
 
