@@ -37,13 +37,13 @@ Che **è un po' il fattore che mi ha sempre reso antipatico il cinema di Zack Sn
 <img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Michael-Shannon-image-3.jpg" alt="l'uomo d'acciaio recensione">
 </figure> 
 
-Ovvero quello che credo sia un punto fondamentale per capire _Man of Steel_ sia per capire la creatura di Siegel e Shuster in generale:
+Ovvero quello che credo un punto fondamentale sia per capire _Man of Steel_ sia per capire la creatura di Siegel e Shuster in generale:
 
-Specificando che non sono un chissà quale esperto di Superman, **da suo conoscitore occasionale direi che esistono fondamentalmente due approcci nella resa del personaggio**...personaggio che all'apparenza appare tanto semplice da sfiorare i limiti dell'essenziale, ma forse proprio per questo può risultare spaeventosamente complesso:
+Specificando che non sono un chissà quale esperto di Superman, **da suo conoscitore occasionale direi che esistono fondamentalmente due approcci nella resa del personaggio**...personaggio che all'apparenza appare tanto semplice da sfiorare i limiti dell'essenziale, ma che forse proprio per questo può risultare spaeventosamente complesso:
 
 1. L'approccio **Superman "Dio"**
 
-2. L'approccio **Superman ["Voglio essere come te"**](https://www.youtube.com/watch?v=upQwuy8yHd0)
+2. L'approccio **Superman ["Voglio essere come te"](https://www.youtube.com/watch?v=upQwuy8yHd0)**
 
 Teologicamente parlando, visto che siamo a Pasqua, potremmo definirli così: 
 
