@@ -23,9 +23,7 @@ Questo già ci dice qualcosa:
 
 Tralasciando lo spirito bastian contrario, **non si può onestamente parlare di quel che si dice un gran film**, mentre viene facile gettarsi in tutte le facili stroncature del caso.
 
-Cioè, viene se la si ragiona in modo superficiale, modaiolo e facilone (praticamente, da trend topic di social network)
-
-Il che fondamentalmente **mostra come le recensioni stroncanti siano delle abominevoli puttanate autoreferenziali**, sia se provenienti dal lato cinefilo sia che (forse sopratutto?) dall'ambiente fumettistico
+Cioè, viene facile se la si ragiona in modo superficiale e modaiolo, il che fondamentalmente **mostra come le recensioni stroncanti siano delle abominevoli puttanate autoreferenziali**, sia provenienti dal lato cinefilo sia che (forse sopratutto?) dall'ambiente fumettistico
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/0/06/Uomo_dei_fumetti.png/280px-Uomo_dei_fumetti.png" alt="batman v superman recensione">
@@ -73,9 +71,7 @@ ecco, **il Batman di questo film è praticamente ricalcato su quello di Miller**
 <img src="http://vignette1.wikia.nocookie.net/newdcmovieuniverse/images/9/9b/Henrycavill.jpg" alt="batman v superman recensione">
 </figure>
 
-**Batman V Superman in origine doveva essere Man of Steel II**, quindi partiamo col dire che la previa visione dell'Uomo d'Acciaio è molto importante (purtroppo).
-
-Detto questo, **per non allungare troppo il brodo vi rimando alla mia [relativa recensione](http://xabacadabra.com/2016/l-uomo-d-acciaio-recensione/)**, perché il Superman che abbiamo in questo film è sostanzialmente lo stesso che avevamo lasciato nel film precedente, ma **un pelo spogliato della sua divinità dal Batman-Prometeo della situazione**.
+**Batman V Superman in origine doveva essere Man of Steel II**, quindi partiamo col dire che la previa visione dell'Uomo d'Acciaio è molto importante (purtroppo) e **per non allungare troppo il brodo vi rimando alla mia [relativa recensione](http://xabacadabra.com/2016/l-uomo-d-acciaio-recensione/)**, visto che il Superman che abbiamo in questo film è sostanzialmente lo stesso che avevamo lasciato nel film precedente (forse **un pelo spogliato della sua divinità dal Batman-Prometeo della situazione**).
 
 ## Il Batman di Affleck
 
@@ -83,13 +79,15 @@ Detto questo, **per non allungare troppo il brodo vi rimando alla mia [relativa 
 <img src="http://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/0/03/3hRU6px.jpg" alt="batman v superman recensione">
 </figure>
 
-Ben Affleck come attore non mi ha mai detto proprio molto, e anche per questo sono stato tra i tanti che che sbuffarono alla notizia del suo casting.
+Ben Affleck come attore non mi ha mai detto molto, e anche per questo sono stato tra i tanti che che sbuffarono alla notizia della scelta di casting.
 
 Detto questo, **il suo Batman è più che credibile, ma come al solito (è un discorso che ho fatto con tutti gli altri interpreti) Bruce Wayne non mi convince:**
 
-In particolare, il Bruce Wayne a cui la sceneggiatura palesemente s'ispira (quello del Cavaliere Oscuro di Miller) **dovrebbe essere interpretato da un attore ben più attempato e incazzoso:** Affleck ha 43 anni e una faccia che ne dimostra 35, e 'sta cosa non la puoi risolvere con i basettoni brizzolati.
+In particolare, il Bruce Wayne a cui la sceneggiatura palesemente s'ispira (quello del Cavaliere Oscuro di Miller) **dovrebbe essere interpretato da un attore ben più attempato e incazzoso:** 
 
-Come però dicevo, **il Batman picchione è ottimo sia a livello interpretativo che nel lato visuale**, con ogni probabilità è il principale pregio del film.
+Affleck ha 43 anni e una faccia che ne dimostra 35, e 'sta cosa non la puoi risolvere con i basettoni brizzolati.
+
+Come però dicevo, **il Batman picchione è ottimo sia a livello interpretativo che nel lato visuale**, risultando con ogni probabilità è il principale pregio del film.
 
 ## Il Lex Luthor di Eisenberg
 
@@ -97,7 +95,7 @@ Come però dicevo, **il Batman picchione è ottimo sia a livello interpretativo 
 <img src="http://vignette4.wikia.nocookie.net/newdcmovieuniverse/images/f/f5/Jesse-Lex-000220568-1-.jpg" alt="batman v superman recensione">
 </figure>
 
-Uno dei grandi problemi del film. 
+Mentre per contro Lex è uno dei suoi principali problemi.
 
 Perché sì, l'attore è bravo, perché ok, il Lex Luthor originale era uno scienziato pazzo, va bene, e onestamente non trovo che questo Lex sia stato scritto poi così male. 
 
@@ -111,9 +109,7 @@ Ma perché cazzo...
 
 Il Lex Luthor moderno _è questo_, e **non esiste un film dove sia stato reso in un modo decente.**
 
-**Il Lex di Batman V Superman non può fare a meno di somigliare al Joker di Nolan dei poveri**
-
-La cosa mi da immenso fastidio, perché **in un film del genere un Lex alla Frank Underwood ci sarebbe stato alla grande** (a tal proposito, consiglio vivamente [questa lettura](http://maglomaniac.com/frank-underwood-the-lex-luthor-we-deserved-from-kevin-spacey/)).
+E la cosa mi da immenso fastidio, perché **in un film del genere un Lex alla Frank Underwood ci sarebbe stato alla grande** (a tal proposito, consiglio vivamente [questa lettura](http://maglomaniac.com/frank-underwood-the-lex-luthor-we-deserved-from-kevin-spacey/)), mentre **il Lex di Batman V Superman non può fare a meno di somigliare ad un Joker di Nolan dei poveri**
 
 ## Wonder Woman e Doomsday
 
@@ -121,11 +117,13 @@ La cosa mi da immenso fastidio, perché **in un film del genere un Lex alla Fran
 <img src="http://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/3/33/Ezelsn5vZaY-1-.jpg" alt="batman v superman recensione">
 </figure>
 
-Messi assieme perché, come già si può evincere dai trailer, **sono quelli che sdoganano la quota più tamarra del film**, con tanto di battutine e theme supereroistico che per la verità sembra uscito da _Soul Reaver 2_.
+Messi assieme perché, come già si può evincere dai trailer, **sono quelli che sdoganano la quota più tamarra del film**, con tanto di battutine e theme supereroistico che per la verità (non me ne voglia Hans prezzemolo Zimmer) sembra uscito da _Soul Reaver 2_.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gw_o7XUX3fg" frameborder="0" allowfullscreen></iframe>
 
-Boh. Sicuramente **risvegliano un po' dal torpore Snyderiano**, ma credo abbiano **sputtanato molti dei lati salvabili del film**, tra cui il "lato Miller" di cui sopra...e per carità Gal Gadot fa il suo, ma somaticamente parlando non ce la vedo molto azzeccata con il personaggio.
+Boh. 
+
+Sicuramente **risvegliano un po' dal torpore Snyderiano** eh, ma per contro credo **sputtanino molti dei lati salvabili del film**, tra cui il "lato Miller" di cui sopra...e per carità Gal Gadot fa il suo, ma somaticamente parlando non ce la vedo molto azzeccata con il personaggio.
 
 Quanto a Doomsday, **lui pare effettivamente una versione pataccosa del Re Goblin di _Lo Hobbit_**, ma per fortuna appare poco e con poca luce ad evidenziarne la solita pessima CGI.
 
@@ -141,7 +139,7 @@ Film lontanissimi certo, ma entrambi nerd-franchise-movie creati con una spiccat
 
 Uno noioso ma sperimentale, coraggioso tanto quanto l'altro è stato divertente, appagante e pavido.
 
-Poi oh, Snyder non è certo il Santo Protettore della Creatività, infatti in più punti si nota la prosecuzione della strada già tracciata da Nolan (e da Miller), ma la differenza è che **Zack da quella strada vuole uscire spesso e volentieri, mostra insomma una spregiudicatezza e un coraggio che, da detrattore del suo stile, penso che gli faccia fa certamente onore.**
+Poi oh, Snyder non è certo il Santo Protettore della Creatività, infatti in più punti si nota la prosecuzione della strada già tracciata da Nolan (e da Miller), ma la differenza è che **Zack da quella strada vuole uscire spesso e volentieri, mostra insomma una spregiudicatezza e un coraggio che, da detrattore del suo stile, penso che gli faccia certamente onore.**
 
 ## [LIEVE SPOILER] Il momento terrone
 
@@ -163,8 +161,10 @@ E vabbè, considerando la storia di Bruce Wayne la cosa ci può anche stare, per
 <img src="http://vignette3.wikia.nocookie.net/newdcmovieuniverse/images/3/39/UkeWmNrCNYA-1-.jpg" alt="batman v superman recensione">
 </figure>
 
-**Avrei preferito che il film fosse più breve e conciso**, magari lasciando da parte Wonder Woman e altre cose per un sequel, ma mi rendo conto che **in termini economici e di promozione è stato senz'altro più conveniente gestirsela così** (tanto più che al botteghino il film sta sbancando, per quanto il franchise rischi di uscirne con le ossa rotte).
+**Avrei preferito che il film fosse più breve e conciso**, magari lasciando da parte Wonder Woman e altre cose per un sequel, ma mi rendo conto che **in termini economici e di promozione è stato senz'altro più conveniente gestirsela così** (tanto più che al botteghino il film sta sbancando, per quanto il franchise rischi di uscirne con le ossa rotte in prospettiva).
 
 Nel complesso? 
 
-**È un film che, non andasse tanto di moda scotennarlo, come minimo rasenterebbe la sufficienza, e che può piacere pure un bel po' a chi ama la cifra artistica del regista.**
+**È un film che, non andasse tanto di moda scotennarlo, come minimo rasenterebbe la sufficienza, e che può piacere un bel po' a chi ama la cifra artistica del regista.**
+
+Di mio penso **non sia nulla di memorabile, nel bene come nel male,** e considerando i personaggi che porta in scena forse questo (tra i tanti) potrebbe essere il suo problema più grave.
