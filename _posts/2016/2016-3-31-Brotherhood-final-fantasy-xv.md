@@ -40,9 +40,9 @@ Intanto guardatevelo che offre la ditta (letteralmente) e dura meno di un quarto
 ## Perplessità:
 
 - **È la quintessenza del prodotto nipponico per adolescenti.** 
-E sì, è un pregio perché è giusto così, ma è pure una perplessità perché il mio demone interiore guarda i personaggi e dice qualcosa del tipo "_sono così bolliti e precotti che riesco già a vederne i quarantamila cosplayer_"...tuttavia, per onestà intellettuale™, mi tocca dire che **questo discorso valeva anche per i Final Fantasy a cui resto più legato** (cioè quelli che vanno dal 6 al 9), solo che all'epoca il ragazzino ero io, quindi vabbè, nonnismo.
+E sì, è un pregio perché è giusto così, ma è pure una perplessità perché il mio demone interiore guarda i personaggi e dice qualcosa del tipo _"sono così bolliti e precotti che riesco già a vederne i quarantamila cosplayer"_...tuttavia, per onestà intellettuale ™, mi tocca dire che **questo discorso valeva anche per i Final Fantasy a cui resto più legato** (cioè quelli che vanno dal 6 al 9), solo che all'epoca il ragazzino ero io, quindi vabbè, nonnismo.
 
-- Fermo restando che l'idea di un "teasing" mediatico formato da film/serie anime e quant'altro è una scelta intelligente, **c'è sempre il rischio nel cadere nella dispersività da fabula nova crystallis**, che a FFXIII non ha portato proprio benissimo. Vedremo come se la giocheranno, la partenza comunque lascia ben sperare.
+- Fermo restando che l'idea di un "teasing" mediatico formato da film/serie anime e quant'altro è una scelta intelligente, **c'è sempre il rischio di cadere nella dispersività da fabula nova crystallis**, che a FFXIII non ha portato proprio benissimo. Vedremo come se la giocheranno, la partenza comunque lascia ben sperare.
 
 - **Questo gioco doveva usicre dieci anni fa**, e questo è un peccato originale che è dura scrollarsi di dosso
 
