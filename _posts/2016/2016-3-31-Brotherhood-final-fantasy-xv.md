@@ -44,6 +44,6 @@ E sì, è un pregio perché è giusto così, ma è pure una perplessità perché
 
 - Fermo restando che l'idea di un "teasing" mediatico formato da film/serie anime e quant'altro è una scelta intelligente, **c'è sempre il rischio di cadere nella dispersività da fabula nova crystallis**, che a FFXIII non ha portato proprio benissimo. Vedremo come se la giocheranno, la partenza comunque lascia ben sperare.
 
-- **Questo gioco doveva usicre dieci anni fa**, e questo è un peccato originale che è dura scrollarsi di dosso
+- **Questo gioco doveva uscire dieci anni fa**, e questo è un peccato originale che è dura scrollarsi di dosso
 
 - Momento pecoreccio: guardando il party tutto al maschile, confesso che la prima cosa che ho esclamato è stata **_"ma la figa dov'è ?"_**
