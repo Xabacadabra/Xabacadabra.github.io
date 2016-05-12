@@ -7,6 +7,8 @@ excerpt: "..."
 tags:
   - xabologia
 image: 
+  feature: null
+  teaser: null
   thumb: null
 published: true
 comments: true
