@@ -3,13 +3,13 @@ layout: article
 title: Provando MrHyde
 modified: null
 categories: [2016]
-excerpt: "..."
+excerpt: "Al solito tocca giustificare una certa latitanza dovuta ai soliti svariati fattori"
 tags:
   - xabologia
 image: 
-  feature: null
-  teaser: null
-  thumb: null
+  feature: mrhyde.jpg
+  teaser: teaser-mrhyde.jpg
+  thumb: 
 published: true
 comments: true
 ---
