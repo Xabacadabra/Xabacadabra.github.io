@@ -21,7 +21,9 @@ Personalmente, conoscendo il loro stile ed il mio gusto, difficilmente mi distur
 
 ## Viralità 
 
-...ma capita che, sopratutto in un mondo social come il nostro, **il contenuto venga a cercare _te_ :** basta una rapida capatina su **Twitter** o **Facebook**, piuttosto che un giro tra i media tradizionali...anche per questo, il famoso discorso del _"se non ti interessa non lo guardare, passa oltre"_ risulta decisamente obsoleto nella nostra contemporaneità.
+...ma capita che, sopratutto in un mondo social come il nostro, **il contenuto venga a cercare _te_ :** basta una rapida capatina su **Twitter** o **Facebook**, piuttosto che un giro tra i media tradizionali:
+
+anche per questo, il famoso discorso del _"se non ti interessa non lo guardare, passa oltre"_ risulta decisamente obsoleto nella nostra contemporaneità.
 
 ## La protesta silenziosa
 
@@ -45,7 +47,7 @@ Nella realtà facciamo di peggio: **regaliamo del *tempo***, qualcosa che idealm
 
 Che, attenzione, **è quello che in ogni caso facciamo se abbocchiamo.**
 
-Per esempio, è molto divertente leggere i titoli delle buffonate che passano da [Ah ma non è Lercio](https://www.facebook.com/ahmanonelercio/), cliccare la loro fonte d'origine però è **un euro mentale investito nel mercato della cazzata**, per non dire nella bufala (che è pure peggio), quindi bisognerebbe rifletterci bene, sopratutto se poi ci lamentiamo della qualità media degli articoli dei quotidiani online.
+Per esempio, è molto divertente leggere i titoli delle buffonate che passano da [Ah ma non è Lercio](https://www.facebook.com/ahmanonelercio/), cliccare la loro fonte d'origine però è **un euro mentale investito nel mercato della cazzata**, per non dire nella bufala (che è pure peggio), quindi bisognerebbe rifletterci bene, sopratutto ragionando sulla qualità media degli articoli dei quotidiani online.
 
 ## L'importanza del lento esitare
 
@@ -56,4 +58,4 @@ far parlar di sé, ed è il non far parlar di sé.
 
 È una cosa che più o meno tutti sappiamo, ed è una cosa che **nel frenetico attimo che precede l'invitantissimo click puntualmente ci dimentichiamo**.
 
-Ecco, prima di ogni senso di curiosità, rabbia o indignazione più o meno morbosa ricordatevi la mia storiella dell'euro qui sopra.
+Ecco, prima di ogni senso di curiosità, rabbia o indignazione più o meno morbosa...se non di Oscar Wilde, ricordatevi almeno della storiella dell'euro qui sopra.
