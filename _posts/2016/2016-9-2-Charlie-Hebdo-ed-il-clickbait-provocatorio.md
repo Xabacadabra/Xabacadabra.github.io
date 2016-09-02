@@ -13,7 +13,7 @@ published: true
 comments: true
 ---
 
-Sulla questione **Charlie Hebdo** e le vignette con il recente terremoto del 24 agosto come soggetto non scriverò nulla nel dettaglio, anche perché [già in tempi non sospetti](https://t.co/Ur1QH2FjP1) buttavo lì i miei 2 cent su come la penso in merito, e non ho cambiato idea: 
+Sulla questione **Charlie Hebdo** e le vignette con il recente terremoto del 24 agosto come soggetto non scriverò nulla nel dettaglio, anche perché **[già in tempi non sospetti](https://t.co/Ur1QH2FjP1)** buttavo lì i miei 2 cent su come la penso in merito, e non ho cambiato idea: 
 
 **Finché è legale, pubblichino tutto quello che vogliono.**
 
@@ -21,15 +21,19 @@ Personalmente, conoscendo il loro stile ed il mio gusto, difficilmente mi distur
 
 ## Viralità 
 
-...ma capita che, sopratutto in un mondo social come il nostro, **il contenuto venga a cercare _te_ :** basta una rapida capatina su **Twitter** o **Facebook**, piuttosto che un giro tra i media tradizionali...anche per questo, il famoso discorso del _"se non ti interessa non lo guardare, passa oltre"_ risulta decisamente obsoleto nella nostra contemporaneità (tranne per gli asceti, e manco tutti).
+...ma capita che, sopratutto in un mondo social come il nostro, **il contenuto venga a cercare _te_ :** basta una rapida capatina su **Twitter** o **Facebook**, piuttosto che un giro tra i media tradizionali...anche per questo, il famoso discorso del _"se non ti interessa non lo guardare, passa oltre"_ risulta decisamente obsoleto nella nostra contemporaneità.
 
 ## La protesta silenziosa
 
 Cosa può fare l'utente medio, dunque ?
 
-Beh, in realtà niente di troppo diverso dal classico "passa oltre" di cui sopra...ma che mi piacerebbe di più suonasse come un **"considerali senza abboccare".**
+Beh, in realtà niente di troppo diverso dal classico "passa oltre" di cui sopra...ma che mi piacerebbe suonasse più come un **"considerali senza abboccare".**
 
-Preciso che ora non sto pensando a Charlie Hebdo nel dettaglio (che anzi, è provocatorio per sua natura più che per particolari scelte di marketing) ma a tutto ciò che concerne il fenomeno del [clickbaiting](https://it.wikipedia.org/wiki/Clickbait)
+Preciso che ora non sto pensando a Charlie Hebdo nel dettaglio (che anzi, è provocatorio per sua natura più che per particolari scelte di marketing) ma a tutto ciò che concerne il fenomeno del **[clickbaiting](https://it.wikipedia.org/wiki/Clickbait)**
+
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Euro_coins_and_banknotes.jpg" alt="euro">
+</figure>
 
 ## La regola dell'euro mentale
 
