@@ -3,7 +3,7 @@ layout: article
 title: "Planescape: Torment"
 modified: null
 categories: [2016]
-excerpt: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."
+excerpt: "Oggi non recensirò Planescape Torment, e non sono sicuro che lo vorrò mai fare sul serio."
 tags: 
    - videogiochi
 image: 

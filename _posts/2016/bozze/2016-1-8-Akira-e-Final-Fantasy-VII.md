@@ -48,7 +48,7 @@ Probabilmente le parole di **Oppenheimer** riguardo il [test di Trinity](https:/
 
 ## Spiritualità e Scienza
 
-Forse anche per quanto appena scritto, **lo sci-fi giapponese ha spesso avuto un sapore ai limiti del mistico**, una sorta di "religiosità laica" pesantemente influenzata dal cyberpunk di William Gibson (ma anche da film come _Blade Runner_) tanto dalle visioni post-apocalittiche di _Mad Max_:
+Forse anche per quanto appena scritto, **lo sci-fi giapponese ha spesso avuto un sapore ai limiti del mistico** (congratulazioni Shinji!), una sorta di "religiosità laica" spesso e volentieri pesantemente influenzata dal cyberpunk di William Gibson (ma anche da film come _Blade Runner_) tanto dalle visioni post-apocalittiche di _Mad Max_:
 
 _Ghost in the Shell_ per certi versi forse rappresenta il summa di tutto questo discorso, ma questa è un'altra storia e al massimo ce la teniamo per un altro post.
 
