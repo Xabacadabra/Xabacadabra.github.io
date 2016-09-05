@@ -25,26 +25,30 @@ Ce la fa, non ce la fa ? Vediamo un po'...
 ## Spiccatamente Final Fantasy
 
 <figure>
-<img src="/gallery/kingsglave/1.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="/gallery/kingsglaive/1.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
-È la prima cosa che viene da pensare, sentendo Lena Headey / Cersei Lannister / Lunafreya in guisa da Marlene di _Advent Children_ raccontarci un prologo fatto di Magitek, Imperi e Guerre. 
+Ascoltando Lena Headey / Lunafreya (Cersei Lannister per gli amici Stark all'ascolto) in guisa di Marlene da _Advent Children_ raccontarci un prologo fatto di Magitek, Imperi e Guerre è impossibile non pensare a _Final Fantasy_. 
 
-Tutto considerato, escludendo l'universo di Matsuno (_Final Fantasy XII_) **era dai tempi di _Final Fantasy IX_ che non si vedeva un'ambientazione così _grossa_ , pregna di popolose nazioni culturalmente ben definite**.
+Scontato, dite? 
 
-Il primo lato positivo di tutto questo? Non è un nuovo _The Spirits Within!_
+Eh allora si vede che la serie la conoscete poco:
+
+Tutto considerato, escludendo l'universo di Matsuno (_Final Fantasy XII_) **era dai tempi di _Final Fantasy IX_ che non si vedeva un'ambientazione che suona così _grossa_ , pregna di popolose nazioni culturalmente ben definite pronte a darsele di santa ragione**.
+
+Insomma: partiamo bene!
 
 ## Grafica
 
 <figure>
-<img src="/gallery/kingsglave/2.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="/gallery/kingsglaive/2.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 Fa sempre un po' strano fare questo discorso per un film eh ? 
 
 Beh che dire, **superba** è una definizione calzante: 
 
-Oramai la CG ha fatto tanti passi avanti che entro qualche anno (forse già adesso?) sarà davvero un'impresa distinguerla dalla realtà, ed inoltre **il fatto che sia tutto in Computer Grafica crea una certa coesione d'insieme**, evitando quell'orrido senso di miscuglio che personalmente incontro spesso nelle pellicole tradizionali quando si abusa del digitale.
+Oramai la CG ha fatto tanti passi avanti che entro qualche anno (forse già adesso?) sarà davvero un'impresa distinguerla dalla realtà, ed inoltre **il fatto che sia tutto in Computer Grafica crea una certa coesione d'insieme**, evitando quell'orrido senso di miscuglio che personalmente incontro spesso nelle pellicole tradizionali dove abusano del digitale.
 
 Di contro, possiamo dire che **il progresso ha un po' assuefatto il pubblico:** 
 
