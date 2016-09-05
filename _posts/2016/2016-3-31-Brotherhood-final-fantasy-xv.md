@@ -2,7 +2,7 @@
 layout: article
 title: "Brotherhood Final Fantasy XV [Episodio 1]"
 modified: null
-categories: [2015]
+categories: [2016]
 excerpt: "Qualche considerazione sparsa su #UncoveredFFXV e in particolar modo su Brotherhood Final Fantasy XV"
 tags: [videogiochi, animazione]
 image: 
