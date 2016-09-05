@@ -84,7 +84,7 @@ Beh, davvero bene:
 <img src="/gallery/kingsglaive/nyx.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
-Il personaggio di **Nyx** (protagonista pensato appositamente per il film) e dei Glaive in generale mi è sembrato **molto riuscito e più accattivante di quanto s'è visto dei protagonisti del Final Fantasy XV vero e proprio.**
+Il personaggio di **Nyx** (protagonista pensato appositamente per il film) e i Glaive in generale mi sono sembrati **molto riusciti e più accattivanti di quanto s'è visto dei protagonisti del Final Fantasy XV vero e proprio.**
 
 Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi prendetela con le pinze.
 
