@@ -16,7 +16,7 @@ published: true
 comments: true
 ---
 
-Dopo [i discorsi fatti in quel di marzo], eccoci di fronte al film che introduce all'universo di Final Fantasy XV.
+Dopo [i discorsi fatti in quel di marzo](http://xabacadabra.com/2016/Brotherhood-final-fantasy-xv/), eccoci di fronte al film che introduce all'universo di Final Fantasy XV.
 
 Ce la fa, non ce la fa ? Vediamo un po'...
 
@@ -28,9 +28,9 @@ Ce la fa, non ce la fa ? Vediamo un po'...
 <img src="http://ia.media-imdb.com/images/M/MV5BMWIzMWIzYzctMjM4OC00MTQ4LTkxZGMtMDIzZmRjOGEyZGY5XkEyXkFqcGdeQXVyNjgwMzIwOTM@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
-È la prima cosa che viene da pensare, sentendo Lena Headey / Cersei Lannister / Lunafreya in pieno stile Marlene da _Advent Children_ raccontarci un prologo fatto di Magitek, Imperi e Guerre. 
+È la prima cosa che viene da pensare, sentendo Lena Headey / Cersei Lannister / Lunafreya in guisa da Marlene di _Advent Children_ raccontarci un prologo fatto di Magitek, Imperi e Guerre. 
 
-Tutto considerato, escludendo l'universo di Matsuno (Final Fantasy XII) **era dai tempi di Final Fantasy IX che non si vedeva un'ambientazione così _grossa_ , vale a dire pregna di popolose nazioni culturalmente ben definite**.
+Tutto considerato, escludendo l'universo di Matsuno (_Final Fantasy XII_) **era dai tempi di _Final Fantasy IX_ che non si vedeva un'ambientazione così _grossa_ , pregna di popolose nazioni culturalmente ben definite**.
 
 Il primo lato positivo di tutto questo? Non è un nuovo _The Spirits Within!_
 
@@ -48,9 +48,9 @@ Oramai la CG ha fatto tanti passi avanti che entro qualche anno (forse già ades
 
 Di contro, possiamo dire che **il progresso ha un po' assuefatto il pubblico:** 
 
-A livello grafico nel 2007 Advent Children fu qualcosa d'incredibile, e Spirits Within nel 2001 (almeno in questo) una vera e propria rivoluzione.
+Visivamente nel 2007 _Advent Children_ fu qualcosa d'incredibile, e _Spirits Within_ nel 2001 (almeno in questo) una vera e propria rivoluzione.
 
-Ecco, **Kingslaive è visualmente impressionante, ma fondamentalmente rientra sempre nei confini già tracciati da un pezzo**, anche se questo non è certamente colpa sua.
+**Kingslaive è certo impressionante, ma fondamentalmente rientra nei confini già tracciati da un pezzo**, anche se questo non è certamente colpa sua.
 
 ## Stile
 
@@ -66,9 +66,9 @@ Beh, davvero bene:
 
 **La commistione tra elementi magico-medievali e moderni è resa magnificamente**, come del resto già ci si aspettava ai tempi del famoso _Versus XIII_ (cioè il prototipo incompiuto di ciò che sarà Final Fantasy XV).
 
-**Molto negative invece le scene-spot di marchi reali (ciao, Audi!), protagoniste di product placement ai limiti del ridicolo.**
+**Le scelte di design per fortuna sono ottime sia per quanto riguarda edifici e ambienti che per i personaggi**...certo, quest'ultimi sembrano usciti da un catalogo anche quando bazzicano per i bassifondi, ma questo rientra tutto nella cifra Square e quindi non ci si può lamentare troppo.
 
-**Le scelte di design invece sono ottime sia per quanto riguarda edifici e ambienti che per i personaggi**...certo, quest'ultimi sembrano usciti da un catalogo anche quando bazzicano per i bassifondi, ma questo rientra tutto nella cifra Square e quindi non ci si può lamentare troppo.
+**Diversa storia per le scene-spot di marchi reali (ciao, Audi!), protagoniste di product placement ai limiti del ridicolo.**
 
 ## Più Nyx e Meno Noctis!
 
@@ -76,7 +76,7 @@ Beh, davvero bene:
 <img src="http://ia.media-imdb.com/images/M/MV5BZWI2YzljODItZTEyMC00NTllLWIyYjQtYzhiYjNiNzVlYzgwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
-Riallacciandomi a quanto appena detto, a naso il design di **Nyx** (protagonista pensato appositamente per il film) e dei Glaive in generale mi è sembrato **molto riuscito e più accattivante di quanto s'è visto dei protagonisti del Final Fantasy XV vero e proprio.**
+Il personaggio di **Nyx** (protagonista pensato appositamente per il film) e dei Glaive in generale mi è sembrato **molto riuscito e più accattivante di quanto s'è visto dei protagonisti del Final Fantasy XV vero e proprio.**
 
 Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi prendetela con le pinze.
 
@@ -86,15 +86,15 @@ Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi
 <img src="http://ia.media-imdb.com/images/M/MV5BNzYwMTdlNGItNTJiMC00ZmM2LWI4MTYtMThiMGQxMTUwZTMyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
-**Takeshi Nozue**, che aiutò Nomura nella regia di Advent Children, qui è l'uomo solo al comando: 
+**Takeshi Nozue**, che aiutò Nomura nella regia di _Advent Children_, qui è l'uomo solo al comando: 
 
-E meno male, **perché il ritmo e le scelte di regia sembrano decisamente azzeccati** con ottimissime scene d'azione, forse più vicine al cinema occidentale, ma comunque strette parenti di quanto di meglio la Square Enix ci ha abituato a vedere.
+E meno male, **perché il ritmo e le scelte di regia qui sembrano decisamente più azzeccati** e conditi da ottime scene d'azione, formando un pacchetto complessivo forse più vicino al cinema occidentale, ma comunque stretto parente di quanto la Square Enix ci ha offerto negli ultimi anni.
 
 ## Colonna Sonora
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f6zLfnHlM24" frameborder="0" allowfullscreen></iframe>
 
-Se togliamo il tema principale della solita ottima **Shimomura** e qualche altro brano sparso, il lavoro di **John R. Graham** suona un po' tutto come _generica musica da trailer_, e chi vi scrive è un grande fan dei Two Steps From Hell eh, massimo rispetto per la categoria, diciamo solo che in un film di due ore mi è sembrato tutto un po' ridondante.
+Se togliamo il tema principale della solita ottima **Shimomura** e qualche altro brano sparso, il lavoro di **John R. Graham** suona un po' tutto come "generica musica da trailer", e chi vi scrive è un grande fan dei Two Steps From Hell eh, quindi massimo rispetto per la categoria, diciamo solo che in un film di due ore mi è sembrata una OST un po' anonima nel suo essere ridondante.
 
 ## Doppiaggio (Inglese)
 
@@ -102,7 +102,7 @@ Se togliamo il tema principale della solita ottima **Shimomura** e qualche altro
 
 Tralasciando i nomi altisonanti che fanno un ottimo lavoro (**Aaron Paul, Sean Bean** e la già citata **Lena Headey**), direi che per il resto rasentiamo la sufficienza: 
 
-Ascoltando i personaggi secondari si sente parecchio che ci troviamo di fronte al **classico doppiaggio americano riservato ad anime e videogiochi giapponesi**, ovvero prodotto con fortune alterne.
+Ascoltando i personaggi secondari si sente il **classico doppiaggio americano riservato ad anime e videogiochi giapponesi**, ovvero prodotto con fortune alterne.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SiMHTK15Pik" frameborder="0" allowfullscreen></iframe>
 
@@ -118,7 +118,9 @@ C'è da dire che **Kingsglaive è stato doppiato anche in italiano** (dal [trail
 
 Eccoci, siamo arrivati al momento cruciale!
 
-Partiamo col dire che è molto bello vedere il film affrontare tematiche attuali come **l'integrazione degli immigrati in una società spiccatamente conservatrice**, e visto il contesto militare è gradito il ritorno della **classica guerra contro l'Impero di turno** (vero e proprio _must_ dei vecchi Final Fantasy)...tuttavia **la carne al fuoco è davvero tanta e forse viene servita un po' tutta assieme e troppo in fretta**, rendendo l'intreccio un po' pesante, sebbene i tempi giustifichino certe scelte:
+Intanto diciamo subito che è molto bello vedere il film affrontare tematiche attuali come **l'integrazione degli immigrati in una società spiccatamente conservatrice.** 
+
+Visto il contesto militare è gradito il ritorno della **classica guerra contro l'Impero di turno** (vero e proprio _must_ dei vecchi Final Fantasy)...tuttavia **la carne al fuoco è davvero tanta e forse viene servita un po' tutta assieme e troppo in fretta**, rendendo l'intreccio un po' pesante, sebbene i tempi giustifichino certe scelte:
 
 Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, di cui rappresenta anzitutto un'introduzione, più che uno vero e proprio spinoff.** 
 
@@ -140,9 +142,11 @@ Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, 
 
 Sarà che quando si parla di Square Enix le mie aspettative partono sempre sottozero, sarà che il genere, le tematiche e lo stile rientrano perfettamente nelle mie corde, ma **Kingsglaive mi è piaciuto davvero parecchio.**
 
-**È un film che difficilmente può essere digerito da chi non ama intrecci militari / socio-politici** e dove va sempre tenuta in considerazione la sua natura da "apripista", ma che può senz'altro essere apprezzato da un buon numero di persone, **principalmente da chi conosce bene (con tutti i suoi alti e bassi) la cifra della saga di JRPG più famosa del mondo**. 
+**È un film che difficilmente potrà essere digerito da chi non ama intrecci militari / socio-politici** ed è imperativo tenere sempre in considerazione la sua natura da "apripista".
 
-E questo, con buona pace dei votacci di RottenTomatoes, è tutto ciò che Kingsglaive doveva davvero essere.
+Ciò nonostante penso possa essere apprezzato da un buon numero di persone, **principalmente da chi conosce bene (con tutti i suoi alti e bassi) la cifra stilistica della saga di JRPG più famosa del mondo**. 
+
+E questo, con buona pace dei votacci di _RottenTomatoes_, è in effetti tutto ciò che Kingsglaive doveva davvero essere.
 
 ## Voto
 
