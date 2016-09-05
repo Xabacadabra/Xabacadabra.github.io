@@ -25,7 +25,7 @@ Ce la fa, non ce la fa ? Vediamo un po'...
 ## Spiccatamente Final Fantasy
 
 <figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BMWIzMWIzYzctMjM4OC00MTQ4LTkxZGMtMDIzZmRjOGEyZGY5XkEyXkFqcGdeQXVyNjgwMzIwOTM@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="/gallery/kingsglave/1.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 È la prima cosa che viene da pensare, sentendo Lena Headey / Cersei Lannister / Lunafreya in guisa da Marlene di _Advent Children_ raccontarci un prologo fatto di Magitek, Imperi e Guerre. 
@@ -37,8 +37,9 @@ Il primo lato positivo di tutto questo? Non è un nuovo _The Spirits Within!_
 ## Grafica
 
 <figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BYjYzOTI4ODYtODY1My00ODkzLTkwNmMtM2EwMzRkOTNiY2RjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="/gallery/kingsglave/2.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
+
 
 Fa sempre un po' strano fare questo discorso per un film eh ? 
 
@@ -136,7 +137,9 @@ Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, 
 
 ## Conclusioni
 
-
+<figure>
+<img src="http://vignette2.wikia.nocookie.net/finalfantasy/images/a/ac/KG_FFXV_Artwork.jpg/revision/latest?cb=20160331052634" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
 
 Sarà che quando si parla di Square Enix le mie aspettative partono sempre sottozero, sarà che il genere, le tematiche e lo stile rientrano perfettamente nelle mie corde, ma **Kingsglaive mi è piaciuto davvero parecchio.**
 
