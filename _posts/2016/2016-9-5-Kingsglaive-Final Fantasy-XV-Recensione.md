@@ -81,7 +81,7 @@ Beh, davvero bene:
 ## Più Nyx e Meno Noctis!
 
 <figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BNGZkYjQxMTItMjNiYi00MTA0LWI1ZDItMjE1MWE2YmRhYzMwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="/gallery/kingsglaive/nyx.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 Il personaggio di **Nyx** (protagonista pensato appositamente per il film) e dei Glaive in generale mi è sembrato **molto riuscito e più accattivante di quanto s'è visto dei protagonisti del Final Fantasy XV vero e proprio.**
@@ -91,7 +91,7 @@ Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi
 ## Regia
 
 <figure>
-<img src="hhttp://ia.media-imdb.com/images/M/MV5BYjYzOTI4ODYtODY1My00ODkzLTkwNmMtM2EwMzRkOTNiY2RjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="http://vignette4.wikia.nocookie.net/finalfantasy/images/f/f8/KingsglaiveFFXV_Lunafreya_SS.png" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 **Takeshi Nozue**, che aiutò Nomura nella regia di _Advent Children_, qui è l'uomo solo al comando: 
@@ -121,7 +121,7 @@ C'è da dire che **Kingsglaive è stato doppiato anche in italiano** (dal [trail
 ## Trama
 
 <figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BNmVjOGE3ZDYtN2UwNi00ZWUyLWE2MDAtMzViMDE0NmEyNzE0XkEyXkFqcGdeQXVyNjY5MTY0NDU@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="http://vignette3.wikia.nocookie.net/finalfantasy/images/3/36/Kingsglaive_Group.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 Eccoci, siamo arrivati al momento cruciale!
