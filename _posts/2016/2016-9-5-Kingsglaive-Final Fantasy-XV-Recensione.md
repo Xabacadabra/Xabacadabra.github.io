@@ -28,11 +28,11 @@ Ce la fa, non ce la fa ? Vediamo un po'...
 <img src="/gallery/kingsglaive/1.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
-Ascoltando Lena Headey / Lunafreya (Cersei Lannister per gli amici Stark all'ascolto) in guisa di Marlene da _Advent Children_ raccontarci un prologo fatto di Magitek, Imperi e Guerre è impossibile non pensare a _Final Fantasy_. 
+Ascoltando **Lena Headey / Lunafreya** (o Cersei Lannister per gli amici Stark all'ascolto) in guisa di Marlene da _Advent Children_ raccontarci un prologo fatto di Magitek, Imperi e Guerre è impossibile non pensare a _Final Fantasy_. 
 
 Scontato, dite? 
 
-Eh allora si vede che la serie la conoscete poco:
+Allora si vede che la serie la conoscete poco:
 
 Tutto considerato, escludendo l'universo di Matsuno (_Final Fantasy XII_) **era dai tempi di _Final Fantasy IX_ che non si vedeva un'ambientazione che suona così _grossa_ , pregna di popolose nazioni culturalmente ben definite pronte a darsele di santa ragione**.
 
@@ -58,6 +58,10 @@ Visivamente nel 2007 _Advent Children_ fu qualcosa d'incredibile, e _Spirits Wit
 
 ## Stile
 
+<figure>
+<img src="/gallery/kingsglaive/stile.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
+
 Nel paragrafo sopra abbiamo appurato che il livello grafico è altissimo, ok.
 
 Ma come viene impiegata tutta questa qualità tecnica ?
@@ -66,11 +70,19 @@ Beh, davvero bene:
 
 **La commistione tra elementi magico-medievali e moderni è resa magnificamente**, come del resto già ci si aspettava ai tempi del famoso _Versus XIII_ (cioè il prototipo incompiuto di ciò che sarà Final Fantasy XV).
 
-**Le scelte di design per fortuna sono ottime sia per quanto riguarda edifici e ambienti che per i personaggi**...certo, quest'ultimi sembrano usciti da un catalogo anche quando bazzicano per i bassifondi, ma questo rientra tutto nella cifra Square e quindi non ci si può lamentare troppo.
+**Le scelte di design sono ottime sia per quanto riguarda edifici e ambienti che per i personaggi**...certo, quest'ultimi sembrano usciti da un catalogo anche quando bazzicano per i bassifondi, ma questo rientra tutto nella cifra Square e quindi non ci si può lamentare troppo.
+
+<figure>
+<img src="/gallery/kingsglaive/audi.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
 
 **Diversa storia per le scene-spot di marchi reali (ciao, Audi!), protagoniste di product placement ai limiti del ridicolo.**
 
 ## Più Nyx e Meno Noctis!
+
+<figure>
+<img src="http://ia.media-imdb.com/images/M/MV5BNGZkYjQxMTItMjNiYi00MTA0LWI1ZDItMjE1MWE2YmRhYzMwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
 
 Il personaggio di **Nyx** (protagonista pensato appositamente per il film) e dei Glaive in generale mi è sembrato **molto riuscito e più accattivante di quanto s'è visto dei protagonisti del Final Fantasy XV vero e proprio.**
 
@@ -78,9 +90,13 @@ Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi
 
 ## Regia
 
+<figure>
+<img src="hhttp://ia.media-imdb.com/images/M/MV5BYjYzOTI4ODYtODY1My00ODkzLTkwNmMtM2EwMzRkOTNiY2RjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
+
 **Takeshi Nozue**, che aiutò Nomura nella regia di _Advent Children_, qui è l'uomo solo al comando: 
 
-E meno male, **perché il ritmo e le scelte di regia qui sembrano decisamente più azzeccati** e conditi da ottime scene d'azione, formando un pacchetto complessivo forse più vicino al cinema occidentale, ma comunque stretto parente di quanto la Square Enix ci ha offerto negli ultimi anni.
+E meno male, **perché il ritmo e le scelte di regia sembrano decisamente più azzeccati** e conditi da ottime scene d'azione, formando un pacchetto complessivo forse più vicino al cinema occidentale (ma comunque stretto parente di quanto la Square Enix ci ha offerto negli ultimi anni).
 
 ## Colonna Sonora
 
@@ -104,6 +120,10 @@ C'è da dire che **Kingsglaive è stato doppiato anche in italiano** (dal [trail
 
 ## Trama
 
+<figure>
+<img src="http://ia.media-imdb.com/images/M/MV5BNmVjOGE3ZDYtN2UwNi00ZWUyLWE2MDAtMzViMDE0NmEyNzE0XkEyXkFqcGdeQXVyNjY5MTY0NDU@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
+
 Eccoci, siamo arrivati al momento cruciale!
 
 Intanto diciamo subito che è molto bello vedere il film affrontare tematiche attuali come **l'integrazione degli immigrati in una società spiccatamente conservatrice.** 
@@ -114,11 +134,19 @@ Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, 
 
 ## Alegher, alegher !
 
+<figure>
+<img src="/gallery/kingsglaive/alegher.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
+
 **Uno dei problemi principali delle produzioni Square Enix è lo spiccato e soffocante senso di dramma perenne**, quel prendersi troppo sul serio che in altri contesti porta alla noia e all'involontariamente ridicolo.
  
 **Kingslaive da questo discorso ne esce relativamente bene**, grazie al suo contesto più giustificabilmente serioso e al proprio minutaggio cinematografico, merito anche della sceneggiatura di **Takashi Hasegawa** che non ci ha ammorbato troppo con reiterati pipponi mentali.
 
 ## Conclusioni
+
+<figure>
+<img src="http://www.gamesoul.it/wp-content/uploads/2016/06/maxresdefault-1-1.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+</figure>
 
 Sarà che quando si parla di Square Enix le mie aspettative partono sempre sottozero, sarà che il genere, le tematiche e lo stile rientrano perfettamente nelle mie corde, ma **Kingsglaive mi è piaciuto davvero parecchio.**
 
