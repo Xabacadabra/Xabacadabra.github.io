@@ -91,7 +91,7 @@ Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi
 ## Regia
 
 <figure>
-<img src="http://vignette4.wikia.nocookie.net/finalfantasy/images/f/f8/KingsglaiveFFXV_Lunafreya_SS.png" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="http://vignette4.wikia.nocookie.net/finalfantasy/images/f/f8/KingsglaiveFFXV_Lunafreya_SS.png/revision/latest?cb=20160830182412" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 **Takeshi Nozue**, che aiutò Nomura nella regia di _Advent Children_, qui è l'uomo solo al comando: 
@@ -121,7 +121,7 @@ C'è da dire che **Kingsglaive è stato doppiato anche in italiano** (dal [trail
 ## Trama
 
 <figure>
-<img src="http://vignette3.wikia.nocookie.net/finalfantasy/images/3/36/Kingsglaive_Group.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
+<img src="http://vignette3.wikia.nocookie.net/finalfantasy/images/3/36/Kingsglaive_Group.jpg/revision/latest?cb=20160526062354" alt="kingsglaive-final-fantasy-xv-recensione">
 </figure>
 
 Eccoci, siamo arrivati al momento cruciale!
