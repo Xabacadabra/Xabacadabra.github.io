@@ -9,8 +9,8 @@ tags:
   - recensioni
   - videogiochi
 image: 
-  feature: .jpg
-  teaser: teaser-.jpg
+  feature: kingsglaive.jpg
+  teaser: teaser-kingsglaive.jpg
   thumb: null
 published: true
 comments: true
