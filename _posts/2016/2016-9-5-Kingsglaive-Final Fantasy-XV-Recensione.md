@@ -92,7 +92,9 @@ Tralasciando i nomi altisonanti che fanno un ottimo lavoro (**Aaron Paul, Sean B
 
 Ascoltando i personaggi secondari si sente il **classico doppiaggio americano riservato ad anime e videogiochi giapponesi**, ovvero prodotto con fortune alterne.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SiMHTK15Pik" frameborder="0" allowfullscreen></iframe>
 
+(no ok, non a QUESTI livelli eh)
 
 C'è da dire che **Kingsglaive è stato doppiato anche in italiano** (dal [trailer](https://youtu.be/zjPTpVkvCXY) parrebbe molto bene), ottima scusa per riguardarselo localizzato tutto per noi.
 
