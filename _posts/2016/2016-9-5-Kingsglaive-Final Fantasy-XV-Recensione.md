@@ -55,10 +55,6 @@ Visivamente nel 2007 _Advent Children_ fu qualcosa d'incredibile, e _Spirits Wit
 
 ## Stile
 
-<figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BNGZkYjQxMTItMjNiYi00MTA0LWI1ZDItMjE1MWE2YmRhYzMwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
-</figure>
-
 Nel paragrafo sopra abbiamo appurato che il livello grafico è altissimo, ok.
 
 Ma come viene impiegata tutta questa qualità tecnica ?
@@ -73,19 +69,11 @@ Beh, davvero bene:
 
 ## Più Nyx e Meno Noctis!
 
-<figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BZWI2YzljODItZTEyMC00NTllLWIyYjQtYzhiYjNiNzVlYzgwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
-</figure>
-
 Il personaggio di **Nyx** (protagonista pensato appositamente per il film) e dei Glaive in generale mi è sembrato **molto riuscito e più accattivante di quanto s'è visto dei protagonisti del Final Fantasy XV vero e proprio.**
 
 Ovviamente è una faccenda di gusti e impressioni parecchio superficiali, quindi prendetela con le pinze.
 
 ## Regia
-
-<figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BNzYwMTdlNGItNTJiMC00ZmM2LWI4MTYtMThiMGQxMTUwZTMyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
-</figure>
 
 **Takeshi Nozue**, che aiutò Nomura nella regia di _Advent Children_, qui è l'uomo solo al comando: 
 
@@ -113,10 +101,6 @@ C'è da dire che **Kingsglaive è stato doppiato anche in italiano** (dal [trail
 
 ## Trama
 
-<figure>
-<img src="http://vignette2.wikia.nocookie.net/finalfantasy/images/4/40/Kingsglaive_poster.jpg/revision/latest?cb=20160723204257" alt="kingsglaive-final-fantasy-xv-recensione">
-</figure>
-
 Eccoci, siamo arrivati al momento cruciale!
 
 Intanto diciamo subito che è molto bello vedere il film affrontare tematiche attuali come **l'integrazione degli immigrati in una società spiccatamente conservatrice.** 
@@ -127,19 +111,11 @@ Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, 
 
 ## Alegher, alegher !
 
-<figure>
-<img src="http://ia.media-imdb.com/images/M/MV5BMjg4NDVjODUtY2I3YS00YmU5LThiY2EtYmJiM2Q0MTY5ZjdhXkEyXkFqcGdeQXVyMzkxNTQ5NjY@._V1_.jpg" alt="kingsglaive-final-fantasy-xv-recensione">
-</figure>
-
 **Uno dei problemi principali delle produzioni Square Enix è lo spiccato e soffocante senso di dramma perenne**, quel prendersi troppo sul serio che in altri contesti porta alla noia e all'involontariamente ridicolo.
  
 **Kingslaive da questo discorso ne esce relativamente bene**, grazie al suo contesto più giustificabilmente serioso e al proprio minutaggio cinematografico, merito anche della sceneggiatura di **Takashi Hasegawa** che non ci ha ammorbato troppo con reiterati pipponi mentali.
 
 ## Conclusioni
-
-<figure>
-<img src="http://vignette2.wikia.nocookie.net/finalfantasy/images/a/ac/KG_FFXV_Artwork.jpg/revision/latest?cb=20160331052634" alt="kingsglaive-final-fantasy-xv-recensione">
-</figure>
 
 Sarà che quando si parla di Square Enix le mie aspettative partono sempre sottozero, sarà che il genere, le tematiche e lo stile rientrano perfettamente nelle mie corde, ma **Kingsglaive mi è piaciuto davvero parecchio.**
 
