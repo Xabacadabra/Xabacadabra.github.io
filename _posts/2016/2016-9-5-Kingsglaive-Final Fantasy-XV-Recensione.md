@@ -136,9 +136,7 @@ Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, 
 
 ## Conclusioni
 
-<figure>
-<img src="http://vignette2.wikia.nocookie.net/finalfantasy/images/a/ac/KG_FFXV_Artwork.jpg/revision/latest?cb=20160331052634" alt="kingsglaive-final-fantasy-xv-recensione">
-</figure>
+
 
 Sarà che quando si parla di Square Enix le mie aspettative partono sempre sottozero, sarà che il genere, le tematiche e lo stile rientrano perfettamente nelle mie corde, ma **Kingsglaive mi è piaciuto davvero parecchio.**
 
