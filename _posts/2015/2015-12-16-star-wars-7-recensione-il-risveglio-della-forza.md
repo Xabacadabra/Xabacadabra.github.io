@@ -31,9 +31,9 @@ Tralasciando questo punto (che meriterebbe un post a parte) parliamo più approf
 
 La regia, i tempi, la sceneggiatura, le battute (forse pure un po' troppe), Han Solo, la nostalgia, i combattimenti, le scenografie, l'interpretazione, le musiche di John Williams (che secondo me oramai è il vero regista)...
 
-Insomma, **è tutto confezionato e diretto in modo superbo, un autentico capolavoro di tecnica cinematografica**, fatta giusto eccezione per...
+Insomma, **è tutto confezionato e diretto in modo superbo, un autentico capolavoro di tecnica cinematografica**, fatta giusto 2eccezione per...
 
-##la Computer Grafica 
+## la Computer Grafica 
 
 O meglio quella nelle animazioni facciali di 2 personaggi e alcuni alieni-mostroni:
 
