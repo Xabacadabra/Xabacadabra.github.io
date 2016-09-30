@@ -6,7 +6,7 @@ categories: [2013]
 excerpt: "Altrimenti detto David Cage Begins"
 tags: [recensioni, videogiochi]
 image:
-  feature: beyond-due-anime-recensione.jpg
+  feature: beyond-due-anime.jpg
   teaser:  teaser-beyond.jpg
   thumb:
 published: true
