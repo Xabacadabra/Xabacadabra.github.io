@@ -6,8 +6,8 @@ categories: [2016]
 excerpt: "Altrimenti detto David Cage Begins"
 tags: [recensioni, videogiochi]
 image:
-  feature: omikron-recensione.jpg
-  teaser:  teaser-omikron.jpg
+  feature: beyond-due-anime-recensione.jpg
+  teaser:  teaser-beyond.jpg
   thumb:
 published: true
 comments: true
@@ -25,9 +25,9 @@ Non sono uno di quei **videogiocatori** mentalmente chiusi che hanno necessariam
 	<img src="http://3.bp.blogspot.com/-nQZ8G7mTFf4/Uo4E9uzArFI/AAAAAAAAFkw/jmcrsRzuWB8/s1600/cage.jpg" alt="david cage">
 </figure>  
 
-Detto questo, il capoccia David Cage (al secolo David De Gruttola) mi è sempre sembrato un regista frustrato più che un vero e proprio game designer, uno che volesse raccontare storie e sfruttasse il medium videogame senza però averne il dovuto rispetto (andate a cercarvi qualche sua dichiarazione per capire cosa intendo).
+Detto questo, il capoccia **David Cage (al secolo David De Gruttola) mi è sempre sembrato un regista frustrato più che un vero e proprio game designer**, uno che volesse raccontare storie e sfruttasse il medium videogame **senza però averne il dovuto rispetto** (andate a cercarvi qualche sua dichiarazione per capire cosa intendo).
 
-Ciò, bene inteso, non cambia il fatto che abbiamo di fronte un autore di grande talento, bravissimo sopratutto nel enfatizzare la psicologia dei suoi personaggi.
+Ciò, bene inteso, non cambia il fatto che abbiamo di fronte **un autore di grande talento**, bravissimo sopratutto nel enfatizzare la psicologia dei suoi personaggi.
 
 ## Beyond: Due Anime de li mortacci tua
 
@@ -70,15 +70,15 @@ Sono invece **scritti quasi tutti magistralmente**, comparse comprese...l'eccezi
 La vera superstar del lotto è poi, indubbiamente, **Jodie Holmes**:
 
 <figure>
-	<img src=http://1.bp.blogspot.com/-KrE_ha9NGKA/Uo4DpxADcNI/AAAAAAAAFkQ/DB1vToFjsSw/s1600/beyond-two-souls-02-595x334.jpg" alt="beyond: due anime">
-</figure>  
+<img src="http://1.bp.blogspot.com/-KrE_ha9NGKA/Uo4DpxADcNI/AAAAAAAAFkQ/DB1vToFjsSw/s1600/beyond-two-souls-02-595x334.jpg" alt="beyond: due anime">
+</figure>
 
-**Ellen Page** (l'attrice) da sola porta in scena **una protagonista capace di empatizzare straordinariamente con il giocatore**,  probabilmente uno dei casi più importanti in tutta la storia del videogame.
+**Ellen Page** (l'attrice) da sola porta in scena **una protagonista capace di empatizzare straordinariamente con il giocatore**, probabilmente uno dei casi più importanti in tutta la storia del videogame.
 
 Nota di merito va poi anche all'altro nome altisonante del cast:
 
 <figure>
-	<img src=http://1.bp.blogspot.com/-YIzYOo0CXAk/Uo4C2bwG-2I/AAAAAAAAFkE/Ve5AJNsoFuY/s1600/BEYOND_WD_SCREEN010.jpg" alt="beyond: due anime">
+	<img src="http://1.bp.blogspot.com/-YIzYOo0CXAk/Uo4C2bwG-2I/AAAAAAAAFkE/Ve5AJNsoFuY/s1600/BEYOND_WD_SCREEN010.jpg" alt="beyond: due anime">
 </figure>  
 
 il bravissimo **Willem Dafoe** (interprete di Nathan Dawkins) relegato forse in **un ruolo fin troppo scontato**, riesce nonostante tutto a trasmettere partecipazione ed enfasi.
@@ -88,7 +88,7 @@ A questo proposito, segnalo che il gioco è **anche magistralmente doppiato in I
 ## Adrenalina e Gameplay
 
 <figure>
-	<img src=http://2.bp.blogspot.com/-1wBx8H0wtU0/Uo4EQYqKX7I/AAAAAAAAFko/r8_ttI27cMo/s1600/QD_BEYOND_SCREEN34_1378219155-990x556.jpg" alt="beyond: due anime">
+	<img src="http://2.bp.blogspot.com/-1wBx8H0wtU0/Uo4EQYqKX7I/AAAAAAAAFko/r8_ttI27cMo/s1600/QD_BEYOND_SCREEN34_1378219155-990x556.jpg" alt="beyond: due anime">
 </figure>  
 
 **Beyond non è poi così "non-gioco" come paventavo:** l'interagire tra Aiden e Jodie mi è sembrato più che soddisfacente in molte occasioni. Però...e si, però c'è un però.
