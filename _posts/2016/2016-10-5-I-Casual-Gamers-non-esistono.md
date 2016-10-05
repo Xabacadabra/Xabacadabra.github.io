@@ -41,7 +41,7 @@ Una cosa, però, è effettivamente cambiata:
 
 Più puro, estremo, hardcore, in una parola **elitario** e, come tale, necessitante una plebe da bistrattare: 
 
-E allora poco importa se si è cresciuti a suon di *Space Pinball*, la Wii non sa da fare.
+E allora poco importa se si è cresciuti a suon di *Space Pinball*, la Wii non s'ha da fare.
 
 Perché ecco, la voglia di mettersi in mostra e farsi fighi rispetto al prossimo esiste da sempre, ma **la mentalità vigente nell'Internet odierno ha contrubuito a radicalizzarla in modi preoccupanti** (e ovviamente non solo per quanto concerne i videogiochi...ma questa è un'altra storia)
 
