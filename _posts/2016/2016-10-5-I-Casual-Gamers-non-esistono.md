@@ -19,7 +19,7 @@ E se esistessero rappresenterebbero i videogiocatori **originali**, tipo i vampi
 
 Perché certo, chi vi scrive ha da poco terminato ***Dark Souls*** e si è spolpato caterve di RPG nel corso degli anni (giusto per citare il genere più ciccione), ma sapete che c'è? 
 
-**Se dietro un grande uomo c'è sempre una grande donna, dietro ogni partita a *Baldur's Gate* ce n'è sempre stata una a **Puzzle Bubble.**
+**Se dietro un grande uomo c'è sempre una grande donna, dietro ogni partita a Baldur's Gate ce n'è sempre stata una a Puzzle Bubble.**
 
 Perché il Game Boy, signori, lo ha venduto anzitutto [*Tetris*](https://en.wikipedia.org/wiki/Tetris_(Game_Boy)).
 
