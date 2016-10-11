@@ -42,10 +42,10 @@ layout: default
 				<footer class="page-footer">
 <!-- related --> <div class="relatedPosts">
 
-<h4>You May Also Enjoy</h4> 
+<h4>Leggi pure:</h4> 
 
 {% assign maxRelated = 4 %}
-{% assign minCommonTags =  2 %}
+{% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 
   {% for post in site.posts %}
@@ -65,7 +65,7 @@ layout: default
 
     {% if sameTagCount >= minCommonTags %}
       <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<img src="{{ site.url }}/images/{{ post.image.thumb }}" alt=""></a></li>{{ commonTags }}</a></h5>
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
