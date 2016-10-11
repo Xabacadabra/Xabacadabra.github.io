@@ -40,6 +40,11 @@ layout: default
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
+				  <p id="post-meta">{{ tags_content }}</p> <!-- tags -->		
+					{% if page.categories %}{% include page-author.html %}{% endif %}
+					{% if page.share != false %}{% include share-this.html %}{% endif %}
+					{% include page-meta.html %}
+
 <!-- related --> <div class="rect">
 
   {% assign maxRelated = 4 %}
@@ -79,10 +84,6 @@ layout: default
     {% endif %}
   {% endfor %}
 </div> <!-- related -->
-				  <p id="post-meta">{{ tags_content }}</p> <!-- tags -->		
-					{% if page.categories %}{% include page-author.html %}{% endif %}
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					{% include page-meta.html %}
 				</footer><!-- /.footer -->
 				<aside>
 					{% if page.comments == true %}{% include comments.html %}{% endif %}
