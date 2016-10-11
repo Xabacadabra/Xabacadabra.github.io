@@ -40,16 +40,16 @@ layout: default
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
-<!-- related --> <div class="relatedPosts">
+<!-- related --> <div class="rect">
 
-<h4>Leggi pure:</h4> 
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
 
-{% assign maxRelated = 4 %}
-{% assign minCommonTags =  1 %}
-{% assign maxRelatedCounter = 0 %}
-
+ 
   {% for post in site.posts %}
 
+   
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
 
@@ -64,17 +64,20 @@ layout: default
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ post.image.thumb }}</a></h5>
-      </div>
+    
+          <a href="{{ site.baseurl }}{{ post.url }}">
+              <div class="rel">
+                  <h5>{{ post.title }}</h5>
+                  <img width="100%" src="/images/{{ post.image.thumb }}">
+              </div>
+          </a>
+
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
       {% endif %}
     {% endif %}
-
   {% endfor %}
-
 </div> <!-- related -->
 				  <p id="post-meta">{{ tags_content }}</p> <!-- tags -->		
 					{% if page.categories %}{% include page-author.html %}{% endif %}
