@@ -12,6 +12,7 @@ image:
   thumb: null
 published: true
 comments: true
+ads: true
 ---
 
 Ok, [l'avevo preannunciato](http://xabacadabra.com/2015/birdman-recensione/), e ci siamo arrivati.
