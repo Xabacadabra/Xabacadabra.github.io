@@ -8,7 +8,7 @@ tags: [musica]
 comments: true
 image: 
   feature: synthwave.jpg
-  teaser:  teasersynthwave.jpg
+  teaser:  teaser-synthwave.jpg
 ---
 
 [Ieri](http://www.arcweb.it/cetramod/viewtopic.php?f=21&t=48300) il buon vecchio Diccì, mio amorevole figlioccio di cetramoddiana memoria, se ne è uscito tutto baldanzoso parlandoci della Synthwave.
@@ -17,9 +17,9 @@ La cosa buffa è che io 'sto termine non l'avevo mai sentito, ma lei, **la Synth
 
 Nei fatti, al suo stato primordiale, la conosce ogni appassionato di musica elettronica anni '80 che si rispetti, principalmente quella da colonna sonora...insomma, Giorgio Moroder ed i suoi baffi, John Carpenter, Vangelis e relativi colleghi
 
-Ma la conosce pure, e meglio, chi s'è visto Drive e chi ha giocato quel piccolo capolavoro indie di Hotline Miami :
+Ma la conosce pure, e meglio, chi s'è visto Drive e chi ha giocato quel piccolo capolavoro indie di Hotline Miami...
 
-In buona sostanza, da quanto ho capito, la Synthwave è un crogiolo di effettistica, melodia e trip moderni ma dichiaratamente ispirati e fondati sulla stilistica tipica degli anni di Magnum P. I. :
+In buona sostanza, da quanto ho capito, **la Synthwave è un crogiolo di effettistica, melodia e trip moderni ma dichiaratamente ispirati e fondati sulla stilistica tipica degli anni di Magnum P. I.** :
 
 Non troppo lontano da True Survivor e tutto il resto della colonna sonora di Kung Fury, ma che da il meglio di se in lunghe e sperimentali elaborazioni puramente strumentali
 
