@@ -4,9 +4,6 @@ permalink: /
 image:
   feature: gardenight.gif
 ---
-<div>
-  (Il blog è ancora in fase di migrazione, aspettatevi errori, macelli con disqus e redirect strani)
-</div>
 
 <div><h2 class="post-title"><i class="fa fa-search"></i> Cerca nel Blog</h2></div>
 
