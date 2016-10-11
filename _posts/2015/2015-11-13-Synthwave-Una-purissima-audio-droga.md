@@ -29,7 +29,7 @@ Perché sì, ho sempre il solito vecchio cuore rockbluesmetallaro, è vero, ma �
 
 insomma, appicciate Spotify (o youtube, o quello che volete) e seguite la Ravanello Way:
 
-https://open.spotify.com/embed/track/2KwxdLkkztuVG1WaElZI6k
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8FCAA69505450735" frameborder="0" allowfullscreen></iframe>
 
 Perché sì, è un po' un a volte ritornano, ma di quelli originali.
 
