@@ -3,7 +3,7 @@ layout: article
 title: "L'importanza di chiamarsi Mad Max"
 modified: null
 categories: [2015]
-excerpt: "l'estetica di Sollima è uno spettacolo meraviglioso, complice la bravura di un ottimo Paolo Carnera alla fotografia... "
+excerpt: "L'action sporco, più o meno ottantiano (non è che esistevano solo i Kung Fury del caso eh) portato in scena con tutta la potenza tecnologica oggi a disposizione dei registi... "
 tags:
   - cinema
 image: 
