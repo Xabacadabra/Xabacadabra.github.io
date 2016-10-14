@@ -11,7 +11,7 @@ image:
   feature: daggerfall.jpg
   teaser: teaser-daggerfall.jpg
   thumb: null
-published: false
+published: true
 comments: true
 ---
 
