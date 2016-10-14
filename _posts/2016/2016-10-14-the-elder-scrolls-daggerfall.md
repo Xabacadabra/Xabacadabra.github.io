@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The Elder Scrolls II: Daggerfall nel 2016"
+title: "The Elder Scrolls II Daggerfall nel 2016"
 modified: null
 categories: [2016]
 excerpt: "Dopo una solida manciata di ore passate testando OpenMW che ha portato il mio vecchio amore The Elder Scrolls..."
@@ -45,9 +45,14 @@ se non altro, seguendo questo comodo video, l'esperienza riesce a svecchiarsi un
 
 ## Vargen, Monaco di Kynareth
 
-Ed ecco qui il personaggio che mi sono creato per l'occasione: pare un pornoattore degli anni '70 eh? Potrei scriverci sopra qualche storia volendo:
+Ed ecco qui il personaggio che mi sono creato per l'occasione: 
 
-Forse da queste parti non l'ho specificato, ma il mio massimo divertimento in questo tipo di giochi è **inventarmi biografie, alberi genalogici e cronologie** che creino contesto e background ai miei personaggi.
+<figure>
+	<img src="/gallery/elderscrolls/vargen.png" alt="Personaggio di Daggerfall">
+	<figcaption>pare un pornoattore degli anni '70 eh?</figcaption>
+</figure>
+
+Potrei scriverci sopra qualche storia volendo...forse da queste parti non l'ho specificato, ma il mio massimo divertimento in questo tipo di giochi è **inventarmi biografie, alberi genalogici e cronologie** che creino contesto e background ai miei personaggi.
 
 Non ci credete? [Date un'occhiata a cosa ho combinato per il mio ultimo personaggio di Skyrim.](http://xabacadabra.com/velnias/)
 
