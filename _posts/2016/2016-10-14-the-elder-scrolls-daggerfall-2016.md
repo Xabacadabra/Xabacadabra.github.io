@@ -1,9 +1,9 @@
 ---
 layout: article
-title: The Elder Scrolls II: Daggerfall nel 2016
+title: "The Elder Scrolls II: Daggerfall nel 2016"
 modified: null
 categories: [2016]
-excerpt: "Dopo una solida manciata di ore passate testando OpenMW 0.40 che ha portato il mio vecchio amore The Elder Scrolls..."
+excerpt: "Dopo una solida manciata di ore passate testando OpenMW che ha portato il mio vecchio amore The Elder Scrolls..."
 tags: 
    - videogiochi
    - cyberspazio

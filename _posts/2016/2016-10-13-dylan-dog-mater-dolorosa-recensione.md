@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dylan Dog 280 - Mater Morbi [Recensione]
+title: "Dylan Dog 280 - Mater Morbi [Recensione]"
 modified: null
 categories: [2016]
 excerpt: "Mater Morbi è una moderna storia cult di Dylan Dog, scritta da Roberto Recchioni nel 2009...."
