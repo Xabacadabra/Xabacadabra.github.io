@@ -41,7 +41,7 @@ La storia di **JC Denton** rappresenta a tuttoggi un validissimo elemento di par
 
 _Invisibile War_ è stato per massima parte un grosso passo falso, diciamolo pure subito senza girarci attorno.
 
-Rispetto al capostipite fu **un gioco più breve, semplice e pilotato all'azione**, con un'ottima scrittura del solito Spector ma senza alle sue spalle la cura meticolosa riservata al predecessore: 
+Rispetto al capostipite fu **un gioco più breve, semplice e votato all'azione**, con un'ottima scrittura del solito Spector ma senza alle sue spalle la cura meticolosa riservata al predecessore: 
 
 laddove Deus Ex rappresentava in ogni suo comparto la resa di un vero e proprio universo, Invisible War già sembra più "solo" un gioco, escludendo a tratti le battute finali sommati a qualche colpo di scena ben orchestrato.
 
