@@ -3,7 +3,7 @@ layout: article
 title: "Rogue One: A Star Wars Story - Impressioni da Trailer"
 modified: null
 categories: [2016]
-excerpt: ""
+excerpt: "Quasi un annetto dopo, devo dire che il mio parere su Il Risveglio della Forza è parecchio peggiorato..."
 tags: [cinema]
 image: 
   feature: rogue-one-star-wars.jpg
