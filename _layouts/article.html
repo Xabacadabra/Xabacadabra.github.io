@@ -46,10 +46,11 @@ layout: default
 				<hr />
 				<footer class="page-footer">
 
+				  <p id="post-meta">{{ tags_content }}</p> <!-- tags -->
+
 <!-- telegram -->
-<a class="btn-info"  href="https://telegram.me/xabacadabra" target="_blank"><i class="fa fa-paper-plane" aria-hidden="true"></i>Per tutti gli aggiornamenti, iscriviti al Canale Telegram!</a>
-<!-- telegram -->
-				  <p id="post-meta">{{ tags_content }}</p> <!-- tags -->		
+<a class="btn-info"  href="https://telegram.me/xabacadabra" target="_blank"><i class="fa fa-paper-plane" aria-hidden="true"></i> Per tutti gli aggiornamenti, iscriviti al Canale Telegram!</a>
+<!-- telegram -->		
 					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% include page-meta.html %}
