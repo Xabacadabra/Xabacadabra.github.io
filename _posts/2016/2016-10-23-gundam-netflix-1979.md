@@ -10,7 +10,7 @@ image:
   feature: gundam.jpg
   teaser: teaser-gundam.jpg
   thumb: null
-published: false
+published: true
 comments: true
 ---
 
