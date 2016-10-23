@@ -67,7 +67,7 @@ Non so se i miei gusti siano stati deviati da queste scelte televisive o si parl
 ## Netflix
 
 <figure>
-<img src="http://i.imgur.com/67ZsLDp.jpg" alt="gundam">
+<img src="http://i2.hd-cdn.it/img/max_width1000/id535810_1.jpg" alt="gundam">
 </figure>
 
 In verità l'amico Gatto (non nel senso felino, ma di amico nerd / compagno di viaggio delle mie spedizioni lucchesi) mi ha sempre esortato a concedere alla leggendaria serie una possibilità, più che altro **per gli aspetti socio-politici che quest'ultima portò in scena.**
