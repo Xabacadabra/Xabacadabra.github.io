@@ -85,7 +85,7 @@ Eppure, per qualche insondabile motivo, lo stesso che porta ad amare istintivame
 <img src='https://lh3.googleusercontent.com/JdAqKFTiOBguLhFfQvsk_vqeP3jKiOb4MwymbzquPjDGL0iOhuQg-ACW0ucazyDQTQ=h900' alt='the-end-of-the-world'>
 </figure>
 
-Da depresso cronico quale sono, sinceramente non ne ho "fiutati"...chiaro, è la quintessenza del prodotto che fa le gioie dei radical chic, e **può (a sua discolpa) certamente essere "subito" come una sorta di piccola corazzata Potemkin**...
+Da depresso cronico quale sono, sinceramente non ne ho "fiutati"...chiaro, è la quintessenza del prodotto che fa le gioie dei radical chic, e **può certamente essere "subito" come una sorta di piccola corazzata Potemkin (a sua insaputa)**...
 
 ## Ma?
 
