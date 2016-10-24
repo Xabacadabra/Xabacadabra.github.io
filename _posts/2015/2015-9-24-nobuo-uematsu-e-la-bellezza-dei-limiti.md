@@ -3,7 +3,7 @@ layout: article
 title: "Nobuo Uematsu e la bellezza dei limiti"
 modified: 2016-10-24
 categories: [2015]
-excerpt: "Essendo un "retrogamer", ci penso spesso. Avendo un rapporto conflittuale con il videogame moderno, ci rimugino molto..."
+excerpt: "Essendo un retrogamer, ci penso spesso. Avendo un rapporto conflittuale con il videogame moderno, ci rimugino molto..."
 tags:
    - videogiochi
    - xabologia
