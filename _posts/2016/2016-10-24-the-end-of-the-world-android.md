@@ -57,10 +57,6 @@ mentre qui usciamo categoricamente dal seminato.
 
 ## Quante pippe mentali!
 
-<figure>
-<img src='https://lh3.googleusercontent.com/y_PsGE2t5esLf54q3S7J7m9wRXK0XAovPrX2SYFPOMuJJHSLEsLDWdcg8qAV4REEm5s=h900' alt='the-end-of-the-world'>
-</figure>
-
 Vi sembrano già troppe, eh?
 
 Se sì, benissimo!
