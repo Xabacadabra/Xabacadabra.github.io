@@ -3,7 +3,7 @@ layout: article
 title: "Celeb Car Crash - People Are The Best Show [Recensione]"
 modified:
 categories: [2016]
-excerpt: "I Celeb Car Crash sono una band italiana che in realtà d'italiano ha ben poco. Ecco: _stop, rewind_ e qualche precisazione:"
+excerpt: "I Celeb Car Crash sono una band italiana che in realtà d'italiano ha ben poco. Ecco: stop, rewind e qualche precisazione:"
 tags: 
      - musica
      - recensioni
@@ -38,7 +38,7 @@ Non parliamo quindi di una cover band di Vasco Rossi (e ci mancherebbe), ma nemm
 
 **La scuola è infatti inevitabilmente quella vecchia-ma-non-troppo**, la stessa che per intenderci attingeva a piene mani dalle fondamenta del rock settantiano: 
 
-**Soundgarden, Stone Temple Pilots, Alice in Chains**...tutta quella scena insomma che un po' ingenuamente si bollò con la definizione _grunge_ (per il sottoscritto in realtà parecchio frivola).
+**Soundgarden, Stone Temple Pilots, Alice in Chains**...tutta quell'allegra ('nzomma) marmaglia che un po' ingenuamente si bollò con la definizione _grunge_ (per il sottoscritto in realtà parecchio frivola).
 
 Volendola dare per buona, un po' per pigrizia e un po' per comodità, potremmo senz'altro dire che **i CCC sono inquadrabili abbastanza bene nella fascia (micatanto)post-grunge dell'alternative rock.** (e così i wikipediani son contenti)
 
@@ -64,7 +64,7 @@ La canzone che chiude il lotto, _Nearly In Bloom_, veramente molto bella (e aggi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNQ-V1tJP-o" frameborder="0" allowfullscreen></iframe>
 
-Per chi scrive, **una delle cose immediatamente belle di _People Are The Best Show _ è ascoltare com'è stato mixato**, come il tutto suoni corposamente coeso...e, pure qui, spiccatamente americano (Un non so che da **Alter Bridge**?) complimenti vivissimi quindi ai produttori.
+Per chi scrive, **una delle cose immediatamente belle di _People Are The Best Show_ è ascoltare com'è stato mixato**, come il tutto suoni corposamente coeso...e, pure qui, spiccatamente americano (Un non so che da **Alter Bridge**?) complimenti vivissimi quindi ai produttori.
 
 ## People Are The Best Show
 
@@ -92,11 +92,11 @@ Tuttavia il concetto di "successo" non va necessariamente interpretato come cont
 
 **Lasciare un segno, tracciare un solco memorabile tra quel che c'era prima e ci sarà dopo l'ascolto, farti ripensare a quello che hai appena sentito indipendemente dal nome di chi lo ha suonato**...
 
-se anche _un_ solo ascoltatore dovesse pensare questo, per me possiamo parlare di un piccolo successo, almeno dal punto di vista artistico.
+se anche _un_ solo ascoltatore dovesse pensare questo, per me potremmo parlare di un piccolo successo, almeno dal punto di vista artistico.
 
-Ecco: in questo caso, onestamente, quell'ascoltatore non sono io.
+Ecco: in questo caso, onestamente, **quell'ascoltatore non sono io.**
 
-**People Are The Best Show** l'ho percepito come un disco di mestiere di una band americana di vent'anni fa che si diverte ancora a suonare...qualcosa di simile a quanto dissi per [Lightning Bolt dei Pearl Jam](http://xabacadabra.com/2013/pearl-jam-lightning-bolt-recensione/), o che potrei dire di molte cose nuove dei già citati **Alter Bridge**...
+**People Are The Best Show** l'ho percepito come un disco "di mestiere" di una band americana di vent'anni fa che si diverte ancora a suonare...qualcosa di simile a quanto dissi per [Lightning Bolt dei Pearl Jam](http://xabacadabra.com/2013/pearl-jam-lightning-bolt-recensione/), o che potrei dire di molte cose nuove dei già citati **Alter Bridge**...
 
 Sensazioni eh, certo:
 
@@ -116,9 +116,11 @@ A mio modo di vedere, **il rock (e molti dei suoi derivati) funziona sopratutto 
 
 E certo: quel che ne esce poi non è necessariamente _bello_ ([per dire...](https://www.youtube.com/watch?v=1CydZtP_XlA)), ma se non altro è percepibile come _autentico_, originale, **_inedito_**.
 
+E io, d'inedito, in People Are The Best Show non c'ho sentito granché.
+
 ## Verdetto
 
 Non è certamente negativo...ma decisamente neutro. 
 E per un disco rock, forse questa è la cosa peggiore
-{: .notice-info}
+{: .notice-warning}
  
