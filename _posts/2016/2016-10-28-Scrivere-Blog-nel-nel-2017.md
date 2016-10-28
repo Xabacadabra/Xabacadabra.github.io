@@ -35,7 +35,7 @@ In breve: **scordatelo**.
 
 In lungo: a prescindere dalla miriade di motivazioni tecnico-sociologiche, **stai partendo già con l'approccio sbagliato.**
 
-**Col web si può guadagnare**, intendiamoci, e conseguentemente lo si può fare con i blog e in genere se si è professionisti del settore e/o volti noti risulta una faccenda manco troppo complessa...ma **se si fa parte della beneamata gente comune e la vena creativa è posta dopo l'interesse economico**, di solito le strade portano a due risultati: 
+**Col web si può guadagnare**, intendiamoci, e conseguentemente lo si può fare con i blog e in genere se si è professionisti del settore o volti noti risulta una faccenda manco troppo complessa...ma **se si fa parte della beneamata gente comune e la vena creativa è posta dopo l'interesse economico** di solito le strade portano a due risultati: 
 
 A) **siti spazzatura fondati sul click baiting** 
 
@@ -58,13 +58,13 @@ Ovvero quelli che godono sempre di buona salute e piacciono molto anche ai motor
 
 Un numero talmente vasto che magari ci rientrate pure voi!
 
-Bene...ora pensate a quanta gente cerca _"riflessione di ciccibibullu94 sul pensiero di Giolitti"_.
+Bene...**ora pensate a quanta gente cerca _"riflessione di ciccibibullu94 sul pensiero di Giolitti"_.**
 
-...credo di aver reso l'idea, eh?
+...spero di aver reso l'idea.
 
-Ergo: fate sempre questo ragionamento prima di elaborare il vostro teorema.
+Fate sempre un ragionamento simile prima di elaborare il vostro teorema.
 
-Almeno, **sempre ammesso che le interazioni col pubblico v'interessino** ovviamente (non è sempre detto, ma ne riparliamo tra un attimo).
+Certo, **sempre ammesso che le interazioni col pubblico v'interessino** (non è sempre detto, ma ne riparliamo tra un attimo).
 
 ## 3: Meritocrazia 
 
@@ -74,15 +74,17 @@ Almeno, **sempre ammesso che le interazioni col pubblico v'interessino** ovviame
 
 Il discorso appena concluso qui sopra ci dice un'altra cosa: 
 
-**l'unico merito che conta veramente sul web è quello di saper proporre, rendere appetibile e quindi diffondere un contenuto.**
+**l'unico merito che conta veramente sul web è quello di saper proporre, rendere appetibile (e quindi diffondere) un contenuto.**
 
-Insomma, volendo tener per buono l'esempio precedente: 
+Insomma, volendo sempre tener buono l'esempio precedente: 
 
 la ricettà del tiramisù potrebbe essere una completa oscenità, mentre il povero ciccibibullu94 un autentico luminare...**la cosa, a livello di web-numeri, non importa nulla.**
 
 Certo **Google**, il motore di ricerca per antonomasia, ha da tempo assunto **una politica molto intelligente che tende a premiare il contenuto ben strutturato a scapito delle keyword buttate alla rinfusa.**
 
-Tuttavia, per quanto sofisticati, parliamo pur sempre di **algoritmi**, e ben strutturato significa anzitutto **il peso della pagina, com'è stata codificata e il livello di "pulizia" del codice html che tiene assieme il blog.**
+Tuttavia, per quanto sofisticati, parliamo pur sempre di **algoritmi**, e ben strutturato significa anzitutto **il peso della pagina, com'è stata codificata e il livello di "pulizia" del codice html che tiene assieme il blog in questione.**
+
+Scelta di lessico e creatività, ahimé, risultano sempre poco sondabili rispetto a questi elementi.
 
 ## 4: Blog Personali
 
@@ -90,13 +92,13 @@ Tuttavia, per quanto sofisticati, parliamo pur sempre di **algoritmi**, e ben st
 <img src='http://66.media.tumblr.com/adefb125c4005b411df7ab37f64e9aba/tumblr_nyva16N6861s1vn29o1_500.jpg' alt='blog'>
 </figure>
 
-O meglio, blog-diari dove raccontiamo amabilmente i cazzi nostri (perché un blog dovrebbe essere personale per antonomasia):
+O meglio, blog-diari dove raccontiamo amabilmente i cazzi nostri (perché un blog dovrebbe essere sempre un minimo personale):
 
 Oggigiorno, almeno a livello massivo, sono **sfortunatamente quasi estinti**, perché divorati dallo strapotere dei social network o sostituiti dai canali youtube. 
 
-Qualcosa di terribile da molti punti di vista, escludendo le ovvie comodità derivanti **dall'utilizzo globale di una piattaforma oramai divenuta standard.**
+Qualcosa di terribile da molti punti di vista, escludendo le ovvie comodità derivanti **dall'utilizzo globale di una piattaforma oramai divenuta standard vigente.**
 
-Ci sarebbe molto da dire su quest'argomento, ma credo sia il caso di tenerlo in sospeso in attesa di un post dedicato...per quel che vale, **io sarei felicissimo di vedere più blog personali nell'oceano web** (specialmente se diversi da quelli di teen-agers innamorate della pop band di turno), ma per onestà ed esperienza personale non so se consiglerei di aprirne uno nel 2016.
+Ci sarebbe molto da dire su quest'argomento, ma credo sia il caso di tenerlo in sospeso in attesa di un post dedicato...per quel che vale, **io sarei felicissimo di vedere più blog personali nell'oceano web** (specialmente se diversi da quelli di teen-agers innamorate della pop band di turno), ma per onestà ed esperienza personale **non so se consiglerei di aprirne uno oggi.**
 
 ## 5: Voglio un blog popolare...?
 
@@ -180,11 +182,11 @@ Che il sottoscritto conosce molto bene, avendolo utilizzato per parecchi anni ([
 
 E quindi ?
 
-E quindi, se come probabile possedete un account gmail, **non dovete manco effettuare iscrizioni particolari, è tutto bello e pronto che v'aspetta.**
+E quindi, se come probabile possedete un account gmail, **non dovete manco effettuare iscrizioni particolari, è tutto bello e pronto che v'aspetta all'indirizzo [blogger.com](https://www.blogger.com/home)**
 
 Sopratutto, **tendenzialmente, a Google piace Google**: non posso dimostrarlo con dati certificati, ed è chiaro che utilizzando un template-porcata del 2008 la cosa non influirà molto...ma alla base, **ho ragione di credere che un blog leggero, performante e contenutisticamente valido targato blogspot piaccia parecchio al motore di ricerca che di quel dominio è anche proprietario.**
 
-Aldilà di questo, comunque, **Blogger resta pure una buona piattaforma performante  abbastanza intuitiva**, sopratutto per chi conosce un minimo di xhtml e css.
+Aldilà di questo **Blogger comunque resta una buona piattaforma performante  abbastanza intuitiva e un supporto tutto sommato decente**, sopratutto per chi conosce un minimo di xhtml e css.
 
 ### Jekyll
 
@@ -196,9 +198,9 @@ Che, in combo con **Github**, è ciò che tiene in piedi il blog dove vi trovate
 
 Di Jekyll dovrò necessariamente parlare come si deve in un post dedicato, perché c'è molto da dire e **non è quel che si dice un sistema user friendly** (almeno, rispetto ai due colossi citati sopra) tuttavia è meraviglioso, leggero, gratuito, opensource e privo di database e cookies.
 
-Se siete adepti del formato **Markdown** e del web statico e non vi spaventa utilizzare **Git**, fiondateci senza pensarci due volte.
+Se siete adepti del formato **Markdown**, del web statico e non vi spaventa utilizzare **Git**, fiondatevi [qui](https://jekyllrb.com/) senza pensarci due volte.
 
-Se invece non avete capito una sola parola di quello che ho scritto in quest'ultimo paragrafo, al massimo restate sintonizzati su Xaba Cadabra che ne parleremo meglio un altro giorno.
+Se invece non avete capito una sola parola di quello che ho scritto in quest'ultimo paragrafo, **restate sintonizzati su Xaba Cadabra** che ne parleremo meglio un altro giorno.
 
 ## 9: Concorrenza
 
@@ -224,18 +226,18 @@ O meglio: ce lo può avere in uno dei seguenti casi.
 
 E guardate che non è poi così raro, specie nel ramo più retrò: molto spesso la "stampa di settore" è spaventosamente piatta e monotematica, concentrata sui titoli di punta che mandano certamente in sollucchero **un'utenza che però è più interessata a leggere voti che articoli propriamente detti.**
 
-La differenza grossa, però, che vi permette di esulare da tutto questo è proprio quella cosetta che ho citato poco fa:
+La differenza grossa che vi permette di fregarvene bellamente di tutto 'sto discorso è una cosetta che ho citato poco fa:
 
 ## 10: L'approccio non neutrale
 
-Che fa molto sito d'incontri detta così, ma a livello di principio non è che ci discostiamo poi molto.
+Che fa molto sito d'incontri detta così, ma in effetti a livello di principio non è che ci discostiamo poi molto.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g2N0TkfrQhY" frameborder="0" allowfullscreen></iframe>
 
-> You can be anything you want to be
-Just turn yourself into anything you think that you could ever be
-Be free with your tempo, be free, be free
-Surrender your ego be free, be free to yourself
+> You can be anything you want to be,
+Just turn yourself into anything you think that you could ever be,
+Be free with your tempo, be free, be free,
+Surrender your ego be free, be free to yourseeeeeeeelf
 
 Il nostro personale modo d'esporre le cose, l'educazione, lo humor, gli errori, i gusti, lo stile, _l'assenza_ di stile...**tutto ciò che ci forma come individui, ciò che siamo e/o ciò che vorremmo essere ci rende anche unici e irripetibili a livello di blogging.**
 
@@ -255,4 +257,4 @@ Stesso discorso lo potrei fare con guide, soluzioni, ricette e chi più ne ha pi
 
 per me, l'approccio personale in un blog non è solo una scelta stilistica.
 
-**è tutto il blog.** 
+**è proprio tutto il blog.** 
