@@ -20,6 +20,8 @@ Abbastanza grave per uno che da più di una decade si firma come Xabaras nei mea
 
 Perciò, evitando di sconfinare in pipponi troppo personali, farò una sintesi dell'enorme premessa che un po' vorrei (ma non dovrei) scrivere:
 
+{% include toc.html %}
+
 ## Premessa (se volete saltatela)
 
 - Ho letto qualche albo dell'era Recchioni, alcuni mi sono piaciuti molto, altri non particolarmente, ma nel complesso ho sempre pensato che Sclavi abbia scelto un ottima guida;
