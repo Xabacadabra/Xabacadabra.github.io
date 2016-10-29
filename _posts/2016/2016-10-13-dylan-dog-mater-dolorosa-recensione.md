@@ -36,7 +36,7 @@ Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo q
 
 Ecco, partendo proprio da qui: mamma mia come sono belli! 
 
-In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi), ma è impossibile parlare male dello spettacolo di tratti e colori portati in scena in modo così splendido...a livello visivo, parliamo senz'altro uno dei Bonelli moderni più interessanti di sempre.
+In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi, Stano, Dall’Agnol), ma è impossibile parlare male dello spettacolo di tratti e colori portati in scena in modo così splendido...a livello visivo, parliamo senz'altro uno dei Bonelli moderni più interessanti di sempre.
 
 ## Questione d'Empatia
 
