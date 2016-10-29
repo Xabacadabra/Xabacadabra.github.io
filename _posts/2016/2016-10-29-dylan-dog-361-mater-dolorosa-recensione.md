@@ -48,15 +48,15 @@ Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo q
 
 Ecco, partendo proprio da qui: mamma mia come sono belli! 
 
-In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi, Stano, Dall’Agnol), ma è impossibile parlare male dello spettacolo di tratti e colori portati in scena in modo così splendido di Cavenago, di recente promosso pure a copertinista ufficiale della seriw.
+In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi, Stano, Dall’Agnol), ma è impossibile parlare male dello spettacolo di tratti e colori portato in scena in modo così splendido di Cavenago, di recente promosso pure a copertinista ufficiale della serie.
 
-A livello visivo, parliamo senz'altro **uno dei Bonelli moderni più interessanti di sempre**, per me secondo solo a Massimo Carnevale in questa categoria.
+A livello visivo, parliamo senz'altro **uno dei Bonelli moderni più interessanti di sempre**, e Gigi per me secondo solo a Massimo Carnevale in questa categoria (ma se la gioca tantissimo, specifichiamolo).
 
 ## Questione empatica
 
 Per me Recchioni è uno sceneggiatore grandioso, già l'ho scritto e qui lo confermo.
 
-Mater Morbi, in particolare, fu un tremendo cazzotto nello stomaco per me: la ritengo ancora la miglior rappresentazione possibile del concetto di malattia a tinte horror.
+**Mater Morbi, in particolare, fu un tremendo cazzotto nello stomaco: la ritengo ancora la miglior rappresentazione possibile del concetto di malattia a tinte horror.**
 
 Mater Dolorosa, onestamente, invece non mi ha colpito affatto.
 
@@ -64,15 +64,15 @@ Mater Dolorosa, onestamente, invece non mi ha colpito affatto.
 
 Ma se non lo ha fatto non credo sia per via della figura di **John Ghost** (che pure non è che mi convinca granché), la sua natura di sequel o altro d'imputabile al "nuovo corso"...
 
-Penso che, all'origine, la "colpa" sia di Sclavi.
+Penso che, all'origine, **la "colpa" sia di Sclavi.**
 
 Della famosa _Storia di Dylan Dog_ (il numero 100), ovvero la celeberrima gita in galeone ottocentesca di Xabaras, Morgana ed il piccolo Dylan.
 
 Ecco: 
 
-Forse quello fu lo Sclavi che mi piacque meno di sempre, e inevitabilmente ad ogni albo celebrativo che prosegue quel filone finisco per ritrovarmi estraneo, indifferente e lontano.
+**Quello fu lo Sclavi che mi piacque meno di sempre**, e inevitabilmente ad ogni albo celebrativo che prosegue quel filone finisco per sentirmi un estraneo, indifferente e lontano da quel Dylan che di solito è n'amico molto stretto.
 
-Sensazioni opposte a storie come _Golconda!_, _Memorie dall'Invisibile_, _Storia di Nessuno_, _Il Lungo Addio_ ma anche piccole perle certamente meno blasonate (a memoria mi viene a mente il 151 _Il Lago nel Cielo_)
+Sensazioni opposte a quelle di_Golconda!_, _Memorie dall'Invisibile_, _Storia di Nessuno_ o _Il Lungo Addio_, ma anche a quelle di piccole perle certamente meno blasonate (a memoria ora mi viene a mente il 151 _Il Lago nel Cielo_)
 
 Riflettendoci, il mio pessimo rapporto coi già citati _Xabaras!_ e _In nome del padre_ deriva sempre da lì, da quel galeone e **da quella "macrostoria" mitologica di cui avrei sempre fatto volentieri a meno.**
 
@@ -96,4 +96,4 @@ Altri, giustamente, questa storia l'hanno amata o l'ameranno.
 
 De gustibus eccetera eccetera: del resto **la qualità qui c'è tutta, e non sarò certo io a discuterla.**
 
-In calce, personalmente Mater Morbi preferisco ritrovarla nel suo omonimo debutto (non mi facesse troppa paura rileggerlo)
+In calce, però, devo dire che personalmente Mater Morbi preferisco ritrovarla nel suo omonimo debutto (non mi facesse troppa paura rileggerlo)
