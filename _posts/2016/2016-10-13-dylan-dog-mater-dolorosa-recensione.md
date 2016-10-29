@@ -14,31 +14,33 @@ image:
 published: false
 comments: true
 ---
-Causa tempo, soldi (sopratutto soldi) voglia ed "ispirazione" è parecchio che non mi vado a leggere, e conseguentemente recensire, qualche bel numero di Dylan Dog.
+Causa tempo, soldi (sopratutto soldi) voglia ed "ispirazione" è parecchio che non mi vado a leggere, e conseguentemente recensire, qualche albo di Dylan Dog.
 
-Abbastanza grave per uno che da più di una decade si firma come Xabaras nei meandri del web, mi rendo conto. 
+Abbastanza grave per uno che da più di una decade si firma come Xabaras nei meandri del web, mi rendo conto... 
 
-Evitando di sconfinare in pipponi troppo personali, farò una sintesi dell'enorme premessa che un po' vorrei (ma non dovrei) scrivere:
+Perciò, evitando di sconfinare in pipponi troppo personali, farò una sintesi dell'enorme premessa che un po' vorrei (ma non dovrei) scrivere:
 
 ## Premessa (se volete saltatela)
 
-- Ho letto qualche albo dell'era Recchioni, alcuni mi sono piaciuti molto, altri non particolarmente, ma nel complesso ho sempre pensato che Sclavi abbia scelto davvero molto bene;
+- Ho letto qualche albo dell'era Recchioni, alcuni mi sono piaciuti molto, altri non particolarmente, ma nel complesso ho sempre pensato che Sclavi abbia scelto un ottima guida;
 
-- Non mi sono filato di striscio i discorsi sul **trentennale di Dylan Dog**, un po' perché ricordo ancora troppo bene i due albi del ventennale (in assoluto i due albi di DyD che più detesto, un giorno magari ne parliamo), un po' perché sono cose che fanno sentire vecchi e si portano dietro un circo mediatico che per carità, ci sta tutto, ma a me mette parecchio a disagio;
+- Non mi sono filato di striscio i discorsi celebrativi sul **trentennale di Dylan Dog**, un po' perché ricordo ancora troppo bene i due albi del ventennale (in assoluto i due albi di DyD che più detesto, un giorno magari ne parliamo), un po' perché sono cose che fanno sentire vecchi e si portano dietro un circo mediatico che per carità, ci sta tutto, ma a me mette parecchio a disagio;
 
-- Non mi piace la percezione di leggere e scrivere di qualcosa a cui tengo molto quando quest'ultima è al centro dell'attenzione (pessima caratteristica per un blogger)
+- Non mi piace la percezione di leggere e scrivere di qualcosa a cui tengo molto quando **quest'ultima è al centro dell'attenzione** (pessima caratteristica per un blogger)
 
 ## Mater Dolorosa
 
-Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**]() ed il recente ritorno in scena di Tiziano Sclavi non ho resistito, e mi sono pappato il "sequel di compleanno" firmato sempre da **Recchioni** e disegnato da **Gigi Cavenago**.
+Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**]() ed il recente ritorno in scena di Tiziano Sclavi, questa volta però non ho resistito, e sono qui per dire quattro parole sul "sequel di compleanno" firmato sempre da **Recchioni** e disegnato da **Gigi Cavenago**.
 
 ## Disegni 
 
 Ecco, partendo proprio da qui: mamma mia come sono belli! 
 
-In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi, Stano, Dall’Agnol), ma è impossibile parlare male dello spettacolo di tratti e colori portati in scena in modo così splendido...a livello visivo, parliamo senz'altro uno dei Bonelli moderni più interessanti di sempre.
+In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi, Stano, Dall’Agnol), ma è impossibile parlare male dello spettacolo di tratti e colori portati in scena in modo così splendido di Cavenago, di recente promosso pure a copertinista ufficiale della seriw.
 
-## Questione d'Empatia
+A livello visivo, parliamo senz'altro **uno dei Bonelli moderni più interessanti di sempre**, per me secondo solo a Massimo Carnevale in questa categoria.
+
+## Questione empatica
 
 Per me Recchioni è uno sceneggiatore grandioso, già l'ho scritto e qui lo confermo.
 
@@ -48,13 +50,15 @@ Mater Dolorosa, onestamente, invece non mi ha colpito affatto.
 
 ## Il peccato originale
 
-Ma se non lo ha fatto non credo sia tanto per via della figura di John Ghost (che pure non è che mi convinca granché), la natura di sequel o altro d'imputabile al "nuovo corso"...
+Ma se non lo ha fatto non credo sia per via della figura di John Ghost (che pure non è che mi convinca granché), la sua natura di sequel o altro d'imputabile al "nuovo corso"...
 
-Penso che, all'origine, sia "colpa" di Sclavi.
+Penso che, all'origine, la "colpa" sia di Sclavi.
 
 Della famosa fine di Dylan Dog (121), ovvero la celeberrima gita in galeone ottocentesca di Xabaras, Morgana ed il piccolo Dylan.
 
-Ecco: Forse quello fu lo Sclavi che mi piacque meno di sempre, e inevitabilmente ad ogni albo celebrativo che prosegue quel filone finisco per ritrovarmi estraneo, indifferente e lontano.
+Ecco: 
+
+Forse quello fu lo Sclavi che mi piacque meno di sempre, e inevitabilmente ad ogni albo celebrativo che prosegue quel filone finisco per ritrovarmi estraneo, indifferente e lontano.
 
 Sensazioni opposte a storie come Golconda, Memorie dall'Invisibile, Storia di Nessuno, Il Lungo Addio ma anche piccole perle certamente meno blasonate (a memoria direi Il Lago nel Cielo)
 
