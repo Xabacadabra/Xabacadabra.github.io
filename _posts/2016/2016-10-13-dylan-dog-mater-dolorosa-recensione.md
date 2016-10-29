@@ -3,13 +3,13 @@ layout: article
 title: "Dylan Dog 280 - Mater Dolorosa [Recensione]"
 modified: null
 categories: [2016]
-excerpt: "Mater Dolorosa,...."
+excerpt: "30 anni e sentirseli"
 tags: 
    - recensioni
    - fumetti
 image: 
-  feature: matermorbi.jpg
-  teaser: teasermatermorbi.jpg
+  feature: mater-dolorosa.jpg
+  teaser: teaser-mater-dolorosa.jpg
   thumb: null
 published: false
 comments: true
@@ -30,34 +30,48 @@ Evitando di sconfinare in pipponi troppo personali, farò una sintesi dell'enorm
 
 ## Mater Dolorosa
 
-Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**]() ed il recente ritorno in scena di Tiziano Sclavi non ho resistito, e mi sono pappato il "sequel di compleanno" firmato da Recchioni e disegnato da Cavenago
+Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**]() ed il recente ritorno in scena di Tiziano Sclavi non ho resistito, e mi sono pappato il "sequel di compleanno" firmato sempre da **Recchioni** e disegnato da **Gigi Cavenago**.
 
 ## Disegni 
 
 Ecco, partendo proprio da qui: mamma mia come sono belli! 
 
-In tutta sincerità io in Dylan Dog sono di scuola più "sporca" e vecchiotta (Roi), ma è impossibile parlare male dello spettacolo di tratti e colori portati in scena in modo così splendido
+In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi), ma è impossibile parlare male dello spettacolo di tratti e colori portati in scena in modo così splendido...a livello visivo, parliamo senz'altro uno dei Bonelli moderni più interessanti di sempre.
 
-## Empatia
+## Questione d'Empatia
 
-Per me Recchioni è uno sceneggiatore grandioso, già l'ho scritto e lo confermo...Mater Morbi, in particolare, fu un tremendo cazzotto nello stomaco per me, ovviamente nel senso buono.
+Per me Recchioni è uno sceneggiatore grandioso, già l'ho scritto e qui lo confermo.
 
-Mater Dolorosa, onestamente, non mi ha colpito affatto.
+Mater Morbi, in particolare, fu un tremendo cazzotto nello stomaco per me: la ritengo ancora la miglior rappresentazione possibile del concetto di malattia a tinte horror.
+
+Mater Dolorosa, onestamente, invece non mi ha colpito affatto.
 
 ## Il peccato originale
 
-Ma non credo sia tanto per via della figura di John Ghost (che pure non è che mi convinca granché), il concetto di sequel o qualcosa del genere...
+Ma se non lo ha fatto non credo sia tanto per via della figura di John Ghost (che pure non è che mi convinca granché), la natura di sequel o altro d'imputabile al "nuovo corso"...
 
-Effettivamente, penso sia sempre per la famosa fine di Dylan Dog (121), ovvero la celeberrima gita in galeone ottocentesca di Xabaras, Morgana ed il piccolo Dylan.
+Penso che, all'origine, sia "colpa" di Sclavi.
 
-Ecco: Forse quello fu lo Sclavi che mi piacque meno di sempre, e inevitabilmente ad ogni albo celebrativo che prosegue quel filone mi ritrovo estraneo, indifferente e lontano.
+Della famosa fine di Dylan Dog (121), ovvero la celeberrima gita in galeone ottocentesca di Xabaras, Morgana ed il piccolo Dylan.
 
-Riflettendoci, il mio pessimo rapporto coi già citati Xabaras! e Nel nome del parte sempre da lì...con Mater Dolorosa non è assolutamente lo stesso caso, intendiamoci: è già più una storia nelle mie corde
+Ecco: Forse quello fu lo Sclavi che mi piacque meno di sempre, e inevitabilmente ad ogni albo celebrativo che prosegue quel filone finisco per ritrovarmi estraneo, indifferente e lontano.
+
+Sensazioni opposte a storie come Golconda, Memorie dall'Invisibile, Storia di Nessuno, Il Lungo Addio ma anche piccole perle certamente meno blasonate (a memoria direi Il Lago nel Cielo)
+
+Riflettendoci, il mio pessimo rapporto coi già citati Xabaras! e Nel nome del padre parte sempre da lì, da quel galeone e da quella "macrostoria" mitologica di cui avrei sempre fatto volentieri a meno.
+
+In realtà, a differenza di 200 e 201 se non altro Mater Dolorosa conta una narrazione nelle mie corde che non genera quel vago senso di fastidio di cui scrivevo sopra.
+
+Più che altro, m'ha lasciato indifferente.
 
 ## Verdetto
 
 Una bella storia scritta bene e disegnata meglio, che a me però non piace proprio. 
 
-Ne dispiace, se è per questo...sta lì, la guardo, la leggo e la rileggo ma niente.
+Ne mi dispiace, se è per questo: sta lì, la guardo, la leggo e la rileggo ma niente.
 
-Tipo 
+Come detto, non ho molti paroloni da spendere, "recensione" qui lo dovete sempre tarare a livello blog e il mio è un po' un discorso intimista, da fidanzato un po' annoiato da un appuntamento bello per tutti tranne che per lui.
+
+Altri che, giustamente, questa teoria l'hanno amata o l'ameranno. 
+
+In calce, concludo che Mater Morbi preferisco ritrovarla nel suo omonimo debutto (non mi facesse troppa paura per rileggerlo)
