@@ -3,7 +3,7 @@ layout: article
 title: "Dylan Dog 361 - Mater Dolorosa [Recensione]"
 modified: null
 categories: [2016]
-excerpt: "30 anni e sentirseli"
+excerpt: "Trent'anni e sentirseli"
 tags: 
    - recensioni
    - fumetti
@@ -11,7 +11,7 @@ image:
   feature: mater-dolorosa.jpg
   teaser: teaser-mater-dolorosa.jpg
   thumb: null
-published: false
+published: true
 comments: true
 ---
 Causa tempo, soldi (sopratutto soldi) voglia ed "ispirazione" è parecchio che non mi vado a leggere, e conseguentemente recensire, qualche albo di Dylan Dog.
