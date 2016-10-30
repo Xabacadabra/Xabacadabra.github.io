@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Naruto è finito. NARUTO È UNA CAGATA PAZZESCA
-modified: null
+modified: 2016-10-30
 categories: [2014]
 excerpt: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta..."
 tags: 
@@ -15,7 +15,6 @@ published: true
 ads: true
 comments: true
 ---
-
 
 Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta, il discorso complessivo sul mio allontanamento dai manga cosa recente.
 
@@ -33,12 +32,11 @@ Impazza la narutomania. Naruto s'impone come LO shonen, il Dragon Ball del suo t
 
 ## Round 2
 
-Ci si riprova. È uscito lo Shippuden, amiche carine fanno cosplay dei personaggi del manga, mezza rete ne parla. Io sono stato nippomane prima ancora d'imparare a camminare (è vero, video di me bebè che guarda Lupin lo testimoniano). Ci sarà un motivo se piace così tanto, mi dico. Non posso essere prevenuto. Devo toccare con mano se voglio toccare con mano anche le amiche carine. Ci devo sguazzare, in sta merda....  
-
+Ci si riprova. È uscito lo Shippuden, amiche carine fanno cosplay dei personaggi del manga, mezza rete ne parla. Io sono stato nippomane prima ancora d'imparare a camminare (è vero, video di me bebè che guarda Lupin lo testimoniano). Ci sarà un motivo se piace così tanto, mi dico. Non posso essere prevenuto. Devo toccare con mano se voglio toccare con mano anche le amiche carine. Ci devo sguazzare, in sta merda...
 
 ## Round 3
 
-L'accettazione. Naruto inizia a piacermi. No, cioè, piacermi forse è un po' un parolone...anche se è vero, pochi cazzi, pochi hipsterismi: Itachi, Jiraya, Orochimaru, l'Akatsuki e SOPRATUTTO il team di Shikamaru e tutta la faccenda di Asuma m'appassionano, mi fanno divertire, mi piace. Cazzo, Naruto mi piace. Creo il topic su Cetramod. Entro gratis all'Italia in Miniatura dicendo che stò cosplayando Kishimoto (vili truffe moderne, lo so) Che mi succede?  
+L'accettazione. Naruto inizia a piacermi. No, cioè, piacermi forse è un po' un parolone...anche se è vero, pochi cazzi, pochi hipsterismi: Itachi, Jiraya, Orochimaru, l'Akatsuki e SOPRATUTTO il team di Shikamaru e tutta la faccenda di Asuma m'appassionano, mi fanno divertire, mi piace. Cazzo, Naruto mi piace. Creo il topic su Cetramod. Entro gratis all'Italia in Miniatura dicendo che stò cosplayando Kishimoto (vili truffe moderne, lo so) Che mi succede?
 
 ## Round 4
 
