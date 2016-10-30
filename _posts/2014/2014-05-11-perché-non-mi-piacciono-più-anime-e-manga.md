@@ -20,7 +20,7 @@ Da un po' di anni a questa parte io e gli anime-manga ci siamo persi per strada.
 
 **Quelli nuovi** eh, intendiamoci.
 
-Fanno eccezione giusto **Psycho Pass** e qualche altro caso mooolto sporadico, come il mio saltuario capitoletto del caro ****One Piece (che vabbè, è classe '97), **Full Metal Alchemist** o **Last Exile**
+Fanno eccezione giusto **Psycho Pass** e qualche altro caso mooolto sporadico, come il mio saltuario capitoletto del caro **One Piece** (che vabbè, è classe '97), **Full Metal Alchemist** o **Last Exile**
 
 Il resto che mi ha preso è al 90% roba uscita prima del 2002
 
