@@ -24,7 +24,7 @@ Perciò, evitando di sconfinare in pipponi troppo personali, farò una sintesi d
 
 ## Premessa (se volete saltatela)
 
-- Ho letto qualche albo dell'era Recchioni, alcuni mi sono piaciuti molto, altri non particolarmente, ma nel complesso ho sempre pensato che Sclavi abbia scelto un ottima guida;
+- Ho letto qualche albo dell'era Recchioni, alcuni mi sono piaciuti molto, altri non particolarmente, ma nel complesso ho sempre pensato che Sclavi abbia scelto un'ottima guida;
 
 - Non mi sono filato di striscio i discorsi celebrativi sul **trentennale di Dylan Dog**, un po' perché ricordo ancora troppo bene i due albi del ventennale (241 e 242 restano in assoluto i due albi di DyD che più detesto, un giorno magari ne parliamo), un po' perché sono cose che fanno sentire vecchi e si portano dietro un circo mediatico che per carità, ci sta tutto, ma a me mette parecchio a disagio;
 
@@ -50,7 +50,7 @@ Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo q
 
 Ecco, partendo proprio da qui: mamma mia come sono belli! 
 
-In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi, Stano, Dall’Agnol), ma è impossibile parlare male dello spettacolo di tratti e colori portato in scena in modo così splendido di Cavenago, di recente promosso pure a copertinista ufficiale della serie.
+In tutta sincerità io in Dylan Dog sono di scuola più "volutamente sporca" e vecchiotta (Roi, Stano, Dall’Agnol), ma è impossibile parlare male dello spettacolo di tratti e colori portato in scena in modo così splendido da Cavenago, di recente promosso pure a copertinista ufficiale della serie.
 
 A livello visivo, parliamo senz'altro **uno dei Bonelli moderni più interessanti di sempre**, e Gigi per me secondo solo a Massimo Carnevale in questa categoria (ma se la gioca tantissimo, specifichiamolo).
 
@@ -74,7 +74,7 @@ Ecco:
 
 **Quello fu lo Sclavi che mi piacque meno di sempre**, e inevitabilmente ad ogni albo celebrativo che prosegue quel filone finisco per sentirmi un estraneo, indifferente e lontano da quel Dylan che di solito è n'amico molto stretto.
 
-Sensazioni opposte a quelle di_Golconda!_, _Memorie dall'Invisibile_, _Storia di Nessuno_ o _Il Lungo Addio_, ma anche a quelle di piccole perle certamente meno blasonate (a memoria ora mi viene a mente il 151 _Il Lago nel Cielo_)
+Sensazioni opposte a quelle di _Golconda!_, _Memorie dall'Invisibile_, _Storia di Nessuno_ o _Il Lungo Addio_, ma anche a quelle di piccole perle certamente meno blasonate (a memoria ora mi viene a mente il 151 _Il Lago nel Cielo_)
 
 Riflettendoci, il mio pessimo rapporto coi già citati _Xabaras!_ e _In nome del padre_ deriva sempre da lì, da quel galeone e **da quella "macrostoria" mitologica di cui avrei sempre fatto volentieri a meno.**
 
