@@ -3,7 +3,7 @@ layout: article
 title: "Tuomas Holopainen - The Life and Times of Scrooge [Mini-Recensione]"
 modified:
 categories: [2014]
-excerpt: "E mo cosa ?! Ci dicono Ian Gillan e soci, anticipando la lecita domanda di mezzo mondo alla notizia di un nuovo album dei Deep Purple..."
+excerpt: "Tuomas Holopainen è noto principalmente per essere un figo pazzesco (in ogni senso della parola, stando al gentil sesso), il tastierista / leader/ compositore/ anima / corepulsante dei Nightwish..."
 tags: [musica, recensioni]
 comments: true
 image: 
