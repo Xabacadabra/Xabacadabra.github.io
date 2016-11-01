@@ -6,7 +6,6 @@ categories: [2015]
 excerpt: "C'è del marcio in Giappolandia. Non vi è davvero altra spiegazione plausibile, mi trovo a dover riconfermare quanto già detto qualche mese fa."
 tags: 
    - animazione
-   - fumetti
 image: 
   feature: lost-canvas.jpg
   teaser: Teaser-lost-canvas.jpg
