@@ -24,7 +24,7 @@ Di solito io mi lamento di come gli animemanga recenti mi deludano.
 
 **Questo Lost Canvas**, invece, è una figata. Chi mi ha deluso è stato il suo pubblico.
 
-Per prima cosa, invito tutti ad approfittare della gentilezza di +Yamato Animation, che ha reso disponibili le due serie gratuitamente in streaming su youtube qui
+Per prima cosa, invito tutti ad approfittare della gentilezza di +Yamato Animation, che ha reso disponibili le due serie gratuitamente in streaming su youtube [qui](https://www.youtube.com/playlist?list=PL8jk9jEnr_70SxPW-IC2GFHpriCkCw0sX).
 
 ## La versione Teshirogi della prima Guerra Santa
 
