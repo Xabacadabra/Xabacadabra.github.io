@@ -26,7 +26,7 @@ Specifichiamo subito che la virata vera e propria del Dylan Dog-verse è rimanda
 ## Disegni (E Colori!)
 
 <figure>
-<img='http://2.bp.blogspot.com/-fq92GTqMeIM/VDv3SP4D4SI/AAAAAAAAKVg/rZRq3ADvKh8/s1600/spazio-profondo-il-nuovo-corso-di-dylan-dog-n-L-MAXqhY.jpeg' alt='Spazio Profondo Dylan Dog scan'>
+<img src='http://2.bp.blogspot.com/-fq92GTqMeIM/VDv3SP4D4SI/AAAAAAAAKVg/rZRq3ADvKh8/s1600/spazio-profondo-il-nuovo-corso-di-dylan-dog-n-L-MAXqhY.jpeg' alt='Spazio Profondo Dylan Dog scan'>
 </figure>
 
 **Nicola Mari** ha un tratto che mi è sempre piaciuto un sacco (ricordo ancora con sommo affetto Goliath), però forse per il colore - opera di **Lorenzo De Felici**, che fa un grandissimo lavoro - forse per l'ambientazione, questa volta non lo ho apprezzato al 100%
