@@ -46,7 +46,7 @@ Anzi, a dire la verità forse un pochino premere sull'acceleratore del cambiamen
 ## Forzature
 
 <figure>
-<img src='http://2.bp.blogspot.com/-C7LjAYDoqo4/VFcpgal-vlI/AAAAAAAAKzs/hAxPqNcKcOI/s1600/bloch.jpg' alt='Dylan Dog 338 - Mai più, ispettore Bloch Scan'>
+<img src="http://2.bp.blogspot.com/-C7LjAYDoqo4/VFcpgal-vlI/AAAAAAAAKzs/hAxPqNcKcOI/s1600/bloch.jpg" alt="Dylan Dog 338 - Mai più, ispettore Bloch Scan">
 </figure>
 
 Non ne ho trovate, e personalmente per me la notizia è questa.
