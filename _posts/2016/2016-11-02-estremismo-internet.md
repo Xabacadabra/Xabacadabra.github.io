@@ -40,7 +40,7 @@ Sto generalizzando ?
 Sono le 9:30, e ho appena dato uno sguardo ai commenti della pagina Facebook della Stampa:
 
 <figure>
-<img src='./gallery/lastampascreen.jpg' alt='la stampa facebook'>
+<img src='/gallery/lastampascreen.jpg' alt='la stampa facebook'>
 <figcaption>Sì lo so: forse non è l'esempio più indicativo per il discorso che sto facendo, ma visto che mi è appena passato sotto gli occhi...</figcaption>
 </figure> 
 
