@@ -8,8 +8,8 @@ tags:
   - cyberspazio
   - xabologia
 image: 
-  feature: blog-2016.jpg
-  teaser: teaser-blog-2016.jpg
+  feature: estremismo-internet.jpg
+  teaser: teaser-estremismo-internet.jpg
   thumb: null
 published: true
 comments: true
