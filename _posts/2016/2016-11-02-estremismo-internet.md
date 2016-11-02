@@ -3,7 +3,7 @@ layout: article
 title: "L'Estremismo di Internet"
 modified: null
 categories: [2016]
-excerpt: "Polarizzare le opinioni su due punti opposti, vivere la discussione senza mediazioni e spesso scadere nel insulto della parte avversa."
+excerpt: "Polarizzare le opinioni su due punti opposti, vivere la discussione senza mediazioni e spesso scadere nell'insulto della parte avversa."
 tags:
   - cyberspazio
   - xabologia
