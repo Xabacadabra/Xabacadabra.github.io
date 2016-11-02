@@ -12,6 +12,7 @@ image:
   teaser: teasersexycosplayer.jpg
   thumb: null
 published: true
+ads: true
 comments: true
 ---
 

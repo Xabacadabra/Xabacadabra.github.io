@@ -6,7 +6,6 @@ categories: [2016]
 excerpt: "O meglio una panoramica sui tre giochi antecedenti a Mankind Divided (che magari un giorno giocherò e recensirò, prima di morire speriamo)"
 tags: 
    - videogiochi
-   - cyberspazio
 image: 
   feature: deus-ex.jpg
   teaser: teaser-deus-ex.jpg
