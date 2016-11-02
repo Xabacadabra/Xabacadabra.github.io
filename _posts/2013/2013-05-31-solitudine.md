@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Solitudine"
-modified: null
+modified: 2016-11-02
 categories: [2013]
-excerpt: "Questi sconosciuti. (Correva l'anno 2008, se le mie idiozie erano ancora più..."
+excerpt: "Non leggete questo post. Sul serio, restate sintonizzati su Xabacadabra, ma questo lasciatelo perdere, andate a vedere le altre sue mirabolanti avventure..."
 tags:
   - xabologia
 image: 
@@ -16,9 +16,11 @@ comments: true
 
 Non leggete questo post.
 
-Sul serio, restate sintonizzati su Xabacadabra, ma questo lasciatelo perdere, andate a vedere sue le altre mirabolanti avventure
+Sul serio, restate sintonizzati su Xabacadabra, ma questo lasciatelo perdere, andate a vedere le altre sue mirabolanti avventure...
 
-Sei ancora in tempo...NO, NON FARLO!
+Sei ancora in tempo...
+
+NO, NON FARLO!
 
 ...io ti ho avvisato eh. 
 
