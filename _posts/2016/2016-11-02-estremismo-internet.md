@@ -107,7 +107,7 @@ Una litigata, detta molto banalmente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LGU8yjjJXD8" frameborder="0" allowfullscreen></iframe>
 
-Se io insulto un complottista della domenica che va in giro sostenendo che la magnitudo dei terremoti sia abbassata dal _governo ladro_, ottengo tanti **like di supporto.**
+Se io insulto un complottista della domenica che va in giro sostenendo che la magnitudo dei terremoti viene abbassata dal _governo ladro_, ottengo tanti **like di supporto.**
 
 Cioè, **l'effetto di una piccola botta di morfina virtuale.**
 
