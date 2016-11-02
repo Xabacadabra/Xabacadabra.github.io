@@ -28,9 +28,9 @@ La solitudine è qualcosa di diabolicamente suggestivo, per certi versi affine a
 
 e si, siamo appena partiti e già vi beccate sta botta di vita (!)
 
-Chi è stato solo per un certo periodo, e per _solo_ ed _un certo periodo_ intendo come **minimo qualche mese senza vedere/sentire/scriversi con altri esseri umani[^esseri umani]** , tendenzialmente sviluppa un modo di pensare molto particolare. Diverso da quello della maggior parte del resto del mondo. Anche del mondo dei diversi
+Chi è stato solo per un certo periodo, e per _solo_ ed _un certo periodo_ intendo come **minimo qualche mese senza vedere/sentire/scriversi con altri esseri umani[^umani]** , tendenzialmente sviluppa un modo di pensare molto particolare. Diverso da quello della maggior parte del resto del mondo. Anche del mondo dei diversi
 
-[^esseri umani]: all'infuori di eventuali commessi dei supermercati (che generalmente in questo stato appaiono ne più ne meno come degli automi) e al limite la telefonata a mamma per farle sapere che si, sei ancora vivo (e non ci credi manco tu)
+[^umani]: all'infuori di eventuali commessi dei supermercati (che generalmente in questo stato appaiono ne più ne meno come degli automi) e al limite la telefonata a mamma per farle sapere che si, sei ancora vivo (e non ci credi manco tu)
 
 <figure>
 <img src='http://4.bp.blogspot.com/-XMnNajTXSH0/UJs-nvMnxKI/AAAAAAAAAJg/FKPnPI-jp-s/s1600/Sato.jpg' alt='welcome to the nhk'>
