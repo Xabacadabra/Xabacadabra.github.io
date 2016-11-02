@@ -46,7 +46,7 @@ Sono le 9:30, e ho appena dato uno sguardo ai commenti della pagina Facebook del
 
 Ma lasciamo perdere argomenti "seri"...
 
-Vogliamo andare nel ludico, vogliamo parlare di videogiochi? Dì fumetti?
+Vogliamo andare nel ludico, vogliamo parlare di videogiochi? Di fumetti?
 
 ## Argomenti leggeri
 
