@@ -25,7 +25,7 @@ Chiaramente, in linea di massima **parliamo di una moda**, un impeto più o meno
 
 _Che è, vuoi far diventare anarchici militanti tutti i fan di V raccontandogli qualche manfrina ?:_
 
-No, non avrei manco troppa voglia di parlare di politica [come ho scritto](http://xabacadabra.blogspot.it/2013/11/ricorda-per-sempre-il-5-novembre.html) solo un paio di settimane fa.
+No, non avrei manco troppa voglia di parlare di politica [come ho scritto](http://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/) solo un paio di settimane fa.
 
 Se ci vedete dietro qualche ideale, prendetelo semplicemente come un fantasma che mio malgrado aleggia sempre qui attorno.
 
