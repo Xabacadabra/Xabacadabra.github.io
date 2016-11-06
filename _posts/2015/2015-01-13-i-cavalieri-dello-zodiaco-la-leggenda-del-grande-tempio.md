@@ -35,6 +35,8 @@ Diciamo giusto che, anche graficamente, come riedizione moderna preferisco mille
 
 Premesso questo, **che non è certo un tratto negativo del film ma una mera faccenda di gusto**, via con l'analisi:
 
+## Pro
+
 <figure>
 <img src='http://4.bp.blogspot.com/-qSEZBiis85o/VLVe-HPjLMI/AAAAAAAALTQ/5KEEIReCYvA/s1600/4281.jpg' alt='pro'>
 </figure>
@@ -44,10 +46,11 @@ Premesso questo, **che non è certo un tratto negativo del film ma una mera facc
 3. Se vi piace il design (io come detto non sono tra voi) **visivamente s'è fatto** un buon lavoro nella resa in CG con effetti niente male, **un'ottima resa fisica delle armature** e discreta regia complessiva.
 4. Escludendo il fattore nostalgia, e considerando il film un tentativo di rilanciare il brand per la gioventù odierna (sopratutto a livello di merchandising), **è un prodotto complessivamente ben confezionato**, e (dal poco che ho visto di quest'ultima) senz'altro tecnicamente superiore alla serie Omega
 
+## Contro
+
 <figure>
 <img src='http://2.bp.blogspot.com/-4XKRcIqHBf4/VLVfGXvVJNI/AAAAAAAALTY/QuIWJnQcFzk/s1600/4282.jpg' alt='contro'>
 </figure>
-
 
 1. **Frettolosa tempistica.** Siccome vuole ricoprire la celeberrima saga delle 12 case in un'ora e mezza, **il film finisce inevitabilmente per premere sull'acceleratore.** Il che, mi fa sorgere una domanda spontanea: **non si poteva creare un soggetto nuovo**, che coinvolgesse sempre i cavalieri d'oro, ma **nei tempi giusti per il cinema ?** Cioè hai fatto un reboot, a quel punto rebootta tutto quanto senza mezze misure
 2. **Struttura debole.** Legata alla fretta di cui sopra, è una specie di contraddizione interna del film: tema, personaggi e scopi sono del tutto chiari ai vecchi fan di serie/manga classico, ma per un pubblico nuovo (che è quello a cui il film non fa mistero di puntare) vengono introdotti in modo abbozzato ed approssimativo
