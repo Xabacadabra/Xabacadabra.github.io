@@ -3,7 +3,7 @@ layout: archive_no_sc
 title: "Progetti"
 date: 2015-12-19
 modified: 2015-12-19
-excerpt: "(work in progress)"
+excerpt: "Di tutto un po'"
 feature:
   visible: true
   headline: "Featured Articles"
