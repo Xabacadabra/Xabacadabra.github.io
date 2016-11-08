@@ -44,7 +44,7 @@ Dubito mi potrà mai succedere di nuovo.
 
 E qui serve un po' di contesto...
 
-## L'hype di Advent Childred
+## L'hype di Advent Children
 
 Dal 1997 erano passati meno di 10 anni, eppure all'epoca pareva trascorsa un'eternità.
 
