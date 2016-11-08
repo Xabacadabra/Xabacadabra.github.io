@@ -14,9 +14,10 @@ Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Inter
 ### <i class="fa fa-bookmark"></i> Affiliati
 
 <figure>
-  <a href="http://www.arcweb.it" target="blank"><img src="/images/arcweb.jpg"></figure>
+  <a href="http://www.arcweb.it" target="blank"><img src="/images/arcweb.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Arcweb</h2></a>
-  <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster del Giuggizzu e Santa Rosalia™ </p>
+  <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster del Giuggizzu e Santa Rosalia™</p>
+</figure>
 
 <figure>
   <a href="http://www.arcweb.it/cetramod/" target="blank"><img src="/images/teasercetramod.jpg">
