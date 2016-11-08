@@ -149,7 +149,7 @@ C'era qualcosa che non andava...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bp-UgLklPfA" frameborder="0" allowfullscreen></iframe>
 
-Ma questa scena, effettivamente splendida (forse l'unica che salvo ancora oggi) faceva dimenticare di tutto.
+Ma questa scena, effettivamente splendida (forse l'unica che salvo ancora oggi) ti faceva dimenticare di tutto.
 
 <figure>
 	<img src="/gallery/advent-children/bahamut.jpg" alt="Bahamut">
@@ -176,11 +176,11 @@ Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialog
 
 È allora che ti senti ingannato e tradito, rivedendolo.
 
-Quando realizzi che, in fin dei conti, **i destinatari di quell'amore avrebbero potuto essere anche solo i trailer**.
+Quando realizzi che, in fin dei conti, **i destinatari di quell'amore avrebbero potuto essere anche i soli trailer**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HuIvvl_C-yg" frameborder="0" allowfullscreen></iframe>
 
-Ma anche che con un regista diverso da **Tetsuya Nomura** ed un insostenibile passaggio di testimone in meno forse forse Advent Children avrebbe pure potuto tenere botta.
+Ma anche che, con un regista diverso da **Tetsuya Nomura** ed un insostenibile passaggio di testimone in meno, **forse forse Advent Children avrebbe pure potuto tenere botta.**
 
 <figure>
 	<img src="/gallery/advent-children/cloudtelefonocasa.jpg" alt="Cloud telefono casa">
