@@ -13,19 +13,17 @@ Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Inter
 
 ### <i class="fa fa-bookmark"></i> Affiliati
 
-<ul class="th-grid">
-<li>
-  <a href="http://www.arcweb.it" target="blank"><img src="/images/arcweb.jpg">
+<figure>
+  <a href="http://www.arcweb.it" target="blank"><img src="/images/arcweb.jpg"></figure>
   <h2 class="post-title"><i class="fa fa-circle"></i> Arcweb</h2></a>
   <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster del Giuggizzu e Santa Rosalia™ </p>
 </li>
 
-<li>
+<figure>
   <a href="http://www.arcweb.it/cetramod/" target="blank"><img src="/images/teasercetramod.jpg">
   <h2 class="post-title"><i class="fa fa-circle"></i> Cetramod</h2></a>
   <p class="post-excerpt">Il forum più bello del mondo (perché ci scriviamo solo io e quello del link di prima)</p>
-</li>
-</ul>
+</figure>
 
 Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze particolari)
 
@@ -44,6 +42,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 - [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra trae diretta ispirazione
 
 - [**The Cutting Room Floor**](https://tcrf.net/){:target="_blank"} - il regno degli smanettoni che amano hackerare e sviscerare i videogiochi, la Debug Room di tutte le Debug Room!
+
+- [**Final Fantasy VII Citadel**](http://www.ff7citadel.com/shinra_times/index.shtml/){:target="_blank"} - da anni il mio sito preferito a tema Final Fantasy VII (tolto cetramod, ma sono di parte)
 
 - [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
 
