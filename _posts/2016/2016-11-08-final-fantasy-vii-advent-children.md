@@ -32,11 +32,11 @@ Nel **2005**, mentre alcuni fortunelli poterono godere della proiezione in quel 
 	<figcaption>Buscando Locutorios en Mar del Plata. Presa da google maps perché non trovo foto decenti della zona urbana</figcaption>
 </figure>
 
-Ricordo ancora come se fosse ieri le mie spedizioni quotidiane negli Internet Point, scaricando **trailer su trailer** da siti come [_Phoenix Down_](http://www.phoenixdown.it/) per poi masterizzarmeli su dvd e rivedermeli nel mio vecchio portatile, fantasticando su quello che all'epoca risultava, per le mie disponibilità,  film introvabile.
+Ricordo ancora come se fosse ieri le mie spedizioni quotidiane negli Internet Point, scaricando **trailer su trailer** da siti come [_Phoenix Down_](http://www.phoenixdown.it/) per poi masterizzarmeli su dvd e rivedermeli nel mio vecchio portatile, fantasticando su quello che all'epoca risultava, per le mie disponibilità, un film introvabile.
 
 E onestamente, **non credo di aver mai voluto vedere un film così tanto.**
 
-Sarei stato capace di pagarlo il triplo del suo valore pure se piratato e coi sottotitoli in aramaico.
+Sarei stato capace di pagarlo il triplo del suo valore. Pure piratato e coi sottotitoli in aramaico.
 
 Dubito mi potrà mai succedere di nuovo.
 
@@ -66,7 +66,7 @@ In parte sicuramente perché io e generazioni limitrofe attraversavamo tutto que
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/foVU6R33-ek" frameborder="0" allowfullscreen></iframe>
 
-Nello specifico, **tutto il discorso che va dal debutto della prima Playstation al canto del cigno della sua erede PS2.**
+Nello specifico, **tutto il discorso che va dal debutto della prima Playstation all'ormai sempre più prossimo canto del cigno della sua erede PS2.**
 
 In mezzo ben **3 Final Fantasy, un MMORPG, un sequel maledetto ed un film orribile.**
 
@@ -80,9 +80,11 @@ Era anche un'epoca in cui **certe differenze ancora si notavano a occhio nudo**,
 	<img src="http://vignette1.wikia.nocookie.net/finalfantasy/images/0/01/Double.png/revision/latest?cb=20091116050826" alt="FFVIII">
 </figure>
 
+<figure>
 <img src="http://vignette2.wikia.nocookie.net/finalfantasy/images/0/00/Black-Waltz-2.png/revision/latest?cb=20130514025524" alt="FFIX">
 </figure>
 
+<figure>
 <img src="http://vignette1.wikia.nocookie.net/finalfantasy/images/1/1b/Auron_Victory_Pose.png/revision/latest?cb=20131228200338" alt="FFX">
 </figure>
 
@@ -92,21 +94,21 @@ Per un ragazzino, cresciuto da bimbo a braccetto con il mito di Final Fantasy VI
 
 Perché **Final Fantasy VII e colleghi, di loro, erano stati molto più di un film**: 
 
-Avevano rappresentato un'esperienza lunga settimane, mesi, forse addirittura anni considerando tutte le partite e gli esperimenti che uno ci poteva fate ( vi ricordate le leggende?)...
+Avevano rappresentato **un'esperienza lunga settimane, mesi, forse addirittura anni** considerando tutte le partite e gli esperimenti che uno ci poteva fate (vi ricordate tutte quelle leggende?)...
 
 E insomma, è un discorso che solo quegli (ex)bambini lì possono comprendere appieno, ma il quadro dovrei averlo reso, grossomodo.
 
 ## Le prime visioni 
 
-Credo che mi aiutarono muli, nel dettaglio non ho idea di come riuscii finalmente a recuperare il film...
+Credo che mi aiutarono _certi muli_, ma nel dettaglio sinceramente non ho idea di come riuscii finalmente a recuperare il film...
 
-Ricordo solo che prima lo vidi in giapponese sottotitolato in inglese, poi in giapponese sottotitolato in italiano ed in inglese sottotitolato _dal topolino che al mercato mio padre comprò._
+Ricordo solo che prima lo vidi in giapponese sottotitolato in inglese, poi in giapponese sottotitolato in italiano e quindi in inglese sottotitolato _dal topolino che al mercato mio padre comprò._
 
 Ed in principio, **io _l'amai_.**
 
 Ebbene sì.
 
-Lo amai di quell'amore scemo ed incondizionato tipico degli adolescenti, la passione senza comprendonio, l'idea stessa di quei personaggi visti con quel livello grafico, **poter anche solo sentire le loro voci...**
+Lo amai di quell'amore scemo ed incondizionato tipico degli adolescenti, la passione senza comprendonio, l'idea stessa di quei personaggi visti con un tale livello grafico, **poter anche solo sentire le loro voci...**
 
 Ed **eravamo nel futuro**, noi e loro: 
 
@@ -162,7 +164,7 @@ E il guaio è che, beh, **non lo faceva manco tanto bene.**
 
 ## L'odio 
 
-Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilation porta in scena [**allegre porcate**](lazard) che non fanno altro che sporcare la memoria di uno dei videogiochi più importanti della storia trasformandolo in una telenovela J-Pop.
+Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilation porta in scena [**allegre porcate**](http://finalfantasy.wikia.com/wiki/Lazard_Deusericus) capaci di sporcare la memoria di uno dei videogiochi più importanti della storia trasformandolo in una sorta di _telenovela J-Pop_.
 
 Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialoghi nebulosi e le spiegazioni farlocche.**
 
