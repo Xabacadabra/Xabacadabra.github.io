@@ -142,6 +142,7 @@ Poi, il fatto che tale **Denzel** avesse più spazio del gruppo originale, che *
 </figure>
 
 [reno]
+
 [^reno]: a scanso di equivoci: io Reno lo adoro eh, ma proprio quello stronzo e bastardo del gioco originale.
 
 C'era qualcosa che non andava...
