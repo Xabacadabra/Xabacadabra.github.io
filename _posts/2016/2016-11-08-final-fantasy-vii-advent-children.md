@@ -159,7 +159,7 @@ Ma questa scena, effettivamente splendida (forse l'unica che salvo ancora oggi) 
 Giocava col tuo cuore, questo Advent Children.
 
 <figure>
-	<img src="/gallery/advent-children/aerith.png" alt="Aerith">
+	<img src="/gallery/advent-children/Aerith.png" alt="Aerith">
 </figure>
 
 E il guaio è che, beh, **non lo faceva manco tanto bene.**
@@ -171,7 +171,7 @@ Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilati
 Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialoghi nebulosi e le spiegazioni farlocche.**
 
 <figure>
-	<img src="/gallery/seph.png" alt="Sephiroth">
+	<img src="/gallery/advent-children/seph.png" alt="Sephiroth">
 </figure>
 
 È allora che ti senti ingannato e tradito, rivedendolo.
@@ -183,7 +183,7 @@ Quando realizzi che, in fin dei conti, **i destinatari di quell'amore avrebbero 
 Ma anche che con un regista diverso da **Tetsuya Nomura** ed un insostenibile passaggio di testimone in meno forse forse Advent Children avrebbe pure potuto tenere botta.
 
 <figure>
-	<img src="/gallery/cloudtelefonocasa.jpg" alt="Cloud telefono casa">
+	<img src="/gallery/advent-children/cloudtelefonocasa.jpg" alt="Cloud telefono casa">
 </figure>
 
 (Forse.)
