@@ -25,7 +25,7 @@ Perché nel momento in cui scrivo il gioco **è scontato del 75% su Steam, costa
 <img src='http://2.bp.blogspot.com/-lPwoijs2A1s/T13ff9OHHAI/AAAAAAAAFAA/4qzSSXFhlg8/s1600/88733944.jpg' alt='venghino signori'>
 </figure>  
 
-Specifico che **non m'ha pagato nessuno** e manco conosco nessuno che ha contribuito a realizzarlo, quindi il mio è un moto **assolutamente spontaneo:**
+Specifico che **non m'ha pagato nessuno** e manco conosco qualcuno che abbia contribuito a realizzarlo, quindi il mio è un moto **assolutamente spontaneo:**
 
 semplicemente, _a me_ piacerebbe sapere di potermi accaparrare un bel gioco indie ad un prezzo così irrisorio.
 
