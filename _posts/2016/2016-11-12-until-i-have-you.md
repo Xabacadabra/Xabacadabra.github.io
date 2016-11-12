@@ -15,6 +15,8 @@ comments: true
 
 **non** recensione perché beh, ci ho giocato giusto per un'oretta e quindi è più una panoramica veloce veloce
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_TWJgDL5mU" frameborder="0" allowfullscreen></iframe>
+
 ## E perché non aspetti e ne fai una "vera" ?
 
 Perché nel momento in cui scrivo il gioco **è scontato del 75% su Steam, costando solo 3 € e 49 contro i soliti 19**, quindi vorrei esortarvi ad approfittarne, dura fino al **14 novembre**!
