@@ -19,7 +19,7 @@ comments: true
 
 ## E perché non aspetti e ne fai una "vera" ?
 
-Perché nel momento in cui scrivo il gioco **è scontato del 75% su Steam, costando solo 3 € e 49 contro i soliti 19**, quindi vorrei esortarvi ad approfittarne, dura fino al **14 novembre**!
+Perché nel momento in cui scrivo il gioco **è scontato del 75% su Steam, costando solo 3 € e 49 contro i soliti 13**, quindi vorrei esortarvi ad approfittarne, dura fino al **14 novembre**!
 
 <figure>
 <img src='http://2.bp.blogspot.com/-lPwoijs2A1s/T13ff9OHHAI/AAAAAAAAFAA/4qzSSXFhlg8/s1600/88733944.jpg' alt='venghino signori'>
