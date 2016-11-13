@@ -38,7 +38,7 @@ Perciò, intanto tiriamo fuori una veloce panoramica delle cose che conosco.
 
 Un'opera rivoluzionaria assolutamente stupenda, tanto elaborata e complessa quanto accessibile e fascinosa per il grande pubblico.
 
-Con lui **Masmune Shirow** è diventato di diritto uno degli. autori giapponesi più influenti di sempre in tutto il globo terracqueo.
+Con lui **Masmune Shirow** è diventato di diritto uno degli autori giapponesi più influenti di sempre in tutto il globo terracqueo.
 
 ## Il relativo film
 
@@ -108,7 +108,7 @@ Eh, Scarlettona mia bella...
 
 **La polemica sul [_whitewash_](https://it.wikipedia.org/wiki/Whitewash) in questo caso per me è completamente insensata:**
 
-**Motoko ha (più di) un corpo artificiale**, somaticamente può essere potrebbe essere pure nera (e in effetti nel manga ha un bellissimo corpo che pare mediorientale, rispetto al pallore glaciale delle opere animate).
+**Motoko ha (più di) un corpo artificiale**, somaticamente potrebbe essere pure nera (e in effetti nel manga ha un bellissimo corpo che pare mediorientale, rispetto al pallore glaciale delle opere animate).
 
 <figure>
 <img src='https://thenextissuepodcast.files.wordpress.com/2016/04/kusanagi.jpg' alt='ghost in the shell'>
@@ -117,11 +117,11 @@ Eh, Scarlettona mia bella...
 
 Poi oh: **è _evidente_ che parliamo di una delle attrici del momento**, sopratutto nel giro nerd, quindi l'aspetto commerciale ha un suo peso...
 
-Ma _questa è Hollywood, bellezza_, e francamente una volta tanto non me la sento di biasimarla per il discorso:
+Ma _questa è Hollywood, bellezza_, e francamente una volta tanto non me la sento di biasimarla:
 
-Senza una Star blasonata nel ruolo della protagonista difficilmente i produttori avrebbero investito tanto nella pellicola, ma magari l'avrebbero realizzata in modo più beceramente coatto per mero amor di _brand_.
+**Senza una Star blasonata nel ruolo della protagonista difficilmente i produttori avrebbero investito tanto nella pellicola**, ma magari l'avrebbero realizzata in modo più beceramente coatto per mero amor di _brand_.
 
-Semmai ecco...visto il lavoro che fa, **dovrebbe essere più alto e massiccio**, non solo sexy.
+Semmai ecco...visto il lavoro che fa, forse l'interprete di Motoko **dovrebbe essere più alta e massiccio**, non solo sexy.
 
 <figure>
 <img src='https://thenerdtheword.files.wordpress.com/2016/04/screen-shot-2016-04-15-at-08-17-25.png' alt='ghost in the shell'>
@@ -139,7 +139,13 @@ Il problema grosso del live action semmai è un fatto d'origine:
 
 Ecco, gli americani al massimo _son quelli di Matrix_, per carità pure bello ma tutto n'altro paio di maniche.
 
-(No, Blade Runner non tiratemelo fuori: produzione americana, certo, ma diretta da un inglese)
+(No, _Blade Runner_ non tiratemelo fuori: produzione americana, certo, ma diretta da un inglese)
+
+Poi ehi: **il cyberpunk è a tutti gli effetti Made in USA**, con William Gibson in prima linea, quindi narrativamente parlando sono certamente in linea con quello che dovrebbero portare in scena.
+
+Narrativamente.
+
+Cinematograficamente, invece, ho più di qualche dubbio.
 
 ## Il trailer
 
