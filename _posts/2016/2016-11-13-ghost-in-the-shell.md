@@ -121,7 +121,7 @@ Ma _questa è Hollywood, bellezza_, e francamente una volta tanto non me la sent
 
 **Senza una Star blasonata nel ruolo della protagonista difficilmente i produttori avrebbero investito tanto nella pellicola**, ma magari l'avrebbero realizzata in modo più beceramente coatto per mero amor di _brand_.
 
-Semmai ecco...visto il lavoro che fa, forse l'interprete di Motoko **dovrebbe essere più alta e massiccio**, non solo sexy.
+Semmai ecco...visto il lavoro che fa, forse l'interprete di Motoko **dovrebbe essere più alta e massiccia**, non solo sexy.
 
 <figure>
 <img src='https://thenerdtheword.files.wordpress.com/2016/04/screen-shot-2016-04-15-at-08-17-25.png' alt='ghost in the shell'>
