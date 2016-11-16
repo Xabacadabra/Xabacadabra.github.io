@@ -107,7 +107,7 @@ Specie se consideriamo che ora come ora parecchie celebrità farebbero a gara pu
 
 ## Gameplay
 
-Dopo tante manfrine, arriviamo paura dei punti più importanti dell'articolo.
+Dopo tante manfrine, arriviamo ora ad uno dei punti più importanti dell'articolo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQpPajduzOc" frameborder="0" allowfullscreen></iframe>
 
