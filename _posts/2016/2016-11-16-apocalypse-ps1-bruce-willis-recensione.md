@@ -179,7 +179,7 @@ quei tizi nel monitor sono proprio i **System of a Down**, solo che all'epoca to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M26N4T9gxCs" frameborder="0" allowfullscreen></iframe>
 
-Diversa storia per **Poe**, a suo modo per un breve periodo regina delle commistioni tra alternative rock anni '90' e trip hop, che qui si spinse addirittura oltre e **impersando addirittura uno dei boss** (!!) il Cavaliere della Peste.
+Diversa storia per **Poe**, a suo modo per un breve periodo regina delle commistioni tra alternative rock anni '90 e trip hop, che qui si spinse addirittura oltre **impersando uno dei boss** (!!) il Cavaliere della Peste.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZGul4kvytg" frameborder="0" allowfullscreen></iframe>
 
@@ -187,7 +187,7 @@ Diversa storia per **Poe**, a suo modo per un breve periodo regina delle commist
 
 ## Conclusioni
 
-Certamente non privo di perdonabili difetti (primo fra tutti l'ovvio invecchiamento precoce per un gioco simile) a suo modo squisitamente sguaiato e casinaro, **Apocalypse è uno di quei videogame che non si nominano mai ma di cui difficilmente qualcuno si dimentica davvero**, e scusate se è poco.
+Certamente non privo di perdonabili difetti (primo fra tutti l'ovvio invecchiamento "precoce", tipico per un gioco simile) a suo modo squisitamente sguaiato e casinaro, **Apocalypse è uno di quei videogame che non si nominano mai ma di cui difficilmente qualcuno si dimentica nmai davvero**, e scusate se è poco.
 
 Voto nostalgico:
 
