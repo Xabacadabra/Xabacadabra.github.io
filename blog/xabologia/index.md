@@ -14,7 +14,7 @@ published: true
 
 <figure>
   <a href="/blog/tag/spettacolo"><img src="/images/spettacolo.jpg">
-  <h2 class="post-title"> <h2 class="post-title"> <i class="fa fa-camera-retro"></i> SPETTACOLO</h2></a>
+  <h2 class="post-title"> <i class="fa fa-camera-retro"></i> SPETTACOLO</h2></a>
   <p class="post-excerpt">A tutto Gazebo! E magari qualcos'altro</p> 
 </figure>
 
