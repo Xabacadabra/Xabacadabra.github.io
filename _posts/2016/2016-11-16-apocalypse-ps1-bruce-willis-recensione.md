@@ -187,7 +187,7 @@ Diversa storia per **Poe**, a suo modo per un breve periodo regina delle commist
 
 ## Conclusioni
 
-Certamente non privo di perdonabili difetti (primo fra tutti l'ovvio invecchiamento "precoce", tipico per un gioco simile) a suo modo squisitamente sguaiato e casinaro, **Apocalypse è uno di quei videogame che non si nominano mai ma di cui difficilmente qualcuno si dimentica nmai davvero**, e scusate se è poco.
+Certamente non privo di perdonabili difetti (primo fra tutti l'ovvio invecchiamento "precoce", tipico per un gioco simile) a suo modo squisitamente sguaiato e casinaro, **Apocalypse è uno di quei videogame che non si nominano mai ma di cui difficilmente qualcuno si dimentica mai davvero**, e scusate se è poco.
 
 Voto nostalgico:
 
