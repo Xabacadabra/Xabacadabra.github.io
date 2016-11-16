@@ -3,7 +3,7 @@ layout: article
 title: "Apocalypse [PS1] [Recensione]"
 modified: null
 categories: [2016]
-excerpt: "C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza"
+excerpt: "C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza e la mia SPADA!"
 tags: [videogiochi, recensioni]
 image:
   feature: apocalypse.jpg
@@ -13,7 +13,7 @@ published: true
 comments: true
 ---
 
-  >  C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza
+  >  C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza e LA MIA SPADA!
 
 ...nostalgia, eh ?
 
@@ -50,15 +50,15 @@ Ma, prima di tutto questo, giunse la mistica entità suprema che avrebbe cambiat
 <figcaption>la quintessenza dell'estetica di un periodo</figcaption>
 </figure>
 
-Il monologo del Reverendo con cui ho aperto il post me lo ricordavo (quasi) tutto a memoria la bellezza di 17 anni dopo la sua uscita.
+Il monologo del Reverendo con cui ho aperto il post me lo ricordavo (quasi) tutto a memoria la bellezza di 18 anni dopo.
 
-Questo già fa capire a l'impatto che Apocalypse ebbe nei confronti di noi pischelli del 1998:
+Questo già fa capire a l'impatto che Apocalypse ebbe nei confronti di **noi che eravamo pischelli nel 1998:**
 
-Per chi era ancora fresco fresco dello svezzamento a suon di _Biker Mice da Marte, City Hunter,_ **giochi tamarri della Gig** e generici film d'azione del decennio precedente (pedissequamente trasmessi da Mediaset), Apocalypse rappresentò il proverbiale sogno divenuto realtà.
+Per chi era ancora fresco fresco dello svezzamento a suon di **_Biker Mice da Marte, City Hunter,_ giochi tamarri della Gig** e generici film d'azione del decennio precedente (pedissequamente trasmessi da Mediaset), ****Apocalypse rappresentò il proverbiale sogno divenuto realtà.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/exiRDojQ18w" frameborder="0" allowfullscreen></iframe>
 
-Qualcosa tipo lo _Svisceratore IV_ per Bart.
+Sì, direi proprio qualcosa tipo lo _Svisceratore IV_ per Bart.
 
 ## Chi era Bruce Willis nel 1998
 
@@ -68,7 +68,7 @@ Qualcosa tipo lo _Svisceratore IV_ per Bart.
 
 Attenzione che questa è nostalgia che fa male:
 
-**Vent'anni fa Bruce Willis non era un tizio pelato in smoking in giro per l'Italia alla ricerca del Wi-Fi.**
+**Vent'anni fa Bruce Willis non era un tizio pelato in smoking che gira per l'Italia alla ricerca del Wi-Fi.**
 
 Vent'anni fa Bruce Willis era QUESTO:
 
@@ -81,9 +81,9 @@ Vent'anni fa Bruce Willis era QUESTO:
 > Just another American who saw too many movies as a child? Another orphan of a bankrupt culture who thinks he's John Wayne? Rambo? Marshal Dillon?
 
 <figure>
-<img src='http://pad.mymovies.it/filmclub/2003/01/011/locandina.jpg' alt='l'esercito delle 12 scimmie'>
+<img src='http://pad.mymovies.it/filmclub/2003/01/011/locandina.jpg' alt='esercito delle 12 scimmie'>
 <figcaption>
-A proposito di Willis: ricordatevi che prima o poi dovrò scrivere dell' Esercito delle 12 scimmie, uno dei miei film preferiti.
+A proposito di Willis: ricordatevi che prima o poi dovrò scrivere de L' Esercito delle 12 scimmie, uno dei miei film preferiti.
 </figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Nota all'italiana: un ottimo **Mario Cordova** prestò la voce a Willis nella no
 
 ## Roba da Nerd
 
-Come forse saprete, originariamente **Trey Kincaide** (il personaggio di Willis) **avrebbe dovuto svolgere un ruolo da comprimario**, ma fu ben presto promosso a quello di protagonista.
+Come forse saprete, originariamente **Trey Kincaid** (il personaggio di Willis) **avrebbe dovuto svolgere un ruolo da comprimario**, ma fu ben presto promosso a quello di protagonista.
 
 Questo principalmente per una scelta logistica:
 
@@ -103,7 +103,7 @@ In pratica, dopo che Bruce li aveva bellamente pisciati, gli sviluppatori doveva
 
 Stesse logiche, ma altri tempi, decisamente:
 
-Specie se consideriamo che ora come ora parecchie celebrità farebbero a gara per apparire nel _Call of Duty_ di turno.
+Specie se consideriamo che ora come ora parecchie celebrità farebbero a gara pur d'apparire nel _Call of Duty_ di turno.
 
 ## Gameplay
 
@@ -111,13 +111,13 @@ Dopo tante manfrine, arriviamo paura dei punti più importanti dell'articolo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQpPajduzOc" frameborder="0" allowfullscreen></iframe>
 
-Apocalypse è basicamente **un frenetico sparatutto in terza persona condito da diverse sequenze platform**, spesso complicate da **una telecamera non sempre allo stato dell'arte** e un 3D che comunque stava ancora muovendo i suoi primi più seri passi.
+Apocalypse è basicamente **un frenetico sparatutto in terza persona condito da una diversificata moltitudine di sequenze platform**, spesso complicate da **una telecamera non sempre allo stato dell'arte** e un 3D che comunque stava ancora muovendo i suoi primi più seri passi.
 
 Nel compelsso? **Dannatamente divertente, appagante e spesso pure parecchio difficile.**
 
 A coronare il discorso, ovviamente, **i classici boss di fine livello**...e visto che parliamo dei **Cavalieri dell'Apocalisse** direi che quel classici in questo caso ci sta tutto:
 
-Le boss fight (comprendenti anche i vari mid-boss della situazione) erano molto interessanti e ben congegnate, e come tutto il resto del gioco **figlie di un ottimo level design complessivo.**
+Le boss fight erano interessanti, impegnative e ben congegnate: come tutto il resto del gioco **figlie di un ottimo level design complessivo.**
 
 ## Ambientazione
 
@@ -125,13 +125,13 @@ Le boss fight (comprendenti anche i vari mid-boss della situazione) erano molto 
 <img src='http://www.mobygames.com/images/shots/l/489065-apocalypse-playstation-screenshot-loading-screens-have-bible.jpg' alt='apocalypse ps1 gioco'>
 </figure>
 
-Tralasciando il gioco giocato e l'imperiosa figura di Willis, un merito non da poco (per chi scrive probabilmente il migliore) erano i colori, lo stile e la scelte estetiche caratterizzanti il relativo teatro delle peripezie di Kincaide.
+Tralasciando il gioco giocato e l'imperiosa figura di Willis, un merito non da poco (per chi scrive probabilmente il migliore) erano i colori, lo stile e la scelte estetiche caratterizzanti il teatro che faceva da sfondo delle peripezie di Kincaid.
 
 <figure>
 <img src='http://www.mobygames.com/images/shots/l/489056-apocalypse-playstation-screenshot-intro-the-reverend-creates.jpg' alt='apocalypse ps1 gioco'>
 </figure>
 
-**Sulla carta nulla di particolarmente originale eh**, eppure un minimo forse un po' sì:
+**Sulla carta nulla di particolarmente originale eh**, eppure un minimo forse sì:
 
 **un futuro post-apocalittico, religione e scienza che si mischiano, armi ed esplosioni, decadenza e musica rock depressamente incazzata.**
 
@@ -139,11 +139,13 @@ Per certi versi, **'sto gioco sintetizzava metà degli anni '90.**
 
 <figure>
 <img src='https://s-media-cache-ak0.pinimg.com/originals/c4/92/1f/c4921f48cec8b0b26b4d9a9dd046bb03.jpg' alt='end-of-days'>
-<figcaption>Se pure Schwarzenegger (!) un anno dopo se ne uscì con un film come questo, capite da voi quanto Apocalypse fosse perfettamente in linea con la pop culture dell'epoca</figcaption></figure>
+<figcaption>E se pure Schwarzenegger (!) un anno dopo se ne uscì con un film come questo, capite da voi quanto Apocalypse fosse perfettamente in linea con la pop culture dell'epoca</figcaption></figure>
 
-Con un Bruce Willis fresco fresco da _Il quinto elemento_, pronto ad esasperare simili futuri fantascientifici con mistica crudezza tamarra ai limiti del horror-movie.
+Il tutto pur sempre inquadrato sulla sopracitata figura di Bruce Willis, tra l'altro fresco fresco da _Il quinto elemento_: 
 
-Meraviglioso.
+Apocalypse era pronto ad esasperare simili futuri fantascientifici con mistica crudezza tamarra ai limiti del horror-movie.
+
+E in questo fu semplicemente meraviglioso.
 
 ## SPOILER
 
@@ -156,7 +158,7 @@ Il boss finale, **la Bestia, l'anticristo, è il Presidente degli Stati Uniti**.
 ## Grafica
 
 <figure>
-<img src='http://www.mobygames.com/images/shots/l/489056-apocalypse-playstation-screenshot-intro-the-reverend-creates.jpg' alt='apocalypse ps1 gioco'>
+<img src='http://www.mobygames.com/images/shots/l/395423-apocalypse-playstation-screenshot-city-level.png' alt='apocalypse ps1 gioco'>
 </figure>
 
 Paragrafo che ai fanatici del 4K farà ridere, ma che risultò molto importante per il successo di Apocalypse e della stessa Neversoft, che **impiegò lo stesso engine** per il debutto del sopracitato Tony Hawk e il gioco di Spiderman del 2000.
@@ -169,11 +171,15 @@ Graficamente **Apocalypse fu grandioso:** l'acerbo 3D impiegato con mestiere e p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BIWUd7SBQGk" frameborder="0" allowfullscreen></iframe>
 
-Eh già! Non vi state sbagliando, sono proprio quei tizi nel monitor sono proprio i **System of a Down**, solo che all'epoca tolta la solita nicchia li conoscevano in quattro (compresi quelli di Neversoft).
+Eh già! 
+
+No, non vi state sbagliando: 
+
+quei tizi nel monitor sono proprio i **System of a Down**, solo che all'epoca tolta la solita nicchia li conoscevano in quattro (compresi quelli di Neversoft, evidenntemente).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M26N4T9gxCs" frameborder="0" allowfullscreen></iframe>
 
-**Poe**, regina delle commistioni tra alternative rock anni '90' e trip hop si spinse addirittura oltre e **impersonò uno dei boss** (!!) il Cavaliere dell'Apocalisse della Peste.
+Diversa storia per **Poe**, a suo modo per un breve periodo regina delle commistioni tra alternative rock anni '90' e trip hop, che qui si spinse addirittura oltre e **impersando addirittura uno dei boss** (!!) il Cavaliere della Peste.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZGul4kvytg" frameborder="0" allowfullscreen></iframe>
 
@@ -181,7 +187,7 @@ Eh già! Non vi state sbagliando, sono proprio quei tizi nel monitor sono propri
 
 ## Conclusioni
 
-Certamente non privo di perdonabili difetti, a suo modo squisitamente sguaiato e casinaro, **Apocalypse è uno di quei giochi che non si nominano mai ma di cui difficilmente qualcuno si dimentica davvero**, e scusate da poco.
+Certamente non privo di perdonabili difetti (primo fra tutti l'ovvio invecchiamento precoce per un gioco simile) a suo modo squisitamente sguaiato e casinaro, **Apocalypse è uno di quei videogame che non si nominano mai ma di cui difficilmente qualcuno si dimentica davvero**, e scusate se è poco.
 
 Voto nostalgico:
 
