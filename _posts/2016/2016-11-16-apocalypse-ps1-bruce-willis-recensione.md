@@ -9,8 +9,8 @@ image:
   feature: apocalypse.jpg
   teaser:  teaser-apocalypse.jpg
   thumb:
-published: false
-comments: false
+published: true
+comments: true
 ---
 
   >  C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza
