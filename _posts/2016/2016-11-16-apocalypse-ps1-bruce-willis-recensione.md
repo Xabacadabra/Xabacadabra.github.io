@@ -52,7 +52,7 @@ Ma, prima di tutto questo, giunse la mistica entità suprema che avrebbe cambiat
 
 Il monologo del Reverendo con cui ho aperto il post me lo ricordavo (quasi) tutto a memoria la bellezza di 18 anni dopo.
 
-Questo già fa capire a l'impatto che Apocalypse ebbe nei confronti di **noi che eravamo pischelli nel 1998:**
+Questo già fa capire l'impatto che Apocalypse ebbe nei confronti di **noi che eravamo pischelli nel 1998:**
 
 Per chi era ancora fresco fresco dello svezzamento a suon di **_Biker Mice da Marte, City Hunter,_ giochi tamarri della Gig** e generici film d'azione del decennio precedente (pedissequamente trasmessi da Mediaset), ****Apocalypse rappresentò il proverbiale sogno divenuto realtà.**
 
