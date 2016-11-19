@@ -6,7 +6,6 @@ categories: [2016]
 excerpt: "Ha ancora un senso? La risposta è la solita: dipende..."
 tags:
   - cyberspazio
-  - xabologia
 image: 
   feature: blog-2016.jpg
   teaser: teaser-blog-2016.jpg

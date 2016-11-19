@@ -7,7 +7,6 @@ excerpt: "Ma voi non mi credete, e pensate solo alle zinne. Lo so.
 Vediamo se riesco a farvi cambiare idea: pronti ?..."
 tags:
   - cyberspazio
-  - xabologia
   - spettacolo
 image: 
   feature: jessicanigri.jpg
