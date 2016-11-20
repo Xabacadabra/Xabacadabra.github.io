@@ -26,7 +26,13 @@ Non cerca facili ammiccamenti [come qualcuno...](star wars 7) e non rimanda di c
 
 [Ww2]: Personalmente ho sempre desiderato vedere come si è comportato il Mondo Magico in quel particolare contesto
 
+{% include toc.html %}
+
 ## Sceneggiatura
+
+<figure>
+<img src='http://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-01108A.jpg?itok=mOq8HIRk' alt='animali fantastici e dove trovarli recensione'>
+</figure>
 
 Il fatto che qui ci troviamo di fronte a **una Rowling sceneggiatrice, prima ancora che scrittrice**, si percepisce più non posso ed è forse il segreto della bellezza del film: 
 
@@ -34,11 +40,29 @@ Tolto forse l'impatto iniziale della Pietra Filosofale, **personalmente non ho m
 
 Essendo lo scritto di Animali Fantastici direttamente concepito per il grande schermo il problema ovviamente non s'è manco posto.
 
-## Regia 
+## Regia
+
+<figure>
+<img src='http://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-EW-2.jpg?itok=YmrE9Lak' alt='animali fantastici e dove trovarli recensione'>
+</figure> 
 
 **I ritmi di questo film sono come i suoi animali: fantastici**, freschi e simpatici, conditi da abbondante humori deliziosamente british.
 
 Davvero portentoso, e lo scrive uno che partiva con aspettative piuttosto basse!
+
+## Cast
+
+<figure>
+<img src='http://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-JB-01830.jpg?itok=bWITIJt3' alt='animali fantastici e dove trovarli recensione'>
+</figure> 
+
+**Eddie Redmayne** è un grandissimo attore, ma nel complesso il cast si è comportato benissimo ad ogni livello...
+
+<figure>
+<img src='https://66.media.tumblr.com/87ce6d8473d18bb7df2ac3fae773ada8/tumblr_o5ghsy8ZAC1t3tn4mo1_500.gif' alt='animali fantastici e dove trovarli recensione'>
+</figure> 
+
+Ma per me **Dan Fogler** (Jacob Kowalski) in particolare è qualcosa di meraviglioso. 
 
 ## SPOILER
 
@@ -51,6 +75,8 @@ E
 Detto ciò: **per età e tratti somatici non ce lo vedo affatto come giovane Grindewald**, ma parliamo pur sempre di un grandissimo attore ( quando non è morso dal morbo del Jack Sparrow perenne almeno) quindi non mi fascerei ancora la testa.
 
 ## Conclusione
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QIc0VTkMtI8" frameborder="0" allowfullscreen></iframe>
 
 Era da un sacco che non andavo al cinema tornando a casa con l'immediata voglia di rivedermi il film, e questa è la cosa più importante.
 
