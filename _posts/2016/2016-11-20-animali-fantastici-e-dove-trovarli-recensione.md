@@ -7,10 +7,10 @@ excerpt: "Partiamo subito con le cose importanti. Senza girarci troppo attorno, 
 tags: 
   - cinema
 image: 
-  feature: capitan-harlock-3d.jpg
-  teaser: teaser-capitan-harlock-3d.jpg
+  feature: animali-fantastici.jpg
+  teaser: teaser-animali-fantastici.jpg
   thumb: null
-published: false
+published: true
 comments: true
 ---
 
