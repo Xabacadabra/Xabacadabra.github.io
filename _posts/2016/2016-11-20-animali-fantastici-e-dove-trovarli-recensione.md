@@ -78,7 +78,7 @@ E
 <img src='http://quotidianomolise.com/wp-content/uploads/2016/07/paolo-belli-concerto-edison.jpg' alt='animali fantastici e dove trovarli recensione johnny depp'>
 </figure> 
 
-Detto ciò: **per età e tratti somatici non ce lo vedo affatto come giovane Grindewald**, ma parliamo pur sempre di un grandissimo attore ( quando non è morso dal morbo del Jack Sparrow perenne almeno) quindi non mi fascerei ancora la testa.
+Detto ciò: **per età e tratti somatici non ce lo vedo affatto come giovane Grindelwald**, ma parliamo pur sempre di un grandissimo attore ( quando non è morso dal morbo del Jack Sparrow perenne almeno) quindi non mi fascerei ancora la testa.
 
 ## Conclusione
 
