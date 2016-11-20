@@ -22,9 +22,9 @@ Per come è stato scritto, diretto, girato ed interpretato...ma soprattutto **è
 
 Non cerca facili ammiccamenti [come qualcuno...](star wars 7) e non rimanda di continuo ai personaggi o eventi collegati alla saga di Harry Potter: 
 
-**Il film è un pezzo di quello stesso universo che vive di vita propria**, e lo fa avendo come palcoscenico **un luogo ed un periodo storico estremamente affascinanti**: l'America prossima alla Seconda Guerra mondiale [^ww2].
+**Il film è un pezzo di quello stesso universo che vive di vita propria**, e lo fa avendo come palcoscenico **un luogo ed un periodo storico estremamente affascinanti**: l'America prossima alla Seconda Guerra mondiale. [^guerra]
 
-[Ww2]: Personalmente ho sempre desiderato vedere come si è comportato il Mondo Magico in quel particolare contesto
+[guerra]: Personalmente ho sempre desiderato vedere come si è comportato il Mondo Magico in quel particolare contesto
 
 {% include toc.html %}
 
@@ -34,11 +34,11 @@ Non cerca facili ammiccamenti [come qualcuno...](star wars 7) e non rimanda di c
 <img src='http://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-01108A.jpg?itok=mOq8HIRk' alt='animali fantastici e dove trovarli recensione'>
 </figure>
 
-Il fatto che qui ci troviamo di fronte a **una Rowling sceneggiatrice, prima ancora che scrittrice**, si percepisce più non posso ed è forse il segreto della bellezza del film: 
+Il fatto che qui ci troviamo di fronte ad **una Rowling sceneggiatrice, prima ancora che scrittrice**, si percepisce a più non posso ed è forse il segreto della bellezza del film: 
 
-Tolto forse l'impatto iniziale della Pietra Filosofale, **personalmente non ho mai trovato nessun film di Harry Potter minimamente all'altezza delle relative controparti cartacee.**
+Tolto l'impatto iniziale della _Pietra Filosofale_, **personalmente non ho mai trovato nessun film di Harry Potter minimamente all'altezza delle relative controparti cartacee.**
 
-Essendo lo scritto di Animali Fantastici direttamente concepito per il grande schermo il problema ovviamente non s'è manco posto.
+Essendo invece lo scritto di Animali Fantastici direttamente concepito per il grande schermo, il problema ovviamente non s'è manco posto, e **questo fa una differenza grandissima in termini di tempi e narrazione**.
 
 ## Regia
 
@@ -46,9 +46,9 @@ Essendo lo scritto di Animali Fantastici direttamente concepito per il grande sc
 <img src='http://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-EW-2.jpg?itok=YmrE9Lak' alt='animali fantastici e dove trovarli recensione'>
 </figure> 
 
-**I ritmi di questo film sono come i suoi animali: fantastici**, freschi e simpatici, conditi da abbondante humori deliziosamente british.
+**I ritmi di questo film sono come i suoi animali: fantastici**, freschi e simpatici, conditi da abbondante humor deliziosamente _british_.
 
-Davvero portentoso, e lo scrive uno che partiva con aspettative piuttosto basse!
+Davvero portentoso, considerando che lo scrive uno che partiva con aspettative decisamente basse!
 
 ## Cast
 
@@ -62,15 +62,21 @@ Davvero portentoso, e lo scrive uno che partiva con aspettative piuttosto basse!
 <img src='https://66.media.tumblr.com/87ce6d8473d18bb7df2ac3fae773ada8/tumblr_o5ghsy8ZAC1t3tn4mo1_500.gif' alt='animali fantastici e dove trovarli recensione'>
 </figure> 
 
-Ma per me **Dan Fogler** (Jacob Kowalski) in particolare è qualcosa di meraviglioso. 
+In particolare, per me **Dan Fogler** (Jacob Kowalski) è qualcosa di meraviglioso. 
 
 ## SPOILER
 
 Johnny Depp lo hanno conciato tanto male che pareva un mix tra
 
-(Giudice)
+<figure>
+<img src='http://vignette4.wikia.nocookie.net/disneyvillains/images/b/b0/Toon_Judge_Doom.jpg/revision/latest?cb=20150608025419' alt='animali fantastici e dove trovarli recensione johnny depp'>
+</figure> 
+
 E 
-(Paolo Belli)
+
+<figure>
+<img src='http://quotidianomolise.com/wp-content/uploads/2016/07/paolo-belli-concerto-edison.jpg' alt='animali fantastici e dove trovarli recensione johnny depp'>
+</figure> 
 
 Detto ciò: **per età e tratti somatici non ce lo vedo affatto come giovane Grindewald**, ma parliamo pur sempre di un grandissimo attore ( quando non è morso dal morbo del Jack Sparrow perenne almeno) quindi non mi fascerei ancora la testa.
 
@@ -78,6 +84,6 @@ Detto ciò: **per età e tratti somatici non ce lo vedo affatto come giovane Gri
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIc0VTkMtI8" frameborder="0" allowfullscreen></iframe>
 
-Era da un sacco che non andavo al cinema tornando a casa con l'immediata voglia di rivedermi il film, e questa è la cosa più importante.
+Era da un sacco che non andavo al cinema tornando a casa con l'immediata voglia di rivedermi il film appena visto:
 
 **Animali Fantastici rappresenta un inno all'amore per tutti i fan del mondo degli snasi e delle cioccorane**, ma può tranquillamente risultare un ottimo film d'avventura pure per tutti i babbani.
