@@ -3,7 +3,7 @@ layout: article
 title: "Animali Fantastici e dove trovarli [Recensione]"
 modified:
 categories: [2016]
-excerpt: "Esiste un'ancestrale domanda che ci si pone sin dalla fine di Non è la Rai..."
+excerpt: "Partiamo subito con le cose importanti. Senza girarci troppo attorno, Animali Fantastici è un film splendido...."
 tags: 
   - cinema
 image: 

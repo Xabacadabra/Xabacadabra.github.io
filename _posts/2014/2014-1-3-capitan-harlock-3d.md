@@ -3,13 +3,13 @@ layout: article
 title: "Capitan Harlock 3d [Recensione]"
 modified: 2016-11-19
 categories: [2014]
-excerpt: "Esiste un'ancestrale domanda che ci si pone sin dalla fine di Non è la Rai..."
+excerpt: "Leggendario è uno di quei tanti aggettivi andati svalutandosi nel corso degli anni..."
 tags: 
   - animazione
   - cinema
 image: 
   feature: capitan-harlock-3d.jpg
-  teaser: teaser-capitan-harlock.jpg
+  teaser: teaser-capitan-harlock-3d.jpg
   thumb: null
 published: true
 comments: true
