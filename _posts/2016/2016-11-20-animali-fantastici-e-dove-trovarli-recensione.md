@@ -20,11 +20,11 @@ Senza girarci troppo attorno, **Animali Fantastici è un film splendido.**
 
 Per come è stato scritto, diretto, girato ed interpretato...ma soprattutto **è un prequel totalmente scollegato dalle opere che hanno definito le ossa  della sua ambientazione.**
 
-Non cerca facili ammiccamenti [come qualcuno...](star wars 7) e non rimanda di continuo ai personaggi o eventi collegati alla saga di Harry Potter: 
+Non cerca facili ammiccamenti [come qualcuno...](http://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/) e non rimanda di continuo ai personaggi o eventi collegati alla saga di Harry Potter: 
 
 **Il film è un pezzo di quello stesso universo che vive di vita propria**, e lo fa avendo come palcoscenico **un luogo ed un periodo storico estremamente affascinanti**: l'America prossima alla Seconda Guerra mondiale. [^guerra]
 
-[guerra]: Personalmente ho sempre desiderato vedere come si è comportato il Mondo Magico in quel particolare contesto
+[^guerra]: Personalmente ho sempre desiderato vedere come si è comportato il Mondo Magico in quel particolare contesto
 
 {% include toc.html %}
 
@@ -86,4 +86,6 @@ Detto ciò: **per età e tratti somatici non ce lo vedo affatto come giovane Gri
 
 Era da un sacco che non andavo al cinema tornando a casa con l'immediata voglia di rivedermi il film appena visto:
 
-**Animali Fantastici rappresenta un inno all'amore per tutti i fan del mondo degli snasi e delle cioccorane**, ma può tranquillamente risultare un ottimo film d'avventura pure per tutti i babbani.
+**Animali Fantastici rappresenta un inno all'amore per tutti i fan del mondo degli snasi e delle cioccorane**, ma può tranquillamente risultare un ottimo film d'avventura anche per tutti i babbani.
+
+Brava J. K.! 
