@@ -22,7 +22,7 @@ Per come è stato scritto, diretto, girato ed interpretato...ma soprattutto **è
 
 Non cerca facili ammiccamenti [come qualcuno...](http://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/) e non rimanda di continuo ai personaggi o eventi collegati alla saga di Harry Potter: 
 
-**Il film è un pezzo di quello stesso universo che vive di vita propria**, e lo fa avendo come palcoscenico **un luogo ed un periodo storico estremamente affascinanti**: l'America prossima alla Seconda Guerra mondiale. [^guerra]
+**Il film è un pezzo di quello stesso universo che vive di vita propria**, e lo fa avendo come palcoscenico **un luogo ed un periodo storico estremamente affascinanti**: l'America successiva alla Prima e prossima alla Seconda Guerra mondiale. [^guerra]
 
 [^guerra]: Personalmente ho sempre desiderato vedere come si è comportato il Mondo Magico durante il contesto bellico.
 
