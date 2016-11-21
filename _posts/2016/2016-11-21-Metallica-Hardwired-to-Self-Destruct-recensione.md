@@ -62,9 +62,12 @@ Sinceramente da ascoltatore è quello che mi piacerebbe leggere in una recension
 ### Hardwired
 
 **Singolo onesto**, thrash banalotto da band post 2000 a caso, ha un bel riff e per me si fa ascoltare. Come quasi tutto l'album, tuttavia, è limitato dalla produzione scialba
+
 ### Atlas, Rise!
 
-ha anche momenti interessanti, ma nel complesso che palle
+Ha anche momenti interessanti, ma nel complesso _che palle._
+
+Non ho davvero molto da dire in questo caso.
 
 ### Now That We're Dead
 
