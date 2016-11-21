@@ -1,7 +1,7 @@
 ---
 layout: default
 title: La storia di Xaba Cadabra
-date: 2015-12-20T00:00:00.000Z
+date: 2016-11-21
 excerpt: "(Che emozione, è da quando ero un giovane scavezzacollo digitale che volevo fare un articolo del genere!)"
 image: 
   feature: null
@@ -16,6 +16,8 @@ published: true
 Dunque...Xaba Cadabra nasce nel San Valentino del 2013.
 
 A San Valentino come il relativo Massacro, a testimonianza della più che precaria vita sentimentale del sottoscritto (sigh!)
+
+{% include toc.html %}
 
 ## Un blog su tutto e niente
 
@@ -83,6 +85,6 @@ Non a caso, è durata quasi per due anni esatti
 
 Minimal a suo modo, molto più magazine, con un'intestazione meno ottundente e decisamente più ottimizzata per smartphone e motori di ricerca...durata pochissimi mesi, perché il suo codice non m'entusiasmava e nel frattempo avevo iniziato a considerare una nuova possibilità...
 
-4.0 : Tears' Point 
+## 4.0 : Tears' Point 
 
 La quarta incarnazione di Xaba Cadabra è, per una somma di motivi, la più grande rivoluzione che il blog ha avuto nella sua giovane vita: l'abbandono di blogger, dei cms, dei database e il ritorno al web statico, ma più veloce e performante che mai
