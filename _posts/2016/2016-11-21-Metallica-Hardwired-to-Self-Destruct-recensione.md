@@ -125,7 +125,7 @@ Apprezzo molto il gesto, che mi pare sinceramente sentito e tutto fuorché retor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Mkq6GFLIsk" frameborder="0" allowfullscreen></iframe>
 
-la canzone, sinceramente, **non è che mi sia piaciuta molto ed è parecchio in linea coi Metallica di adesso che mi piacciono meno**, fatta eccezione di (un altro) bell'assolo.
+la canzone, sinceramente, **non è che mi abbia convinto molto ed è parecchio in linea coi Metallica di adesso che mi piacciono meno**, fatta eccezione per (un altro) bell'assolo.
 
 Ma insomma, parlando di Lemmy e di Metallica io credo che sia sempre meglio rispolverare ritmi d'altro tipo...
 
