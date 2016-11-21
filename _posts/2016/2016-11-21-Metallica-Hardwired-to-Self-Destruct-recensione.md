@@ -27,7 +27,7 @@ Veloci veloci che così ci leviamo subito il pensiero:
 
 1. **Sono uno di quei tremendi stronzoni che Ama visceralmente tutto ciò che hanno fatto i Metallica prima del _Black Album_** (compreso, anche se con qualche riserva), e prego di notare la A maiuscola;
 
-2. Col tempo ho iniziato ad odiare meno tutto il discorso sucessivo, quello che ci ha portato agli orrori di St Anger e Death Magnetic per intenderci (che per me, comunque, orrori erano ed orrori restano);
+2. Col tempo ho iniziato ad odiare meno tutto il discorso successivo, quello che ci ha portato agli orrori di St Anger e Death Magnetic per intenderci (che per me, comunque, orrori erano ed orrori restano);
 
 3. **Non ho più sopportato il modo di cantare di James da quando, in effetti, ha iniziato a voler davvero cantare** davvero smettendo di urlare come un barbaro;
 
