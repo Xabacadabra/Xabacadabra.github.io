@@ -35,7 +35,7 @@ Bene, altro da dire ? Uhm...che **per molti anni i Metallica sono stati la mia b
 
 ## Ma sei proprio lo stereotipo TRVE!
 
-Me ne rendo conto ma non lo faccio apposta, e abbiate pazienza ma non voglio farmi piacere apposta Death Magnetic solo per evitare lo stereotipo...diciamo solo che, una volta tanto, **io e la nicchia metallara più radicale e bigotta ci troviamo abbastanza d'accordo** (ed è un caso più unico che raro, lo giuro)
+Me ne rendo conto ma non lo faccio apposta, e abbiate pazienza ma non voglio farmi piacere _Death Magnetic_ solo per evitare lo stereotipo...diciamo solo che, una volta tanto, **io e la nicchia metallara più radicale e bigotta ci troviamo abbastanza d'accordo** (ed è un caso più unico che raro, lo giuro)
 
 PS: però il S&M a me tutto sommato piaceva...
 
