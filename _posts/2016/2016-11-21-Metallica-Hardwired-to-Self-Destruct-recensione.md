@@ -29,7 +29,7 @@ Veloci veloci che così ci leviamo subito il pensiero:
 
 2. Col tempo ho iniziato ad odiare meno tutto il discorso successivo, quello che ci ha portato agli orrori di St Anger e Death Magnetic per intenderci (che per me, comunque, orrori erano ed orrori restano);
 
-3. **Non ho più sopportato il modo di cantare di James da quando, in effetti, ha iniziato a voler davvero cantare** davvero smettendo di urlare come un barbaro;
+3. **Non ho più sopportato il modo di cantare di James da quando, in effetti, ha iniziato a voler cantare sul serio** smettendo così di urlare come un barbaro;
 
 Bene, altro da dire ? Uhm...che **per molti anni i Metallica sono stati la mia band preferita o giù di lì, e che comunque Master of Puppets per me è tuttora uno dei migliori (se non IL migliore) dischi della musica Metal tutta.**
 
@@ -47,7 +47,7 @@ PS: però il S&M a me tutto sommato piaceva...
 
 Discorso che è bene affrontare subito: **la produzione del disco a me non piace per niente.**
 
-Il basso è troppo sotto (che è un delitto, perché **è bene ricordare che Trujillo è un bassista stratosferico**, la batteria troppo in primo piano e c'è una certa "pulizia" che con i pezzi più thrashoni non ci sta molto (sarebbe più da disco hard rock puro, diciamo)
+Il basso è troppo sotto (che è un delitto, perché **è bene ricordare che Trujillo è un bassista stratosferico**, la batteria troppo in primo piano e c'è una certa "pulizia" che con i pezzi più thrashoni secondo me non ci sta molto (nel mio mondo sarebbe più da disco hard rock puro, diciamo)
 
 Detto questo:
 
@@ -75,7 +75,7 @@ Non ho davvero molto da dire in questo caso.
 
 ### Moth Into Flame
 
-**Traccia molto da Metallica anni '80**, tolta la voce di James. Personalmente l'ho trovato un po' anonimo, e sopratutto **tremendamente lungo**, il che però è abbastanza in linea con il "mood" dell'album (ne parliamo meglio alla fine)
+**Traccia molto da Metallica anni '80**, tolta la voce di James. Personalmente l'ho trovata un po' anonima, e sopratutto **tremendamente lunga**, il che però è abbastanza in linea con il "mood" dell'album, di cui potrebbe essere una buona sintesi.
 
 ### Dream No More
 
@@ -115,7 +115,7 @@ Boh. **Tra questa, la precedente e quella che segue non trovo parole particolari
 
 _'na volta._
 
-Poco da dire: **per me una delle canzoni più brutte del disco, forse la peggiore.**
+Poco da dire: **per me una delle canzoni più brutte dell'album, forse la peggiore.**
 
 ### Murder One
 
@@ -125,7 +125,7 @@ Apprezzo molto il gesto, che mi pare sinceramente sentito e tutto fuorché retor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Mkq6GFLIsk" frameborder="0" allowfullscreen></iframe>
 
-la canzone, sinceramente, **non è che mi abbia convinto molto ed è parecchio in linea coi Metallica di adesso che mi piacciono meno**, fatta eccezione per (un altro) bell'assolo.
+la canzone, sinceramente, **non è che mi abbia convinto molto ed è parecchio in linea coi Metallica di adesso che mi piacciono meno**, fatta eccezione per un (altro) bell'assolo.
 
 Ma insomma, parlando di Lemmy e di Metallica io credo che sia sempre meglio rispolverare ritmi d'altro tipo...
 
