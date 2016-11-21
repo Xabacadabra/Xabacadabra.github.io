@@ -47,7 +47,7 @@ PS: però il S&M a me tutto sommato piaceva...
 
 Discorso che è bene affrontare subito: **la produzione del disco a me non piace per niente.**
 
-Il basso è troppo sotto (che è un delitto, perché **è bene ricordare che Trujillo è un bassista stratosferico**, la batteria troppo in primo piano e c'è una certa "pulizia" che con i pezzi più thrashoni secondo me non ci sta molto (nel mio mondo sarebbe più da disco hard rock puro, diciamo)
+Il basso è troppo sotto (che è un delitto, perché **è bene ricordare che Trujillo è un bassista stratosferico**) la batteria troppo in primo piano e c'è una certa "pulizia" che con i pezzi più thrashoni secondo me non ci sta molto (nel mio mondo sarebbe più da disco hard rock puro, diciamo)
 
 Detto questo:
 
