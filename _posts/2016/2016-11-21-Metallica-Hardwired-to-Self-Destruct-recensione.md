@@ -102,6 +102,8 @@ Splendido intro.
 
 Poi...detto francamente dovrei riascoltarmela perché mi sono distratto tutto il tempo, ma non so se ne avrò mai voglia quindi fate conto che qui ci sia un S.V. tipo le pagelle del fantacalcio.
 
+PS: Si sente il basso!!
+
 ### Here Comes Revenge
 
 Boh. **Tra questa, la precedente e quella che segue non trovo parole particolari, salvo: anonimato, lunghezza prolissa, cantato dimenticabile e blablabla**.
@@ -131,6 +133,11 @@ Ma insomma, parlando di Lemmy e di Metallica io credo che sia sempre meglio risp
 Il disco si chiude con quello che è probabilmente **il miglior pezzo dei Metallica da più di vent'anni a questa parte**, sempre minato dai soliti discorsi su produzione/basso, ma manco così tanto...**splendido il riff portante e una volta tanto quei 7 minuti sono meritati, e James qui esprime la performance vocale più convincente del disco**
 
 ## Conclusione
+
+<figure>
+<img src='https://up-1.cdn-fullscreendirect.com/production/photos/7549/large/20161121_075004_7549_961332.jpeg' alt='metallica hardwired recensione'>
+<figcaption>"Cornuto ci sarai TE!"</figcaption>
+</figure>
 
 **Un disco da pensionati che si ritrovano al garage vedendo se hanno ancora un po' di quel pepe che li caratterizzava a vent'anni.**
 
