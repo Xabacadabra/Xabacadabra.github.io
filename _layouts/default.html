@@ -10,13 +10,6 @@
     {% endif %}
     {% include open-graph.html %}
 
-   <style type="text/css">
-    {% capture main %}
-      {% include main.scss %}
-    {% endcapture %}
-    {{ main | scssify }}
-  </style>
-
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
