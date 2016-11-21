@@ -11,7 +11,7 @@ image:
   feature: hardwired.jpg
   teaser: teaser-hardwired.jpg
   thumb: null
-published: false
+published: true
 comments: true
 ---
 
@@ -98,7 +98,9 @@ Anche qui però, assolo niente male, bravo Kirk!
 
 ### ManUNkind
 
-Detto francamente dovrei riascoltarmela perché mi sono distratto tutto il tempo, ma non so se ne avrò mai voglia quindi fate conto che qui ci sia un S.V. tipo le pagelle del fantacalcio.
+Splendido intro.
+
+Poi...detto francamente dovrei riascoltarmela perché mi sono distratto tutto il tempo, ma non so se ne avrò mai voglia quindi fate conto che qui ci sia un S.V. tipo le pagelle del fantacalcio.
 
 ### Here Comes Revenge
 
