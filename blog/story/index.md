@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: La storia di Xaba Cadabra
 date: 2015-12-20T00:00:00.000Z
 excerpt: "(Che emozione, è da quando ero un giovane scavezzacollo digitale che volevo fare un articolo del genere!)"
