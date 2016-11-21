@@ -37,7 +37,7 @@ SimpleJekyllSearch({
     {% include post-grid.html %}
   {% endfor %}
   
-  <a href="{{ site.url }}/blog/archivio/2016/" class="btn-inverse"><i class="fa fa-clock-o"></i> <h2>Post Più vecchi</h2>
+  <a href="{{ site.url }}/blog/archivio/2016/" class="btn-inverse"><i class="fa fa-clock-o"></i> Post Precedenti</a>
 </div>
 
 <div class="tiles">
