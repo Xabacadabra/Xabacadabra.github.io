@@ -135,7 +135,7 @@ Ma insomma, parlando di Lemmy e di Metallica io credo che sia sempre meglio risp
 
 Il disco si chiude con quello che è probabilmente **il miglior pezzo dei Metallica da più di vent'anni a questa parte**, sempre minato dai soliti discorsi su produzione/basso, ma manco così tanto...**splendido il riff portante e una volta tanto quei 7 minuti sono meritati, e James qui esprime la performance vocale più convincente del disco**
 
-## Conclusione
+## Vecchi
 
 <figure>
 <img src='https://up-1.cdn-fullscreendirect.com/production/photos/7549/large/20161121_075004_7549_961332.jpeg' alt='metallica hardwired recensione'>
@@ -144,10 +144,10 @@ Il disco si chiude con quello che è probabilmente **il miglior pezzo dei Metall
 
 **Un disco da pensionati che si ritrovano al garage vedendo se hanno ancora un po' di quel pepe che li caratterizzava a vent'anni.**
 
-E non è un brutto presupposto come potrebbe sembrare eh: i Sabbath e Dio qualche anno fa tirarono fuori l'ottimo _The Devil You Know_ andando più o meno su quell'andazzo (e all'anagrafe hanno qualche annetto in più).
+E non è un brutto presupposto come potrebbe sembrare eh: i Sabbath e Dio qualche anno fa tirarono fuori l'ottimo _The Devil You Know_ andando più o meno su quell'andazzo (e all'anagrafe avevano certamente qualche annetto in più).
 
-Ma qui parliamo dei Metallica, che hanno una storia discografica decisamente più controversa e travagliata....
+Ma qui parliamo dei Metallica, che hanno una storia discografica decisamente più controversa e travagliata.
 
-Il risultato ?
+## Conclusione
 
 Beh, **un album dei Metallica che si fa tranquillamente ascoltare, quindi mica cotica**  nulla di particolarmente memorbaile o che mi sarei mai andato a cercare non si stesse parlando del gruppo che ha tirato fuori alcuni dei pezzi più significativi della musica metal/rock
