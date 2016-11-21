@@ -150,4 +150,6 @@ Ma qui parliamo dei Metallica, che hanno una storia discografica decisamente pi�
 
 ## Conclusione
 
-Beh, **un album dei Metallica che si fa tranquillamente ascoltare, quindi mica cotica**  nulla di particolarmente memorbaile o che mi sarei mai andato a cercare non si stesse parlando del gruppo che ha tirato fuori alcuni dei pezzi più significativi della musica metal/rock
+Beh, **un album dei Metallica che si fa tranquillamente ascoltare, quindi mica cotica.**
+
+Ma, per contro, **nulla di particolarmente memorbaile** o che mi sarei mai andato a cercare non si stesse parlando del gruppo che ha tirato fuori alcuni dei pezzi più significativi della musica metal/rock.
