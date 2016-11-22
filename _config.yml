@@ -18,6 +18,13 @@ social:
     - "https://github.com/xabacadabra"
     - "https://plus.google.com/u/0/+AndreaXabCorinti/posts"
 
+# Compress Html
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development    
+
 # Jekyll configuration
 
 sass:
@@ -32,8 +39,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  
-# Octopress configuration
 
 # Default extensions
 post_ext: md
