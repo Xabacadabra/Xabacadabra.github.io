@@ -1,10 +1,7 @@
 # Xabacadabra.github.io
 
 to do:
-- aggiungere (se possibile) i related post
 - importare tutto l'importabile dal vecchio blog
-- sistemare SEO, meta, keywords
-- morire felici (?)
 
 già fatto:
 
@@ -20,3 +17,7 @@ già fatto:
 - effetto link sull'index di xabologia
 - aggiungere una funzione di ricerca
 - impaginazione dell'archivio
+
+## Update Novembre 2016
+
+. - aggiunti i related post e fix vari
