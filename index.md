@@ -57,7 +57,7 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-phone-square"></i> Contatti</h2>
-  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89"><b>inviarmi un tweet</b></a>. (no messaggi privati please)</p>
+  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89" rel="me"><b>inviarmi un tweet</b></a>. (no messaggi privati please)</p>
   <p class="post-excerpt">Per il resto, valgono i profili sociali qua sotto</p>
 </div><!-- /.tile -->
 
