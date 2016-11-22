@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Xaba Cadabra 4"
-modified: null
+modified: 11-22-2016
 categories: [2016]
 excerpt: "Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?"
 tags: [xabologia]
@@ -20,6 +20,8 @@ comments: true
 [^tom]: questo titoletto l'avevo abozzato prima della <a href="http://xabacadabra.com/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono...ero indeciso se modificarlo, ma alla fine ho preferito lasciarlo lì :')
 
 Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?
+
+:D
 
 Bene, spero di sì: 
 
