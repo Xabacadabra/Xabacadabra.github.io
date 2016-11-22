@@ -49,6 +49,6 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: xabacadabra
   google_analytics: UA-71672759-1
-  yandex_site_verification: 0ff21182a86ca75a
+  yandex_site_verification: "0ff21182a86ca75a"
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
