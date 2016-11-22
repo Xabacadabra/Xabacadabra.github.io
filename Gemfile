@@ -7,3 +7,4 @@ gem "jekyll-gist"
 gem "octopress', '~> 3.0"
 gem "jekyll-paginate"
 gem "octopress-paginate"
+gem 'jemoji'
