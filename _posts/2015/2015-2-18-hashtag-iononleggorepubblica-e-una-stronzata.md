@@ -9,8 +9,8 @@ image:
   feature: null
   teaser:  teaser-default.jpg
   thumb: 
-published: false
-comments: false
+published: true
+comments: true
 ---
 
 Scrivo qui per comodità, perché so già che 140 caratteri non mi bastano, però includo un po' di miei tweet sul tema:
