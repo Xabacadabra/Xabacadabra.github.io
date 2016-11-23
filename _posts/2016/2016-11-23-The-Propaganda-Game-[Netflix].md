@@ -76,7 +76,7 @@ Scrivere che un misconosciuto leader asiatico ha giustiziato il suo Secondo per 
 
 A tal proposito, possiamo sfatare definitivamente un mito:
 
-Nei primi anni '10 del secondo millennio **l'idea che il web rappresentasse l'avvento dell'utopica "Informazione Libera" convinse erroneamente più di mezzomondo** non solo il nostro Beppe Grillo).
+Nei primi anni '10 del secondo millennio **l'idea che il web rappresentasse l'avvento dell'utopica "Informazione Libera" convinse erroneamente più di mezzomondo** (non solo il nostro Beppe Grillo).
 
 Tuttavia, paroloni come **_libero da finanziamenti pubblici_ significano implicitamente anche _schiavo del mercato_**, e si vede.
 
