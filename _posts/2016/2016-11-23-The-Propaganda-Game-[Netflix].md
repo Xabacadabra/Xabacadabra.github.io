@@ -80,7 +80,7 @@ Nei primi anni '10 del secondo millennio **l'idea che il web rappresentasse l'av
 
 Tuttavia, paroloni come **_libero da finanziamenti pubblici_ significano implicitamente anche _schiavo del mercato_**, e si vede.
 
-Oggi esiste certamente più consapevolezza in merito, **il concetto di clickbait e bufala 2.0 un minimo sdoganato** e risulta (per fortuna) più difficile considerare ancora l'informazione web come qualcosa di limpida e pura...ma per uscirne del tutto la strada è ancora lunga.
+Oggi esiste certamente più consapevolezza in merito, **il concetto di clickbait e bufala 2.0 un minimo sdoganato** e risulta (per fortuna) più difficile considerare ancora l'informazione web come un qualcosa di limpido e puro...ma per uscirne del tutto la strada è ancora lunga.
 
 ## Chi verifica le fonti ?
 
@@ -108,11 +108,11 @@ Le diamo per buone perché, beh, **ci sembrano vere vista la costanza con cui ve
 
   >  Ripetete una bugia cento, mille, un milione di volte e diventerà una verità
 
-Diceva quel _simpaticone_ di Göbbels, che ahimé perà qualcosa di propaganda sapeva.
+Diceva quel _simpaticone_ di Göbbels, che ahimé però qualcosa di propaganda sapeva.
 
 Che poi, in effetti, **io il coreano manco lo capisco** e personalmente non conosco nessuno che lo sappia parlare: 
 
-Ergo, anche in questo caso **scelgo di fidarmi di un regista**, mi ***devo** fidare, faccio appello al mio istinto mescolandolo a quanto mi viene proposto dai media d'informazione.
+Ergo, anche in questo caso **scelgo di fidarmi di un regista**, mi _devo_ fidare, faccio appello al mio istinto mescolandolo a quanto mi viene proposto dai media d'informazione.
 
 ## Complotto! 
 
