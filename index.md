@@ -30,14 +30,13 @@ SimpleJekyllSearch({
 })
 </script>
 
-</div>
+<div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
 <div class="tiles">
   {% for post in site.posts limit:8 %}
     {% include post-grid.html %}
   {% endfor %}
   
-  <a href="{{ site.url }}/blog/archivio/2016/" class="btn"><h4><i class="fa fa-clock-o"></i> Tutti i post del 2016</h4></a>
 </div>
 
 <div class="tiles">
