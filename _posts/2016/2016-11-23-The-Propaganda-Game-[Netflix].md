@@ -53,7 +53,7 @@ In secondo luogo, perché **indubbiamente in Corea del Nord esiste una specie di
 <figcaption>Lei in realtà la venero pure io</figcaption>
 </figure>
 
-**Tutto vero e documentato anche da Longoria**, autentico quanto **l'arsenale nucleare** di cui il paese dispone, concreto quanto il viscerale antiamericanismo vigente nel Paese.
+**Tutto vero e documentato anche da Longoria**, autentico quanto **l'arsenale nucleare** di cui il paese dispone, concreto quanto il viscerale antiamericanismo vigente nello stesso.
 
 Ma _perché?_, dicevamo...
 
