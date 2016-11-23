@@ -29,6 +29,7 @@ SimpleJekyllSearch({
   json: '/search.json',
 })
 </script>
+</div>
 
 <div><h4 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h4></div>
 
