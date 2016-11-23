@@ -22,7 +22,7 @@ Tra _un'accozzaglia_, una _scrofa ferita_ e via degenerando, passando per Trump 
 <img src='https://lh3.googleusercontent.com/-PSkSTRpIhXA/U0jsLrMYvlI/AAAAAAAAd8o/5BZosj34Bgc/w454-h618/lang.jpg' alt='propaganda'>
 </figure>
 
-Prendendo come spunto lo splendido documentario del regista spagnolo **Alvaro Longoria** _The Propaganda Game_ (disponibile su Netflix e caldamente consigliato dal sottoscritto) ho deciso di trattare un discorso che come dicevo è parecchio attuale, ma anche molto interessante. 
+Prendendo come spunto lo splendido documentario del regista spagnolo **Alvaro Longoria** _The Propaganda Game_ (disponibile su Netflix e caldamente consigliato dal sottoscritto) ho deciso di trattare un discorso che come dicevo risulta parecchio attuale, oltre che molto interessante. 
 
 ## Credere alle Notizie
 
@@ -32,11 +32,13 @@ Prendendo come spunto lo splendido documentario del regista spagnolo **Alvaro Lo
 
 Dal documentario di Longoria, tra le altre cose, si evince che **parecchie notizie sulla Corea del Nord che ci giungono di tanto in tanto sono in realtà montate ad arte:**
 
-**Non è vero che tutti i nordcoreani sono obbligati a portare un unico taglio di capelli o a vestirsi allo stesso modo**, come non è vero che Kim Jong-Un abbia fatto giustiziare suo zio (fatto accertato) **dandolo pubblicamente in pasto ai cani** (fatto inventato):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YGir3buLI8c" frameborder="0" allowfullscreen></iframe>
+
+**Non è vero che tutti i nordcoreani sono obbligati a portare un unico taglio di capelli o a vestirsi allo stesso modo**, come non è vero che Kim Jong-Un ha fatto giustiziare suo zio (fatto accertato) **dandolo pubblicamente in pasto ai cani** (fatto inventato):
 
 **La fonte di quest'ultima parte "colorita" è  un misconosciuto blogger cinese**, ed è stata presa per buona dalle testate di tutto il mondo, indipendentemente dalla sua attendibilità. [^cinese]
 
-[^cinese]: ammetto che da "collega" al blogger cinese farei i complimenti
+[^cinese]: ammetto che da "collega" io al blogger cinese farei comunque i complimenti
 
 ## Perché ?
 
@@ -45,7 +47,7 @@ Anzitutto perché **è facile credere qualsiasi cosa di un paese di cui si sa po
 In secondo luogo, perché **indubbiamente in Corea del Nord esiste una specie di culto religioso propagandistico nei confronti della famiglia Kim.** 
 
 <figure>
-<img src='http://epicpew.com/wp-content/uploads/2016/11/e13b775289dbaafc9380605c1556dbd2.gif'alt='Signora Kim Gilmore Girls'>
+<img src='http://epicpew.com/wp-content/uploads/2016/11/e13b775289dbaafc9380605c1556dbd2.gif' alt='Signora Kim Gilmore Girls'>
 <figcaption>Lei in realtà la venero pure io</figcaption>
 </figure>
 
@@ -54,6 +56,11 @@ In secondo luogo, perché **indubbiamente in Corea del Nord esiste una specie di
 Ma _perché?_, dicevamo...
 
 ## Virale 
+
+<figure>
+<img src='http://sizlingpeople.com/wp-content/uploads/2016/05/Eva-Longoria-Hot-21.jpg' alt='Eva Longoria'>
+<figcaption>Perdonate il collegamento pecoreccio, ma ho pensato subito a lei. Magari col regista son parenti, hai visto mai...magari il buon Alvaro metta una buona parola per me</figcaption>
+</figure>
 
 Esattamente come capita in piccolo da noi con _Libero_ (giusto per citare il caso più eclatante, non certo l'unico) uno dei motivi che porta all'approccio scandalistico "gonfiato" è, molto banalmente, **l'attenzione**.
 
@@ -118,8 +125,6 @@ Ecco NO eh:
 Ho preso apposta un argomento dove schierarsi è abbastanza "facile" e decisamente lontano dalle cose italiane proprio per spiegare il mio ragionamento in termini generali.
 
 ## Credere
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YGir3buLI8c" frameborder="0" allowfullscreen></iframe>
 
 Il punto del ragionamento è che, sia come sia, anche senza strambe regie occulte a tirare le fila, **siamo una manica di creduloni.**
 
