@@ -78,7 +78,7 @@ A tal proposito, possiamo sfatare definitivamente un mito:
 
 Nei primi anni '10 del secondo millennio **l'idea che il web rappresentasse l'avvento dell'utopica "Informazione Libera" convinse erroneamente più di mezzomondo** (non solo il nostro Beppe Grillo).
 
-Tuttavia, paroloni come **_libero da finanziamenti pubblici_ significano implicitamente anche _schiavo del mercato_**, e si vede.
+Tuttavia, paroloni come **_privo di finanziamenti pubblici_ significano implicitamente anche _schiavo del mercato_**, e si vede.
 
 Oggi esiste certamente più consapevolezza in merito, **il concetto di clickbait e bufala 2.0 un minimo sdoganato** e risulta (per fortuna) più difficile considerare ancora l'informazione web come un qualcosa di limpido e puro...ma per uscirne del tutto la strada è ancora lunga.
 
