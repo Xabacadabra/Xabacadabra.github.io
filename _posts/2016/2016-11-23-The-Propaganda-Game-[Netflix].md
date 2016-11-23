@@ -51,7 +51,7 @@ In secondo luogo, perché **indubbiamente in Corea del Nord esiste una specie di
 <figcaption>Lei in realtà la venero pure io</figcaption>
 </figure>
 
-**Tutto vero e documentato anche da Longoria**, autentico quanto **l'arsenale nucleare** di cui il paese dispone, concreto quanto il suo viscerale antiamericanismo.
+**Tutto vero e documentato anche da Longoria**, autentico quanto **l'arsenale nucleare** di cui il paese dispone, concreto quanto il viscerale antiamericanismo vigente nel Paese.
 
 Ma _perché?_, dicevamo...
 
@@ -59,12 +59,12 @@ Ma _perché?_, dicevamo...
 
 <figure>
 <img src='http://sizlingpeople.com/wp-content/uploads/2016/05/Eva-Longoria-Hot-21.jpg' alt='Eva Longoria'>
-<figcaption>Perdonate il collegamento pecoreccio, ma ho pensato subito a lei. Magari col regista son parenti, hai visto mai...magari il buon Alvaro metta una buona parola per me</figcaption>
+<figcaption>Perdonate il collegamento pecoreccio, ma ho pensato subito a lei. Magari col regista son parenti, hai visto mai...metti che il buon Alvaro caccia una buona parola per me</figcaption>
 </figure>
 
 Esattamente come capita in piccolo da noi con _Libero_ (giusto per citare il caso più eclatante, non certo l'unico) uno dei motivi che porta all'approccio scandalistico "gonfiato" è, molto banalmente, **l'attenzione**.
 
-Scrivere che un misconosciuto leader asiatico ha giustiziato il suo secondo per consolidare il proprio potere è una cosa, **titolare "KIM JONG-UN DA SUO ZIO IN PASTO AI CANI"** decisamente un'altra, soprattutto nell'epoca del _clickbaiting_
+Scrivere che un misconosciuto leader asiatico ha giustiziato il suo Secondo per consolidare il proprio potere è una cosa, **titolare "KIM JONG-UN DA SUO ZIO IN PASTO AI CANI"** decisamente un'altra, soprattutto nell'epoca del [_clickbaiting._](https://it.wikipedia.org/wiki/Clickbait)
 
 ## Il Web
 
