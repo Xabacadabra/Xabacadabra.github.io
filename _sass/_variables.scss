@@ -34,7 +34,7 @@ $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $#52adc8;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
