@@ -128,9 +128,9 @@ Ho preso apposta un argomento dove schierarsi è abbastanza "facile" e decisamen
 
 Il punto del ragionamento è che, sia come sia, anche senza strambe regie occulte a tirare le fila, **siamo una manica di creduloni.**
 
-Che fa figo sentirsi furbi ed emancipati rispetto a quei sempliciotti indottrinati della Corea settentrionale. 
+Che **fa figo sentirsi furbi ed emancipati rispetto a quei sempliciotti indottrinati della Corea settentrionale**....
 
-Ma nei fatti, siamo poi così diversi da loro ?
+Ma, nei fatti, **siamo poi così diversi da loro** ?
 
 Leggere una notizia, prenderla per buona e svilupparci sopra un'opinione **la rende automaticamente vera, nostra, certa.**
 
