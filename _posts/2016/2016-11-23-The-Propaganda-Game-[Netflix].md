@@ -74,15 +74,15 @@ Scrivere che un misconosciuto leader asiatico ha giustiziato il suo Secondo per 
 
 A tal proposito, possiamo sfatare definitivamente un mito:
 
-Nei primi anni '10 del secondo millennio **l'idea che il web rappresentasse l'avvento dell'utopica "Informazione Libera" convinse più di mezzomondo**(non solo il nostro Beppe Grillo).
+Nei primi anni '10 del secondo millennio **l'idea che il web rappresentasse l'avvento dell'utopica "Informazione Libera" convinse erroneamente più di mezzomondo** non solo il nostro Beppe Grillo).
 
 Tuttavia, paroloni come **_libero da finanziamenti pubblici_ significano implicitamente anche _schiavo del mercato_**, e si vede.
 
-Oggi esiste certamente più consapevolezza in merito, **il concetto di clickbait e bufala 2.0 un minimo sdoganato** e risulta (per fortuna) più difficile considerare ancora l'informazione web come qualcosa di limpida e pura.
+Oggi esiste certamente più consapevolezza in merito, **il concetto di clickbait e bufala 2.0 un minimo sdoganato** e risulta (per fortuna) più difficile considerare ancora l'informazione web come qualcosa di limpida e pura...ma per uscirne del tutto la strada è ancora lunga.
 
 ## Chi verifica le fonti ?
 
-Andando nell'etica, **citare una fonte attendibile dovrebbe risultare** indispensabile per un articolo che colpisce con un fatto ed elenca dei dati particolari.
+Andando nell'etica, **citare una fonte attendibile dovrebbe risultare** indispensabile per un articolo che colpisce un avvenimento elencando dei dati particolari.
 
 ## Cosa rende una fonte attendibile ?
 
@@ -100,13 +100,13 @@ E se iniziate a nutrire dei dubbi già nel nostro orticello, chissà cosa potrem
 
 E infatti, torniamo da lui:
 
-Come detto, è ragionevole supporre che il leader della Corea del Nord non sia quel che si dice un leader politico illuminato, tuttavia come io e l'amigo Longoria abbiamo appena detto **molte delle storie che circolano attorno al suo nome non posseggono uno straccio di verifica attendibile.**
+Come detto, è ragionevole supporre che il leader della Corea del Nord non sia proprio quel che si dice un leader politico illuminato, tuttavia come io e _l'amigo_ Longoria abbiamo appena detto **molte delle storie che circolano attorno al suo nome non posseggono uno straccio di verifica attendibile.**
 
 Le diamo per buone perché, beh, **ci sembrano vere vista la costanza con cui vengono ribadite da tutti i nostri media.**
 
   >  Ripetete una bugia cento, mille, un milione di volte e diventerà una verità
 
-Diceva quel simpaticone di Göbbels, che ahimé qualcosa di propaganda sapeva.
+Diceva quel _simpaticone_ di Göbbels, che ahimé perà qualcosa di propaganda sapeva.
 
 Che poi, in effetti, **io il coreano manco lo capisco** e personalmente non conosco nessuno che lo sappia parlare: 
 
