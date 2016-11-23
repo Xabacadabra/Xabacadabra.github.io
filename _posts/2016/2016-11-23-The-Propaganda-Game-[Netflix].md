@@ -108,7 +108,7 @@ Le diamo per buone perché, beh, **ci sembrano vere vista la costanza con cui ve
 
   >  Ripetete una bugia cento, mille, un milione di volte e diventerà una verità
 
-Diceva quel _simpaticone_ di Göbbels, che ahimé però qualcosa di propaganda sapeva.
+Diceva quel _simpaticone_ di Goebbels, che ahimé però qualcosa di propaganda sapeva.
 
 Che poi, in effetti, **io il coreano manco lo capisco** e personalmente non conosco nessuno che lo sappia parlare: 
 
