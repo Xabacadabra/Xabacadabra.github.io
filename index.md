@@ -29,9 +29,8 @@ SimpleJekyllSearch({
   json: '/search.json',
 })
 </script>
-</div>
 
-<div><h4 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h4></div>
+<h4 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
 <div class="tiles">
   {% for post in site.posts limit:8 %}
