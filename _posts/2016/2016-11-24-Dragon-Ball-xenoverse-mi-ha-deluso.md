@@ -192,4 +192,4 @@ Per inciso: da quel che sto vedendo/leggendo, **Xenoverse 2 è fatto meglio ma c
 
 Di mio, vorrei ricordare che **di Dragon Ball esistono quintali di giochi, e trovo completamente insensato accontentarsi di così poco solo perché prima non si è mai visto di meglio.**
 
-Questo discorso lo si poteva fare (ed in effetti io l'ho fatto) con _Saint Seiya: Chapter Sanctuary_ per PS2, non certo con il brand Bandai che più titoli della discografia di Frank Zappa. 
+Questo discorso lo si poteva fare (ed in effetti io l'ho fatto) con _Saint Seiya: Chapter Sanctuary_ per PS2, non certo con il brand Bandai che conta più titoli della discografia di Frank Zappa. 
