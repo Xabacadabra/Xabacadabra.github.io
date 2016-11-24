@@ -27,8 +27,13 @@ Prima di tutto, segnalo che già tre annetti fa scrissi qualcosina su Dragon Bal
 
 {% include toc.html %}
 
-## A che cifra mi consigli di comprarlo ?
+## A che cifra diresti di comprarlo ?
+
 ### Dacci consigli per gli acquisti Xab!
+
+<figure>
+<img src='http://data.whicdn.com/images/139741678/original.gif' alt='bulma e muten'>
+</figure>
 
 **I dieci euro di cui sopra sono un prezzo onestissimo per ogni _aficionado_ della saga di Toriyama che si rispetti,** ma anche interpellando quest'ultimo acquirente devo dire che non oserei mai consigliare **una spesa superiore ai 18 euro.**
 
@@ -42,7 +47,7 @@ Manco un _Nappa_ ci cascherebbe, non scherziamo.
 
 E badate bene: **nel mio ragionamento economico tengo anche conto del fatto che Xenoverse è praticamente l'unico gioco di Dragon Ball uscito per PC** (escludendo l'emulazione, ovviamente)
 
-## Sicuramente è per l'online, vero ?
+## Sicuramente è per via dell'online, vero ?
 
 No: **non è la componente online**, so che lo state pensando...mi dicono sia brutta, ma di base non l'ho neppure provata, e del resto manco m'importava chissà quanto farlo:
 
@@ -148,11 +153,12 @@ Ma lo dicevo sopra, mi pare (non ho voglia di rileggere ora come ora):
 
 in questi anni sono stato viziato da tanti giochi, ma a pensarci bene è un discorso antico:
 
-Del resto, anche da bambino ero stato **viziato dai Final Fantasy dell'era PlayStation** (che in termini di mondo "vivo", esplorazione e scoperte sono tuttora tra i giochi più appaganti che esistano), e trovo inconcepibile che, per fare un altro esempio **nel 2000 la SEGA creava cose ambiziosamente megagalattiche come _Shenmue_ mentre nel 201X la Bandai continua a maciullare un franchise che nessuno ha mai davvero saputo sfruttare.**
+Del resto, anche da bambino ero stato **viziato dai Final Fantasy dell'era PlayStation** (che in termini di mondo "vivo", esplorazione e scoperte sono tuttora tra i giochi più appaganti che esistano), e trovo inconcepibile che, per fare un altro esempio, **nel 2000 la SEGA creava cose ambiziosamente megagalattiche come _Shenmue_ mentre nel 201X la Bandai continua a maciullare un franchise che nessuno ha mai davvero saputo sfruttare.**
 
-Dragon Ball GBA
-
-Se consideriamo i tempi e la console, mi sa che pure The Legacy of Goku aveva più SFERE di Xenoverse.
+<figure>
+<img src='https://i.ytimg.com/vi/TKx3zYbg3SI/maxresdefault.jpg' alt='legacy of goku'>
+<figcaption>Se consideriamo i tempi e la console, mi sa che pure The Legacy of Goku aveva più SFERE di Xenoverse.</figcaption>
+</figure>
 
 ## Cose tecniche
 
@@ -180,8 +186,8 @@ In parte perché **ovviamente il vascello Dragon Ball per il sottoscritto è gi�
 
 <small>(con le dovute eccezioni del caso. C16 uno di noi :punch:)</small>
 
-D'altro canto, vorrei ricordare che **di Dragon Ball esistono quintali di giochi, e trovo completamente insensato accontentarsi di così poco solo perché prima non si è mai visto di meglio.**
+Per inciso: da quel che sto vedendo/leggendo, **Xenoverse 2 è fatto meglio ma concettualmente rientra sempre nel medesimo discorso**. E c'aggia fa.
 
-Questo discorso lo si poteva fare (ed in effetti io l'ho fatto) con _Saint Seiya: Chapter Sanctuary_ per PS2, non certo con il brand Bandai a contare più titoli della discografia di Frank Zappa. 
+Di mio, vorrei ricordare che **di Dragon Ball esistono quintali di giochi, e trovo completamente insensato accontentarsi di così poco solo perché prima non si è mai visto di meglio.**
 
-PS: da quel che sto vedendo, Xenoverse 2 è fatto meglio ma concettualmente rientra sempre nello stesso discorso. C'aggia fa... 
+Questo discorso lo si poteva fare (ed in effetti io l'ho fatto) con _Saint Seiya: Chapter Sanctuary_ per PS2, non certo con il brand Bandai che più titoli della discografia di Frank Zappa. 
