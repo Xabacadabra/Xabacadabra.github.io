@@ -121,6 +121,8 @@ Che ok, _i Super Saiyan son tutti giovani e belli_ come direbbe un Guccini nippo
 
 VOGLIAMO METTERE?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Es58u7EyU20" frameborder="0" allowfullscreen></iframe>
+
 Cioè, Muten per il TERRORE di quel scimmione ha distrutto _la luna_.
 
 DISTRUGGEVA LA CAZZO DI LUNA!!!!
