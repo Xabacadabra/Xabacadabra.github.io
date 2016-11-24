@@ -182,7 +182,7 @@ Ma io no.
 
 Scusate, **ma a me non basta.**
 
-In parte perché **ovviamente il vascello Dragon Ball per il sottoscritto è già salpato da un pezzo**, e per lui non nutro lo stesso legame nostalgico che ho per altri anime dell'epoca.
+In parte perché **ovviamente il vascello Dragon Ball per il sottoscritto è già salpato da un pezzo**, e per lui forse oggigiorno non nutro lo stesso legame nostalgico che ho per altri anime-manga dell'epoca.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XebyKpo6A9s" frameborder="0" allowfullscreen></iframe>
 
