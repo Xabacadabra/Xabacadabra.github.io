@@ -39,7 +39,9 @@ Beh, **ho votato No dopo essermi letto la riforma articolo per articolo** e, par
 
 Risparmio qualsiasi parolona, e [linko direttamente questo splendido articolo di Lia de Feo](http://www.ilcircolo.net/lia/).
 
-Da bimbo coi miei sono stato a Cuba, e mio padre ricorda ancora un tassista a cui chiese, circa vent'anni fa, "Che farete quando Fidel morirà?"
+Da bimbo (circa vent'anni fa) coi miei ho visitato Cuba: mio padre ricorda ancora un tassista a cui chiese _"Che farete quando Fidel morirà?"_
+
+E quello, semplicemente, rispose così:
 
 > Fidel non può morire
 
@@ -47,7 +49,7 @@ Forse, in un certo senso, aveva ragione lui.
 
 ## Rileggendomi
 
-Dovendo lavorare a molti aspetti tecnici del blog e importare un sacco di roba negli archivi, mi sono ritrovato anche a rileggere molto spesso vecchi post [come questo](http://xabacadabra.com/2013/solitudine/), e beh...
+Dovendo lavorare a molti aspetti tecnici del blog e importare un sacco di roba negli archivi, mi sono ritrovato anche a rileggere molto spesso vecchi post [**come questo**](http://xabacadabra.com/2013/solitudine/), e beh...
 
 come dire, so che può sembrare la quintessenza dell'onanismo digitale, ma **credo che rileggersi sia una delle cose più belle per un blogger.**
 
@@ -67,9 +69,9 @@ Poi...**ho cambiato completamente la pagina dell'[About](http://xabacadabra.com/
 
 Tanto per fare un veloce riepilogo per il me stesso futuro:
 
-**Il revival di Una mamma per amica** -> che ho finito in un lampo, mi è piaciuto un sacco e mi ha fatto tremendamente incazzare per altri aspetti, specie per come finisce <small>(sì, mi piace una mamma per amica, embè?)</small>
+**Il revival di Una mamma per amica** -> che ho finito in un lampo, mi è piaciuto un sacco e mi ha fatto tremendamente incazzare per altri aspetti, specie per come finisce <small>(un giorno magari ne parliamo pure qua, anche se dovrò scendere a patti con il mio testosterone)</small>
 
-**Black Mirror** -> La serie definitiva per comprendere il domani guardando ciò che siamo oggi.
+**Black Mirror** -> La serie definitiva per comprendere il domani guardando ciò che siamo oggi. Quasi tutti gli episodi mi lasciano tremendamente traumatizzato...
 
 **South Park** -> che, in un modo o nell'altro, riesce ad essere sempre straordinariamente sul pezzo (member?)
 
@@ -79,19 +81,21 @@ Tanto per fare un veloce riepilogo per il me stesso futuro:
 
 <img src='http://www.pontofrio-imagens.com.br/html/conteudo-produto/336/2890879/imagens/jogo-dark-souls-2-x360-1.jpg' alt='Dark Souls 2'>
 
-Da queste parti non ho avuto modo/tempo/voglia di scriverlo come si deve, **ma mesi fa mi sono perdutamente innamorato di _Dark Souls_**e ora mi sto dedicando al suo primo sucessore (sì, essendo [^povero] mi compro giochi in saldo diversi anni dopo i dayone): 
+Da queste parti non ho avuto modo/tempo/voglia di scriverlo come si deve, **ma mesi fa mi sono perdutamente innamorato di _Dark Souls_** e ora mi sto dedicando al suo diretto sucessore (sì, essendo povero [^povero] mi compro giochi in saldo diversi anni dopo i _dayone_): 
 
 [^povero]: Più che altro, avendo tante cose da fare/vedere/giocare trovo insensato spendere 40 euro in più per un videogioco solo per il gusto di arrivare _prima_...cioè forse potrei pure capirlo, ma credo sia qualcosa di profondamente sbagliato. Dovrei scriverci qualcosa su questo discorso!
 
-di base **negli ultimi tempi i gioiellini From Software sono gli unici videogame che mi va davvero di giocarmi per ore ed ore come mi capitava di fare da ragazzino**, quindi oh prima o poi due parole toccherà pure scriverle...
+di base **negli ultimi tempi i gioiellini From Software sono gli unici videogame che mi va davvero di giocarmi per ore ed ore come mi capitava di fare da ragazzino**, quindi oh prima o poi due parole su di loro toccherà pure scriverle, cavolo!
 
-nel complesso, comunque, **mi duole dire che trovo _Dark Souls 2_ artisticamente parecchio più povero e anonimo del glorioso capostipite.**
+Nel complesso, comunque, **mi duole dire che trovo _Dark Souls 2_ artisticamente parecchio più povero e anonimo del glorioso capostipite della serie.**
+
+<small>Parlando di capostipiti: voglio Demon's Souls su Steam! 😠</small>
 
 ## Vampiri, Masquerade e Vecchio Mondo di Tenebra
 
 <img src='http://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg' alt='vampiri-la-masquerade'>
 
-Per un motivo e per l'altro mi sto ritrovado a spulciare di nuovo gli splendidi vecchi manuali della Whitewolf...
+Per un motivo e per l'altro mi sto ritrovado a spulciare di nuovo gli splendidi vecchi manuali della White Wolf...
 
 Oh: **le meccaniche saranno pure state quel che erano, ma che lore fantastica ragazzi** ❤ devo dire che è sempre un piacere finirci in mezzo.
 
@@ -99,7 +103,7 @@ In effetti, questa è **una di quelle faccende che da sempre mi piacerebbe appro
 
 ## Altro da dichiarare ?
 
-Troppo, ma **non abbastanza da farci un post**.
+Troppo, ma **non abbastanza da tirarci fuori un post**.
 
 Una sensazione che hai boh...quando vorresti farti una nuotata, o una corsa, ma sotto sotto senti di non avere il fiato per andare oltre quei due metri.
 
