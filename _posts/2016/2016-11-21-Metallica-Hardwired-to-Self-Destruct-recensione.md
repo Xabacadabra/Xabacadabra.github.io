@@ -13,6 +13,7 @@ image:
   thumb: null
 published: true
 comments: true
+ads: true
 ---
 
 Recensione personale, senza conservanti (ma un po' d'olio di palma) dell'ultimo disco dei Metallica
