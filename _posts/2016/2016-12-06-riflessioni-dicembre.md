@@ -29,9 +29,9 @@ Senza dilungarsi troppo: da qualche giorno avevo semplicemente voglia di scriver
 
 Varrebbe sempre un vecchio [post nauseato](http://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), ma beh, come forse si sarà notato rispetto alle origini non **scrivo praticamente più di politica italiana**, anche se continuo a seguirne le vicende in modo _vorace_ (complice la mia passione per le Maratone di Mentana).
 
-Beh, ho votato No **dopo essermi letto la riforma articolo per articolo** e, parlando di elezioni venture (chissà) ora come ora non saprei assolutamente per chi votare. 
+Beh, **ho votato No dopo essermi letto la riforma articolo per articolo** e, parlando di elezioni venture (chissà) ora come ora non saprei assolutamente per chi votare. 
 
-<small>Forse per Civati. Ma Civati a meno speranze di governare di me, temo.</small>
+<small>(Forse per Civati. Ma Civati ha meno speranze di governare di me, temo.)</small>
 
 ## Fidel Castro
 
@@ -51,7 +51,7 @@ Dovendo lavorare a molti aspetti tecnici del blog e importare un sacco di roba n
 
 come dire, so che può sembrare la quintessenza dell'onanismo digitale, ma **credo che rileggersi sia una delle cose più belle per un blogger.**
 
-Non per motivo di vanto o altro, intendiamoci, ma per rendersi conto che certi demoni bene o male li abbiamo trattati come si deve ☺ 
+Non per motivo di vanto o altro, intendiamoci, ma per rendersi conto che certi demoni bene o male li abbiamo trattati come si deve, almeno per le nostre rispettive sensibilità. 😄
 
 ## Cose Tecniche
 
@@ -67,17 +67,17 @@ Poi...**ho cambiato completamente la pagina dell'[About](http://xabacadabra.com/
 
 Tanto per fare un veloce riepilogo per il me stesso futuro:
 
-**Il revival di Una mamma per amica** -> che mi è piaciuto un sacco e mi ha fatto tremendamente incazzare per altri aspetti, specie per come finisce <small>(sì, mi piace una mamma per amica, embè?)</small>
+**Il revival di Una mamma per amica** -> che ho finito in un lampo, mi è piaciuto un sacco e mi ha fatto tremendamente incazzare per altri aspetti, specie per come finisce <small>(sì, mi piace una mamma per amica, embè?)</small>
 
-**Black Mirror** -> La serie definitiva per comprendere il domani guardando ciò che siamo oggi
+**Black Mirror** -> La serie definitiva per comprendere il domani guardando ciò che siamo oggi.
 
 **South Park** -> che, in un modo o nell'altro, riesce ad essere sempre straordinariamente sul pezzo (member?)
 
-**BoJack Horseman** -> che sinceramente a pelle pensavo mi avrebbe fatto tremendamente cagare, e invece mi sta intrigando (al momento in cui scrivo sono alla S01E08), ringrazio il buon [**Arc**](http://www.arcweb.it/) per aver insistito tanto nel farmela conoscere
+**BoJack Horseman** -> che sinceramente a pelle pensavo mi avrebbe fatto tremendamente cagare, e invece mi sta intrigando (al momento in cui scrivo sono alla S01E08), ringrazio il buon [**Arc**](http://www.arcweb.it/) per aver insistito tanto nel farmela conoscere!
 
 ## A cosa sto giocando?
 
-<img src='https://cdn2.img.sputniknews.com/images/104813/69/1048136923.jpg' alt='Fidel'>
+<img src='http://www.pontofrio-imagens.com.br/html/conteudo-produto/336/2890879/imagens/jogo-dark-souls-2-x360-1.jpg' alt='Dark Souls 2'>
 
 Da queste parti non ho avuto modo/tempo/voglia di scriverlo come si deve, **ma mesi fa mi sono perdutamente innamorato di _Dark Souls_**e ora mi sto dedicando al suo primo sucessore (sì, essendo [^povero] mi compro giochi in saldo diversi anni dopo i dayone): 
 
@@ -87,16 +87,21 @@ di base **negli ultimi tempi i gioiellini From Software sono gli unici videogame
 
 nel complesso, comunque, **mi duole dire che trovo _Dark Souls 2_ artisticamente parecchio più povero e anonimo del glorioso capostipite.**
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCrashBandicootOrigins%2Fvideos%2F1544278188934661%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-E porca eva, la Naughty Dog potrebbe essere capace di farmi fare l'insano gesto e pigliarmi la PS4....
-
-<small>e si ritorna alle member berries di south park</small>
-
 ## Vampiri, Masquerade e Vecchio Mondo di Tenebra
+
+<img src='http://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg' alt='vampiri-la-masquerade'>
 
 Per un motivo e per l'altro mi sto ritrovado a spulciare di nuovo gli splendidi vecchi manuali della Whitewolf...
 
-Oh: **le meccaniche saranno pure state quel che erano, ma che lore fantastica ragazzi** ♥ devo dire che è sempre un piacere finirci in mezzo.
+Oh: **le meccaniche saranno pure state quel che erano, ma che lore fantastica ragazzi** ❤ devo dire che è sempre un piacere finirci in mezzo.
 
 In effetti, questa è **una di quelle faccende che da sempre mi piacerebbe approfondire bene anche in senso di web design**...chi lo sa, mai dire mai.
+
+## Altro da dichiarare ?
+
+Troppo, ma **non abbastanza da farci un post**.
+
+Una sensazione che hai boh...quando vorresti farti una nuotata, o una corsa, ma sotto sotto senti di non avere il fiato per andare oltre quei due metri.
+
+E allora, per il momento, forse è il caso di aspettare un po': seguendo e sperando, come sempre, in madama ispirazione!
+
