@@ -2,7 +2,7 @@
 layout: article
 title: "[Netflix] Bojack Horseman [Recensione]"
 modified: null
-categories: [2015]
+categories: [2016]
 excerpt: "Se avete Netflix, con ogni probabilità avrete intravisto il rettangolino d'anteprima di Bojack zompare fuori qua e la.
 Almeno, a me è capitato di conoscerlo anzitutto così..."
 tags:
@@ -34,7 +34,7 @@ bene: **nulla di più errato, poiché Bojack è una delle serie più drammatiche
 <img src='http://bojackhorseman.com/art/friends/XFiles.jpg' alt='bojack horseman XFiles'>
 </figure>
 
-Fermo sulle mie convinzioni superficiali di cui sopra, alla fine ho ceduto solo perchè il nostro buon vecchio [**Arc**](http://www.arcweb.it/) di quartiere ha insistito (grazie!): ho concesso a Bojack un'opportunità.
+Fermo sulle mie convinzioni superficiali di cui sopra, alla fine ho ceduto solo perchè il nostro buon vecchio [**Arc**](http://www.arcweb.it/) di quartiere ha insistito (grazie!), quindi ho concesso a Bojack un'opportunità.
 
 E miseria nera, mi ha ipnotizzato.
 
@@ -46,11 +46,11 @@ E miseria nera, mi ha ipnotizzato.
 
 Non subito, intendiamoci: 
 
-**i primi episodi di Bojack e moltissime sottotrame di prima e seconda stagione lasciano un po' il tempo che trovano.** 
+**i primi episodi di Bojack, nonché moltissime sottotrame di prima e seconda stagione lasciano un po' il tempo che trovano.** 
 
 Anzi, forse possono dare un'ulteriore impressione sbagliata:
 
-Appurato fin da subito che non vi è traccia di McFarlanismo, **uno può prenderla come una serie intellettualle radical-chic con interessanti punte di humor nero e satira sullo showbiz**...e in parte Bojack Horseman sicuramente è _anche_ tutte queste cose, sopratutto nelle fase iniziali.
+Appurato fin da subito che non vi è traccia di McFarlanismo, **uno potrebbe prenderla come una serie intellettualle radical-chic con interessanti punte di humor nero e satira sullo showbiz hollywoodiano**...e in parte Bojack Horseman sicuramente è _anche_ tutte queste cose, sopratutto nelle fase iniziali.
 
 Il punto, è che dietro tutto questo **c'è della caustica poesia vomitata fuori in un modo che manderebbe in sollucchero il meglio Chuck Palahniuk**
 
@@ -68,12 +68,12 @@ E, prima di rendersene pienamente conto, viene tutta fuori con dei **dialoghi sc
 
 <figure>
 <img src='http://bojackhorseman.com/art/friends/Fresh_Prince.jpg' alt='bojack horseman e willy, il principe di bel-air'>
-<figcaption>Ah, [il sito internet di Bojack](http://bojackhorseman.com/) è qualcosa di meraviglioso</figcaption>
+<figcaption>Ah, il sito internet di Bojack (http://bojackhorseman.com/) è qualcosa di meraviglioso</figcaption>
 </figure>
 
 Bojack è un attore che ha sfondato grazie alla classica sitcom anni '90: 
 
-Oggi è un ricchissimo alcolista cinquantenne senza prospettive di carriera, una contorta relazione con la sua agente e come unico amico Todd, un amorevole fallito che da cinque anni ha messo radici sul suo divano.
+Oggi è **un ricchissimo alcolista cinquantenne senza prospettive di carriera**, con una contorta relazione con la sua agente ed un unico amico: Todd, l'amorevole fallito che da cinque anni ha messo radici sul suo divano.
 
 Altro da dire? Beh, che Bojack è un cavallo, l'agente una gatta rosa e che in generale **l'universo della serie contempla in modo divertente e parecchio intelligente l'esistenza di animali antropomorfi** (l'episodio nella città subacquea è qualcosa di spettacoloso, tanto per dirne una).
 
@@ -83,14 +83,18 @@ Altro da dire? Beh, che Bojack è un cavallo, l'agente una gatta rosa e che in g
 <img src='http://bojackhorseman.com/art/friends/urkel.jpg' alt='bojack horseman'>
 </figure>
 
-**Ho trovato parecchio di [Birdman](http://xabacadabra.com/2015/birdman-recensione/) in Bojack Horseman**, ma anche di me stesso.
+**Ho ritrovato parecchio di [Birdman](http://xabacadabra.com/2015/birdman-recensione/) in Bojack Horseman**, ma anche di me stesso.
 
 Probabilmente, anche del [discorso che facevo qualche settimana fa](http://xabacadabra.com/2016/evasione/) a proposito de Labadessa e del bisogno di "evadere"...
 
-Sarà un caso, ma il fatto che **Raphael Bob-Waksberg** (l'autore della serie) sia un classe '84 secondo me la dice lunga su quella famosa sensazione di disagio e disperazione, un Mostro noto molto bene a quelli che in questo periodo girano attorno ai 30 anni (ma non solo).
+Sarà un caso, ma **il fatto che Raphael Bob-Waksberg (l'autore della serie) sia un classe '84 per me la dice lunga su quella famosa sensazione di disagio e disperazione**, un Mostro noto molto bene a quelli che in questo periodo girano attorno ai 30 anni (ma non solo).
 
 ## Conclusioni
 
 <figure>
 <img src='https://67.media.tumblr.com/afd516a71ab04664f50b5fdaefdf8446/tumblr_nbvbs5f4m11tqsqkoo1_r2_500.jpg' alt='bojack horseman breaking bad'>
 <figcaption>BITCH! (Aaron Paul, che qui presta la voce a Todd, è nato per questi ruoli oh) </figcaption>
+
+Non saprei dire se consigliarla oppure no: **è un prodotto d'indubbia qualità e con una scrittura avvolgente, ispirata, e cupamente depressiva** ma non è certamente una serie per tutti i palati...
+
+Di mio, consiglio di darci un'occhiata: **dopo la prima stagione dovreste aver già preso le misure, e se siete fortunati (come me) arriverete al finale della terza prima di rendervene conto**, attendendo impazientemente il proseguo.
