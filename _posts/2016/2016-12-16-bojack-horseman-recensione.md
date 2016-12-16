@@ -4,7 +4,7 @@ title: "[Netflix] Bojack Horseman [Recensione]"
 modified: null
 categories: [2015]
 excerpt: "Se avete Netflix, con ogni probabilità avrete intravisto il rettangolino d'anteprima di Bojack zompare fuori qua e la.
-Almeno, a me è capitato di "conoscerlo" anzitutto così..."
+Almeno, a me è capitato di conoscerlo anzitutto così..."
 tags:
   - serie-tv
   - animazione
