@@ -94,7 +94,10 @@ Sarà un caso, ma **il fatto che Raphael Bob-Waksberg (l'autore della serie) sia
 <figure>
 <img src='https://67.media.tumblr.com/afd516a71ab04664f50b5fdaefdf8446/tumblr_nbvbs5f4m11tqsqkoo1_r2_500.jpg' alt='bojack horseman breaking bad'>
 <figcaption>BITCH! (Aaron Paul, che qui presta la voce a Todd, è nato per questi ruoli oh) </figcaption>
+</figure>
 
-Non saprei dire se consigliarla oppure no: **è un prodotto d'indubbia qualità e con una scrittura avvolgente, ispirata, e cupamente depressiva** ma non è certamente una serie per tutti i palati...
+Non saprei dire se consigliarla oppure no: 
+
+**è un prodotto d'indubbia qualità e con una scrittura avvolgente, ispirata, e cupamente depressiva** ma non è certamente una serie per tutti i palati...
 
 Di mio, consiglio di darci un'occhiata: **dopo la prima stagione dovreste aver già preso le misure, e se siete fortunati (come me) arriverete al finale della terza prima di rendervene conto**, attendendo impazientemente il proseguo.
