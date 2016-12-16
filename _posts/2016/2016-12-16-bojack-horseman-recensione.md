@@ -50,9 +50,9 @@ Non subito, intendiamoci:
 
 Anzi, forse possono dare un'ulteriore impressione sbagliata:
 
-Appurato fin da subito che non vi è traccia di McFarlanismo, **uno potrebbe prenderla come una serie intellettualle radical-chic con interessanti punte di humor nero e satira sullo showbiz hollywoodiano**...e in parte Bojack Horseman sicuramente è _anche_ tutte queste cose, sopratutto nelle fase iniziali.
+Appurato fin da subito che non vi è traccia di McFarlanismo, **uno potrebbe prenderla come una serie intellettualle radical-chic con interessanti punte di humor nero e satira sullo showbiz hollywoodiano**...e in parte Bojack Horseman sicuramente è _anche_ tutte queste cose, sopratutto nelle fasi iniziali.
 
-Il punto, è che dietro tutto questo **c'è della caustica poesia vomitata fuori in un modo che manderebbe in sollucchero il meglio Chuck Palahniuk**
+Il punto è che, dietro tutto questo, **c'è della caustica poesia vomitata fuori in un modo che manderebbe in sollucchero il meglio Chuck Palahniuk**
 
 ## Ego, Depressione, Autodistruttività
 
