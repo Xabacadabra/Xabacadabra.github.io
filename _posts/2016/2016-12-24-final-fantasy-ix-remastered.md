@@ -19,10 +19,10 @@ Molto spesso mi ritrovo a fare un discorso che suona più o meno così:
 
 Ora, sicomme:
 
-1 - volevo fare un post per augurare Buon Natale a tutti
-2 - Grazie ai soliti Saldi Steam ho deciso di regalarmi la remastered di Final Fantasy IX
+1. Volevo fare un post per augurare **Buon Natale a tutti!**
+2. Grazie ai soliti saldi Steam ho deciso di regalarmi la remastered di Final Fantasy IX
 
-Ho pensato di cogliere lo _scaraburi_ al balzo e illustrare tramite una bella galleria di screenshot parte di questo ragionamento, anche perché a rigiocarlo mi rendo conto di quanto il nono esponente della saga sia uno dei più riusciti sotto questo comparto.
+Ho quindi pensato di cogliere lo _scaraburi_ al balzo e illustrare tramite una bella galleria di screenshot parte di questo ragionamento, anche perché a rigiocarlo mi rendo conto di quanto il nono esponente della saga sia uno dei più emblematici in questo senso.
 
 <figure>
 	<img src="/gallery/final-fantasy-ix/buttalesca.jpg" alt="final-fantasy-ix">
@@ -30,11 +30,15 @@ Ho pensato di cogliere lo _scaraburi_ al balzo e illustrare tramite una bella ga
 
 ## Antecedenti
 
-Già in Final Fantasy VII **interagire con i cittadini di Midgar dava un senso d'immersione straordinaria**, mostrando forse per la prima volta una metropoli virtuale estremamente "viva", credibile, con un proprio via vai indipendente dal solito gruppo di "eroi" eppure mai troppo statica, sempre consapevole degli eventi.
+Già in Final Fantasy VII **interagire con i cittadini di Midgar dava un senso d'immersione straordinaria**, mostrando forse per la prima volta una metropoli virtuale estremamente "viva", credibile, con un proprio _via vai_ indipendente dal solito gruppo di "eroi":
 
-in Final Fantasy VIII **il Garden di Balamb** fu un altro caso molto rappresentativo: studenti che vanno e vengono, parlano di cinema, di problemi, amori, vari fatti propri **del tutto estranei e lontani da Squall** (che molto spesso fa la figura del guardone, non per niente) protagonista che quindi, sopratutto all'inizio, è percepito come una goccia nel mare.
+Costante eppur mai troppo statica, sempre consapevole degli eventi attorno a lei.
 
-Ma è in Final Fantasy IX, dicevamo, che le cose vanno oltre.
+in Final Fantasy VIII **il Garden di Balamb** fu un altro caso molto rappresentativo: 
+
+studenti che vanno e vengono, parlano di cinema, di problemi, amori, vari fatti privati **del tutto estranei e lontani da Squall** <small>(che molto spesso fa la figura del guardone, non per niente)</small> protagonista che, sopratutto all'inizio, è percepito come uno tra tanti, una goccia nel mare.
+
+Ma è in Final Fantasy IX, dicevamo, che le cose si spingono pure oltre:
 
 ## Perdersi in un Mondo
 
@@ -104,7 +108,9 @@ In generale, **se notiamo qualcosa di curioso difficilmente passerà inosservato
   <figcaption>Oh, siamo in due</figcaption>
 </figure>
 
-E, a distanza di tanti anni confesso che **io da queste parti mi sento sempre letteralmente un turista in visita ad un paese straniero** al pari di Vivi o Steiner, e si verifica un tipo di "sospensione dell'incredulità" molto particolare che temo la saga abbia un po' perso per sempre.
+E, a distanza di tanti anni confesso che **io da queste parti mi sento sempre letteralmente un turista in visita ad un paese straniero** al pari di Vivi o Steiner:
+
+Si verifica cioè un tipo di "sospensione dell'incredulità" molto particolare, che temo la saga abbia un po' perso per sempre.
 
 <figure>
 	<img src="/gallery/final-fantasy-ix/scigu.jpg" alt="final-fantasy-ix">
@@ -119,13 +125,13 @@ Il motivo principale ?
 
 Direi **i costi di produzione**, che sono aumentati di pari passo con i **tempi di sviluppo**:
 
-Il prezzo da pagare per lo sviluppo tecnologico, certo... ma, forse, anche la diretta conseguenza di **un mercato molto più intrinsecamente usa e getta**, sempre più votato all'_obbiettivo_, sia esso semplicemente portare a termine il gioco o sbloccare il trofeo di turno.
+Il prezzo da pagare per l'avanzamento tecnologico, certo... ma, forse, anche la diretta conseguenza di **un mercato molto più intrinsecamente usa e getta**, sempre più votato all'_obbiettivo_, sia esso semplicemente portare a termine il gioco o sbloccare il trofeo di turno.
 
-C'è insomma anche **un'esasperazione agonistica**[^agonistica] che all'epoca era più che altro propria di sparatutto o simulatori sportivi, un elemento che in generale "spezza" quel senso d'immersione e sospensione dell'incredulità di cui sopra, offrendo molto spesso **una sorta di mistura coatta tra un film ed una partita di calcetto** (per certi versi, è stato il mio rapporto con _Final Fantasy XIII_)
+C'è insomma anche **un'esasperazione agonistica** [^agonistica] che all'epoca era più che altro propria di sparatutto o simulatori sportivi, un elemento che in generale "spezza" quel senso d'immersione e sospensione dell'incredulità di cui sopra, offrendo molto spesso **una sorta di mistura coatta tra un film ed una partita di calcetto** (per certi versi, è stato il mio rapporto con _Final Fantasy XIII_)
 
 C'è forse più fretta nel finire le cose per poterne platinare altre, **e meno voglia di scoprire piccoli dettagli e tocchi di classe che nulla aggiungono all'aspetto meramente "statistico" ma tanto danno a quello "umano".**
 
-E boh, volevo chiuderla in allegria però mi rendo conto che certi post sembrano sprofondare sempre un po' in una vaga malinconia 😅 ma il mio spirito è genuinamente allegro, lo giuro!
+E boh, volevo chiuderla in allegria però mi rendo conto che certi post sembrano un po' sprofondare sempre in una vaga malinconia 😅 ma il mio spirito è genuinamente allegro, lo giuro!
 
 Diciamo che forse è sempre il solito discorso:
 
@@ -133,8 +139,10 @@ Diciamo che forse è sempre il solito discorso:
 
 La nota positiva ?
 
-Che **Final Fantasy IX resta un'esperienza assolutamente meravigliosa**, e che la recente Remastered è un prodotto piuttosto degno e ben confezionato.
+Che **Final Fantasy IX resta un'esperienza assolutamente meravigliosa**, e che la recente Remastered è un prodotto piuttosto degno e ben confezionato !
+
+Se volete farvi un regalo di natale, fateci un pensierino! 🎅🏻 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJBUZqDPbao" frameborder="0" allowfullscreen></iframe>
 
-^agonistica: Certo ehi: c'erano le Weapon, Ozma, le armi segrete e tutto quel considerevole malloppone lì, ma personalmente le ho sempre vissute come sfide strettamente legate all'esplorazione, alla mia "esperienza" in quel mondo lì...poi certo, anche l'agonismo nudo&crudo in questo aveva già un suo peso, lo ammetto
+[^agonistica]: Certo ehi: c'erano le Weapon, Ozma, le armi segrete e tutto quel considerevole malloppone lì, ma personalmente le ho sempre vissute come sfide strettamente legate all'esplorazione, alla mia "esperienza" in quel mondo lì...poi certo, anche l'agonismo nudo&crudo in questo aveva già un suo peso, lo ammetto
