@@ -127,7 +127,7 @@ Direi **i costi di produzione**, che sono aumentati di pari passo con i **tempi 
 
 Il prezzo da pagare per l'avanzamento tecnologico, certo... ma, forse, anche la diretta conseguenza di **un mercato molto più intrinsecamente usa e getta**, sempre più votato all'_obbiettivo_, sia esso semplicemente portare a termine il gioco o sbloccare il trofeo di turno.
 
-C'è insomma anche **un'esasperazione agonistica** [^agonistica] che all'epoca era più che altro propria di sparatutto o simulatori sportivi, un elemento che in generale "spezza" quel senso d'immersione e sospensione dell'incredulità di cui sopra, offrendo molto spesso **una sorta di mistura coatta tra un film ed una partita di calcetto** (per certi versi, è stato il mio rapporto con _Final Fantasy XIII_)
+C'è insomma anche **un'esasperazione agonistica** [^agonistica] che all'epoca era più che altro propria di sparatutto, picchiaduro o simulatori sportivi, un elemento che in generale "spezza" quel senso d'immersione e sospensione dell'incredulità di cui sopra, offrendo molto spesso **una sorta di mistura coatta tra un film ed una partita di calcetto** (per certi versi, è stato il mio rapporto con _Final Fantasy XIII_)
 
 C'è forse più fretta nel finire le cose per poterne platinare altre, **e meno voglia di scoprire piccoli dettagli e tocchi di classe che nulla aggiungono all'aspetto meramente "statistico" ma tanto danno a quello "umano".**
 
@@ -145,4 +145,4 @@ Se volete farvi un regalo di natale, fateci un pensierino! 🎅🏻 E passate bu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJBUZqDPbao" frameborder="0" allowfullscreen></iframe>
 
-[^agonistica]: Certo ehi: c'erano le Weapon, Ozma, le armi segrete e tutto quel considerevole malloppone lì, ma personalmente le ho sempre vissute come sfide strettamente legate all'esplorazione, alla mia "esperienza" in quel mondo lì...poi certo, anche l'agonismo nudo&crudo in questo aveva già un suo peso, lo ammetto
+[^agonistica]: Certo ehi: c'erano le Weapon, Ozma, le armi segrete e tutto quel considerevole malloppone lì, ma personalmente le ho sempre vissute come sfide strettamente legate all'esplorazione, alla mia "esperienza" in quel mondo...poi certo, anche l'agonismo nudo&crudo aveva già un suo peso, lo ammetto

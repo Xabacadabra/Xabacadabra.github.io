@@ -155,7 +155,7 @@ Ma lo dicevo sopra, mi pare (non ho voglia di rileggere ora come ora):
 
 in questi anni sono stato viziato da tanti giochi, ma a pensarci bene è un discorso antico:
 
-Del resto, anche da bambino ero stato **viziato dai Final Fantasy dell'era PlayStation** (che in termini di mondo "vivo", esplorazione e scoperte sono tuttora tra i giochi più appaganti che esistano), e trovo inconcepibile che, per fare un altro esempio, **nel 2000 la SEGA creava cose ambiziosamente megagalattiche come _Shenmue_ mentre nel 201X la Bandai continua a maciullare un franchise che nessuno ha mai davvero saputo sfruttare.**
+Del resto, anche da bambino ero stato [**viziato dai Final Fantasy dell'era PlayStation**](http://xabacadabra.com/2016/final-fantasy-ix-remastered/) (che in termini di mondo "vivo", esplorazione e scoperte sono tuttora tra i giochi più appaganti che esistano), e trovo inconcepibile che, per fare un altro esempio, **nel 2000 la SEGA creava cose ambiziosamente megagalattiche come _Shenmue_ mentre nel 201X la Bandai continua a maciullare un franchise che nessuno ha mai davvero saputo sfruttare.**
 
 <figure>
 <img src='https://i.ytimg.com/vi/TKx3zYbg3SI/maxresdefault.jpg' alt='legacy of goku'>
