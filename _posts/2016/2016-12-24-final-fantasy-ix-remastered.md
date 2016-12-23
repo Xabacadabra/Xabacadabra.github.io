@@ -22,7 +22,7 @@ Ora, sicomme:
 1. Volevo fare un post per augurare **Buon Natale a tutti!**
 2. Grazie ai soliti saldi Steam ho deciso di regalarmi la remastered di Final Fantasy IX
 
-Ho quindi pensato di cogliere lo _scaraburi_ al balzo e illustrare tramite una bella galleria di screenshot parte di questo ragionamento, anche perché a rigiocarlo mi rendo conto di quanto il nono esponente della saga sia uno dei più emblematici in questo senso.
+Ho pensato di cogliere lo _scaraburi_ al balzo e illustrare tramite una bella galleria di screenshot parte di questo ragionamento, anche perché a rigiocarlo mi rendo conto di quanto il nono esponente della saga, in questo senso, fosse uno dei più emblematici.
 
 <figure>
 	<img src="/gallery/final-fantasy-ix/buttalesca.jpg" alt="final-fantasy-ix">
@@ -36,7 +36,7 @@ Costante eppur mai troppo statica, sempre consapevole degli eventi attorno a lei
 
 in Final Fantasy VIII **il Garden di Balamb** fu un altro caso molto rappresentativo: 
 
-studenti che vanno e vengono, parlano di cinema, di problemi, amori, vari fatti privati **del tutto estranei e lontani da Squall** <small>(che molto spesso fa la figura del guardone, non per niente)</small> protagonista che, sopratutto all'inizio, è percepito come uno tra tanti, una goccia nel mare.
+studenti che vanno e vengono, parlano di cinema, di problemi, amori, vari fatti privati **del tutto estranei e lontani da Squall** <small>(che molto spesso fa la figura del guardone, non per niente)</small> protagonista che, sopratutto all'inizio, è percepito come uno tra tanti, la proverbiale _goccia nel mare_.
 
 Ma è in Final Fantasy IX, dicevamo, che le cose si spingono pure oltre:
 
@@ -108,9 +108,9 @@ In generale, **se notiamo qualcosa di curioso difficilmente passerà inosservato
   <figcaption>Oh, siamo in due</figcaption>
 </figure>
 
-E, a distanza di tanti anni confesso che **io da queste parti mi sento sempre letteralmente un turista in visita ad un paese straniero** al pari di Vivi o Steiner:
+E, a distanza di tanti anni confesso che **io da queste parti mi sento sempre letteralmente un turista in visita** al pari di Vivi o Steiner:
 
-Si verifica cioè un tipo di "sospensione dell'incredulità" molto particolare, che temo la saga abbia un po' perso per sempre.
+Si verifica cioè un tipo di "sospensione dell'incredulità" molto particolare, che temo la serie abbia un po' perso per sempre già dal decimo capitolo in poi.
 
 <figure>
 	<img src="/gallery/final-fantasy-ix/scigu.jpg" alt="final-fantasy-ix">
@@ -131,7 +131,7 @@ C'è insomma anche **un'esasperazione agonistica** [^agonistica] che all'epoca e
 
 C'è forse più fretta nel finire le cose per poterne platinare altre, **e meno voglia di scoprire piccoli dettagli e tocchi di classe che nulla aggiungono all'aspetto meramente "statistico" ma tanto danno a quello "umano".**
 
-E boh, volevo chiuderla in allegria però mi rendo conto che certi post sembrano un po' sprofondare sempre in una vaga malinconia 😅 ma il mio spirito è genuinamente allegro, lo giuro!
+E boh, volevo chiuderla in allegria però mi rendo conto che certi post sembrano sempre sprofondare in una vaga malinconia 😅 ma il mio spirito è genuinamente allegro, lo giuro!
 
 Diciamo che forse è sempre il solito discorso:
 
@@ -141,7 +141,7 @@ La nota positiva ?
 
 Che **Final Fantasy IX resta un'esperienza assolutamente meravigliosa**, e che la recente Remastered è un prodotto piuttosto degno e ben confezionato !
 
-Se volete farvi un regalo di natale, fateci un pensierino! 🎅🏻 
+Se volete farvi un regalo di natale, fateci un pensierino! 🎅🏻 E passate buone feste, mi raccomando!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJBUZqDPbao" frameborder="0" allowfullscreen></iframe>
 
