@@ -54,7 +54,7 @@ Il monologo del Reverendo con cui ho aperto il post me lo ricordavo (quasi) tutt
 
 Questo già fa capire l'impatto che Apocalypse ebbe nei confronti di **noi che eravamo pischelli nel 1998:**
 
-Per chi era ancora fresco fresco dello svezzamento a suon di **_Biker Mice da Marte, City Hunter,_ giochi tamarri della Gig** e generici film d'azione del decennio precedente (pedissequamente trasmessi da Mediaset), ****Apocalypse rappresentò il proverbiale sogno divenuto realtà.**
+Per chi era ancora fresco fresco dello svezzamento a suon di **_Biker Mice da Marte, City Hunter,_ giochi tamarri della Gig** e generici film d'azione del decennio precedente (pedissequamente trasmessi da Mediaset), **Apocalypse rappresentò il proverbiale sogno divenuto realtà.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/exiRDojQ18w" frameborder="0" allowfullscreen></iframe>
 
