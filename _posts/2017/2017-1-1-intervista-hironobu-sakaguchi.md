@@ -11,7 +11,7 @@ image:
   feature: intervista-sakaguchi.jpg
   teaser: teaser-intervista-sakaguchi.jpg
   thumb: 
-published: true
+published: false
 comments: true
 ---
 
