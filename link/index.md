@@ -33,6 +33,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Link-age**](http://newmediasoc.com/projects/link-age/) - progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre
 
+- [**Radio Garden**](http://radio.garden/) - stazioni radio di tutto il globo selezionabili da un gigantesco mappamondo. Dopo averlo scoperto, mi sono commosso dalla felicità
+
 - [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} - specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod
 
 - [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
