@@ -59,7 +59,7 @@ Ho cenato con Tabata-san [^tabata] qualcosa come tre volte. Voleva un'intervista
 
 Beh, dovremmo farlo in pixel-art. Sarebbe divertente se si trattasse di un video promozionale o qualcosa del genere, non certo un videogioco vero e proprio. Ci vuole molto lavoro per realizzare un videogioco.
 
-**Sarei stato curioso di vedere cos'avrebbe potuto realizzare nel periodo in cui ha iniziato a lavorare nello sviluppo di videogiochi avendo a disposizione i mezzi tecnologici odierni **
+**Sarei stato curioso di vedere cos'avrebbe potuto realizzare nel periodo in cui ha iniziato a lavorare nello sviluppo di videogiochi avendo a disposizione i mezzi tecnologici odierni**
 
 Forse non mi sarei dedicato allo sviluppo di videogiochi. Mi sarebbe sembrato un settore intimidatorio. Non è un qualcosa che potrei realizzare da solo.
 
@@ -107,9 +107,9 @@ Sì, lo conosco e in realtà ho fatto dei viaggi con lui a San Francisco e Los A
 
 **Com'è lavorare con lui? È riservato come dicono?**
 
-Lavora da solo nel suo studio di Nagoya. Io devo solo dirgli lo scenario, la mia visione del mondo e la personalità dei personaggi. Il resto dipende dalla sua immaginazione. Io do dei pareri a proposito delle sue prime quattro o cinque bozze, e di solito cambia poco dalla primissima bozza. Lavoro anche con il suo produttore, il signor Kazuhiko Torishima, ex editor del _Jump_ magazine. Effettivamente lui ha molta voce in capitolo in termini di design. Da un feedback riguardo l'impatto del design sui consumatori. Noi tre lavoriamo assieme per trovare un valido compromesso. Il signor Torishima ha praticamente scoperto e cresciuto Toriyama dai suoi primi giorni. È una sorta di figura paterna per lui.
+Lavora da solo nel suo studio di Nagoya. Io devo solo dirgli lo scenario, la mia visione del mondo e la personalità dei personaggi. Il resto dipende dalla sua immaginazione. Io do dei pareri a proposito delle sue prime quattro o cinque bozze, e di solito cambia poco dalla primissima bozza. Lavoro anche con il suo produttore, il signor Kazuhiko Torishima, ex editor del _Jump_ magazine. Effettivamente lui ha molta voce in capitolo in termini di design. Dà un feedback riguardo l'impatto del design sui consumatori. Noi tre lavoriamo assieme per trovare un valido compromesso. Il signor Torishima ha praticamente scoperto e cresciuto Toriyama dai suoi primi giorni. È una sorta di figura paterna per lui.
 
-**C'è stato qualche problema nel coinvolgerlo per _Chrono Trigger_? Eravate preoccupati ad averlo come designer di mondo e personaggi, temendo che si potesse portare troppo del suo bagaglio personale ?**
+**C'è stato qualche problema nel coinvolgerlo per _Chrono Trigger_? Eravate preoccupati ad averlo come designer di mondo e personaggi, temendo che potesse portare troppo del suo bagaglio personale ?**
 
 Sono sempre stato un grandissimo fan del lavoro di Toriyama, e penso che tutti lo siano. Lavorare con Toriyama è stato il mio sogno più grande e volevo semplicemente farlo. Non m'importava di un'eventuale sovrapposizione stilistica con _Dragon Quest_ fintanto potessi finalmente lavorare con lui. E continuo a pensarla allo stesso modo.
 
@@ -123,7 +123,7 @@ Sì, e volevo fossero il più possibile vicino allo stile delle illustrazioni di
 
 **Crescendo, quali film e programmi televisivi guardava? Quali hanno avuto un grande impatto creativo su di lei?**
 
-Ho guardato tutte le più grandi produzioni della pop-culture. Cominciando con Tezuka Osamu, _Ultraman_ e _Kamen Raider_, e i lavori di Ishinomori Shotarou che ha scritto _Black Jack_ e _Kamen Raider_. _Star Wars_ era davvero il massimo quando frequentavo le scuole superiori, e anche _Flash Gordon_. I Lavori di Hayao Miyazaki, e _Gundam_. Da bambino amavo molto gli anime e probabilmente li ho visti tutti. Quando ero alle superiori, ero un po' "punk". In Giappone, i ragazzini a scuola di solito indossano uniformi ma nella mia non era necessario, quindi potevo lasciare il campus inosservato senza finire nei guai perché indossavo vestiti normali. Quindi, durante le ore scolastiche me ne andavo al cinema.
+Ho guardato tutte le più grandi produzioni della pop-culture. Cominciando con Tezuka Osamu, _Ultraman_ e _Kamen Raider_, e i lavori di Ishinomori Shotarou che ha scritto _Black Jack_ e _Kamen Raider_. _Star Wars_ era davvero il massimo quando frequentavo le scuole superiori, e anche _Flash Gordon_. I Lavori di Hayao Miyazaki, e _Gundam_. Da bambino amavo molto gli anime e probabilmente li ho visti tutti. Quando ero alle superiori, ero un po' "punk". In Giappone, i ragazzini a scuola di solito indossano uniformi ma nella mia non era necessario, quindi potevo lasciare il campus inosservato senza finire nei guai perché indossavo vestiti normali. Quindi, durante le ore scolastiche, me ne andavo al cinema.
 
 **All'epoca i film restavano nelle sale per parecchio tempo. _Star Wars_ ed _E.T._ sono rimasti nei cinema per un anno e mezzo. Allora era più facile per i film avere un grosso impatto nelle nostre vite.**
 
@@ -131,7 +131,7 @@ Per me, l'impatto più grande probabilmente è stato _Blade Runner_. Non sapevo 
 
 **Quale altra opera fantasy l'ha ispirata?**
 
-Più o meno nello stesso periodo, fui molto influenzato dalla _Saga di Guin_ di Kaoru Kurimoto. La copertina, incidentalmente venne realizzata da Yoshitaka Amano. Quando Kurimoto ha iniziato a scrivere la serie, sosteneva che avrebbe scritto un centinaio di libri. È praticamente un setting fantasy. E penso che in effetti lei abbia scritto più di cento libri, includendo le storie secondarie, prima che morisse nel 1979. Era un vero genio. Nel 2005 hanno pubblicato il centesimo libro, ma una volta pubblicato tutto il suo materiale si contano 155 libri in tutto. Io ne ho letti solo trenta o quaranta.
+Più o meno nello stesso periodo, fui molto influenzato dalla _Saga di Guin_ di Kaoru Kurimoto. Casualmente la copertina venne realizzata da Yoshitaka Amano. Quando Kurimoto ha iniziato a scrivere la serie, sosteneva che avrebbe scritto un centinaio di libri. È praticamente un setting fantasy. E penso che in effetti lei abbia scritto più di cento libri, includendo le storie secondarie, prima che morisse nel 1979. Era un vero genio. Nel 2005 hanno pubblicato il centesimo libro, ma una volta pubblicato tutto il suo materiale si contano 155 libri in tutto. Io ne ho letti solo trenta o quaranta.
 
 **Ho sentito che lei è un buon musicista, è vero?**
 
@@ -149,7 +149,7 @@ Ovviamente, la storia di _Final Fantasy_ è stata pesantemente influenzata dalla
 
 Questo probabilmente conta per i giochi che ho realizzato in passato e realizzerò in futuro, ma il mio processo di creazione di un gioco è pensare prima ai personaggi, la storia e il mondo, e le varie emozioni che il giocatore incontrerà - sentimenti quali disperazione, sconfitta e speranza.
 
-Ma quello che spero che la gente tragga dai miei videogame è un'energia positiva alla fine di ciascun gioco, la sensazione che si siano trovati di fronte ad una bella storia. Un altro aspetto chiave per me è la "densità", come i vari contenuti sono distribuito durante l'esperienza di gioco. Non voglio che le persone sentano di fare la stessa cosa a ripetizione. Voglio che vivano un esperienza interamente appassionante dall'inizio alla fine. [^densita]
+Ma quello che spero che la gente tragga dai miei videogame è un'energia positiva alla fine di ciascun gioco, la sensazione che si siano trovati di fronte ad una bella storia. Un altro aspetto chiave per me è la "densità", come i vari contenuti sono distribuiti durante l'esperienza di gioco. Non voglio che le persone percepiscano la sensazione di fare la stessa cosa a ripetizione. Voglio che vivano un esperienza interamente appassionante dall'inizio alla fine. [^densita]
 
 [^densita]: Questo discorso lo rapporto bene con un concetto che ho eposto di recente parlando di [Final Fantasy IX](http://xabacadabra.com/2016/final-fantasy-ix-remastered/)
 
