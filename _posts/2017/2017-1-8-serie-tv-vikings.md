@@ -109,4 +109,4 @@ Tornando al nostro soggetto, **_Vikings_ è una serie che merita assolutamente d
 
 Ci sono attori fantastici, c'è una fotografia squisitamente sobria ma d'effetto, una sceneggiatura solida e ispirata, ma sopratutto **una regia favolosa**: 
 
-_Vikings_ infatti, nonostante alcune scelte evidentemente low-budget rispetto ad altre produzioni, conta **le battaglie meglio dirette nel piccolo schermo per il mio gusto personale**nonché, nella propria narrativa, un'audace rappresentazione di religione, esistenzialismo e spiritualità.
+_Vikings_ infatti, nonostante alcune scelte evidentemente low-budget rispetto ad altre produzioni, conta **le battaglie meglio dirette nel piccolo schermo per il mio gusto personale** nonché, nella propria narrativa, un'audace rappresentazione di religione, esistenzialismo e spiritualità.
