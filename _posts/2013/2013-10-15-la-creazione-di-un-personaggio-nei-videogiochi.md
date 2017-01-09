@@ -16,7 +16,7 @@ comments: true
 nota bene: in questo post non farò alcun accenno diretto ai videogiochi online, nell'eventualità ci sarebbe da scrivere tutto un articolo a parte
 {: .notice-info}
 
-C'è un fatto, nel videogame, che mi ha sempre condizionato personalmente, in particolare a partire dai tempi di _The Elder Scrolls III: Morrowind_:
+Esiste una caratteristica nel universo dei videogame che mi ha sempre condizionato molto, in particolare a partire dai tempi di _The Elder Scrolls III: Morrowind_:
 
 La libertà di fare praticamente tutto, andare ovunque, interagire con ogni cosa e **l'idea stessa di creare un personaggio**.
 
@@ -73,7 +73,7 @@ Costruendoci un protagonista su misura **saremo naturalmente più partecipi alla
 
 <figure>
 	<img src='http://1.bp.blogspot.com/-g7dSbngXueI/UlxTa6ulv4I/AAAAAAAAEqk/t6JoSRfgjXA/s1600/vampire+bloodlines+character+creation.jpg' alt='Bloodlines'>
-	<figcaption>Per il sottoscritto il massimo livello di "possibilità creative" (eccezion fatta per quelle meramente estetiche) unite a variabilità narrativa, gameplay di prim'ordine e trama ispirata s'è visto con il meraviglioso [Vampire: Bloodlines](http://xabacadabra.com/2013/vampire-masquerade-bloodlines-recensione/) (2004)
+	<figcaption>Per il sottoscritto il massimo livello di "possibilità creative" (eccezion fatta per quelle meramente estetiche) unite a variabilità narrativa, gameplay di prim'ordine e trama ispirata s'è visto con il meraviglioso Vampire the Masquerade: Bloodlines (2004)
 </figcaption>
 </figure>
 
