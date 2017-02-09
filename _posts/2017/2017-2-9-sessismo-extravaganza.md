@@ -8,7 +8,7 @@ tags:
   - politica
   - xabologia
 image: 
-  feature: sessismo-extravaganza
+  feature: sessismo-extravaganza.jpg
   teaser: teaser-sessismo-extravaganza.jpg
   thumb: null
 published: true
