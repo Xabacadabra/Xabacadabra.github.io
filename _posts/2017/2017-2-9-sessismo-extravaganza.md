@@ -31,7 +31,7 @@ Io non ho partecipato alla conversazione, ma ho fatto un po' il guardone per due
  1. Il settore m'incuriosisce (del resto se siete da queste parti da un po' lo avrete pure notato)
  2. La collega in questione era BELLISSIMA.
 
-Ma proprio una STRAFIGA, tanto che per prima cosa sono andato a vedere se le sue foto erano corrispondenti all'immagine di profilo ("magari sfrutta quella di un'attrice, hai visto mai?")
+Ma proprio una STRAFIGA, tanto che per prima cosa sono andato a vedere se le sue foto fossero corrispondenti all'immagine di profilo (_"magari sfrutta quella di un'attrice, hai visto mai?"_)
 
 E no, niente: era davvero lei, una ragazza che è proprio _bona_ di suo. 
 
@@ -45,13 +45,11 @@ Prima di qualsiasi ragionamento razionale e logico, l'istinto stronzo e malvagio
 
 Poi, e solo _poi_, il mio cervello sta vocetta l'ha presa giustamente a calci. 
 
-Soprattutto perché **sta vocetta è partita quando io non ho manco ho avuto modo di vedere un lavoro della ragazza** (non che la cosa avrebbe giustificato l'orrido pregiudizio eh, ma così è pure peggio)
+Soprattutto perché **sta vocetta è partita quando io non ho manco avuto modo di vedere un lavoro della ragazza** <small>(non che la cosa avrebbe giustificato l'orrido pregiudizio eh, diciamo solo che così è pure peggio)</small>
 
-Magari parliamo di un'autrice bravissima, capace tanto quanto è bella.
+E magari parliamo di un'autrice bravissima, tanto capace  quanto bella. Succede più spesso di quanto si potrebbe pensare, potreste rimanere sorpresi:
 
-Succede più spesso di quanto si potrebbe pensare, potreste rimanere sorpresi:
-
-Personalmente in genere i pregiudizi non mi partono **perché al 99% conosco _prima_ l'opera, e poi l'artista**.
+Personalmente in genere pregiudizi simili non mi partono **perché al 99% conosco _prima_ l'opera e solo sucessivamente l'artista**.
 
 Ma non divaghiamo:
 
@@ -87,6 +85,6 @@ E non è una faccenda che riguarda solo le donne: **razzismo, omofobia e chi pi�
 
 No: dovremmo iniziare a _correggerlo_ iniziando a ragionare, **mettendo in discussione quello che il nostro istinto ci ha appena detto di fare.**
 
-Sul _perché_ lo ha fatto.
+Sul _perché_ ha reagito in un dato modo.
 
-Nel mio piccolo, penso che prima faremo questo tipo di scelte a livello collettivo, prima riusciremo (inevitabilmente) nelle prossime generazioni a lasciarci alle spalle quest'orrido retaggio.
+Nel mio piccolo, penso che prima faremo questo tipo di scelte **a livello collettivo**, sopratutto prima di scrivere qualcosa nei confronti del primo sconosciuto che passa, prima riusciremo a lasciarci alle spalle quest'orrido retaggio.
