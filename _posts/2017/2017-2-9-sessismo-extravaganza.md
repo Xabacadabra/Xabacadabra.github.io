@@ -3,7 +3,7 @@ layout: article
 title: "Sessismo Extravaganza"
 modified: null
 categories: [2017]
-excerpt: "Leggendo "sessismo" starete già pensando a qualche predica morale o amorale..."
+excerpt: "Leggendo sessismo starete già pensando a qualche predica morale o amorale..."
 tags:
   - politica
   - xabologia
