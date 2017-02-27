@@ -36,7 +36,7 @@ forse **i tempi che corrono spingono, con un certa prepotenza, l'incazzatura e l
 
 ## Spotify
 
-<iframe src="https://embed.spotify.com/?uri=sspotify:album:68bBPmQsKP12DT1e3wlRVG&theme=white" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:album:68bBPmQsKP12DT1e3wlRVG&theme=white" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ## L'epoca dei 50 Anni di Kurt Cobain
 
@@ -60,7 +60,7 @@ Ma attenzione, non fraintendetemi:
 
 **Bloop è proprio un gran bel disco.**
 
-Uno di quelli che ti spareresti tranquillamente in un lungo viaggio sulla U.S. Route 66 o (per strare più vicini) durante un imbottigliamento sul raccordo anulare.
+Uno di quelli che ti spareresti tranquillamente in un lungo viaggio sulla U.S. Route 66 o (per stare in economia) durante un imbottigliamento sul raccordo anulare.
 
 Ecco, intendiamoci: **in sordina c'è sempre il discorso che feci per i CCC:**
 
@@ -70,19 +70,23 @@ La penso sempre così, per carità.
 
 **Ma questa volta un po' meno.** 
 
-Sarà che, in questo caso, un po' d'italianità da qualche parte la _fiuto_ sotto sotto:
+Sarà che, in questo caso, **un po' d'italianità da qualche parte la _fiuto_.**
 
-per dire, certi arraggiamenti di _Exotic Song_ dubito potrebbero venire in mente agli Alter Bridge, idem per i respiri latino-blueseggianti di _Mellifluous Desire_ (quelli al massimo me li posso aspettare dai Tito & Tarantula, ma è un altro discorso 😆 )
+Per dire, **l'arrangiamento di _Exotic Song_ dubito potrebbe venire in mente agli Alter Bridge**, idem i respiri latino-blueseggianti di _Mellifluous Desire_ (quelli al massimo me li posso aspettare dai Tito & Tarantula, ma è un altro discorso 😆 )
 
-In generale c'è quella piccola _sensazione_ di fondo che **mi fa ripensare ai Litfiba delle origini** (per intenderci: quelli della Trilogia del Potere, diretti figli della New Wave), tutt'altro genere ovviamente però stesse "italiche viscere", almeno per chi ascolta.
+In generale c'è quella piccola _sensazione_ di fondo che **mi fa ripensare ai Litfiba delle origini** (per intenderci: quelli della Trilogia del Potere, diretti figli della New Wave).
 
-E mamma mia se bisognerebbe valorizzarle, queste viscere!
+Tutt'altro genere ovviamente però stesse "italiche viscere", almeno per il sottoscritto all'ascolto...e mamma mia se bisognerebbe valorizzarle, 'ste benedette viscere!
 
-## Conclusioni
+## Verdetto
 
-Esordio promosso, con qualche leggera riserva che però riguarda il genere ad ampio respiro: questi tre ragazzi sono davvero forti e particolari, specie considerando la camicia a quadri consumata (nel bene e nel male) del genere musicale che portano in scena.
+**Esordio promosso, con qualche leggera riserva che più che altro riguarda il genere a livello concettuale, che in tempi moderni si rivela fin troppo spesso statico e retorico**. 
 
-Daje Regà!
+Tuttavia questi tre ragazzi sono forti e dalle sonorità dai respiri particolari aldilà di tecniscismi autoreferenziali e, sopratutto, considerando quella "camicia a quadri consumata" che è il genere musicale di cui sono evidentemente figli.
+
+Concludendo: **un bel sasso che smuove almeno un pochetto delle acque stagnanti**.
+
+E quindi, _Daje Regà!_
 {: .notice-success}
 
 
