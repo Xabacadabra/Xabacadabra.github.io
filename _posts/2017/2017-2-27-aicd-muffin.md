@@ -3,7 +3,7 @@ layout: article
 title: "Acid Muffin - Bloop [Recensione]"
 modified:
 categories: [2017]
-excerpt: "Gli Acid Muffin sono un power trio romano musicalmente figlio degli Stati Uniti degli anni 90, in particolar modo della (pseudo) definizione grunge, di casa a Seattle."
+excerpt: "Gli Acid Muffin sono un power trio romano musicalmente figlio degli Stati Uniti degli anni 90, in particolar modo della (pseudo) definizione grunge, di casa a Seattle..."
 tags: 
      - musica
      - recensioni
