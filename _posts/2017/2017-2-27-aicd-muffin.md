@@ -81,13 +81,13 @@ Tutt'altro genere ovviamente però stesse "italiche viscere", almeno per il sott
 ## Verdetto
 
 **Esordio promosso, con qualche leggera riserva che più che altro riguarda il genere a livello concettuale, che in tempi moderni si rivela fin troppo spesso statico e retorico**. 
+{: .notice-success}
 
 Tuttavia questi tre ragazzi sono forti e dalle sonorità dai respiri particolari aldilà di tecniscismi autoreferenziali e, sopratutto, considerando quella "camicia a quadri consumata" che è il genere musicale di cui sono evidentemente figli.
 
 Concludendo: **un bel sasso che smuove almeno un pochetto delle acque stagnanti**.
 
 E quindi, _Daje Regà!_
-{: .notice-success}
 
 
 <script type="application/ld+json">
