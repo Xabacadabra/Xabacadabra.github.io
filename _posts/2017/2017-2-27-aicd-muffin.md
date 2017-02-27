@@ -83,11 +83,13 @@ Tutt'altro genere ovviamente però stesse "italiche viscere", almeno per il sott
 **Esordio promosso, con qualche leggera riserva che più che altro riguarda il genere a livello concettuale, che in tempi moderni si rivela fin troppo spesso statico e retorico**. 
 {: .notice-success}
 
-Tuttavia questi tre ragazzi sono forti e dalle sonorità dai respiri particolari aldilà di tecniscismi autoreferenziali e, sopratutto, considerando quella "camicia a quadri consumata" che è il genere musicale di cui sono evidentemente figli.
+Tuttavia questi tre ragazzi posseggono sonorità dai respiri particolari, viaggiando senza tecniscismi autoreferenziali e, sopratutto, con una bella identità. 
 
-Concludendo: **un bel sasso che smuove almeno un pochetto delle acque stagnanti**.
+Specie considerando quella "camicia a quadri consumata" che è il genere musicale di cui sono evidentemente figli.
 
-E quindi, _Daje Regà!_
+Insomma: **un bel sasso che smuove un pochetto delle acque decisamente stagnanti**.
+
+Ergo, _Daje Regà!_
 
 
 <script type="application/ld+json">
