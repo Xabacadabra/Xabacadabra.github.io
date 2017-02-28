@@ -13,6 +13,12 @@ published: true
 </figure>
 
 <figure>
+  <a href="/blog/tag/xabologia"><img src="/images/teaser-intervista-sakaguchi.jpg">
+  <h2 class="post-title"> <i class="fa fa-pencil"></i> INTERVISTE</h2></a>
+  <p class="post-excerpt">Il lato Letterman di Xaba Cadabra</p>
+</figure>
+
+<figure>
   <a href="/blog/tag/spettacolo"><img src="/images/spettacolo.jpg">
   <h2 class="post-title"> <i class="fa fa-camera-retro"></i> SPETTACOLO</h2></a>
   <p class="post-excerpt">A tutto Gazebo! E magari qualcos'altro</p> 
