@@ -37,7 +37,7 @@ E a me, **sta cosa spaventa.**
 
 Intendiamoci: la capisco, perché anche io le (rare) volte in cui si torna alle urne mi sento in un vicolo cieco, e l'idea di *"spazzare via tutto"* puntando su qualcosa di nuovo, che coinvolga pure noi altri "gente dal basso", si fa sentire:
 
-**Il Movimento 5 Stelle delle origini mi affascinò proprio per questi motivi**, anche se mi ha sempre lasciato perplesso (e vagamente nauseato) per tutti gli altri (per chi si ricorda, un paio di anni fa fa ne discutemmo un pochetto nei commenti [qui](http://xabacadabra.com/2015/hashtag-iononleggorepubblica-e-una-stronzata/)).
+**Il Movimento 5 Stelle delle origini mi affascinò proprio per questi motivi**, anche se mi ha sempre lasciato perplesso (e vagamente nauseato) per tutti gli altri (per chi si ricorda, un paio di anni fa ne discutemmo un pochetto nei commenti [qui](http://xabacadabra.com/2015/hashtag-iononleggorepubblica-e-una-stronzata/)).
 
 ## Delegare
 
@@ -51,11 +51,11 @@ Pure i **finanziamenti pubblici**! (!!!)
 
 Ma, molto banalmente, **non le nostre forze politiche:** 
 
-Da circa 14 anni sogno **realtà composte da persone affidabili, competenti, fondamentalmente oneste senza per questo essere giustizialiste, che offrano una formazione e una forte rilevanza alla base ma un potere ben centrale nella propria Direzione (non il singolo leader), e con la possibilità concreta di vincere senza troppi compromessi.** (un po' sono inevitabili, ma diciamo che alcuni risultano meno gravi di altri)
+Da circa 14 anni sogno **realtà composte da persone affidabili, competenti, fondamentalmente oneste senza per questo essere giustizialiste, che offrano una formazione e una forte rilevanza alla base ma un potere ben centrale nella propria Direzione <small>(non il singolo leader)</small>, e con la possibilità concreta di vincere senza troppi compromessi.** <small>(un po' sono inevitabili, ma diciamo che alcuni risultano meno gravi di altri)</small>
 
 Sogno **pochi slogan e poche tifoserie**, niente parolacce e insulti, ma una realtà che contempli (laddove dovesse essere necessario) scontri accesi su temi concreti ed importanti.
 
-Non m'interessano **soluzioni semplici a problemi complessi, preferisco scelte impopolari figlie di un programma e di un ragionamento coerente con la propria visione del mondo, un piano che non vada adattandosi all'aria che tira o il singolo caso che esplode.**
+Non m'interessano **soluzioni semplici a problemi complessi, preferisco scelte impopolari figlie di un programma e di un ragionamento coerente con la propria visione del mondo, un piano che non vada adattandosi all'aria che tira o al singolo caso che esplode.**
 
 Insomma, Un Partito con delle priorità chiare in testa **aldilà dei trend su twitter o nei telegiornali**, che si occupi della faccenda immigrazione in modo serio come a quanto pare sta facendo [Milena Gabanelli](http://www.ilfattoquotidiano.it/2017/01/03/migranti-gabanelli-leuropa-ci-paghi-per-una-degna-accoglienza-a-controllo-pubblico/3294395/), (giornalista lontana dalle varie forze politiche in campo), **un Partito radicato nel territorio ma con al tempo stesso una visione globale.**
 
