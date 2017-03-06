@@ -10,7 +10,7 @@ tags:
   - serie-tv
 image: 
   feature: netflix.jpg
-  teaser: teaser-netfilx.jpg
+  teaser: teaser-netflilx.jpg
   thumb: null
 published: true
 comments: true
