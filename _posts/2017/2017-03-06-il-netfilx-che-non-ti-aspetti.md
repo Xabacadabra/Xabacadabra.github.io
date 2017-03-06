@@ -92,7 +92,7 @@ Inutile dire che attendo con trepidazione la seconda stagione.
 <img src='https://upload.wikimedia.org/wikipedia/en/c/c3/Thank_you_for_smoking_Poster.jpg' alt='Thank Thank_you_for_smoking_Poster'>
 </figure>
 
-Uscito ormai un bel po' di anni fa (2005), l'ho scoperto per la prima volta proprio grazie a Netlix: 
+Uscito ormai un bel po' di anni fa (2005), l'ho scoperto per la prima volta proprio grazie a Netflix: 
 
 Esordio alla regia di **Jason Reitman** <small>(figlio del più noto Ivan, regista di tale _Ghostbusters_, forse ne avete sentito parlare)</small> _Thank You for Smoking_ è una divertente commedia non nera ma certo un minimo grigio-fumosa <small>(ahaha)</small> incentrata sulla figura di Nick Naylor, **lobbysta-promoter di un prodotto inequivocabilmente nocivo alle prese con _l'industria del politicamente corretto_:** 
 
