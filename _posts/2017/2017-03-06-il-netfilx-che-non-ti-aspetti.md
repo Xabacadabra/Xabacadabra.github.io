@@ -32,11 +32,11 @@ Spaziando un po' a tutte le latitudini aldilà di ogni genere e retorica!
 
 Per la quota classici, un mitico caposaldo del cinema _italoamericano_ di sua maestà Martin Scorsese classe '73: 
 
-non lo riguardavo da davvero troppo tempo ed è la prima volta che ho visto la coppia **Harvey Keitel / Robert De Niro** a qualità rimasterizzata...**e in inglese**: 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rCwjzn0CncA" frameborder="0" allowfullscreen></iframe>
 
-Nulla contro il bel doppiaggio italiano con il meraviglioso **Gigi Proietti** su De Niro (forse prima che il grande **Ferruccio Amendola** la facesse da padrone), ma semplicemente **la qualità audio dei nostri dialoghi sente tremendamente il peso del tempo**, a differenza della traccia originale che sicuramente ha avuto ben altri strumenti di conservazione.
+Devo dire che non lo riguardavo da davvero troppo tempo e, per la prima volta ho potuto apprezzare la coppia **Harvey Keitel / Robert De Niro** a qualità rimasterizzata, nonché **in inglese**: 
+
+Intendiamoci, nulla contro il bel doppiaggio italiano con il meraviglioso **Gigi Proietti** che presta la voce a "Johnny Boy" De Niro (forse prima che il grande **Ferruccio Amendola** la facesse da padrone), semplicemente **la qualità audio dei nostri dialoghi sente tremendamente il peso del tempo**, a differenza della traccia originale (che sicuramente ha avuto ben altri strumenti di conservazione).
 
 ## Coraline
 
