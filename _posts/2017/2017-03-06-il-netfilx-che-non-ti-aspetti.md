@@ -24,20 +24,6 @@ Perché certo, le serie tv la fanno da padrone ed è facile concentrare tutta la
 
 Spaziando un po' a tutte le latitudini aldilà di ogni genere e retorica!
 
-## Mean Streets
-
-<figure>
-<img src='https://upload.wikimedia.org/wikipedia/en/6/62/Mean_Streets_poster.jpg' alt='Mean Streets'>
-</figure>  
-
-Per la quota classici, un mitico caposaldo del cinema _italoamericano_ di sua maestà Martin Scorsese classe '73: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rCwjzn0CncA" frameborder="0" allowfullscreen></iframe>
-
-Devo dire che non lo riguardavo da davvero troppo tempo e, per la prima volta ho potuto apprezzare la coppia **Harvey Keitel / Robert De Niro** a qualità rimasterizzata, nonché **in inglese**: 
-
-Intendiamoci, nulla contro il bel doppiaggio italiano con il meraviglioso **Gigi Proietti** che presta la voce a "Johnny Boy" De Niro (forse prima che il grande **Ferruccio Amendola** la facesse da padrone), semplicemente **la qualità audio dei nostri dialoghi sente tremendamente il peso del tempo**, a differenza della traccia originale (che sicuramente ha avuto ben altri strumenti di conservazione).
-
 ## Coraline
 
 <figure>
@@ -53,6 +39,20 @@ Come ribadisco spesso da queste parti, io amo alla follia la scrittura di **Neil
 **Selick e lo studio Laika hanno fatto un lavoro tecnicamente eccellente**, sfruttando uno dei soggetti più "semplici" di un autore sensazionale. <small>(a proposito di Gaiman: se si riesce prossimamente parliamo anche di quella meraviglia di _American Gods_, visto che ci stanno facendo sopra una serie)</small>
 
 Se avessi una figlia, credo che questo sarebbe uno dei primi film che le farei vedere (a costo di spaventarla a morte 👹)
+
+## Mean Streets
+
+<figure>
+<img src='https://upload.wikimedia.org/wikipedia/en/6/62/Mean_Streets_poster.jpg' alt='Mean Streets'>
+</figure>  
+
+Per la quota classici, un mitico caposaldo del cinema _italoamericano_ di sua maestà Martin Scorsese classe '73: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rCwjzn0CncA" frameborder="0" allowfullscreen></iframe>
+
+Devo dire che non lo riguardavo da davvero troppo tempo e per la prima volta ho potuto apprezzare la coppia **Harvey Keitel / Robert De Niro** a qualità rimasterizzata, nonché **in inglese**: 
+
+Intendiamoci, nulla contro il bel doppiaggio italiano con il meraviglioso **Gigi Proietti** che presta la voce al "Johnny Boy" di De Niro <small>(forse prima che il grande **Ferruccio Amendola** la facesse da padrone)</small>, semplicemente **la qualità audio dei nostri dialoghi sente tremendamente il peso del tempo**, a differenza della traccia originale (che sicuramente ha avuto ben altri strumenti di conservazione).
 
 ## Abstract: The Art of Design
 
