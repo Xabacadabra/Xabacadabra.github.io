@@ -92,18 +92,20 @@ Inutile dire che attendo con trepidazione la seconda stagione.
 
 Uscito ormai un bel po' di anni fa (2005), l'ho scoperto per la prima volta proprio grazie a Netlix: 
 
-Esordio alla regia di **Jason Reitman** (figlio del più noto Ivan, regista di un certo _Ghostbusters_) _Thank You for Smoking_ è una divertente commedia, non nera ma certo un minimo grigio-fumosa <small>(ahaha)</small> incentrata sulla figura di Nick Naylor **un lobbysta-promoter di un prodotto inequivocabilmente nocivo alle prese con _l'industria del politicamente corretto_:** 
+Esordio alla regia di **Jason Reitman** <small>(figlio del più noto Ivan, regista di tale _Ghostbusters_, forse ne avete sentito parlare)</small> _Thank You for Smoking_ è una divertente commedia non nera ma certo un minimo grigio-fumosa <small>(ahaha)</small> incentrata sulla figura di Nick Naylor, **lobbysta-promoter di un prodotto inequivocabilmente nocivo alle prese con _l'industria del politicamente corretto_:** 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uC9dS-7pEXE" frameborder="0" allowfullscreen></iframe>
 
-Oserei dire che la trovo **più attuale adesso che nel decennio in cui è uscita**. 
+Oserei dire che la trovo **più attuale oggi che nel decennio in cui è uscita**. 
 
-Nel ruolo di Nick c'è **un Aaron Eckhart magistrale** che forse ricorderete per il suo ottimo Due Facce ne _Il cavaliere oscuro_, ruolo fin troppo spesso sottovalutato a causa del celeberrimo Joker di Heath Ledger (e della tragica morte che se lo portò via). 
+Nel ruolo di Nick c'è **un Aaron Eckhart magistrale**, attore che forse ricorderete per il suo ottimo Due Facce ne _Il cavaliere oscuro_, ruolo fin troppo spesso sottovalutato a causa del celeberrimo Joker di Heath Ledger (e della tragica morte che se lo portò via). 
 
-Oh, a proposito di Batman: c'è pure una *pessima* **Katie Holmes** (sta ragazza finito di Dawson Creek ha completamente dimenticato come si recita, boh).
+E, a proposito di Batman, per compensare c'è pure una *pessima* **Katie Holmes** (sta ragazza finito di Dawson Creek ha completamente dimenticato come si recita, boh).
 
 ## See you next time!
 
 Bene, per oggi direi che abbiamo finito! 
 
-Se volete segnalatemi roba pure voi in allegria (anche se ho [TVShow Time che scoppia](https://www.tvshowtime.com/it/user/2987728/profile)) e mi raccomando sfruttate a dovere quel deca al mese!
+Se volete segnalatemi roba pure voi in allegria (anche se ho [TVShow Time che scoppia](https://www.tvshowtime.com/it/user/2987728/profile)) 
+
+Nel frattempo sfruttiamo a dovere quel benedetto deca al mese!
