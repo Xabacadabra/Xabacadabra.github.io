@@ -94,7 +94,7 @@ Personalmente lo vedrei pure un punto sotto...ma che ci volete fare, ogni tanto 
   "@context":"http://schema.org",
   "@type":"Movie",
   "name":"Macbeth",
-  "director" : "Justin Kurzel" 
+  "director": "Justin Kurzel",
   "review": {
     "@type": "Review",
     "reviewRating": {
@@ -104,11 +104,11 @@ Personalmente lo vedrei pure un punto sotto...ma che ci volete fare, ogni tanto 
     "name": "Soffia, vento. Vieni, rovina",
     "author": {
       "@type": "Person",
-      "name": "Andrea Xab Corinti"
-    "image": "http://xabacadabra.com/images/macbeth.jpg"
+      "name": "Andrea Xab Corinti",
+    "image": "http://xabacadabra.com/images/macbeth.jpg",
    },
    "datePublished": "2016-1-14",
-   "dateCreated" : "2016-1-14"
+   "dateCreated" : "2016-1-14",
     "reviewBody": "Commento lapidario ma onesto? Che palle. Commento un minimo più articolato ed esplicatore? Macbeth non è un brutto film, anzi!"
   }
 }
