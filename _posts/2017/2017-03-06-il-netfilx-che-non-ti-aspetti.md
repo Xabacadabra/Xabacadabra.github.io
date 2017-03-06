@@ -64,7 +64,9 @@ Recente produzione documentaristica seriale Made in Netflix: per ora ho visto so
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DYaq2sWTWAA" frameborder="0" allowfullscreen></iframe>
 
-Penso che potrebbe intrigare molta gente che col design non ha niente a che fare, e piano piano intendo proseguirmela per benino.
+Dovessi dire, penso che potrebbe intrigare molta gente che col design non ha niente a che fare.
+
+Di mio (anche se piano piano) intendo proseguirmela per benino.
 
 ## The OA
 
@@ -72,7 +74,7 @@ Penso che potrebbe intrigare molta gente che col design non ha niente a che fare
 <img src='https://upload.wikimedia.org/wikipedia/en/6/6d/The_OA.png' alt='The-oa'>
 </figure> 
 
-Vabbè, qui andiamo nella canonica *serie-tv da Netflix*, quindi esulerebbe un po' dal senso del post ma, essendo fresco fresco di visione, mi pareva giusto spenderci due parole tanto per dare un gusto in più alla mia _gelateria_:
+Vabbè, qui andiamo nella *canonica serie-tv da Netflix*, quindi esulerebbe un po' dal senso della rubrica ma, essendo fresco fresco di visione, mi pareva giusto spenderci due parole tanto per dare un gusto in più alla mia _gelateria_:
 
 **The OA è una serie interessante anzitutto per il ritmo e la struttura con cui è narrata.**
 
@@ -96,16 +98,20 @@ Esordio alla regia di **Jason Reitman** <small>(figlio del più noto Ivan, regis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uC9dS-7pEXE" frameborder="0" allowfullscreen></iframe>
 
-Oserei dire che la trovo **più attuale oggi che nel decennio in cui è uscita**. 
+Devo dire dire che la trovo **più attuale oggi che nel decennio in cui è uscita**. 
 
-Nel ruolo di Nick c'è **un Aaron Eckhart magistrale**, attore che forse ricorderete per il suo ottimo Due Facce ne _Il cavaliere oscuro_, ruolo fin troppo spesso sottovalutato a causa del celeberrimo Joker di Heath Ledger (e della tragica morte che se lo portò via). 
+Nel ruolo di Nick troviamo **un Aaron Eckhart magistrale**, attore che forse ricorderete per il suo ottimo Due Facce ne _Il cavaliere oscuro_, ruolo fin troppo spesso sottovalutato a causa del celeberrimo e bellissimo Joker di Heath Ledger (e della tragica morte che se lo portò via). 
 
-E, a proposito di Batman, per compensare c'è pure una *pessima* **Katie Holmes** (sta ragazza finito di Dawson Creek ha completamente dimenticato come si recita, boh).
+Oh, e a proposito di Batman: forse per compensare la bella prova di Eckhart c'è pure una *pessima* **Katie Holmes** <small>(sta ragazza dopo la fine di _Dawson Creek_ ha completamente dimenticato come si recita, boh)</small>.
 
 ## See you next time!
 
 Bene, per oggi direi che abbiamo finito! 
 
-Se volete segnalatemi roba pure voi in allegria (anche se ho [TVShow Time che scoppia](https://www.tvshowtime.com/it/user/2987728/profile)) 
+Se volete segnalatemi pure voi roba in allegria (anche se confesso di avere [TVShow Time che scoppia](https://www.tvshowtime.com/it/user/2987728/profile)) 
 
-Nel frattempo sfruttiamo a dovere quel benedetto deca al mese!
+Nel frattempo, impegnamoci tutti e sfruttiamo a dovere quel benedetto deca al mese
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oLova27P0Oc" frameborder="0" allowfullscreen></iframe>
+
+non si potrà andare via, ma almeno oggigiorno per netflix basta e avanza! <small>(con l'inflazione e tutto)</small>
