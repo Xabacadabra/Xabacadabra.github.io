@@ -3,7 +3,7 @@ layout: article
 title: "Capricciosa Orange Road - È quasi magia Johnny"
 modified: 2017-03-9
 categories: [2014]
-excerpt: "Se vent'anni aveste domandato agli adolescenti quale fosse triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo *Brenda - Dylan - Kelly*...ma, interpellando i più *pischelli*, la risposta sarebbe stata una sola: *Sabrina - Johnny - Tinetta* (o, canonicamente parlando, *Madoka - Kyusuke - Hikaru*).."
+excerpt: "Se vent'anni aveste domandato agli adolescenti quale fosse triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo Brenda - Dylan - Kelly...ma, interpellando i più *pischelli, la risposta sarebbe stata una sola: Sabrina - Johnny - Tinetta (o, canonicamente parlando, Madoka - Kyusuke - Hikaru).."
 tags: 
    - animazione
 image: 
