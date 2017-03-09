@@ -30,7 +30,7 @@ Partiamo dal principio, e quindi da lui:
 
 Sicuramente, è il primo cartone di cui ho memoria e, a detta dei miei genitori, lo guardavo ancor prima di camminare o proferire parola!
 
-Certo, qualche anno dopo sarei stato investito dal fenomeno [_**Dragon Ball**_](http://xabacadabra.com/2013/dragon-ball-in-italia/), quello che per noi altri nati tra la fine degli anni '80 e l'inizio dei '90 è assurto a tutti gli effetti una sorta di credo religioso, accompagnato da tantissimi annessi e connessi mediasettari del caso (tipo un certo Johnny) ma tutto, almeno nel mio caso, era partito con Lupin, per poi cristallizzarsi, ed in un certo senso esplodere, con Cowboy Bebop, ragion per cui non riesco a non parlare di entrambi in questo post:
+Certo, qualche anno dopo sarei stato investito dal fenomeno [_**Dragon Ball**_](http://xabacadabra.com/2013/dragon-ball-in-italia/), quello che per noi altri nati tra la fine degli anni '80 e l'inizio dei '90 è assurto a tutti gli effetti una sorta di credo religioso, accompagnato da tantissimi annessi e connessi mediasettari del caso (tipo un certo [Johnny](http://xabacadabra.com/2014/orange-road-e-quasi-magia-Johnny-recensione/)) ma tutto, almeno nel mio caso, era partito con Lupin, per poi cristallizzarsi, ed in un certo senso esplodere, con Cowboy Bebop, ragion per cui non riesco a non parlare di entrambi in questo post:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aw3fN3OPk3A" frameborder="0" allowfullscreen></iframe>
 
