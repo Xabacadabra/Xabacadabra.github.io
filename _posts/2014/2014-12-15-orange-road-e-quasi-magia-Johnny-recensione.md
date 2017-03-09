@@ -3,7 +3,7 @@ layout: article
 title: "Capricciosa Orange Road - È quasi magia Johnny"
 modified: 2017-03-9
 categories: [2014]
-excerpt: "Se vent'anni aveste domandato agli adolescenti quale fosse triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo Brenda - Dylan - Kelly...ma, interpellando i più *pischelli, la risposta sarebbe stata una sola: Sabrina - Johnny - Tinetta (o, canonicamente parlando, Madoka - Kyusuke - Hikaru).."
+excerpt: "Se vent'anni fa aveste domandato agli adolescenti quale fosse il triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo Brenda - Dylan - Kelly...ma, interpellando i più *pischelli, la risposta sarebbe stata una sola: Sabrina - Johnny - Tinetta (o, canonicamente parlando, Madoka - Kyusuke - Hikaru).."
 tags: 
    - animazione
 image: 
@@ -18,7 +18,7 @@ ads: true
 ATTENZIONE - QUESTO POST CONTIENE ALTE DOSI DI NOSTALGIA
 {: .notice-danger}
 
-Se vent'anni aveste domandato agli adolescenti quale fosse triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo *Brenda - Dylan - Kelly*...ma, interpellando i più *pischelli*, la risposta sarebbe stata una sola: *Sabrina - Johnny - Tinetta* (o, canonicamente parlando, *Madoka - Kyusuke - Hikaru*). [^nota]
+Se vent'anni fa aveste domandato agli adolescenti quale fosse il triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo *Brenda - Dylan - Kelly*...ma, interpellando i più *pischelli*, la risposta sarebbe stata una sola: *Sabrina - Johnny - Tinetta* (o, canonicamente parlando, *Madoka - Kyusuke - Hikaru*). [^nota]
 
 [^nota]: Specifico che ho seguito rispettivamente la versione mediaset (censurata) da bimbo, e quella riveduta e corretta dalla Yamato Video all'incirca quattro-cinque annetti fa. Mai letto il manga però, quindi le mie osservazioni sono legate esclusivamente alla serie animata</small>
 
@@ -34,7 +34,7 @@ Mettetevi comodi, perché il trenino della nostalgia ha appena iniziato a fare *
 
 {% include toc.html %}
 
-## JOOOOOOOOOOOOOOOOOHNNY
+## JOOOOOOOOOOOHNNY
 
 A differenza dei vari *Evangelion*, *Cowboy Bebop* e *Slam Dunk*del caso, qui ci troviamo di fronte ad **un anime che non può certo dirsi troppo esente da critiche:**
 
