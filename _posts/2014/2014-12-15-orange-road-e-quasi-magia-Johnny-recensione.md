@@ -34,17 +34,19 @@ Mettetevi comodi, perché il trenino della nostalgia ha appena iniziato a fare *
 
 {% include toc.html %}
 
-## JOOOOOOOOOOOHNNY
+## JOOOOOOOOOOHNNY
 
-A differenza dei vari *Evangelion*, *Cowboy Bebop* e *Slam Dunk*del caso, qui ci troviamo di fronte ad **un anime che non può certo dirsi troppo esente da critiche:**
+A differenza dei vari *Evangelion*, *Cowboy Bebop* e *Slam Dunk* del caso, non ci troviamo di fronte ad un prodotto senza tempo, o comunque **un anime che possa dirsi troppo esente da critiche:**
 
-**Orange Road a vederselo è lungo, lento, spesso intrinsecamente ripetitivo, nonostante i risultati delle varie equazioni amorose siano abbastanza chiari sin dal primo episodio.**
+**Orange Road a vederselo è lungo, lento, spesso intrinsecamente ripetitivo**...e lo è nonostante i risultati delle varie "equazioni amorose" siano abbastanza chiari e scontati sin dal primo episodio.
 
 Tutto qui?
 
 No, c'è ancora questo gancio destro:
 
-La componente "sovrannaturale" della storia, così come le questioni di collettività scolastica, **non hanno mai uno straccio di approfondimento**, fossilizzando la vicenda incentrandola quasi sempre esclusivamente sui tre protagonisti.
+La componente sovrannaturale della storia, così come le questioni di collettività scolastica, non hanno mai uno straccio di approfondimento:
+
+**la vicenda si sposta molto poco dai tre protagonisti principali, rischiando molto spesso di congelarsi.**
 
 ## Ma...ma sei un mostro! Un criticone bastardo! MUORI!
 
@@ -54,7 +56,7 @@ La componente "sovrannaturale" della storia, così come le questioni di colletti
 
 EH! Quanto mi piace giocare d'anticipo.
 
-*Fermi:* da queste parti il sottoscritto non si lascia mai andare alle stroncature gratuite. 
+*Fermi:* da queste parti il sottoscritto non si lascia mai andare a delle stroncature gratuite. 
 
 Fate un bel respiro.
 
@@ -62,15 +64,15 @@ Tranquillizzati?
 
 Benissimo! 
 
-Ora diciamo CHE QUESTO CARTONE E' TUTTO UN FOTTUTISSIMO...
+Ora diciamo CHE QUESTO CARTONE E' TUTTO UN DANNATISSIMO...
 ...
 ...
 
-***gioiello.***
+***Gioiello.***
 
 Sì.
 
-E preciso che **non intendo rinnegare nessuna delle critiche con cui ho aperto il post**, penso siano abbastanza obbiettive e motivate, nonché a tratti comuni alla stragrande maggioranza delle commedie romantiche dei manga (anche quelle più moderne)
+E preciso che **non intendo rinnegare nessuna delle critiche con cui ho aperto il post**, penso siano abbastanza obbiettive e motivate, nonché comuni alla stragrande maggioranza delle commedie romantiche manga (anche quelle più moderne).
 
 Ma allora....
 
@@ -84,7 +86,9 @@ Ma allora....
 
 Non è facile rispondere a questa domanda.
 
-Intanto, **Izumi Matsumoto** è un ottimo autore e un quasi altrettanto ottimo narratore, capace di venderti sempre lo stesso piatto ricucinandolo ogni volta in dieci modi diversi...uno di quelli che, in mancanza di un nome migliore, chiamerei **"Maestro dell'Archetipo"**, che sono poi quasi sempre i migliori mangaka per ragazzi (nonché tutti gli autori di storiein senso lato).
+Intanto, **Izumi Matsumoto** è un ottimo autore e un buon narratore, capace di **venderti sempre lo stesso piatto ricucinandolo ogni volta in dieci modi diversi**: 
+
+uno di quelli che chiamerei **"Maestro dell'Archetipo"**, ovvero i migliori mangaka per ragazzi (nonché, chi più chi meno, tutti gli autori di storie in senso lato).
 
 ## Archetipi Manga
 
@@ -96,9 +100,9 @@ Lasciamo perdere la narrativa in generale: **manga (e videogiochi) giapponesi da
 
 la ragazza carina e scontrosa è la _tsundere_ quella morbosamente pucciosa e spietatamente gelosa (come la nostra **Hikaru/Tinetta**) la _yandere_ e così via.
 
-Dovendo gestire tutti questi ingredienti, testati e da un lato di sicuro gradimento per il pubblico di riferimento, **il rischio di scadere nella noia, nel ripetitivo e nel già visto è quasi fisiologico**:
+Dovendo gestire tutti questi ingredienti, ampiamente testati e di sicuro gradimento per il proprio pubblico, **il rischio di scadere nella noia, nella retorica e nel già visto è quasi fisiologico**:
 
-**La capacità del suddetto maestro sta nel saper rigirare gli elementi a suo vantaggio**, narrando qualcosa di ugualmente avvincente e appassionante nonostante la composizione "riciclata" dei suoi componenti.
+**La capacità del suddetto maestro sta nel saper rigirare gli elementi a suo vantaggio**, narrando qualcosa di ugualmente avvincente e appassionante nonostante la macedonia "riciclata" dei frutti che compongono la sua storia.
 
 ## La Regina del Celebrità
 
@@ -106,7 +110,9 @@ Dovendo gestire tutti questi ingredienti, testati e da un lato di sicuro gradime
 <img src='http://2.bp.blogspot.com/-atBOoSbBgPA/VI5feRBj-DI/AAAAAAAALH4/_bV8Lf3RYLo/s1600/KimagureOrangeRoad7.jpg' alt='è-quasi-magia-Johnny'>
 </figure>
 
-Tornando alla domanda *"perché Orange Road è così bello?"*, e visto quanto appena detto, è impossibile non parlare brevissimamente di *lei.*
+E, parlando del frutto principale, torniamo a una delle prime risposte alla domanda *"perché Orange Road è così bello?"*: 
+
+*lei.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7j8il4zHJ6I" frameborder="0" allowfullscreen></iframe>
 
@@ -114,7 +120,7 @@ Tornando alla domanda *"perché Orange Road è così bello?"*, e visto quanto ap
 
 **Sabrina/Ayukawa** ha rappresentato un sogno tra l'erotico ed il romantico per tanti bimbi in crescita**, una delle varie *regine del celebrità* dell'infanzia anni '80-'90, e quindi un importantissimo aggancio per il pubblico maschile (certamente più abituato ad altri generi, almeno in Italia).
 
-Allo stesso modo, **ha rappresentato il modello della ragazza grintosa, un po' ribelle, indipendente e con molto più sale in zucca del protagonista maschile**, quindi pure per molte ragazzine dev'essere stata una figura mica da poco.
+Allo stesso modo, **ha incarnato il modello della ragazza grintosa, un po' ribelle, indipendente e con molto più sale in zucca del protagonista maschile**, dimostrandosi una figura memorabile pure per molte ragazzine.
 
 ## La Terza Incomoda 
 
@@ -122,11 +128,13 @@ Allo stesso modo, **ha rappresentato il modello della ragazza grintosa, un po' r
 <img src='http://2.bp.blogspot.com/-BdU98mstV08/VI5j6RSmnsI/AAAAAAAALIo/rh0JDtkHHTk/s1600/Kimagure.Orange.Road.full.69441.jpg' alt='è-quasi-magia-Johnny'>
 </figure>
 
-E a dirla tutta, anche **Tinetta/Hikaru risulta un personaggio forse fin troppo sottovalutato e bistrattato** <small>(non senza QUALCHE ragione eh)</small>: possedeva alcuni retroscena e sfaccettature interessanti, se si considerano gli anni in cui è stato scritto.
+A dirla tutta, vale anche per **Tinetta/Hikaru, in genere personaggio fin troppo sottovalutato e bistrattato** <small>(non senza QUALCHE ragione eh)</small>, in realtà possedeva retroscena e sfaccettature interessanti, specie considerando gli anni in cui è stato scritto.
 
 ## La Domanda da 1 milione di Yen
 
-Analizzando un minimo questo cartone, possiamo confermare **che è e resterà per sempre una pietra miliare del suo genere**, **una leggenda della sua epoca di riferimento**, con i suoi disegni, le sue splendide musiche j-pop (e pure la bella sigla italiana cantata dalla D'Avena) e sopratutto **i suoi protagonisti**, tanto ingenui quanto smaliziati nel loro rispettivo contesto.
+Analizzando un minimo questo cartone, possiamo confermare **che è e resterà per sempre una pietra miliare del suo genere**, una leggenda della sua epoca di riferimento: 
+
+Coi suoi disegni, le splendide musiche j-pop (e pure la bella sigla italiana cantata dalla D'Avena) ma sopratutto **con i suoi protagonisti**, tanto ingenui quanto smaliziati e moderni per gli standard dell'animazione a noi pervenuta.
 
 Ma *la Domanda*, dicevamo...
 
@@ -140,7 +148,7 @@ Ma *la Domanda*, dicevamo...
 
 E a scriverlo mi piange il cuore.
 
-Preciso: **no, non credo sia legato solamente ai bambini-adolescenti che vanno degenerando sempre più** e che (se i cartoni se li guardano) possono godere di una scelta fin troppo vasta...
+Preciso: **no, non credo sia un discorso legato solamente a bambini-adolescenti che vanno degenerando sempre più**, o al fatto che oggi possano godere di una scelta mediatica *abnorme*...
 
 **Credo piuttosto si tratti fattore fisiologico dell'opera in se.**
 
@@ -152,14 +160,16 @@ Lo so.
 
 Sono tutte cose che noi che ci siam cresciuti molto spesso non vediamo o facciamo finta di non vedere.
 
-Ma tutto sommato, non è detto che questo non debba essere per forza un male, eh !
+E, tutto sommato, non è detto che questo non debba essere per forza un male, eh !
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2TP4MuVnS2A" frameborder="0" allowfullscreen></iframe>
 
-**Orange Road è spietatamente e splendiamente figlio della sua epoca:** non ha un'epopea trascinante dietro, non possiede chissà quali picchi di trama, trip psicotici o colpi di scena narrativi che possano "giustificare" la sua preservazione...**è una storia semplice**, costruita sul più classico dei canovacci romantici: il triangolo ([NO!](https://www.youtube.com/watch?v=Ej9__NTLgAc)) unito ad un **tenero, amabilissimo humor giapponese.**
+**Orange Road è spietatamente e splendiamente figlio della sua epoca:** 
 
-**E, dalla sua uscita sul finire degli anni '80, tutto questo era esattamente ciò che doveva essere**, forse da noi pure di più avendo rappresentato una presenza fissa televisiva per un decennio abbondante. <small>(sfido a trovare un anime dello stesso genere con un simile impatto in Italia)</small>
+Non ha un'epopea trascinante dietro, non possiede chissà quali picchi di trama, trip psicotici o colpi di scena narrativi che possano "giustificare" la sua preservazione...**è una storia semplice**, costruita sul più classico dei canovacci romantici: il triangolo ([NO!](https://www.youtube.com/watch?v=Ej9__NTLgAc)) unito ad un **tenero, amabilissimo humor giapponese.**
 
-Oggi però bisogna rendersi conto che **il mondo è cambiato, e che il potenziale pubblico di Orange Road non è più la massa di adolescenti, ma una nicchia composta da uno sparuto gruppo di nostalgici.**, magari sommati ad alcuni neo-estimatori che si sentono fuori posto tra i propri coetanei.
+**E, dalla sua uscita sul finire degli anni '80, tutto questo era esattamente ciò che doveva essere**, per noi pure di più avendo rappresentato una presenza fissa nel palinsesto del Biscione per un decennio abbondante. <small>(sfido a trovare un anime dello stesso genere con un simile impatto in Italia)</small>
+
+Oggi bisogna rendersi conto che **il mondo è cambiato, e che il potenziale pubblico di Orange Road non è più la massa di adolescenti, ma una nicchia composta da uno sparuto gruppo di nostalgici.**, magari sommati ad alcuni giovani estimatori che si sentono fuori posto tra i propri coetanei.
 
 Gente molto fortunata, se volete il mio parere: **oggigiorno Orange Road avrà pure una platea molto più ristretta, ma è un anime che merita sempre di essere visto.**
