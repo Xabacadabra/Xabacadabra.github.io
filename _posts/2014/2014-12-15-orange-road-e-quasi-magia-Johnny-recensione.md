@@ -3,7 +3,7 @@ layout: article
 title: "Capricciosa Orange Road - È quasi magia Johnny"
 modified: 2017-03-9
 categories: [2014]
-excerpt: "Se negli anni '90 per gli adolescenti il triangolo amoroso per eccellenza era il celeberrimo Brenda - Dylan - Kelly, nel settore animato i più pischelli se la vivevano con Sabrina - Johnny - Tinetta, o, per amor di canonicità, Madoka - Kyusuke - Hikaru."
+excerpt: "Se vent'anni aveste domandato agli adolescenti quale fosse triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo *Brenda - Dylan - Kelly*...ma, interpellando i più *pischelli*, la risposta sarebbe stata una sola: *Sabrina - Johnny - Tinetta* (o, canonicamente parlando, *Madoka - Kyusuke - Hikaru*).."
 tags: 
    - animazione
 image: 
@@ -18,7 +18,7 @@ ads: true
 ATTENZIONE - QUESTO POST CONTIENE ALTE DOSI DI NOSTALGIA
 {: .notice-danger}
 
-Se negli anni '90 per gli adolescenti il triangolo amoroso per eccellenza era il celeberrimo Brenda - Dylan - Kelly, nel settore animato i più pischelli se la vivevano con Sabrina - Johnny - Tinetta, o, per amor di canonicità, Madoka - Kyusuke - Hikaru.[^nota]
+Se vent'anni aveste domandato agli adolescenti quale fosse triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo *Brenda - Dylan - Kelly*...ma, interpellando i più *pischelli*, la risposta sarebbe stata una sola: *Sabrina - Johnny - Tinetta* (o, canonicamente parlando, *Madoka - Kyusuke - Hikaru*). [^nota]
 
 [^nota]: Specifico che ho seguito rispettivamente la versione mediaset (censurata) da bimbo, e quella riveduta e corretta dalla Yamato Video all'incirca quattro-cinque annetti fa. Mai letto il manga però, quindi le mie osservazioni sono legate esclusivamente alla serie animata</small>
 
