@@ -82,6 +82,7 @@ GEM
     thread_safe (0.3.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -95,6 +96,7 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   octopress-paginate
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.13.7

@@ -5,7 +5,7 @@ image:
   feature: gardenight.gif
 ---
 
-<div><h2 class="post-title"><i class="fa fa-search"></i> Cerca nel Blog</h2></div>
+<div><h2 class="post-title"><i class="fa fa-search"></i> Cerca su Xaba Cadabra</h2></div>
 
 <div>
   <figure>
@@ -13,22 +13,19 @@ image:
 </figure>
 </div>
 
-<!-- Html Elements for Search -->
-<div id="search-container">
-<input type="text" id="search-input" placeholder="La ricerca porta alla verità. (disse Socrate. Poi però è morto)">
-<ul id="results-container"></ul>
-</div>
-
-<!-- Script pointing to jekyll-search.js -->
-<script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
-})
+<!--ricercagoogle-->
+<script>
+  (function() {
+    var cx = '000160596931109432273:x8yvqtu5jqy';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 </script>
+<gcse:search></gcse:search>
 
 <div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
@@ -39,17 +36,11 @@ SimpleJekyllSearch({
   
 </div>
 
-<form action="{{ site.baseurl }}/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
-
 <div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"> <i class="fa fa-home"></i> Dove ti trovi</h2>
-  <p class="post-excerpt">Xaba Cadabra è un blog, un <i><a href="/2013/cetramod/">Cetramod</a> ad personam</i> ed un aggregatore di tutto quello che <a href="http://xabacadabra.com/andrea-corinti/"><b>Xab</b></a> combina in rete (o quasi).</p> 
+  <p class="post-excerpt">Xaba Cadabra è una <i>Blog Webzine</i> nonché epicentro di tutto quello che <a href="http://xabacadabra.com/andrea-corinti/"><b>Xab</b></a> combina in rete.</p> 
 
   <p>Per saperne di più sulla sua storia, <a href="/blog/story/"><b>clicca qui.</b></a></p> 
 </div><!-- /.tile -->
@@ -62,7 +53,7 @@ SimpleJekyllSearch({
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-phone-square"></i> Contatti</h2>
-  <p class="post-excerpt">Allo stato attuale il modo migliore per avere mie notizie all'infuori di questo blog è <a href="https://twitter.com/Xabaras89" rel="me"><b>inviarmi un tweet</b></a>. (no messaggi privati please)</p>
+  <p class="post-excerpt"> Potete mandarmi una <a href="mailto:xabarasff@gmail.com"><b>mail</b></a> oppure <a href="https://twitter.com/Xabaras89" rel="me"><b>scrivermi un tweet</b></a> (ma evitate messaggi privati, non li leggo!).</p>
   <p class="post-excerpt">Per il resto, valgono i profili sociali qua sotto</p>
 </div><!-- /.tile -->
 

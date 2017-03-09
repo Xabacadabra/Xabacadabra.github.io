@@ -1,20 +1,18 @@
 # Footer navigation links
 
+- title: <i class="fa fa-archive"></i> Archivio
+  url: http://xabacadabra.com/blog/archivio/
+- title: <i class="fa fa-line-chart"></i> Recensioni
+  url: http://xabacadabra.com/blog/tag/recensioni/
+- title: <i class="fa fa-link"></i> Link
+  url: http://xabacadabra.com/link/
+- title: <i class="fa fa-user"></i> About
+  url: http://xabacadabra.com/andrea-corinti/
 - title: <i class="fa fa-twitter-square"></i> Twitter
   url: https://twitter.com/Xabaras89
 - title: <i class="fa fa-facebook-square"></i> Facebook
   url: https://www.facebook.com/galbadia
-- title: <i class="fa fa-instagram"></i> Instagram
-  url: https://www.instagram.com/xabaras89/ 
 - title: <i class="fa fa-google-plus-square"></i> Google+
   url: https://plus.google.com/u/0/+AndreaXabCorinti
-- title: <i class="fa fa-steam-square"></i> Steam
-  url: http://steamcommunity.com/id/xabaras89/
-- title: <i class="fa fa-lastfm-square"></i> Last.fm
-  url: http://www.last.fm/it/user/XabarasFF
-- title: <i class="fa fa-github-square"></i> Github
-  url: https://github.com/xabacadabra
-- title: <i class="fa fa-medium"></i> Medium
-  url: https://medium.com/@Xab
-- title: <i class="fa fa-link"></i> Link
-  url: http://xabacadabra.github.io/link/
+- title: <i class="fa fa-instagram"></i> Instagram
+  url: https://www.instagram.com/xabaras89/ 
