@@ -7,12 +7,6 @@ image:
 
 <div><h2 class="post-title"><i class="fa fa-search"></i> Cerca su Xaba Cadabra</h2></div>
 
-<div>
-  <figure>
-   <p style="text-align:center;"><img src="/images/SCIMMIE.gif" alt="scimmie"></p>
-</figure>
-</div>
-
 <!--ricercagoogle-->
 <script>
   (function() {
@@ -26,6 +20,7 @@ image:
   })();
 </script>
 <gcse:search></gcse:search>
+<!--/ricercagoogle-->
 
 <div><h2 class="post-title"><i class="fa fa-clock-o"></i> Ultimi Post</h2></div>
 
