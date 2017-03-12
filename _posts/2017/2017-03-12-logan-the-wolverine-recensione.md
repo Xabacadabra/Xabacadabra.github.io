@@ -17,7 +17,7 @@ comments: true
 
 _Logan_ è un bel film. 
 
-Soprattutto **è un _Film_, non l'episodio della gargantuesca serie tv rappresentata dal Marvel Cinematic Universe: 
+Soprattutto **è un _Film_, non l'episodio della gargantuesca serie tv rappresentata dal Marvel Cinematic Universe:** 
 
 Vale insomma ciò che scrissi per [_Batman V Superman_](http://xabacadabra.com/2016/batman-v-superman-dawn-of-justice-recensione/)...**con la sostanziale differenza che quello era na ciofeca, mentre come detto _Logan_ è effettivamente un _bel_ film.**
 
