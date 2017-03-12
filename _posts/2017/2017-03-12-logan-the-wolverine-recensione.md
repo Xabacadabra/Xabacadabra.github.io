@@ -59,13 +59,13 @@ Certo, aldilà di tutto questo, i difetti veri e propri del self-titled di _Ghio
 
 <figure>
 <img src='https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/17015640_679216565583899_8634977701366976455_o.jpg?oh=af057e6de48801672f4311a6311d176c&oe=5963117B' alt='logan-the-wolverine'>
-<figcaption>C'è anche Murphy di <a href='http://xabacadabra.com/2015/narcos-recensione/'>Narcos</a>, che senza il suo buddy Pedro _"Vipera Rossa"_ Pascal si rivela un po' na pippa.
+<figcaption>C'è anche Murphy di <a href='http://xabacadabra.com/2015/narcos-recensione/'>Narcos</a>, che senza il suo buddy Pedro "Vipera Rossa" Pascal si rivela un po' na pippa.
 </figcaption>
 </figure> 
 
 Sono gli antagonisti: **blandi, anonimi, deboli e, parlando del _"boss finale"_, decisamente discutibili per una MAREA di ragioni diverse.**
 
-_Logan_ gioca molto sul fatto di essere _"un film nerd profondo lontano dai soliti cinefumetti colmi di olio di palma"_e per carità, come detto sopra è vero: 
+_Logan_ gioca molto sul fatto di essere _"un film nerd profondo lontano dai soliti cinefumetti colmi di olio di palma"_ e per carità, come detto sopra è vero: 
 
 **Tuttavia, volenti o nolenti, il film resta un cinefumettone di Wolverine e da certe logiche narrative non si scappa.** 
 
