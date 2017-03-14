@@ -109,8 +109,8 @@ In mezzo: **ottimi attori, scene d'azione carine, bella colonna sonora e un inte
   "name": "Logan - Te Wolverine",
   "image": "http://xabacadabra.com/images/teaser-logan-the-wolverine.jpg",
   "description": "Semplicemente quello che ho scritto in cima: un bel film. Anzi, Un GRAN bel film nella sua prima parte, un filmetto un po' così  nelle battute finali, specie considerando il loro peso narrativo. ",
-  "aggregateRating": {
-    "@type": "aggregateRating",
+  "reviewRating": {
+    "@type": "reviewRating",
     "ratingValue": "4"
   }
 }
