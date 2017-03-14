@@ -100,3 +100,18 @@ In mezzo: **ottimi attori, scene d'azione carine, bella colonna sonora e un inte
 
 4 Braccobaldi traducibili con un 7 pieno pieno.
 {: .notice-success}
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Movie",
+  "name": "Logan - Te Wolverine",
+  "image": "http://xabacadabra.com/images/teaser-logan-the-wolverine.jpg",
+  "description": "Semplicemente quello che ho scritto in cima: un bel film. Anzi, Un GRAN bel film nella sua prima parte, un filmetto un po' così  nelle battute finali, specie considerando il loro peso narrativo. ",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4"
+  }
+}
+ </script>
