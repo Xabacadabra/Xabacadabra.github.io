@@ -48,7 +48,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><i class="fa fa-phone-square"></i> Contatti</h2>
-  <p class="post-excerpt"> Potete mandarmi una <a href="mailto:xabarasff@gmail.com"><b>mail</b></a> oppure <a href="https://twitter.com/Xabaras89" rel="me"><b>scrivermi un tweet</b></a> (ma evitate messaggi privati, non li leggo!).</p>
+  <p class="post-excerpt"> Potete mandarmi una <a href="mailto:xabacadabra@gmail.com"><b>mail</b></a> oppure <a href="https://twitter.com/Xabaras89" rel="me"><b>scrivermi un tweet</b></a> (ma evitate messaggi privati, non li leggo!).</p>
   <p class="post-excerpt">Per il resto, valgono i profili sociali qua sotto</p>
 </div><!-- /.tile -->
 
