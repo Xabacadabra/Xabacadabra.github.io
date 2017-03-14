@@ -49,8 +49,9 @@ layout: default
 				  <p id="post-meta">{{ tags_content }}</p> <!-- tags -->
 
 <footer class="page-footer">
- {% if page.share != false %}{% include share-this.html %}{% endif %}
- {% include page-meta.html %}
+          {% if page.categories %}{% include page-author.html %}{% endif %}
+          {% if page.share != false %}{% include share-this.html %}{% endif %}
+          {% include page-meta.html %}
 </footer>
 <!-- /.footer -->
 
