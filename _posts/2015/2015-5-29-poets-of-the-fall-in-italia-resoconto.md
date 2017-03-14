@@ -39,7 +39,7 @@ Ecco, i Poets of the Fall hanno una biografia del tutto particolare: legati a do
 
 A tratti appaiono artisti consumati, imperiosi nella sicurezza dei propri mezzi ma, per altri versi, mantengono tutta quella genuinità e freschezza che caratterizza l'anima delle band di nicchia, il classico _"prima di tutto, io a suonare mi diverto"_ 
 
-Ma sopratutto, e come solo taluni gruppi sono in grado di fare, i Poets sanno mettere in moto quegli strani circuiti che ti scaldano dentro, facendoti dimenticare per qualche attimo anche di te stesso 
+Ma soprattutto, e come solo taluni gruppi sono in grado di fare, i Poets sanno mettere in moto quegli strani circuiti che ti scaldano dentro, facendoti dimenticare per qualche attimo anche di te stesso 
 
 **Marko Saaresto**, leader e voce della band, è decisamente il summa di tutto questo discorso.
 
@@ -125,7 +125,7 @@ Segue un (immaginario) discorso aulico con me e l'Oscura Divinità della Metrò
 
 "Che accade, o immondo e metallico spirito protettore del sottosuolo sforzesco?"
 
-"Accade" risponde l'altoparlante "Che un tizio a Porta Genova a momenti crepa, quindi tutti i treni sulla linea M2 subiranno variazioni. Pesanti. Sopratutto quello che devi prendere TE."
+"Accade" risponde l'altoparlante "Che un tizio a Porta Genova a momenti crepa, quindi tutti i treni sulla linea M2 subiranno variazioni. Pesanti. soprattutto quello che devi prendere TE."
 
 Status attuale: Urlo di Munch.
 

@@ -87,7 +87,7 @@ Che utilizzo per praticamente _qualsiasi_ cosa, essendo un potentissimo editor a
 
 ### Mousepad
 
-L'editor di testo montato di default in ambienti LXDE (nel mio caso Xubuntu): è molto semplice e minimal, ma mi ci trovo un sacco bene per fare tante modifiche al volo, sopratutto col formato markdown.
+L'editor di testo montato di default in ambienti LXDE (nel mio caso Xubuntu): è molto semplice e minimal, ma mi ci trovo un sacco bene per fare tante modifiche al volo, soprattutto col formato markdown.
 
 ### Atom
 

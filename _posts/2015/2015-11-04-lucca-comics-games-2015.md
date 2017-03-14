@@ -95,7 +95,7 @@ Mi aspettavo un carnaio indecente (stile l'anno scorso) e invece l'ho trovata ab
 
 ### Gestione degli spazi
 
-Probabilmente non è ancora sufficiente, ma vedere il mega stand della Bao, la Shockdom spostata in un altro padiglione (con un'area ben più vasta) e sopratutto il settore di League of Legends ben separato e lontano dal Games è stata un'ottima cosa
+Probabilmente non è ancora sufficiente, ma vedere il mega stand della Bao, la Shockdom spostata in un altro padiglione (con un'area ben più vasta) e soprattutto il settore di League of Legends ben separato e lontano dal Games è stata un'ottima cosa
 
 ### L'organizzazione
 

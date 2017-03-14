@@ -74,7 +74,7 @@ Come si è intuito, Gibson è un autore poliedrico, ispirato e matto.
 
 Per questi motivi, è molto facile venire letteralmente travolti dal suo stile e immersi nella lettura...ma allo stesso modo non è da escludere che alcuni racconti possano lasciare abbastanza indifferenti, con il palato di chi legge unico e insindacabile giudice
 
-Di mio, posso dire che di palati Gibson ne sa raggiungere molti e sopratutto estremamente diversi (a differenza di quanto spesso accade con la fantascienza più convenzionale) e che chiunque dovrebbe concedersi l'onore di addentrarsi nei suoi mondi distopici
+Di mio, posso dire che di palati Gibson ne sa raggiungere molti e soprattutto estremamente diversi (a differenza di quanto spesso accade con la fantascienza più convenzionale) e che chiunque dovrebbe concedersi l'onore di addentrarsi nei suoi mondi distopici
 
 E con questo, inforcando i celeberrimi occhiali a specchio (simbolo universale del cyberpunk) chiudiamo il file.
 

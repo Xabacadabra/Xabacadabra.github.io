@@ -21,7 +21,7 @@ Ora, lungi da me darlo per finito (quante volte ho visto gente stappare spumanti
 
 **Berlusconi è un rottame.**
 
-Sempre un uomo potentissimo, ok, ma oggi uno tra i tanti potenti che giocano con l'italica scacchiera, e sopratutto **un prodotto politicamente pressoché invendibile anche ai suoi** (con l'8 Novembre a Bologna direi che [la cosa è diventata lampante](http://st.ilfattoquotidiano.it/wp-content/uploads/2015/11/berlusconi-salvini-6751.jpg)).
+Sempre un uomo potentissimo, ok, ma oggi uno tra i tanti potenti che giocano con l'italica scacchiera, e soprattutto **un prodotto politicamente pressoché invendibile anche ai suoi** (con l'8 Novembre a Bologna direi che [la cosa è diventata lampante](http://st.ilfattoquotidiano.it/wp-content/uploads/2015/11/berlusconi-salvini-6751.jpg)).
 
 **Dieci anni fa, ben prima dell'avvento dei due Mattei, Berlusconi era signore e padrone incontrastato di una terra in tumulto.** 
 
@@ -43,7 +43,7 @@ E forse non sono solo.
 
 Mi manca quel moto di (metaforicamente) violenta, **virile irruenza adolescenziale, quello sfanculamento perenne**, quel _"Non siamo in buoni rapporti con mediaset!"_ ad una giornalista del Tg4, quel _"Sì, siamo il Partito dell'Odio, e l'Odio ha VINTO!"_ goliardico per spaventare le vecchiette dell'Azione Cattolica, quel _"Non saremo mai liberi finché ci sarà Berlusconi"_ che mi fece innamorare di una compagna di banco in prima liceo...
 
-Da questo punto di vista, **quanto si diceva di male di tanti antiberlusconiani** (sopratutto noi che all'epoca del massimo splendore di Silvio eravamo teenager) **non si allontanava mai troppo dalla realtà:**
+Da questo punto di vista, **quanto si diceva di male di tanti antiberlusconiani** (soprattutto noi che all'epoca del massimo splendore di Silvio eravamo teenager) **non si allontanava mai troppo dalla realtà:**
 
 Il fatto che noi, minoranza rumorosa e indisciplinata, **andassimo contro Berlusconi a priori**, letteralmente per partito preso, è vero. 
 Ammettiamolo, dai. (certo, pure lui ci metteva del suo)

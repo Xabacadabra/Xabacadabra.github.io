@@ -98,7 +98,7 @@ Io non voglio picchiarmi con Radish **tra due cutscene che conosco già a memori
 
 Voglio una casetta, l'automobile della Capsule Corporation, voglio le scenette degli NPC che cazzeggiano per i fatti loro, voglio Arale, voglio pure i filler dove Junior e Goku si pigliano la patente e partecipare attivamente come manco fossi in un gioco della ATLUS...
 
-e sopratutto
+e soprattutto
 
 IO
 

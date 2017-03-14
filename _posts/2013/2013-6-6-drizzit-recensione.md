@@ -67,7 +67,7 @@ La forza di Drizzit sta nella commedia narrata, a tratti addirittura epica, per 
 
 Un po' Peanuts e un po' Armata Brancaleone, (con in mezzo sprazzi comicamente amorosi degni dei nipponici Lamù, Ranma e Orange Road) Drizzit è anzitutto un riuscitissimo esperimento originale, forse unico per la sua particolare condizione di striscia-fumetto.
 
-Ma, e sopratutto, è una pressoché inesauribile fonte di risate, stile ed ironia, nonché di alcuni avvincenti exploit narrativi che non fanno rimpiangere le avventure da cui è (molto) liberamente tratto
+Ma, e soprattutto, è una pressoché inesauribile fonte di risate, stile ed ironia, nonché di alcuni avvincenti exploit narrativi che non fanno rimpiangere le avventure da cui è (molto) liberamente tratto
 
 ## Dove/Come leggere Drizzit
 

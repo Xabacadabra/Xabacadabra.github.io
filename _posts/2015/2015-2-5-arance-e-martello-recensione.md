@@ -54,9 +54,9 @@ Il fatto è che, in fin della fiera, non è mai del tutto così.
 
 **Non c'è agiografia**, o un facile scaricabarile sui pezzi grossi del partito: 
 
-**C'è il meglio e (sopratutto) il peggio di quello che passa una certa fetta di politica popolare italiana**, una fetta grossomodo congelata nella Prima Repubblica, anche a dispetto di primarie, moderati e Berlusconi
+**C'è il meglio e (soprattutto) il peggio di quello che passa una certa fetta di politica popolare italiana**, una fetta grossomodo congelata nella Prima Repubblica, anche a dispetto di primarie, moderati e Berlusconi
 
-Ma sopratutto, è l'emblema del post-_veltronismo_: 
+Ma soprattutto, è l'emblema del post-_veltronismo_: 
 
 Visualizzate il contesto storico: niente M5S, niente Renzi, niente Monti, Berlusconi ancora dominatore semi-incontrastato. 
 

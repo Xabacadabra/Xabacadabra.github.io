@@ -23,9 +23,9 @@ Sui social network sono abbastanza attivo su Twitter, Facebook, e quando capita 
 
 Sono nato in quella ridente (?!) e inquinata area chiamata **Brianza**, più precisamente vicino al confine svizzero, all'origine risulto un amabilissimo _mat de vila_
 
-Possiedo una sorta di distorto orgoglio comasco, anche perché la provincia e la città di Como col suo Lago, i suoi monti e sopratutto i suoi boschi continuano a piacermi come pochi altri luoghi al mondo (nutro minore stima nei confronti dell'area urbana più moderna - diciamo che in linea di massima mi fa proprio cagare va -)
+Possiedo una sorta di distorto orgoglio comasco, anche perché la provincia e la città di Como col suo Lago, i suoi monti e soprattutto i suoi boschi continuano a piacermi come pochi altri luoghi al mondo (nutro minore stima nei confronti dell'area urbana più moderna - diciamo che in linea di massima mi fa proprio cagare va -)
 
-Durante la mia vita ho vissuto un po' ovunque (un paio d'anni nel milanese, circa tre in **Argentina** - nella splendida **Mar del Plata** - un altro paio in quel di **Fiumefreddo di Sicilia**, terra d'origine della mia cara nonna materna) e viaggiato un bel po' in generale, sopratutto nell'**Europa Mediterranea** ed il **Nord-Africa** (Francia, Spagna, Grecia, Tunisia, Egitto...)
+Durante la mia vita ho vissuto un po' ovunque (un paio d'anni nel milanese, circa tre in **Argentina** - nella splendida **Mar del Plata** - un altro paio in quel di **Fiumefreddo di Sicilia**, terra d'origine della mia cara nonna materna) e viaggiato un bel po' in generale, soprattutto nell'**Europa Mediterranea** ed il **Nord-Africa** (Francia, Spagna, Grecia, Tunisia, Egitto...)
 
 Personalmente sono molto affascinato da **Asia** (Giappone in primis, com'è facile da intuire) e **Nord Europa** dove ahimé non ho ancora avuto l'opportunità di bighellonare.
 
@@ -48,7 +48,7 @@ Politicamente sarei eticamente vicino all'**anarco-indivdualismo**, ma essendo e
 
 ## Sport
 
-Non mi piace il Calcio sopratutto per come lo si vive (e si gioca) in Italia, però da bimbo confesso di aver adorato (sopratutto) Roberto Baggio, Zinedine Zidane, Gianluca Zambrotta, Beppe Bergomi e George Weah.
+Non mi piace il Calcio soprattutto per come lo si vive (e si gioca) in Italia, però da bimbo confesso di aver adorato (soprattutto) Roberto Baggio, Zinedine Zidane, Gianluca Zambrotta, Beppe Bergomi e George Weah.
 
 Per il resto, tifo Pallacanestro Cantù e sono un umile amante del basket in generale: in termini di NBA ho una vecchia simpatia per i Chicaco Bulls derivata dall'infanzia Jordaniana, poi vabbè Allen Iverson negli anni 2000 mi fece innamorare dei Philadelphia 76ers (complice anche la splendida canotta dell'epoca e l'effetto Rocky Balboa)
 

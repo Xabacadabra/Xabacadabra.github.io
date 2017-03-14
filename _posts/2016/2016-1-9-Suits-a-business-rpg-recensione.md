@@ -21,7 +21,7 @@ comments: true
 
 2. **ho un certo pregiudizio di fondo nei confronti dei giochi realizzati con Rpg Maker che vengono commercializzati**, anche se preciso che non è assoluto (**_Skyborn_** dal poco che ho visto è abbastanza interessante, per fare un esempio)
 
-Venendo al gioco vero e proprio...ho preso Suits attirato dal basso prezzo[^prezzo], le buone recensioni e sopratutto il potenziale originale, anche solo a **livello grafico** (per paradosso, i "disegnacci" con cui è strutturato sono una scelta estetica interessante, sopratutto nella retrorica da JRPG amatoriale).
+Venendo al gioco vero e proprio...ho preso Suits attirato dal basso prezzo[^prezzo], le buone recensioni e soprattutto il potenziale originale, anche solo a **livello grafico** (per paradosso, i "disegnacci" con cui è strutturato sono una scelta estetica interessante, soprattutto nella retrorica da JRPG amatoriale).
 
 [^prezzo]: Suits è disponibile su Steam a 0.99 €, al momento in cui scrivo è scontato a 0.59 per il lancio.
 

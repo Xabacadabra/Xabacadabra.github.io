@@ -33,7 +33,7 @@ Con il macello in Libia? Con l'Ucraina, lo <a href="https://twitter.com/hashtag/
 
 E insomma, sinceramente [a me di come se la passa il blog di Beppe Grillo](http://www.beppegrillo.it/2015/02/iononleggorepubblica.html) non me ne può fregar di meno, quindi questa sarebbe la prima critica che farei anzitutto a Repubblica, giornale che IO leggo, e spesso critico, anche perché ce l'ho digitalmente gratis ogni giorno grazie Brianza Biblioteche.
 
-Ma è sopratutto la critica che faccio di rimando ai 5 Stelle e lo stesso Beppe: lasciamo perdere un attimo il merito della questione, diamo per scontato che Repubblica (così come altri quotidiani) le spara spesso e volentieri ed **è più che giusto smontare eventuali bufale con i fatti...**
+Ma è soprattutto la critica che faccio di rimando ai 5 Stelle e lo stesso Beppe: lasciamo perdere un attimo il merito della questione, diamo per scontato che Repubblica (così come altri quotidiani) le spara spesso e volentieri ed **è più che giusto smontare eventuali bufale con i fatti...**
 
 <blockquote class="twitter-tweet" lang="it">
 "<a href="https://twitter.com/hashtag/IoNonLeggoRepubblica?src=hash">#IoNonLeggoRepubblica</a>" io non mi vanterei mai di non leggere qualcosa, nemmeno il Mein Kampf. Leggere è conoscere. Conoscere ≠ condividere<br />

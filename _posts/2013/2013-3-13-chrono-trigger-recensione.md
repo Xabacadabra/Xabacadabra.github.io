@@ -42,7 +42,7 @@ Colpi di scena e intrecci temporali non mancheranno, e a seconda di come ci sare
 Il titolo ha poi una sua sorta di dinamicità di fondo, che spesso mette (più o meno consapevolmente) alla prova il giocatore, dando a quest'ultimo l'opportunità di influenzare uno svariato numero di eventi a suo piacimento - o suo malgrado
 
 ayla
-C'è poi da segnalare il fatto che Crono non parlerà mai durante il gioco, a differenza degli altri caratterizzatissimi personaggi: questo da un lato porta al classico dramma del protagonista muto, ma in Chrono Trigger forse il fattore si rivela un vantaggio, visto che permette di rapportarsi e apprezzare al meglio il resto del party (sopratutto Marle)
+C'è poi da segnalare il fatto che Crono non parlerà mai durante il gioco, a differenza degli altri caratterizzatissimi personaggi: questo da un lato porta al classico dramma del protagonista muto, ma in Chrono Trigger forse il fattore si rivela un vantaggio, visto che permette di rapportarsi e apprezzare al meglio il resto del party (soprattutto Marle)
 
 ##Gameplay
 

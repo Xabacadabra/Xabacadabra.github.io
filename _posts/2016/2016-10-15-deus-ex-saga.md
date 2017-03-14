@@ -58,7 +58,7 @@ Quello più noto ai giovini e al pubblico mainstream, concepito da **Eidos Montr
 
 Ecco, se conoscete un pochino questo blog ora vi aspetterete una condanna nostalgica, uno sputtanamento cinico e caustico pieno di girelle...ed in effetti confesso che, prima di giocarlo, **un po' me lo sarei aspettato anche io:**
 
-**Sequel, remake, reboot e riesumazioni di vecchi classici in salsa moderna mi mettono tendenzialmente sul chi vive** e, parlando di un gioco importante qual'è stato Deus Ex, ammetto di essermi avvicinato a questo pargolo dalle tinte seppiose con tutti i pregiudizi del caso, sopratutto perché non vedo mai di buon occhio una serie che prosegue senza il proprio creatore.
+**Sequel, remake, reboot e riesumazioni di vecchi classici in salsa moderna mi mettono tendenzialmente sul chi vive** e, parlando di un gioco importante qual'è stato Deus Ex, ammetto di essermi avvicinato a questo pargolo dalle tinte seppiose con tutti i pregiudizi del caso, soprattutto perché non vedo mai di buon occhio una serie che prosegue senza il proprio creatore.
 
 Salta fuori che, invece, **la storia di Adam Jensen mi è piaciuta tantissimo**:
 
@@ -72,7 +72,7 @@ Ma intendiamoci: _magari_ i difetti fossero sempre questi...
 
 **Human Revolution è un raro testimone positivo della scorsa gen**, la dimostrazione che fare giochi belli, profondi e curati come usava una volta non è utopia, e **che quando si parla di "retrogame" non lo si fa solo con la nostalgia in testa:**
 
-Applausi ai ragazzi di Eidos Montreal, e al coraggio che hanno avuto nel rispolverare impegno e stile a dispetto di un settore complessivamente molto più più pigro (e sopratutto costoso).
+Applausi ai ragazzi di Eidos Montreal, e al coraggio che hanno avuto nel rispolverare impegno e stile a dispetto di un settore complessivamente molto più più pigro (e soprattutto costoso).
 
 E oh, dulcis in fundo complimenti pure all'ottimo doppiaggio italiano (quando i soldi della Square Enix vengono impiegati come si deve)
 

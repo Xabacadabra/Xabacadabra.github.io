@@ -40,7 +40,7 @@ In mezzo non si possono non citare i due Kill Bill, vero summa del cinema di Tar
 
 Premettendo che le parentele con quel meraviglioso Django del 1966 (starring Franco Nero, che in questo Unchained fa un cameuccio) si limitano - come prevedibile - al nome, parliamo di un film che sostanzialmente ci dona tutto ciò che è lecito aspettarsi dal miglior Tarantino:
 
-dialoghi e scene pulp, delizioso humor delirante, violenza enfatizzata come nel meglio del hongkong movie e sopratutto citazioni a grappolo (se non vi scatta la risata/lacrimuccia/nostalgiafagiolifera durante la canzone in sottofondo nel finale, allora mi spiace ma sto film per voi rappresenta perle ai porci, senza se e senza ma!)
+dialoghi e scene pulp, delizioso humor delirante, violenza enfatizzata come nel meglio del hongkong movie e soprattutto citazioni a grappolo (se non vi scatta la risata/lacrimuccia/nostalgiafagiolifera durante la canzone in sottofondo nel finale, allora mi spiace ma sto film per voi rappresenta perle ai porci, senza se e senza ma!)
 
 Ecco, facendo una sintesi, Django non tradisce le aspettative e anzi: ci cavalca sopra agilmente, probabilmente pure meglio di Bastardi Senza Gloria e forse quasi al livello di un Kill Bill in grande spolvero
 
@@ -54,6 +54,6 @@ Potrebbero obbiettare in molti, ed in effetti probabilmente c'avrebbero pure rag
 
 ## Foxx e Di Caprio
 
-Va detto infine che trovo un Django Unchained **apprezzabile anche per un pubblico non troppo tarantiniano**, che si parla probabilmente di uno dei suoi film meno feticisti di sempre (e meno male, aggiungerei) e sopratutto che le prove attorali risultano eccellenti per tutto il cast nel suo complesso, specie (per quanto mi riguarda) nell'inedita versione vecchia e bastardissima di Samuel L. Jackson ed nel fantastico Cristoph Waltz, che spesso e volentieri rubano la scena alle due indiscutibili star del lotto: Jamie Foxx e Leonardo di Caprio (che si confermano entrambi attori eccelsi)
+Va detto infine che trovo un Django Unchained **apprezzabile anche per un pubblico non troppo tarantiniano**, che si parla probabilmente di uno dei suoi film meno feticisti di sempre (e meno male, aggiungerei) e soprattutto che le prove attorali risultano eccellenti per tutto il cast nel suo complesso, specie (per quanto mi riguarda) nell'inedita versione vecchia e bastardissima di Samuel L. Jackson ed nel fantastico Cristoph Waltz, che spesso e volentieri rubano la scena alle due indiscutibili star del lotto: Jamie Foxx e Leonardo di Caprio (che si confermano entrambi attori eccelsi)
 
 In conclusione è consigliatissimo un po' a tutti, anche se non dovete certamente aspettarvi uno spaghetti western o un vero e proprio film di genere: è la nostra cara macedonia tarantinica, solo vagamente in salsa Spike Lee (visto con gli occhi di Quentin, s'intende)

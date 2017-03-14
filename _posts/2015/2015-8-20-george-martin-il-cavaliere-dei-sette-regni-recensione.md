@@ -24,7 +24,7 @@ Con la prosa di George Martin possiedo un rapporto d'amore-odio, lo ribadisco sp
 <figcaption>"Cioè, in più che sono morto vi mettete pure a pisciare così la mia famiglia e la mia terra? Ringraziamo Gregor a 'sto giro"</figcaption>
 </figure>
 
-**Game of Thrones** in questo senso non ha aiutato molto, parlando dell'ultima stagione e sopratutto dello scempio fatto con tutta la parte di **Dorne**:
+**Game of Thrones** in questo senso non ha aiutato molto, parlando dell'ultima stagione e soprattutto dello scempio fatto con tutta la parte di **Dorne**:
 
 siamo d'accordo, non l'ha scritta lui, ok, ma il fatto che non abbia fatto scuoiare gli sceneggiatori contribuisce ad acuire un senso di malessere che esiste anche in alcuni suoi libri...quella ricerca un po' forzata al colpo di scena "che non ti aspetti", sommata a parti POV per il mio gusto noiosissime (l'80% di quelle di Daenerys e Sam Tarly, tanto per cominciare) spesso prolisse in dettagli abbastanza tralasciabili a scapito di vicende ben più rilevanti legate ad altri personaggi
 
@@ -42,7 +42,7 @@ E il qui presente libro ne è un'ulteriore conferma.
 
 **Il Cavaliere dei Sette Regni** è formato da tre racconti consecutivi estremamente "classici" nel loro essere straordinariamente ben scritti, ambientati circa un secolo prima degli avvenimenti delle _Cronache del Ghiaccio e del Fuoco / Il Trono di Spade._
 
-Per quanto mi riguarda, **questo libro è qualcosa di superbo**, che quasi si fa leggere da solo, offrendo una storia senza quella sensazione da colpo di scena forzato di cui sopra, **quasi del tutto priva di colossali ecatombi per cui Ciccio Martin s'è reso celebre nell'internet** e (forse sopratutto) offre **uno splendido spaccato della Westeros antica**, quella più cavalleresca, epica anche se già permeata da intrighi e giochi di potere - al tempo indissolubilmente legati alle vicende dei **Targaryen** e dei loro relativi Grandi Bastardi **Blackfyre**
+Per quanto mi riguarda, **questo libro è qualcosa di superbo**, che quasi si fa leggere da solo, offrendo una storia senza quella sensazione da colpo di scena forzato di cui sopra, **quasi del tutto priva di colossali ecatombi per cui Ciccio Martin s'è reso celebre nell'internet** e (forse soprattutto) offre **uno splendido spaccato della Westeros antica**, quella più cavalleresca, epica anche se già permeata da intrighi e giochi di potere - al tempo indissolubilmente legati alle vicende dei **Targaryen** e dei loro relativi Grandi Bastardi **Blackfyre**
 
 ## Dunk
 

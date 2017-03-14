@@ -36,7 +36,7 @@ Costante eppur mai troppo statica, sempre consapevole degli eventi attorno a lei
 
 in Final Fantasy VIII **il Garden di Balamb** fu un altro caso molto rappresentativo: 
 
-studenti che vanno e vengono, parlano di cinema, di problemi, amori, vari fatti privati **del tutto estranei e lontani da Squall** <small>(che molto spesso fa la figura del guardone, non per niente)</small> protagonista che, sopratutto all'inizio, è percepito come uno tra tanti, la proverbiale _goccia nel mare_.
+studenti che vanno e vengono, parlano di cinema, di problemi, amori, vari fatti privati **del tutto estranei e lontani da Squall** <small>(che molto spesso fa la figura del guardone, non per niente)</small> protagonista che, soprattutto all'inizio, è percepito come uno tra tanti, la proverbiale _goccia nel mare_.
 
 Ma è in Final Fantasy IX, dicevamo, che le cose si spingono pure oltre:
 

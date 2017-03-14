@@ -31,7 +31,7 @@ Quanto scrivo qui è legato ad una storia cominciata esattamente sei anni fa.
 
 Una roba molto mia, o dovrei dire molto nostra, molto [cetriana](http://xabacadabra.com/2013/cetramod/)...ma neanche poi così tanto:
 
-Perché sì, Late Messiah nasce su Cetramod, per Cetramod e in Cetramod...ma la verità è che, fin da subito, è stato un qualcosa di connesso sopratutto ad uno stretto numero di determinate persone, che con la community potevano essere più o meno legate.
+Perché sì, Late Messiah nasce su Cetramod, per Cetramod e in Cetramod...ma la verità è che, fin da subito, è stato un qualcosa di connesso soprattutto ad uno stretto numero di determinate persone, che con la community potevano essere più o meno legate.
 
 Certo: diciamo pure che tutto, ma proprio TUTTO parte con [Arc](http://arcweb.it/), che di Cetramod è sommo autore, mungitore ed ucciditore...ma per quanto riguarda Late Messiah (ed il suo [Rig Veda](http://www.cetramod.it/rigveda/appendice/cenni-storici/)) direi che ha contato più che altro il **Marco Bortone** individuo, piuttosto che il webmaster della community più pazza (e più chiusa) del web.
 

@@ -44,7 +44,7 @@ Se ponderate, come detto, **potrei starmene.**
 
 È chiaro che **levare la World Map** sarebbe una cosa (mi piangerebbe il cuore, ma mi rendo conto che è un po' un delirio da realizzare con lo stile grafico odierno), **inserire Genesis nei momenti fondamentali della storia tutt'altra.** 
 
-Personalmente **ho odiato quasi ogni elemento partorito dalla Compilation**, sopratutto le abnormi stronzate presenti in Crisis Core e il _denzelcentrismo_ di Advent Children...quindi questo è probabilmente il punto che mi mette più ansia.
+Personalmente **ho odiato quasi ogni elemento partorito dalla Compilation**, soprattutto le abnormi stronzate presenti in Crisis Core e il _denzelcentrismo_ di Advent Children...quindi questo è probabilmente il punto che mi mette più ansia.
 
 Ribadendo come detto che [il remake è pensato con un altro target in mente](http://xabacadabra.github.io/2015/remake-di-final-fantasy-vii-1/), restiamo in attesa di novità.
 

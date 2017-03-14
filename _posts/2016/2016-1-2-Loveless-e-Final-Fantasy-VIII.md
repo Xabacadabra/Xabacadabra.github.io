@@ -36,7 +36,7 @@ Dopo aver sottolineato il suo essersi bellamente addormentato ad opera in corso,
 
 > "Of course... I'll come back to you. Even if you don't promise to wait. I'll return knowing you'll be here."
 
-La cosa interessante che mi è saltata immediatamente all'occhio è che, sopratutto l'ultima frase, **sembra grossomodo coincidere con il fulcro del discorso tra Squall e Rinoa nelle fasi conclusive di Final Fantasy VIII.** 
+La cosa interessante che mi è saltata immediatamente all'occhio è che, soprattutto l'ultima frase, **sembra grossomodo coincidere con il fulcro del discorso tra Squall e Rinoa nelle fasi conclusive di Final Fantasy VIII.** 
 
 Il dialogo è **un elemento catalizzante del gioco**, tanto che non a caso le relative frasi vengono riportate anche nel celeberrimo filmato introduttivo:
 

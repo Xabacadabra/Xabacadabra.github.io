@@ -47,4 +47,4 @@ I vari _Shenmue_, _GTA 3_ e compagnia cantante erano ancora in divenire, e in ef
 
 Curiosamente una delle critiche imputabili ai videogiochi Quantic Dream moderni è quella di possedere poco "gioco giocato" in senso stretto, mentre di Omikron potremmo dire che ne ha probabilmente _troppo_:
 
-Sparatutto in terza persona con occasionali sequenze da picchiaduro (!), approccio ad enigmi tipico delle Avventura Grafiche e dulcis in fundo statistiche e preponderanti aspetti da Gioco di Ruolo, sopratutto a livello d'interazione narrativa.
+Sparatutto in terza persona con occasionali sequenze da picchiaduro (!), approccio ad enigmi tipico delle Avventura Grafiche e dulcis in fundo statistiche e preponderanti aspetti da Gioco di Ruolo, soprattutto a livello d'interazione narrativa.

@@ -22,7 +22,7 @@ comments: true
 
 Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che sembra quasi una presa per il di dietro: 
 
-mai arrivato in Europa e poco reclamato in America, si tratta di un gioco che voleva davvero **tutto** (forse troppo?) pur con mezzi (e sopratutto fondi) piuttosto limitati. 
+mai arrivato in Europa e poco reclamato in America, si tratta di un gioco che voleva davvero **tutto** (forse troppo?) pur con mezzi (e soprattutto fondi) piuttosto limitati. 
 
 ## La storia più complessa mai narrata in un Videogioco
 
@@ -37,7 +37,7 @@ Buttiamo giù un po' di nomi pesanti ?
 
 avoja quanti altri titoli si potrebbe citare...
 
-Eppure, sinceramente **non credo di aver mai visto un intreccio narrativo e sopratutto un'ambientazione tanto curata ed elaborata come si presenta quella di Xenogears.** 
+Eppure, sinceramente **non credo di aver mai visto un intreccio narrativo e soprattutto un'ambientazione tanto curata ed elaborata come si presenta quella di Xenogears.** 
 
 Ma manco da lontano proprio. 
 
@@ -115,7 +115,7 @@ Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-
 	<figcaption>Il Battle System "fisico", molto classico e dinamico</figcaption>
 </figure>
 
- **...le parte esplorative e (sopratutto) il dungeon design fanno invece immensamente schifo.**
+ **...le parte esplorative e (soprattutto) il dungeon design fanno invece immensamente schifo.**
 
 Il binomio grafico sprite 2D + ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso temo non abbia aiutato.
 
@@ -143,7 +143,7 @@ i vari Chrono Trigger, Final Fantasy VI e VII c'erano già stati.
 
 Poi, aldilà di questo, ci sono un po' di requisiti pressoché indispensabili:
 
-1. possedere un notevole spirito di sacrificio (visto quanto detto sopra, lo avrete pure intuito) per sopportare tante cose, sopratutto la svolta del secondo cd
+1. possedere un notevole spirito di sacrificio (visto quanto detto sopra, lo avrete pure intuito) per sopportare tante cose, soprattutto la svolta del secondo cd
 
 2. giocarlo possibilmente in volata: **riprenderlo dopo settimane da quando lo si è iniziato è tremendamente controproducente.** (datemi retta, pijatevi le ferie)
 
@@ -164,7 +164,7 @@ Se sembro esagerato nel "mettere in guardia" chi ci si avvicina è principalment
 1. Conosco abbastanza bene Xenogears
 2. Conosco (ahimé) il pubblico videogiocatore odierno
 
-E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tanto, si corre il rischio di creare aspettative fuorivanti, sopratutto per le persone "sbagliate"
+E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tanto, si corre il rischio di creare aspettative fuorivanti, soprattutto per le persone "sbagliate"
 
 ## Valutazione
 

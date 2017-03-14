@@ -32,7 +32,7 @@ Sono un apprezzatore più o meno coinvolto in molti di questi casi, ma nessuno h
 
 _Indiana Jones_ è davvero tante cose: 
 
-l'apoteosi di un bimbo che adorava Storia e leggeva Salgari, l'anello mancante tra Hollywood e le fagiolate di Bud Spencer e Terence Hill, la risposta americana a James Bond, il sodalizio perfetto tra George Lucas e Steven Spielberg, la consacrazione leggendaria di Harrison Ford e, forse sopratutto, l'Avventura cinematografica per eccellenza e definizione
+l'apoteosi di un bimbo che adorava Storia e leggeva Salgari, l'anello mancante tra Hollywood e le fagiolate di Bud Spencer e Terence Hill, la risposta americana a James Bond, il sodalizio perfetto tra George Lucas e Steven Spielberg, la consacrazione leggendaria di Harrison Ford e, forse soprattutto, l'Avventura cinematografica per eccellenza e definizione
 
 ## Steven Spielberg
 

@@ -15,7 +15,7 @@ published: true
 comments: true
 ---
 
-Dopo una solida manciata di ore passate testando [**OpenMW**](https://openmw.org/en/) 0.40 che ha portato il mio vecchio amore **The Elder Scrolls III: Morrowind** in ambiente Linux (e sopratutto in una versione moderna e come il Tribunale comanda) mi son detto: 
+Dopo una solida manciata di ore passate testando [**OpenMW**](https://openmw.org/en/) 0.40 che ha portato il mio vecchio amore **The Elder Scrolls III: Morrowind** in ambiente Linux (e soprattutto in una versione moderna e come il Tribunale comanda) mi son detto: 
 
 **Rispolveriamo Daggerfall.**
 

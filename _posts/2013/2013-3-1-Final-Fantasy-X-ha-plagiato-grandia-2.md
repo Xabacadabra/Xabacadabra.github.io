@@ -25,7 +25,7 @@ Allora.
 
 - i concetti di fondo (principalmente la questione teologica e come viene vissuta dalle rispettive protagoniste femminili) 
 
-- alcuni elementi del design e sopratutto dello schema narrativo (il concetto del "pellegrinaggio" su tutti, credo) 
+- alcuni elementi del design e soprattutto dello schema narrativo (il concetto del "pellegrinaggio" su tutti, credo) 
 
 risultano estremamente simili, per non dire non identici:
 

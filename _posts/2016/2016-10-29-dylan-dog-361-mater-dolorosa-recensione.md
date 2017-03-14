@@ -15,7 +15,7 @@ published: true
 ads: true
 comments: true
 ---
-Causa tempo, soldi (sopratutto soldi) voglia ed "ispirazione" è parecchio che non mi vado a leggere, e conseguentemente recensire, qualche albo di Dylan Dog.
+Causa tempo, soldi (soprattutto soldi) voglia ed "ispirazione" è parecchio che non mi vado a leggere, e conseguentemente recensire, qualche albo di Dylan Dog.
 
 Abbastanza grave per uno che da più di una decade si firma come Xabaras nei meandri del web, mi rendo conto... 
 

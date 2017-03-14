@@ -47,4 +47,4 @@ Magari anche _"solo"_ un fumetto.
 
 Ma, specie se è da molto tempo che non lo fate, **leggetevi qualcosa.**
 
-E sopratutto, passate un buon 5 Novembre. 
+E soprattutto, passate un buon 5 Novembre. 

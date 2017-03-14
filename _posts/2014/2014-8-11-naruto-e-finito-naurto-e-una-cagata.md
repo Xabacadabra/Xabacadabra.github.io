@@ -36,7 +36,7 @@ Ci si riprova. È uscito lo Shippuden, amiche carine fanno cosplay dei personagg
 
 ## Round 3
 
-L'accettazione. Naruto inizia a piacermi. No, cioè, piacermi forse è un po' un parolone...anche se è vero, pochi cazzi, pochi hipsterismi: Itachi, Jiraya, Orochimaru, l'Akatsuki e SOPRATUTTO il team di Shikamaru e tutta la faccenda di Asuma m'appassionano, mi fanno divertire, mi piace. Cazzo, Naruto mi piace. Creo il topic su Cetramod. Entro gratis all'Italia in Miniatura dicendo che stò cosplayando Kishimoto (vili truffe moderne, lo so) Che mi succede?
+L'accettazione. Naruto inizia a piacermi. No, cioè, piacermi forse è un po' un parolone...anche se è vero, pochi cazzi, pochi hipsterismi: Itachi, Jiraya, Orochimaru, l'Akatsuki e soprattutto il team di Shikamaru e tutta la faccenda di Asuma m'appassionano, mi fanno divertire, mi piace. Cazzo, Naruto mi piace. Creo il topic su Cetramod. Entro gratis all'Italia in Miniatura dicendo che stò cosplayando Kishimoto (vili truffe moderne, lo so) Che mi succede?
 
 ## Round 4
 

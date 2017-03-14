@@ -112,7 +112,7 @@ _Ed è un problema ?_
 
 Di base probabilmente no, ma ad un certo punto **viene da chiedersi se questa "globalizzazione sonora" non finisca per essere completamente isolata dal proprio contesto socio-culturale.**
 
-A mio modo di vedere, **il rock (e molti dei suoi derivati) funziona sopratutto quando è ben radicato nelle sue radici, anche quando va (inevitabilmente) contaminandole con scale blues e power chords.**
+A mio modo di vedere, **il rock (e molti dei suoi derivati) funziona soprattutto quando è ben radicato nelle sue radici, anche quando va (inevitabilmente) contaminandole con scale blues e power chords.**
 
 E certo: quel che ne esce poi non è necessariamente _bello_ ([per dire...](https://www.youtube.com/watch?v=1CydZtP_XlA)), ma se non altro è percepibile come _autentico_, originale, **_inedito_**.
 

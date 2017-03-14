@@ -29,7 +29,7 @@ Perché tu puoi certamente amare i minipony, adventure time o undertale in modo 
 
 Oh sì.
 
-Sopratutto se vuoi evidenziare il fatto di come sia bello a scapito di tutti quei cattivissimi giochi "famosi" (dimentico del fatto che nell'ultimo anno ben pochi giochi sono stati più famosi di Undertale, se facciamo le dovute proporzioni in termini di budget pubblicitario)
+soprattutto se vuoi evidenziare il fatto di come sia bello a scapito di tutti quei cattivissimi giochi "famosi" (dimentico del fatto che nell'ultimo anno ben pochi giochi sono stati più famosi di Undertale, se facciamo le dovute proporzioni in termini di budget pubblicitario)
 
 ## Attention Whore
 

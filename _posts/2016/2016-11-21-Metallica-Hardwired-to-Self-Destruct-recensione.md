@@ -76,7 +76,7 @@ Non ho davvero molto da dire in questo caso.
 
 ### Moth Into Flame
 
-**Traccia molto da Metallica anni '80**, tolta la voce di James. Personalmente l'ho trovata un po' anonima, e sopratutto **tremendamente lunga**, il che però è abbastanza in linea con il "mood" dell'album, di cui potrebbe essere una buona sintesi.
+**Traccia molto da Metallica anni '80**, tolta la voce di James. Personalmente l'ho trovata un po' anonima, e soprattutto **tremendamente lunga**, il che però è abbastanza in linea con il "mood" dell'album, di cui potrebbe essere una buona sintesi.
 
 ### Dream No More
 

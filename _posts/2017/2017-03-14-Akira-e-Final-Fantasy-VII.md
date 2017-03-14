@@ -118,7 +118,7 @@ Oltre a questo, ancora una volta torniamo **al discorso estremamente giapponese 
 
 Credo fosse inevitabile che la versione futuristica di Tokyo concepita da Otomo andasse ad incontrare alcune similitudini con la Midgard _Made in Squaresoft_: 
 
-Epicentri di tecnologia, inquinamento, un passato soffocato dall'inesorabile bisogno di _futuro_ ma, e sopratutto, caratterizzati da un tremendo **classismo.**
+Epicentri di tecnologia, inquinamento, un passato soffocato dall'inesorabile bisogno di _futuro_ ma, e soprattutto, caratterizzati da un tremendo **classismo.**
 
 <figure class="half">
 	<img src="/gallery/akira-ff7/akira2.jpg" alt='akira e final fantasy vii'>

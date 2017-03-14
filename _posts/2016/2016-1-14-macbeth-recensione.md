@@ -76,9 +76,9 @@ So che adesso sembrerò ritrattare quanto scritto, ma non credo che Justin Kurze
 " alt="macbeth 2016 michael fassbender">
 </figure>
 
-**Macbeth è un buon film**, che come detto personalmente m'ha annoiato (e non poco) ma che può benissimo piacere ad un determinato tipo di pubblico "colto" (anche esigente), sopratutto grazie alle ottime prove di Fassbender e Cotillard.
+**Macbeth è un buon film**, che come detto personalmente m'ha annoiato (e non poco) ma che può benissimo piacere ad un determinato tipo di pubblico "colto" (anche esigente), soprattutto grazie alle ottime prove di Fassbender e Cotillard.
 
-Il punto è che **una tragedia come Macbeth non può permettersi di essere "solo" un buon film**, sopratutto con un cast simile: la prima cosa che ho pensato uscendo dalla sala è che **con un'altra produzione dietro forse avremmo potuto avere uno dei film migliori dell'anno**...ma con i se e con i ma non si fa la storia.
+Il punto è che **una tragedia come Macbeth non può permettersi di essere "solo" un buon film**, soprattutto con un cast simile: la prima cosa che ho pensato uscendo dalla sala è che **con un'altra produzione dietro forse avremmo potuto avere uno dei film migliori dell'anno**...ma con i se e con i ma non si fa la storia.
 
 ## Voto
 

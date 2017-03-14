@@ -47,7 +47,7 @@ Ecco, per una volta **non sono qui a scrivere recensioni o panoramiche varie**, 
 
 Attraversare **dinastie, mondi e forse intere epoche sfruttando le vite dei personaggi protagonisti**: 
 
-è uno strumento di racconto potentissimo, stupendo, che sopratutto permette di **mostrare solo ciò che val la pena essere visto:**
+è uno strumento di racconto potentissimo, stupendo, che soprattutto permette di **mostrare solo ciò che val la pena essere visto:**
 
 Non c'è bisogno di _filler_: 
 
@@ -107,6 +107,6 @@ Eppure, in termini più incisivi, forse il videogame più innovativo resta sempr
 
 Tornando al nostro soggetto, **_Vikings_ è una serie che merita assolutamente di essere vista da tutti**, anche se il sottoscritto è un po' di parte (essendo innamorato di storia e mitologia in generale, nonché molti elementi della cultura norrena) credo possa intrigare e coinvolgere anche un pubblico che non prova particolare amore per vichinghi o Medioevo:
 
-Ci sono attori fantastici, c'è una fotografia squisitamente sobria ma d'effetto, una sceneggiatura solida e ispirata, ma sopratutto **una regia favolosa**: 
+Ci sono attori fantastici, c'è una fotografia squisitamente sobria ma d'effetto, una sceneggiatura solida e ispirata, ma soprattutto **una regia favolosa**: 
 
 _Vikings_ infatti, nonostante alcune scelte evidentemente low-budget rispetto ad altre produzioni, conta **le battaglie meglio dirette nel piccolo schermo per il mio gusto personale** nonché, nella propria narrativa, un'audace rappresentazione di religione, esistenzialismo e spiritualità.

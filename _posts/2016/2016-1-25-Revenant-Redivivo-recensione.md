@@ -61,7 +61,7 @@ Prima di analizzare tutti i vari punti che caratterizzano _Revenant_, occorre ev
 
 **Pura _arte figurativa in movimento_**, per l'appunto, ma con l'aggiunta di tutti i mezzi che ci garantisce l'alta definizione moderna:
 
-**C'è infatti della CGI pure in _Revenant_**, ma impiegata generalmente in "sottofondo" escludendo un paio di momenti (sopratutto **una delle scene madri**, in cui in effetti forse **tutto questo bel popò di visualità viene tradito** pur di mostrare un determinato livello di fisicità)
+**C'è infatti della CGI pure in _Revenant_**, ma impiegata generalmente in "sottofondo" escludendo un paio di momenti (soprattutto **una delle scene madri**, in cui in effetti forse **tutto questo bel popò di visualità viene tradito** pur di mostrare un determinato livello di fisicità)
 
 Nel complesso, tuttavia, **nulla che comprometta le altissime qualità visuali di cui sopra:**
 
@@ -141,7 +141,7 @@ da _Il Conte di Montecristo_ a svariate religioni, passando per _Il Corvo_ (che 
 
 Personalmente **Revenant mi è piaciuto un casino.**
 
-Un po' perché **adoro le sue scelte visuali**, un po' perché adoro i western, un po' perché **il cinema di Iñárritu e Di Caprio mi piace un mondo** ma sopratutto perché **amo le storie di vendetta** di cui sopra.
+Un po' perché **adoro le sue scelte visuali**, un po' perché adoro i western, un po' perché **il cinema di Iñárritu e Di Caprio mi piace un mondo** ma soprattutto perché **amo le storie di vendetta** di cui sopra.
 
 Detto questo, **rispetto a _Birdman_ ho idea che ci troviamo di fronte ad un film molto meno universale.**
 

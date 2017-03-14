@@ -107,7 +107,7 @@ Tenetevi ben stretto quel punto di domanda, è importante.
 
 Certo, **tutti vorrebbero un blog popolare**, altrimenti scriverebbero un diario privato, ma **non per tutti questa è necessariamente una priorità**, o noi altri blogger "multitematici" non esisteremmo proprio: 
 
-Per intenderci...nel caso la popolarità fosse il vostro mantra, **concentrarsi su un singolo argomento rappresenta una scelta praticamente obbligata**, che in più vi semplifica faccende come scelta di nome e struttura del blog (idealmente funzionali all'argomento prescelto) e sopratutto **rende appartenenti ad una determinata "nicchia" per default.**
+Per intenderci...nel caso la popolarità fosse il vostro mantra, **concentrarsi su un singolo argomento rappresenta una scelta praticamente obbligata**, che in più vi semplifica faccende come scelta di nome e struttura del blog (idealmente funzionali all'argomento prescelto) e soprattutto **rende appartenenti ad una determinata "nicchia" per default.**
 
 ## 6: Costanza
 
@@ -183,9 +183,9 @@ E quindi ?
 
 E quindi, se come probabile possedete un account gmail, **non dovete manco effettuare iscrizioni particolari, è tutto bello e pronto che v'aspetta all'indirizzo [blogger.com](https://www.blogger.com/home)**
 
-Sopratutto, **tendenzialmente, a Google piace Google**: non posso dimostrarlo con dati certificati, ed è chiaro che utilizzando un template-porcata del 2008 la cosa non influirà molto...ma alla base, **ho ragione di credere che un blog leggero, performante e contenutisticamente valido targato blogspot piaccia parecchio al motore di ricerca che di quel dominio è anche proprietario.**
+soprattutto, **tendenzialmente, a Google piace Google**: non posso dimostrarlo con dati certificati, ed è chiaro che utilizzando un template-porcata del 2008 la cosa non influirà molto...ma alla base, **ho ragione di credere che un blog leggero, performante e contenutisticamente valido targato blogspot piaccia parecchio al motore di ricerca che di quel dominio è anche proprietario.**
 
-Aldilà di questo **Blogger comunque resta una buona piattaforma performante  abbastanza intuitiva e un supporto tutto sommato decente**, sopratutto per chi conosce un minimo di xhtml e css.
+Aldilà di questo **Blogger comunque resta una buona piattaforma performante  abbastanza intuitiva e un supporto tutto sommato decente**, soprattutto per chi conosce un minimo di xhtml e css.
 
 ### Jekyll
 

@@ -79,7 +79,7 @@ E diamine, per un film del genere **servirebbero ben altre nemesi.**
 
 Oltre a questo, sorge lo spettro del franchise incombente a cui accennavo qualche paragrafo fa:
 
-**Gli _X-Men_ cinematografici hanno avuto una gestazione complicata e sopratutto una crescita molto confusionaria e improvvisata.**
+**Gli _X-Men_ cinematografici hanno avuto una gestazione complicata e soprattutto una crescita molto confusionaria e improvvisata.**
 
 Due ottimi primi episodi partendo nel lontano 2000, un terzo più blando, un sacco di film incentrati su Wolverine decisamente orrendi e l'ottima rinascita partita con _First Class_, poi proseguita in modo bello ma decisamente caotico tra paradossi temporali e film per lo più carini: 
 

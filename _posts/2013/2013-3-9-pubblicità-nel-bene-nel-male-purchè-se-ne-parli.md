@@ -18,7 +18,7 @@ comments: true
 
 diceva Oscar Wilde 
 
-Ora mio mal grado farò un po' di nomi (e quindi pubblicità, sigh) di alcuni soggetti tra quelli che più attirano le ire del popolo web (sopratutto quello da youtube ), questo perché così ci capiamo subito senza troppi giri di parole:
+Ora mio mal grado farò un po' di nomi (e quindi pubblicità, sigh) di alcuni soggetti tra quelli che più attirano le ire del popolo web (soprattutto quello da youtube ), questo perché così ci capiamo subito senza troppi giri di parole:
 
 - Justin Bieber
 - One Direction

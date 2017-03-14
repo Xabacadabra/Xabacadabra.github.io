@@ -43,7 +43,7 @@ Non posso dire di essere mai stato davvero innamorato di questo sport (anche per
 
 Nel '94-'95 diventai Juventino, e avevo un paio di ottime ragioni:
 
-<a href='http://it.wikipedia.org/wiki/Moreno_Torricelli'>Moreno Torricelli</a>, nome che ai più non dirà molto, ma ad oggi credo sia ancora il mio unico compaesano (erbese) campione d'Italia, e (sopratutto), lui:
+<a href='http://it.wikipedia.org/wiki/Moreno_Torricelli'>Moreno Torricelli</a>, nome che ai più non dirà molto, ma ad oggi credo sia ancora il mio unico compaesano (erbese) campione d'Italia, e (soprattutto), lui:
 
 <figure>
 	<img src='http://2.bp.blogspot.com/-mgfLWC_lIU0/VV5472SDOSI/AAAAAAAAMBA/bd7zwtTDq9g/s1600/Roberto_Baggio%252C_Juventus%252C_Pallone_d%2527oro_1993.jpg' alt='Baggio'>

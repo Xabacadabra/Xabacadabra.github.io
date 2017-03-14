@@ -81,7 +81,7 @@ In generale c'è quella piccola _sensazione_ di fondo che **mi fa ripensare ai L
 **Esordio promosso, con qualche leggera riserva che più che altro riguarda il genere a livello concettuale, che in tempi moderni si rivela fin troppo spesso statico e retorico**. 
 {: .notice-success}
 
-Tuttavia questi tre ragazzi posseggono sonorità dai respiri particolari, viaggiando senza tecniscismi autoreferenziali e, sopratutto, con una bella identità. 
+Tuttavia questi tre ragazzi posseggono sonorità dai respiri particolari, viaggiando senza tecniscismi autoreferenziali e, soprattutto, con una bella identità. 
 
 Specie considerando quella "camicia a quadri consumata" che è il genere musicale di cui sono evidentemente figli.
 

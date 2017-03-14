@@ -104,6 +104,6 @@ Certo esiste **l'esasperazione del dramma che la faceva da padrone nel grosso de
 
 Sinceramente, conoscendomi, non so se riuscirò a terminarla: 
 
-è una serie piuttosto lunga, datata e sopratutto figlia di un genere che **alla base non è nelle mie corde**, ma avessi meno Serie TV in arretrato penso che me la sarei già sciroppata in allegria.
+è una serie piuttosto lunga, datata e soprattutto figlia di un genere che **alla base non è nelle mie corde**, ma avessi meno Serie TV in arretrato penso che me la sarei già sciroppata in allegria.
 
 In generale, **mi sento comunque di consigliarne la visione ad ogni potenziale appansionato, magari spaventato da quell'età importante che per chi scrive non ne scalfisce la qualità.**

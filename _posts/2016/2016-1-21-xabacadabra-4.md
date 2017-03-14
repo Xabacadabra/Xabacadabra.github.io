@@ -62,7 +62,7 @@ se poi consideriamo il fatto che il dominio xabacadabra.com è fresco fresco, mi
 
 No no, tutt'altro! 
 
-Semplicemente, per un po' **aspettatevi un archivio un po' scarno**, pagine da correggere/aggiornare, esperimenti di formattazione strambi e sopratutto **qualche guaio con Disqus:**
+Semplicemente, per un po' **aspettatevi un archivio un po' scarno**, pagine da correggere/aggiornare, esperimenti di formattazione strambi e soprattutto **qualche guaio con Disqus:**
 
 ## Non c'è più il commento in cui dicevo "devi lasciare stare Naruto bell'e papà" ?
 

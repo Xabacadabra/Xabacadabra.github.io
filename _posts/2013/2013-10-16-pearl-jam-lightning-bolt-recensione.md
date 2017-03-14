@@ -19,7 +19,7 @@ Gli spettri del **grunge**, qualsiasi cosa fosse (aldilà di un'etichetta appiop
 
 In soldoni, lasciando da parte discussioni retorico-tecniche e culturali, si può dire che caratteristica fondamentale dei Pearl Jam (e gruppi parenti) fosse quella di **portare in scena, nel pieno degli anni '90, un sound che era la diretta propagazione del ventennio precedente:**
 
-**Led Zeppelin, Black Sabbath, Doors, Ramones, Beatles, Bob Dylan** e sopratutto **Neil Young** furono le radici di questi ragazzotti di Seattle, e di tutta la scena che di fatto distrusse il glam/hair metal cazzaro (e spesso pure piacevolissimo, intendiamoci) che caratterizzò gli anni '80	Se volete ascoltarvi gratuitamente Lightning Bolt potete accattarvi il buon Spotify e cliccare qua sotto:
+**Led Zeppelin, Black Sabbath, Doors, Ramones, Beatles, Bob Dylan** e soprattutto **Neil Young** furono le radici di questi ragazzotti di Seattle, e di tutta la scena che di fatto distrusse il glam/hair metal cazzaro (e spesso pure piacevolissimo, intendiamoci) che caratterizzò gli anni '80	Se volete ascoltarvi gratuitamente Lightning Bolt potete accattarvi il buon Spotify e cliccare qua sotto:
 
 
 ## Ritorno al Presente - Lightning Bolt

@@ -48,7 +48,7 @@ E lo schema della Guerra Santa, con **le sue inevitabili ripetizioni**, pure: e 
 <img src='http://4.bp.blogspot.com/-a8oQu-uUrdc/VKmfbq53gyI/AAAAAAAALPw/t365NYZAhwU/s1600/tumblr_ma9km2rw4c1ramiuqo2_500.gif' alt='Saint Seiya - Lost Canvas'>
 </figure>
 
-Ma torniamo al mio sangue amaro con il Giappone: **la serie anime, sfortunatamente**, è stata segata dopo la seconda stagione (nonostante il manga prosegua), tanto per regalarci quel bel popò di capolavoro che risponde al nome di **Saint Seiya Omega** (di cui non parlerò, visto che lo conosco sopratutto grazie alle recensioni del Dottor Manhattan)
+Ma torniamo al mio sangue amaro con il Giappone: **la serie anime, sfortunatamente**, è stata segata dopo la seconda stagione (nonostante il manga prosegua), tanto per regalarci quel bel popò di capolavoro che risponde al nome di **Saint Seiya Omega** (di cui non parlerò, visto che lo conosco soprattutto grazie alle recensioni del Dottor Manhattan)
 
 Ora: se il pubblico giapponese, nella fattispecie quello da shonen saint-seiyoso, preferisce vedersi Omega a Lost Canvas io con quel pubblico lì c'ho chiaramente qualche problema.
 

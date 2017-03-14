@@ -3,7 +3,7 @@ layout: article
 title: "Lupin III e Cowboy Bebop"
 modified: 2017-03-9
 categories: [2015]
-excerpt: "Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso sopratutto con la relativa pop culture animata e videogiocosa..."
+excerpt: "Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso soprattutto con la relativa pop culture animata e videogiocosa..."
 tags: 
    - animazione
 image: 
@@ -18,7 +18,7 @@ comments: true
 Il fantastico artwork qui sopra è del bravissimo [Ron Chan](http://www.ronchan.net/)
 {: .notice-info}
 
-Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso sopratutto con la relativa pop culture animata e videogiocosa...
+Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso soprattutto con la relativa pop culture animata e videogiocosa...
 
 <small>(Se tanto mi da tanto, il rapporto Grecia - Germania non dev'essere troppo diverso.)</small>
 

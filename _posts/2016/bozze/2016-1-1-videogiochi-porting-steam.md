@@ -54,7 +54,7 @@ Restando in tema vampiresco...probabilmente uno dei giochi più belli nel suo ge
 
 ## Neverwinter Nights 1 e 2
 
-Ma stiamo scherzando ? Non so come sia il MMORPG Neverwinter, ma questi due simpaticoni hanno fatto la storia, e la loro assenza pesa come un macigno nell'ambito RPG classici, sopratutto quando vedi i Baldur's Gate, Icewind Dale ed i due KOTOR
+Ma stiamo scherzando ? Non so come sia il MMORPG Neverwinter, ma questi due simpaticoni hanno fatto la storia, e la loro assenza pesa come un macigno nell'ambito RPG classici, soprattutto quando vedi i Baldur's Gate, Icewind Dale ed i due KOTOR
 
 ## Planescape Torment
 

@@ -134,7 +134,7 @@ A dirla tutta, vale anche per **Tinetta/Hikaru, in genere personaggio fin troppo
 
 Analizzando un minimo questo cartone, possiamo confermare **che è e resterà per sempre una pietra miliare del suo genere**, una leggenda della sua epoca di riferimento: 
 
-Coi suoi disegni, le splendide musiche j-pop (e pure la bella sigla italiana cantata dalla D'Avena) ma sopratutto **con i suoi protagonisti**, tanto ingenui quanto smaliziati e moderni per gli standard dell'animazione a noi pervenuta.
+Coi suoi disegni, le splendide musiche j-pop (e pure la bella sigla italiana cantata dalla D'Avena) ma soprattutto **con i suoi protagonisti**, tanto ingenui quanto smaliziati e moderni per gli standard dell'animazione a noi pervenuta.
 
 Ma *la Domanda*, dicevamo...
 

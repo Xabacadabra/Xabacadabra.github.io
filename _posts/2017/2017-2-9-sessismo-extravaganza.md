@@ -87,4 +87,4 @@ No: dovremmo iniziare a _correggerlo_ iniziando a ragionare, **mettendo in discu
 
 Sul _perché_ ha reagito in un dato modo.
 
-Nel mio piccolo, penso che prima faremo questo tipo di scelte **a livello collettivo**, sopratutto prima di scrivere qualcosa nei confronti del primo sconosciuto che passa, prima riusciremo a lasciarci alle spalle quest'orrido retaggio.
+Nel mio piccolo, penso che prima faremo questo tipo di scelte **a livello collettivo**, soprattutto prima di scrivere qualcosa nei confronti del primo sconosciuto che passa, prima riusciremo a lasciarci alle spalle quest'orrido retaggio.

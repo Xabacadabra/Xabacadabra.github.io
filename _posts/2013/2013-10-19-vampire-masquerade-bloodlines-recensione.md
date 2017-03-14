@@ -40,7 +40,7 @@ pronti per un po' di retroxabbing?
 	<figcaption>Quel gran figo di Smiling Jack in un artwork ufficiale</figcaption>
 </figure>
 
-Sebbene pesi una certa **scarsa variabilità estetica** (ogni clan ha un unico modello d'aspetto non personalizzabile) **la scelta del sesso e del clan d'appartenenza risultano fattori d'estrema importanza, capaci di porci di fronte a partite assolutamente diverse sia in termini di gameplay (stealth, action, magico) che, e sopratutto, in quelle di gioco di ruolo**
+Sebbene pesi una certa **scarsa variabilità estetica** (ogni clan ha un unico modello d'aspetto non personalizzabile) **la scelta del sesso e del clan d'appartenenza risultano fattori d'estrema importanza, capaci di porci di fronte a partite assolutamente diverse sia in termini di gameplay (stealth, action, magico) che, e soprattutto, in quelle di gioco di ruolo**
 
 ## Gameplay
 

@@ -44,7 +44,7 @@ Premesso questo, **che non è certo un tratto negativo del film ma una mera facc
 1. I Cavalieri dello Zodiaco al Cinema!!
 2. **Il Doppiaggio Storico!!!!!** Con tanto di KIAAAAAIIIIIIIIIII di **Ivo De Palma**! Certo, c'è sempre il fatto che i nomi dell'adattamento nostrano a suo tempo sono stati messi a babbo, generando buffe incongruenze...ma è senz'altro tardi per lamentarsene, e oramai il grosso del nostro pubblico (me compreso) i Cavalieri li conosce principalmente così, quindi nulla da imputare alla scelta di proseguire la tradizione, anche perché **le voci della versione italiana sono un vero e proprio valore aggiunto sia per l'anime classico che per questo film.**
 3. Se vi piace il design (io come detto non sono tra voi) **visivamente s'è fatto** un buon lavoro nella resa in CG con effetti niente male, **un'ottima resa fisica delle armature** e discreta regia complessiva.
-4. Escludendo il fattore nostalgia, e considerando il film un tentativo di rilanciare il brand per la gioventù odierna (sopratutto a livello di merchandising), **è un prodotto complessivamente ben confezionato**, e (dal poco che ho visto di quest'ultima) senz'altro tecnicamente superiore alla serie Omega
+4. Escludendo il fattore nostalgia, e considerando il film un tentativo di rilanciare il brand per la gioventù odierna (soprattutto a livello di merchandising), **è un prodotto complessivamente ben confezionato**, e (dal poco che ho visto di quest'ultima) senz'altro tecnicamente superiore alla serie Omega
 
 ## Contro
 

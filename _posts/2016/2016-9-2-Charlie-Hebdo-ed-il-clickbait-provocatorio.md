@@ -21,7 +21,7 @@ Personalmente, conoscendo il loro stile ed il mio gusto, difficilmente mi distur
 
 ## Viralità 
 
-...ma capita che, sopratutto in un mondo social come il nostro, **il contenuto venga a cercare _te_ :** basta una rapida capatina su **Twitter** o **Facebook**, piuttosto che un giro tra i media tradizionali:
+...ma capita che, soprattutto in un mondo social come il nostro, **il contenuto venga a cercare _te_ :** basta una rapida capatina su **Twitter** o **Facebook**, piuttosto che un giro tra i media tradizionali:
 
 anche per questo, il famoso discorso del _"se non ti interessa non lo guardare, passa oltre"_ risulta decisamente obsoleto nella nostra contemporaneità.
 
@@ -43,11 +43,11 @@ Secondo me basterebbe fare questo piccolo gioco:
 
 supponiamo che, per ogni nostra condivisione, retweet o singolo click diretto a questo o quel sito internet, **stessimo tirando fuori un euro dal nostro portafogli**.
 
-Nella realtà facciamo di peggio: **regaliamo del *tempo***, qualcosa che idealmente dovrebbe essere inestimabile, e che (sopratutto) nessuno ci potrà mai rimborsare...ma, essendo un concetto abbastanza astratto, credo non riesca ad avere la stessa presa dell'idea di **regalare dei soldi** :
+Nella realtà facciamo di peggio: **regaliamo del *tempo***, qualcosa che idealmente dovrebbe essere inestimabile, e che (soprattutto) nessuno ci potrà mai rimborsare...ma, essendo un concetto abbastanza astratto, credo non riesca ad avere la stessa presa dell'idea di **regalare dei soldi** :
 
 Che, attenzione, **è quello che in ogni caso facciamo se abbocchiamo.**
 
-Per esempio, è molto divertente leggere i titoli delle buffonate che passano da [Ah ma non è Lercio](https://www.facebook.com/ahmanonelercio/), cliccare la loro fonte d'origine però è **un euro mentale investito nel mercato della cazzata**, per non dire nella bufala (che è pure peggio), quindi bisognerebbe rifletterci bene, sopratutto ragionando sulla qualità media degli articoli dei quotidiani online.
+Per esempio, è molto divertente leggere i titoli delle buffonate che passano da [Ah ma non è Lercio](https://www.facebook.com/ahmanonelercio/), cliccare la loro fonte d'origine però è **un euro mentale investito nel mercato della cazzata**, per non dire nella bufala (che è pure peggio), quindi bisognerebbe rifletterci bene, soprattutto ragionando sulla qualità media degli articoli dei quotidiani online.
 
 ## L'importanza del lento esitare
 

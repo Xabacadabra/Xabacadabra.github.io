@@ -78,7 +78,7 @@ Siamo in attesa di una cura per questo morbo dannato.
 
 **Final Fantasy IV** è oggettivamente per SNES quindi bellissimo, ma non possiamo potenziare tutti i pg al massimo e questo non è bello
 
-**Final Fantasy V** Grandioso e Oggettivo, sopratutto l'antagonista
+**Final Fantasy V** Grandioso e Oggettivo, soprattutto l'antagonista
 
 **Final Fantasy VI** Oggettivamente un capolavoro
 

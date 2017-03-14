@@ -23,7 +23,7 @@ Questo già ci dice qualcosa:
 
 Tralasciando lo spirito bastian contrario, **non si può onestamente parlare di quel che si dice un gran film**, mentre viene facile gettarsi in tutte le facili stroncature del caso.
 
-Cioè, viene facile se la si ragiona in modo superficiale e modaiolo, il che fondamentalmente **mostra come le recensioni stroncanti siano delle abominevoli puttanate autoreferenziali**, sia provenienti dal lato cinefilo sia che (forse sopratutto?) dall'ambiente fumettistico
+Cioè, viene facile se la si ragiona in modo superficiale e modaiolo, il che fondamentalmente **mostra come le recensioni stroncanti siano delle abominevoli puttanate autoreferenziali**, sia provenienti dal lato cinefilo sia che (forse soprattutto?) dall'ambiente fumettistico
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/0/06/Uomo_dei_fumetti.png/280px-Uomo_dei_fumetti.png" alt="batman v superman recensione">
@@ -53,7 +53,7 @@ Detto questo, al solito ciò che scrivo qui è tutto a titolo squisitamente pers
 <img src="http://vignette3.wikia.nocookie.net/newdcmovieuniverse/images/4/4c/BatmanvSupermanComicConPoster.jpg" alt="batman v superman recensione">
 </figure>
 
-Personalmente **quelli che mi sono piaciuti si contano sulle dita di una mano** (...che in genere indossa [il guanto dell'infinito](https://it.wikipedia.org/wiki/Il_guanto_dell'infinito)), sopratutto nel discorso DC non mi hanno mai convinto:
+Personalmente **quelli che mi sono piaciuti si contano sulle dita di una mano** (...che in genere indossa [il guanto dell'infinito](https://it.wikipedia.org/wiki/Il_guanto_dell'infinito)), soprattutto nel discorso DC non mi hanno mai convinto:
 
 In particolare, essendo un adoratore di Batman, non ho mai sopportato granché le storie dove veniva integrato in tutto il discorso megagalattico da _Justice League_: 
 

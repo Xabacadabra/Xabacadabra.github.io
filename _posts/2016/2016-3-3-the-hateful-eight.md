@@ -55,7 +55,7 @@ Sembra un controsenso scriverlo qui, ma aldilà del rischio spoiler, **descriver
 
 O meglio, nella sostanza si potrebbe anche fare certo, ma non renderebbe assolutamente l'idea, **esattamente come descrivere a parole un suono non riesce a dare la stessa percezione che si ha nell'ascoltarlo:**
 
-I dialoghi, le facce di Samuel L. Jackson, i baffi di Kurt Russell, le risate di Jennifer Jason Leigh, l'ombra di Lincoln e della guerra di secessione americana si muovono tutti in una costruzione collaudata ed efficace, e sopratutto **con un ritmo pazzesco.**
+I dialoghi, le facce di Samuel L. Jackson, i baffi di Kurt Russell, le risate di Jennifer Jason Leigh, l'ombra di Lincoln e della guerra di secessione americana si muovono tutti in una costruzione collaudata ed efficace, e soprattutto **con un ritmo pazzesco.**
 
 ## Ennio Morricone
 

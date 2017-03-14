@@ -93,7 +93,7 @@ In generale, **se Deadpool non dicesse qualche cazzata ogni petosecondo ci si an
 
 In effetti, **Deadpool è probabilmente uno dei personaggi resi più fedelmente in una trasposizione cinematografica.**
  
-Buona prova anche per **Francesco Venditti** (sì, il figlio di Antonellone nostro), che porta a casa un signor doppiaggio ingiustamente bistrattato da molti fan (sopratutto quando dall'altro lato abbiamo un cattivo con la voce a metà strada tra Mal e Raz Degan...)
+Buona prova anche per **Francesco Venditti** (sì, il figlio di Antonellone nostro), che porta a casa un signor doppiaggio ingiustamente bistrattato da molti fan (soprattutto quando dall'altro lato abbiamo un cattivo con la voce a metà strada tra Mal e Raz Degan...)
 
 Il resto del cast fa il suo, con una menzione di merito per la bella  veneto-brasiliana **Morena Baccarin**.
 
@@ -131,7 +131,7 @@ Non è quel mix epico-comico-avventuroso per famiglie che è stato il meraviglio
 
 Per certi versi in effetti **Deadpool assomiglia molto ai cinecomic che uscivano prima che li chiamassimo cinecomic con tanta confidenza**, cioè la lunga schiera che contempla i vari vecchi _Batman, Blade, X-Men_, ma anche _Sin City_ o gli _Spiderman_ di Raimi:
 
-Sopratutto nei suoi lati più seri (davvero, ci sono anche quelli), **trovo che Deadpool risulti un parente più stretto della scuola anni '90 - primi 2000 che dell'odierna overdose trainata dalla Marvel Studios.**
+soprattutto nei suoi lati più seri (davvero, ci sono anche quelli), **trovo che Deadpool risulti un parente più stretto della scuola anni '90 - primi 2000 che dell'odierna overdose trainata dalla Marvel Studios.**
 
 ## Valutazione
 

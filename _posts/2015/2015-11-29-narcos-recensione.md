@@ -49,7 +49,7 @@ Il tratto negativo di Narcos ? Per quanto mi riguarda, solo due:
 
 ### 1 
 
-L'accentramento a tratti eccessivo sulle figure degli agenti della DEA Javier Peña (**Pedro Pascal** di _GameofThronesiana_ memoria) e sopratutto **Steve Murphy** (**Boyd Holbrook**).
+L'accentramento a tratti eccessivo sulle figure degli agenti della DEA Javier Peña (**Pedro Pascal** di _GameofThronesiana_ memoria) e soprattutto **Steve Murphy** (**Boyd Holbrook**).
 
 Del resto, come l'autentico Peña ha specificato in [una bella intervista](http://observer.com/2015/08/dea-agents-on-hunting-pablo-escobar-el-chapo-and-the-accuracy-of-netflixs-narcos/) rivolta ad entrambi i poliziotti: _"i veri eroi sono i membri delle forze di polizia colombiane"_
 
@@ -57,7 +57,7 @@ E francamente, io credo che **Narcos avrebbe potuto tranquillamente chiamarsi _E
 
 Piaccia o meno, **Pablo è l'epicentro di tutto**, e conseguentemente lo è pure El Bloque de Busqueda, in quanto sua nemesi naturale.
 
-**Aver posto tanto l'accento sugli agenti della DEA** (senza voler sminuire il loro operato ovviamente) a me è parsa più che altro una **scelta di marketing** per vendere meglio la serie al pubblico americano, sopratutto quello _WASP_:
+**Aver posto tanto l'accento sugli agenti della DEA** (senza voler sminuire il loro operato ovviamente) a me è parsa più che altro una **scelta di marketing** per vendere meglio la serie al pubblico americano, soprattutto quello _WASP_:
 
 Il fatto che sia Murphy e non Peña lo sbirro a ritrovarsi nelle vesti del narratore sembra darmi ulteriormente ragione.
 

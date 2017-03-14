@@ -56,7 +56,7 @@ Uno dei "problemi" delle generazioni moderne e future di videogame è forse deri
 <figcaption>Final Fantasy VI sfruttava la Mode 7 del Super Nintendo per creare un "finto 3D" durante i viaggi in aeronave (e chocobo). L'effetto rappresenta tutt'oggi un capolavoro del 2D gaming</figcaption>
 </figure>
 
-Sì, lo so: non è che oggigiorno i limiti nello sviluppo videoludico non esistano, anzitutto quelli **economici** (che sono sicuramente più pressanti di un tempo), ma **creativamente parlando le possibilità offerte dalle moderne tecnologie sono pressoché infinite**, sopratutto se le paragoniamo a quelle anche solo di una quindicina d'anni fa, e questo ha inciso un sacco nella qualità dei titoli più mainstream.
+Sì, lo so: non è che oggigiorno i limiti nello sviluppo videoludico non esistano, anzitutto quelli **economici** (che sono sicuramente più pressanti di un tempo), ma **creativamente parlando le possibilità offerte dalle moderne tecnologie sono pressoché infinite**, soprattutto se le paragoniamo a quelle anche solo di una quindicina d'anni fa, e questo ha inciso un sacco nella qualità dei titoli più mainstream.
 
 <figure>
 <img src='http://2.bp.blogspot.com/-1A1rjChTljo/Vf_CD4QM4qI/AAAAAAAAMlE/g_OV621GEFg/s1600/Braid-art-2.jpg' alt='braid'>
@@ -71,7 +71,7 @@ Non è certo un caso se i videogiochi più originali e creativi del nostro perio
 <figcaption>Assassin's Creed e quel che si dice "mercificazione coatta"</figcaption>
 </figure>
 
-La verità è che **oggi una major delle softwarehouse può benissimo permettersi di rilasciare un titolo di prima fascia anche se buggato e finito a metà**, oltre che (sopratutto) dalla tracotante banalità videogiocosa...questo perché, altrettanto banalmente, **massima parte dell'investimento legato ad un videogioco finisce in pubblicità.**
+La verità è che **oggi una major delle softwarehouse può benissimo permettersi di rilasciare un titolo di prima fascia anche se buggato e finito a metà**, oltre che (soprattutto) dalla tracotante banalità videogiocosa...questo perché, altrettanto banalmente, **massima parte dell'investimento legato ad un videogioco finisce in pubblicità.**
 
 A gioco già venduto una patch si può sempre fare, una promozione massiccia e ridondante invece è indispensabile proprio per venderlo.
 

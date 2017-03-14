@@ -64,7 +64,7 @@ Dovrei avere anche il carattere per prendermi la responsabilità di quello che h
 
 ## Spot
 
-Riguardo la pubblicità, per ultimo, io la odio e come dicevo su di me non ha mai funzionato se non accompagnata da un prodotto utile e dal prezzo adeguato alla sua utilità (che quindi avrei comprato a priori senza spot particolarmente astrusi), ma la odio sopratutto per il suo essere superflua, stupida e lontana da me
+Riguardo la pubblicità, per ultimo, io la odio e come dicevo su di me non ha mai funzionato se non accompagnata da un prodotto utile e dal prezzo adeguato alla sua utilità (che quindi avrei comprato a priori senza spot particolarmente astrusi), ma la odio soprattutto per il suo essere superflua, stupida e lontana da me
 
 Se qualcuno deve proprio rompermi l'anima per tentare di smerciarmi qualcosa (e mi rendo conto che l'economia moderna dipende anche da questo) preferisco che perlomeno quel qualcosa sia prossimo ai miei gusti, ergo ben vengano "indagini" sul mio conto!
 

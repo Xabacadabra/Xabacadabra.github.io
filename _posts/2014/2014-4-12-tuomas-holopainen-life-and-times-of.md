@@ -27,7 +27,7 @@ ha fatto un concept album su **Zio Paperone.**
 	<img src="http://4.bp.blogspot.com/-sAVkYAF_NkA/U0h7IgAM2ZI/AAAAAAAAHxI/A8FLQtl5SiI/s1600/DonRosa-2.jpg" alt="Don Rosa">
 </figure>
 
-**Don Rosa** è l'erede puro di Carl Barks ("l'uomo dei paperi") e, a parere di chi scrive, **probabilmente il più grande autore di fumetti dell'intera scuola Disneyana**, che con la Saga di Paperon de' Paperoni (The Life and Times of $crooge McDuck, su cui è basato tutto questo disco) ha dato solidità, pathos e sopratutto background all'avaro per antonomasia
+**Don Rosa** è l'erede puro di Carl Barks ("l'uomo dei paperi") e, a parere di chi scrive, **probabilmente il più grande autore di fumetti dell'intera scuola Disneyana**, che con la Saga di Paperon de' Paperoni (The Life and Times of $crooge McDuck, su cui è basato tutto questo disco) ha dato solidità, pathos e soprattutto background all'avaro per antonomasia
 
 <figure>
 	<img src="http://1.bp.blogspot.com/-8CRY7BIjuOM/U0h7Yaya8mI/AAAAAAAAHxQ/0afwLof6F2s/s1600/Copia-di-CarlBarks_ScroogePainting_100.jpg" alt="Paperon de' Paperoni">

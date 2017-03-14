@@ -16,7 +16,7 @@ ads: true
 comments: true
 ---
 
-Il papà di Final Fantasy racconta un bel po' di cose riguardo il suo processo creativo, quelle che sono state le sue influenze, il rapporto con Akira Toriyama, Final Fantasy XV e (sopratutto) il venturo **Remake di _Final Fantasy VII_**.
+Il papà di Final Fantasy racconta un bel po' di cose riguardo il suo processo creativo, quelle che sono state le sue influenze, il rapporto con Akira Toriyama, Final Fantasy XV e (soprattutto) il venturo **Remake di _Final Fantasy VII_**.
 
 ## Premesse & Disclaimer
 

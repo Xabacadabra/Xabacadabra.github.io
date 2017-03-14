@@ -27,7 +27,7 @@ Non sono uno di quei **videogiocatori** mentalmente chiusi che hanno necessariam
 
 Detto questo, il capoccia **David Cage (al secolo David De Gruttola) mi è sempre sembrato un regista frustrato più che un vero e proprio game designer**, uno che volesse raccontare storie e sfruttasse il medium videogame **senza però averne il dovuto rispetto** (andate a cercarvi qualche sua dichiarazione per capire cosa intendo).
 
-Ciò, bene inteso, non cambia il fatto che abbiamo di fronte **un autore di grande talento**, bravissimo sopratutto nel enfatizzare la psicologia dei suoi personaggi.
+Ciò, bene inteso, non cambia il fatto che abbiamo di fronte **un autore di grande talento**, bravissimo soprattutto nel enfatizzare la psicologia dei suoi personaggi.
 
 ## Beyond: Due Anime de li mortacci tua
 

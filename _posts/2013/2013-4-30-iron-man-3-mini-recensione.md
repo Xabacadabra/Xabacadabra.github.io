@@ -45,7 +45,7 @@ nel complesso è girato in modo ottimo, forse anche meglio dei due predecessori
 
 Si ha la sensazione di trovarsi di fronte ad **un gran bel film dal target spaventosamente sbagliato**, forse nell'intento di vendere qualche Big Mac in più, per quanto poi il film tratti e gestisca temi pure più adulti degli altri Iron Man (lo stress post-traumatico, il rapporto con Pepper, il cattivo stesso) solo facendolo con poca cruda sagacia e piuttosto molto innocuo humor vecchio stile.
 
-**C'è più Disney (di scuola Touchstone Pictures) che Marvel**, e se non si può dire che questo sia necessariamente un male in termini di qualità, a più di qualche fan potrebbe storcere il naso, sopratutto gli amanti più sfegatati del fumetto (che questo film inevitabilmente lo odieranno, e con ottimi motivi).
+**C'è più Disney (di scuola Touchstone Pictures) che Marvel**, e se non si può dire che questo sia necessariamente un male in termini di qualità, a più di qualche fan potrebbe storcere il naso, soprattutto gli amanti più sfegatati del fumetto (che questo film inevitabilmente lo odieranno, e con ottimi motivi).
 
 In effetti, forse proprio perché non sono tra questi, personalmente devo dire che a me è piaciuto molto.
 

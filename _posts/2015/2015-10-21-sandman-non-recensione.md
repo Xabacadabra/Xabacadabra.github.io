@@ -22,7 +22,7 @@ Ho parlato, raffigurato, scarabocchiato e citato _Sandman_ a più riprese in que
 
 In parte, credo questo dipenda dal fatto che Sandman non è una di quelle opere che si possono recensire.
 
-Cioè: evidentemente io NON posso recensirlo, **ma sinceramente penso che chiunque provi solo ad accarezzare l'idea di vivisezionare l'opera di Neil Gaiman**, sfruttando chissà quali metri di giudizio, **rischi di compiere anzitutto un errore nei confronti di se stesso e, sopratutto, nei confronti del suo lettore.**
+Cioè: evidentemente io NON posso recensirlo, **ma sinceramente penso che chiunque provi solo ad accarezzare l'idea di vivisezionare l'opera di Neil Gaiman**, sfruttando chissà quali metri di giudizio, **rischi di compiere anzitutto un errore nei confronti di se stesso e, soprattutto, nei confronti del suo lettore.**
 
 ## E allora ?
 

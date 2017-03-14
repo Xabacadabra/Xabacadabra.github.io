@@ -76,7 +76,7 @@ Ciò detto, partiamo con i "pro e contro" perché come avrete capito una recensi
 
 1. **Pirati. Pirati piratosi**, VERI, che sanno di GROG anche solo a vederli, non simpatiche macchiette di Johnny Depp e compagnia cantante
 
-2. **Il cast** come detto non avrà nomi altisonanti, ma **è di livello eccellente** e con un piglio spiccatamente teatrale, sopratutto per quanto riguarda **Toby Stephens**
+2. **Il cast** come detto non avrà nomi altisonanti, ma **è di livello eccellente** e con un piglio spiccatamente teatrale, soprattutto per quanto riguarda **Toby Stephens**
 
 3. A dispetto di quanto possano far pensare i trailer, **_Black Sails_ non è solo sesso, alcool e scorrerie...anzi, è sorprendentemente una vicenda molto politica**, legata come detto a molte realtà storiche (per quanto romanzate), in questo forse l'influenza di _Game of Thrones_ ha dato i suoi frutti
 
@@ -84,7 +84,7 @@ Ciò detto, partiamo con i "pro e contro" perché come avrete capito una recensi
 
 5. **Il mix tra storia e fantasia è reso in modo superbo**, così come i rimandi all'opera originale
 
-6. **La sceneggiatura risulta solida e sopratutto plausibile**, molto più pensata di quanto si potrebbe immaginare per una serie simile
+6. **La sceneggiatura risulta solida e soprattutto plausibile**, molto più pensata di quanto si potrebbe immaginare per una serie simile
 
 ## Contro
 
@@ -100,7 +100,7 @@ Ciò detto, partiamo con i "pro e contro" perché come avrete capito una recensi
   <img src="http://1.bp.blogspot.com/-SdVtmFF2-MU/VEdJRimHNeI/AAAAAAAAKhw/Guv3tqZ10G8/s1600/3BlackSails.jpg" alt="Silver">
 </figure>
 
-**Consigliatissima in tutto e per tutto a chiunque abbia anche solo un vago amore per il mondo dei filibustieri, sopratutto quelli storici e romanzeschi.**
+**Consigliatissima in tutto e per tutto a chiunque abbia anche solo un vago amore per il mondo dei filibustieri, soprattutto quelli storici e romanzeschi.**
 {: .notice-success}
 
 **Credo possa piacere anche ad un pubblico abbastanza eterogeneo**, tenendo ben presente che potrebbe non essere così facilmente fruibile come si potrebbe pensare: e questo, bene inteso, non è un difetto, ma un merito di una storia intrigante e complessa.

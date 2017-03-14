@@ -80,7 +80,7 @@ Per un fatto anche solo meramente statistico, **coloro che furono bambine durant
 
 E spesso pure molto bene
 
-Pokemon, Gameboy e sopratutto l'animazione nipponica in senso lato hanno fatto poi il resto: quante sono le ventenni di oggi cresciute guardando Sailor Moon ?
+Pokemon, Gameboy e soprattutto l'animazione nipponica in senso lato hanno fatto poi il resto: quante sono le ventenni di oggi cresciute guardando Sailor Moon ?
 
 Quindi, sfatiamo subito un mito:
 
@@ -90,7 +90,7 @@ Quindi, sfatiamo subito un mito:
 <img src="http://3.bp.blogspot.com/-hXjfKKCDKaM/VEZB3ez1lMI/AAAAAAAAKcQ/3nGuY8uHOBQ/s1600/katyuska%2Bmoonfox.jpg" alt="Katyuska Moonfox">
 </figure>
 
-è tuttavia vero che, sopratutto con la venuta dei social network, un buon numero di fanciulle che **non ha mai acceso una console** su sta cosa ci marcia alla grande: in gergo, praticamente quel che si dice poser.
+è tuttavia vero che, soprattutto con la venuta dei social network, un buon numero di fanciulle che **non ha mai acceso una console** su sta cosa ci marcia alla grande: in gergo, praticamente quel che si dice poser.
 
 
 ## E dov'è il problema? Tanto c'è gnocca, questo è quel che conta
@@ -99,7 +99,7 @@ Beh, questo per quanto riguarda l'aspetto squisitamente voyeuristico è vero, tu
 
 Per intenderci: **in una manifestazione fumettistica una "poser cosplayer" gode della legion d'onore girando in bikini con un Pikachu disegnato sulle tette, a scapito magari di gente che qualche riconoscimento in più lo meriterebbe** (fumettisti, programmatori, cosplayer che si sono uccisi per il proprio costume ecc.)
 
-E sopratutto mi da un po' fastidio che talune fanciulle (di cui sono il primo ad apprezzare le qualità gnappose eh) **riescano a fare tanto fatturato con il mix di poster, calendari e pubblicità social.**
+E soprattutto mi da un po' fastidio che talune fanciulle (di cui sono il primo ad apprezzare le qualità gnappose eh) **riescano a fare tanto fatturato con il mix di poster, calendari e pubblicità social.**
 
 Specie quando poi magari altre faccende nerd devono chiudere i battenti o fare sforzi titanici per portare a compimento i propri progetti.
 

@@ -52,7 +52,7 @@ Ecco, il web più figo per me sta a cavallo tra questi due: chiamiamolo **Web 1
 
 ## Perché il Web 1.5 era bellissimo
 
- Aldilà del fatto che c'era [**Cetramod**](http://xabacadabra.com/2013/cetramod) in pompa magna a spirale con risucchio, complessivamente l'ambiente di **forum**, **blog **e sopratutto **community che mischiavano vecchi siti statici a piattaforme di messaggistica **(con un canale **IRC**, se non con i sopracitati forum) forniva **una straordinaria esperienza di connessione collettiva** che detta così fa molto Woodstock ed in effetti siamo li :  
+ Aldilà del fatto che c'era [**Cetramod**](http://xabacadabra.com/2013/cetramod) in pompa magna a spirale con risucchio, complessivamente l'ambiente di **forum**, **blog **e soprattutto **community che mischiavano vecchi siti statici a piattaforme di messaggistica **(con un canale **IRC**, se non con i sopracitati forum) forniva **una straordinaria esperienza di connessione collettiva** che detta così fa molto Woodstock ed in effetti siamo li :  
   
 Non che tutto fosse rosa e fiori, ovvio, semplicemente **con un internet meno massivo e più "elitario"**, meno aperto all'uomo della strada che uccise [Jimmy il Pedofilo](https://www.youtube.com/watch?v=jEiEZdY2kQA) insomma, era riscontrabile **più contenuto e meno _rumore_ **  
 
@@ -74,7 +74,7 @@ Ecco, di lui è complicato parlare.
   
 Lo scopriremo solo navigando.  
   
-E, sopratutto, in base a **_dove _navigheremo_**, visto che la rivoluzione di **smartphone e tablet** rappresenta il più grosso cambiamento internettiano degli ultimi anni.  
+E, soprattutto, in base a **_dove _navigheremo_**, visto che la rivoluzione di **smartphone e tablet** rappresenta il più grosso cambiamento internettiano degli ultimi anni.  
   
 Va detto poi che se chiunque può scrivere qualsiasi direttamente dal cesso non ci si dovrebbe stupire se in rete si vedono tante cagate (e spesso questo blog non fa eccezione!)
   

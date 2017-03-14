@@ -58,7 +58,7 @@ Questa scena, nella versione italiana veramente STUPRATA (e con il taglio della 
 E qui entra in scena il MOIGE, movimento dell'estrema braccobaldaggine tra i più ignoranti e patetici sorti in questo paese, che invece di dire alla mediaset (come sarebbe stato legittimo) "guardate che questo cartone animato è pensato per dei ragazzi, non bambini, andrebbe gestito in modo diverso da l'Ape Maya" ha pensato bene di pretendere censure pesantissime, che l'azienda poi fu ben lieta di attuare perché in caso contrario la Giochi Preziosi avrebbe dovuto rinunciare ad inserire il Majin Bu di turno nel Pasqualone (e quindi la Mediaset ai relativi introiti pubblicitari)
 Perché la menano con Dragon Ball
 
-Il prodotto che ne uscì, pesantemente rimaneggiato in più punti, conservava comunque la sua qualità e accessibilità di fondo e divenne sinonimo d'animazione giapponese in Italia, nonostante si dovesse confrontare con fenomeni più moderni (i Pokèmon e Yu Gi Oh! di turno, che all'anagrafe risultano parecchio più giovani di lui, e sopratutto i diretti concorrenti/eredi One Piece e Naruto)
+Il prodotto che ne uscì, pesantemente rimaneggiato in più punti, conservava comunque la sua qualità e accessibilità di fondo e divenne sinonimo d'animazione giapponese in Italia, nonostante si dovesse confrontare con fenomeni più moderni (i Pokèmon e Yu Gi Oh! di turno, che all'anagrafe risultano parecchio più giovani di lui, e soprattutto i diretti concorrenti/eredi One Piece e Naruto)
 
 Il fatto che Dragon Ball sia una serie conclusa da anni e anni è di una comodità straordinaria commercialmente parlando:
 

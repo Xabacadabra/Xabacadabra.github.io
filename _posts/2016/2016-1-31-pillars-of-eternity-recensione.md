@@ -81,7 +81,7 @@ Per carità, all'inizio può anche far salire la lacrimuccia rivedere le care ma
 
 O anche da Libro Game: 
 
-**Le sequenze scriptate** (scene risolvibili tramite scelte condizionate dalle statistiche del nostro personaggio o da un altro membro del gruppo) **rappresentano un'idea grandiosa**...peccato siano relativamente poche, sopratutto in rapporto all'_abnorme_ numero di combattimenti (non così evitabili come si poteva sperare).
+**Le sequenze scriptate** (scene risolvibili tramite scelte condizionate dalle statistiche del nostro personaggio o da un altro membro del gruppo) **rappresentano un'idea grandiosa**...peccato siano relativamente poche, soprattutto in rapporto all'_abnorme_ numero di combattimenti (non così evitabili come si poteva sperare).
 
 Allo stesso modo, **l'innovativo sistema di reputazione (o meglio, di reputazioni) è decisamente più interessante del monotono allineamento da D&D**, ed è una di quelle idee che personalmente mi piacerebbe rivedere in altri RPG.
 
@@ -117,7 +117,7 @@ Per più di una ragione mi sono ritrovato spesso a pensare a [_Xenogears_](http:
 
 Ecco, **io penso che Pillars of Eternity possa tranquillamente superare un Baldur's Gate II a livello di trama ma, ereditandone i difetti, fa di tutto per non dimostrartelo:**
 
-**L'introduzione, i momenti chiave della storia e sopratutto lo splendido finale sono veramente di una bellezza rara**, tanto nella scrittura quanto nel contenuto.
+**L'introduzione, i momenti chiave della storia e soprattutto lo splendido finale sono veramente di una bellezza rara**, tanto nella scrittura quanto nel contenuto.
 
 Tutte **le varie parti centrali**, condite da miriadi di quest più o meno riuscite ma nel complesso decisamente poco memorabili invece **non riescono assolutamente a tenere il passo.**
 
@@ -179,7 +179,7 @@ Personalmente, da detrattore dell'abuso del fantasy quale sono, confesso che ne 
 
 ## Conclusioni
 
-**Pillars of Eternity è un gioco di un'altra epoca, traslato un po' a forza nella modernità odierna** ma con numerosi spunti interessanti e sopratutto un'ambientazione che merita di essere sfruttata ancora un bel po'. 
+**Pillars of Eternity è un gioco di un'altra epoca, traslato un po' a forza nella modernità odierna** ma con numerosi spunti interessanti e soprattutto un'ambientazione che merita di essere sfruttata ancora un bel po'. 
 
 Magari ecco, la prossima volta recuperando qualcosa anche da Neverwinter Nights e proseguendo delle ottime idee della compianta Troika Games.
 

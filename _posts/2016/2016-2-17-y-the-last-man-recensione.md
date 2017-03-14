@@ -75,7 +75,7 @@ Ecco, Vaughan mette dei colpi di scena veramente tosti, ma che per la maggior pa
 
 Classe 1976, oggigiorno parecchio noto per lo splendido **_Saga_** (che devo decidermi a continuare, ammetto le mie colpe), si è fatto le ossa saltellando come tanti tra Marvel e DC consentendosi anche una bella spruzzata del _**Buffy**_ fumettistico (che secondo me gli ha giovato parecchio anche in _Y_) nonché della famigerata serie _**Lost.**_
 
-Dovessi dire, è l'americano più inglese che io abbia mai letto in ambito fumettistico, **una sorta di incrocio ideale tra Neil Gaiman e (sopratutto) Joss Whedon.**
+Dovessi dire, è l'americano più inglese che io abbia mai letto in ambito fumettistico, **una sorta di incrocio ideale tra Neil Gaiman e (soprattutto) Joss Whedon.**
 
 ## Conclusioni
 

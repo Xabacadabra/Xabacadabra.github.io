@@ -25,7 +25,7 @@ Intanto guardatevelo che offre la ditta (letteralmente) e dura meno di un quarto
 
 - **C'è parecchio dello stile final fantasy più spiccatamente nomuriano, come anche del suo _Kingdom Hearts_ più "adulto"**, di scuola Roxas (il che è un bene: piacciano o meno probabilmente si parla dei titoli usciti meglio alla Square Enix)
 
-- **Musiche davvero belle** (splendido sopratutto il brano suonato al pianoforte nei titoli di coda)
+- **Musiche davvero belle** (splendido soprattutto il brano suonato al pianoforte nei titoli di coda)
 
 - **Kingsglaive: Final Fantasy XV** 
 

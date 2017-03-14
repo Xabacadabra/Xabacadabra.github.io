@@ -20,7 +20,7 @@ Perché, più o meno dallo scorso Lucca Comics, **nei suoi confronti c'è stato 
 
 Però ehi, **non scherziamo: Lo Chiamavano Jeeg Robot è un film bellissimo.**
 
-Sopratutto, **è un film che traccia un solco**, e per ben due motivi:
+soprattutto, **è un film che traccia un solco**, e per ben due motivi:
 
 1. Quello facile: **l'avvento del cinema "nerd" italiano sensato per ciò che è il nostro paese**, del tutto diverso da quella mattonata sulle balle che fu _Il ragazzo invisibile_
 

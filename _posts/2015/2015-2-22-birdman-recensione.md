@@ -56,7 +56,7 @@ Michael Keaton dovrebbe ricevere tutti gli Oscar di questa terra (è l'una di no
 
 Edward Norton dovrebbe uccidere Michael Keaton e conseguentemente prendersi tutti gli Oscar di questa terra
 
-Emma Stone è una gnocchissima, cinica fringuella, una specie di disperata Taylor Momsen, e sopratutto mostra a tutti quanto sia dannatamente brava (io lo dico da un po' e nessuno mi crede)
+Emma Stone è una gnocchissima, cinica fringuella, una specie di disperata Taylor Momsen, e soprattutto mostra a tutti quanto sia dannatamente brava (io lo dico da un po' e nessuno mi crede)
 
 Zach Galifianakis, com'è recentemente accaduto con il suo collega "leone" Bradley Cooper, mi ha fatto strabuzzare gli occhi in più di una scena chiedendomi se fosse davvero lui, tanto appare così diverso
 

@@ -52,7 +52,7 @@ Nonostante le innovazioni i combattimenti restano più che intuitivi e non tropp
 
 Grandia 2 sfrutta in modo eccellente il superdeformed portandolo a confrontarsi con le console dei primi anni 2000 e ad esso come si diceva sopra si unisce un character design in puro stile manga (che se permettete ha un tratto davvero sbavosamente gnocco - si, sto pensando a Millenia -)
 
-Per quanto riguarda il gioco giocato, gli sviluppatori hanno addottato il collaudato schema di esplorazione in fondali 3d (bellissimi ma forse troppo confusionari, sopratutto nei dungeon) già visto in titoli quali War Arms e Xenogears, ma unendoci modelli dei personaggi anchessi realizzati in tredimensioni
+Per quanto riguarda il gioco giocato, gli sviluppatori hanno addottato il collaudato schema di esplorazione in fondali 3d (bellissimi ma forse troppo confusionari, soprattutto nei dungeon) già visto in titoli quali War Arms e Xenogears, ma unendoci modelli dei personaggi anchessi realizzati in tredimensioni
 
 ## Localizzazione e Audio
 

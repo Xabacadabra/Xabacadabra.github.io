@@ -23,7 +23,7 @@ Ora intendiamoci, io stesso penso che al genere un po' di linfa vitale nuova di 
 
 ## Old School Revival
 
-Ecco, Ni no Kuni è esattamente questo: il JRPG più classico del mondo, meno avenieristico di tanti titoli dei primi anni '90, naturalmente concepito per calzare a pennello con la mentalità di chi del gioco di ruolo giapponese ci ha fatto una religione, eppure con tante idee originali e sopratutto una sontuosissima veste nextgen
+Ecco, Ni no Kuni è esattamente questo: il JRPG più classico del mondo, meno avenieristico di tanti titoli dei primi anni '90, naturalmente concepito per calzare a pennello con la mentalità di chi del gioco di ruolo giapponese ci ha fatto una religione, eppure con tante idee originali e soprattutto una sontuosissima veste nextgen
 
 Insomma, la Level 5 ha fondamentalmente fatto un Final Fantasy a tinte Ghibli (del resto lo Studio Ghibli e Hayao Miyazaki hanno pesantemente influenzato la Squaresoft delle origini, quindi è una gara a chi ha ispirato chi) prendendo pure in prestito l'anima collezionistica da Game Freak (quelli di Pokemon, per intenderci) dandoci quindi quello che è a tutti gli effetti un gioco degno della vecchia Squaresoft
 
@@ -82,4 +82,4 @@ Il vero e proprio cruccio del gioco però sta nel finale, spaventosamente rapido
 
 Complessivamente **Ni no Kuni si conferma all'altezza di tutte le spasmodiche aspettative che si portava dietro, ma non è certo il JRPG definitivo:** senza scomodare le delizie ATLUS, possiamo dire che **il tandem Ghibli + Level 5 perde  il confronto con molti esponenti della vecchia guardia** che vengono superati per mere ragioni anagrafiche.
 
-Ciò nondimeno, parliamo di una splendida fiaba che ogni appassionato del genere e di Miyazaki non dovrebbe lasciarsi scappare, e (sopratutto) un capolavoro audiovisivo nel migliore stile Ghibli
+Ciò nondimeno, parliamo di una splendida fiaba che ogni appassionato del genere e di Miyazaki non dovrebbe lasciarsi scappare, e (soprattutto) un capolavoro audiovisivo nel migliore stile Ghibli

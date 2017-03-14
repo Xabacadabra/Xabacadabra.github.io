@@ -35,7 +35,7 @@ Cioè, in soldoni: se in un qualsiasi altro Metal Gear Solid farsi beccare dal n
 
 1. **Le missioni opzionali non hanno valutazioni**, limiti di tempo, un vero inizio o una vera fine: arrivando nella relativa area possono essere affrontate o ignorate a nostro piacere
 
-2. **Le missioni principali sono tutte abbastanza brevi** o comunque spezzettate in checkpoint strategici, e **sopratutto possono essere rigiocate quando e come si vuole**
+2. **Le missioni principali sono tutte abbastanza brevi** o comunque spezzettate in checkpoint strategici, e **soprattutto possono essere rigiocate quando e come si vuole**
 
 ## 4 Tempo Paradossi
 

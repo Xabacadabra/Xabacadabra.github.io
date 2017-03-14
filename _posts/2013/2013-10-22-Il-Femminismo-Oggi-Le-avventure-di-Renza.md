@@ -46,15 +46,15 @@ La peculiarità del fumetto sta anzitutto in questo: **saper sfottere le contrad
 	<img src="http://2.bp.blogspot.com/-7SwptDmejcs/UmWBvEDNzAI/AAAAAAAAFD4/CLdo9qbrgFM/s1600/renzanuda.jpg" alt="Renza hot!">
 </figure>	
 
-A mio modo di vedere, è mediamente più semplice sfottere efficacemente un uomo rispetto che una donna, sopratutto quando non si sta parlando di uno stereotipo visto-e-rivisto della suddetta, anzi: 
+A mio modo di vedere, è mediamente più semplice sfottere efficacemente un uomo rispetto che una donna, soprattutto quando non si sta parlando di uno stereotipo visto-e-rivisto della suddetta, anzi: 
 
 Renza non appartiene a nessuna delle classiche categorie femminili che di solito vengono "prese di mira": non è una velina, una nerd, una suora ne una pornostar...si tratta anzi della ragazza che è tendenzialmente la prima a sfottere le sue "sorelle", forte di una certa malcelata tendenza a guardare dall'alto in basso il prossimo (di qualsiasi sesso esso sia)
 
 ## Disegni & Balloons
 
-Da profano li trovo belli e sopratutto spaventosamente efficaci nel loro tratto più cartoonesco spartano rispetto a quello usato dall'autrice negli artwork più "impegnati"
+Da profano li trovo belli e soprattutto spaventosamente efficaci nel loro tratto più cartoonesco spartano rispetto a quello usato dall'autrice negli artwork più "impegnati"
 
-I Balloons sono invece il fattore più problematico per via dell'inesorabile "colpo d'occhio", tanto impietoso sopratutto sui social network:
+I Balloons sono invece il fattore più problematico per via dell'inesorabile "colpo d'occhio", tanto impietoso soprattutto sui social network:
 
 Essendo i dialoghi spesso abbastanza prolissi nonostante la grandissima capacità di sintesi di cui sopra, si può notare un lettering acerbo che rallenta il ritmo a causa della notevole verbosità di molti dialoghi
 

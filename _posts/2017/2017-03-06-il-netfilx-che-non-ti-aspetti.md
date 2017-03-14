@@ -80,7 +80,7 @@ Vabbè, qui andiamo nella *canonica serie-tv da Netflix*, quindi esulerebbe un p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DvHJtez2IlY" frameborder="0" allowfullscreen></iframe> 
 
-Un _caos ordinato_, anticonvenzionale e _voluto_, un caos che tocca tematiche parecchio profonde e intrippanti <small>(forse esagerando pure un pochetto, tipo sul finale dell'episodio 5)</small> reggendosi sopratutto grazie a ottime interpretazioni e un'ottima regia, oltre che l'eterna angosciosa domanda: 
+Un _caos ordinato_, anticonvenzionale e _voluto_, un caos che tocca tematiche parecchio profonde e intrippanti <small>(forse esagerando pure un pochetto, tipo sul finale dell'episodio 5)</small> reggendosi soprattutto grazie a ottime interpretazioni e un'ottima regia, oltre che l'eterna angosciosa domanda: 
 
 _"Esiste qualcosa dopo la morte?"_
 
