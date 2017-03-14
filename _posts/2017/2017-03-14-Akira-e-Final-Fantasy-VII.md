@@ -127,19 +127,19 @@ Epicentri di tecnologia, inquinamento, un passato soffocato dall'inesorabile bis
 </figure>
 
 <figure class="half">
-	<img src="/gallery/akira-ff7/akira-6.jpg" alt='akira e final fantasy vii'>
+	<img src="/gallery/akira-ff7/akira6.jpg" alt='akira e final fantasy vii'>
 	<img src="/gallery/akira-ff7/ffvii-6.jpg" alt='akira e final fantasy vii'>
 </figure>
 
 <figure class="half">
-	<img src="/gallery/akira-ff7/akira-7.jpg" alt='akira e final fantasy vii'>
+	<img src="/gallery/akira-ff7/akira7.jpg" alt='akira e final fantasy vii'>
 	<img src="/gallery/akira-ff7/ffvii-7.jpg" alt='akira e final fantasy vii'>
 </figure>
 
 Classismo che, com'è tipico anzitutto nella vita reale, **va riflettendosi tanto negli individui quanto nell'architettura stessa dei vari quartieri** o, per meglio dire, dei vari **_Settori_.**
 
 <figure class="half">
-	<img src="/gallery/akira-ff7/akira-5.jpg" alt='akira e final fantasy vii'>
+	<img src="/gallery/akira-ff7/akira5.jpg" alt='akira e final fantasy vii'>
 	<img src="/gallery/akira-ff7/ffvii-5.jpg" alt='akira e final fantasy vii'>
 </figure>
 

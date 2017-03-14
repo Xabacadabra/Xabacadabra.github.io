@@ -114,11 +114,11 @@ In mezzo: **ottimi attori, scene d'azione carine, bella colonna sonora e un inte
       "@type": "Rating",
       "ratingValue": "4"
     },
-    "name": "Ghiottone!",
+    "name": "about",
     "author": {
       "@type": "Person",
       "name": "Andrea Xab Corinti",
-    "image": "http://xabacadabra.com/images/macbeth.jpg",
+    "image": "http://xabacadabra.com/andrea-corinti/images/avatar.jpg",
    },
    "datePublished": "2017-3-12",
    "dateCreated" : "2017-3-12",
