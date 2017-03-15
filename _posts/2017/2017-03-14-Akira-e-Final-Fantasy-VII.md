@@ -15,7 +15,7 @@ image:
 published: true
 ads: true
 comments: false
-staticman: true
+staticman: false
 ---
 ATTENZIONE! In questo post tento di non rivelare nulla riguardo le trame delle due opere in questione. Ciò detto, consiglio di proseguire nella lettura solo se le si conosce entrambe!
 {: .notice-info}
