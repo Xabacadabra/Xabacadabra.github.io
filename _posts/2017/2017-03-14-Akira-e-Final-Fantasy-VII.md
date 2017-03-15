@@ -21,7 +21,7 @@ ATTENZIONE! In questo post tento di non rivelare nulla riguardo le trame delle d
 
 Penso a questo post da circa un annetto, da quando cioè lessi per la prima volta il manga del capolavoro di **Katsuhiro Otomo** dopo essere mezzo cresciuto avendo visto e rivisto l'omonimo film. 
 
-Diciamo che mi sono divertito ad analizzarne particolari della **cifra stilistica di _Akira_**, mettendoli in relazione con quello che è da sempre uno dei miei topic preferiti:
+Diciamo che mi sono divertito ad analizzare alcuni particolari della **cifra stilistica di _Akira_**, mettendoli in relazione con quello che è da sempre uno dei miei topic preferiti:
 
 **_Final Fantasy VII_**.
 
