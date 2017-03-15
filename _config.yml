@@ -56,7 +56,21 @@ titlecase: true
 
 repository: "Xabacadabra/Xabacadabra.github.io"
 staticman:
-  branch: "master"
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "Nuovo Commento!"
+  filename               : commento-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601"
   
 # Site owner
 owner:
