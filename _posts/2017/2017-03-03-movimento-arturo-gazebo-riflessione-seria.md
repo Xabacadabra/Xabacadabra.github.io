@@ -2,7 +2,7 @@
 layout: article
 title: "Il Movimento Arturo di Gazebo: una riflessione seria"
 modified: null
-categories: [2013]
+categories: [2017]
 excerpt: "Senza fare eco a Pippo Civati, che pure ha scritto un post condivisibile (e furbo) la goliardata di Gazebo dimostra due fatti fondamentali:..."
 tags:
   - politica
