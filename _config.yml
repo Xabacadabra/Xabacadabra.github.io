@@ -52,6 +52,11 @@ page_layout: article
 # Format titles with titlecase?
 titlecase: true
 
+# Repository e Staticman
+
+repository: "Xabacadabra/Xabacadabra.github.io"
+staticman:
+  branch: "master"
   
 # Site owner
 owner:
