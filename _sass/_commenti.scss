@@ -2,7 +2,7 @@
 
 .page__comments-title {
   margin-top: 2rem;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   padding-top: 2rem;
   font-size: 36px;
   border-top: 1px solid $border-color;
@@ -30,7 +30,7 @@
 .comment {
   @include clearfix();
   margin: 1em 0;
-
+  
   &:not(:last-child) {
     border-bottom: 2px solid $border-color;
   }
