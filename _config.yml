@@ -70,7 +70,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601"
+        format           : "unien28601"
   
 # Site owner
 owner:
