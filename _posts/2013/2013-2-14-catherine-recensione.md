@@ -8,9 +8,9 @@ tags: [recensioni, videogiochi]
 image: 
   feature: catherine.jpg
   teaser: teasercatherine.jpg
-  thumb: 
+  thumb: null
 published: true
-comments: true
+staticman: true
 ---
 
 Lo dico subito: 
