@@ -127,11 +127,11 @@
 		(twitter, $twitter-color),
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color);
-	@extend .btn-inverse;
-	color: $text-color !important;
+	@extend .btn;
+	color: $white !important;
 	&:visited,
 	&:active {
-		color: $text-color;
+		color: $white;
 	}
 	border: 1px solid $border-color !important;
 	@each $socialnetwork, $color in $social {
