@@ -45,7 +45,9 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**The Cutting Room Floor**](https://tcrf.net/){:target="_blank"} - il regno degli smanettoni che amano hackerare e sviscerare i videogiochi, la Debug Room di tutte le Debug Room!
 
-- [**Final Fantasy VII Citadel**](http://www.ff7citadel.com/shinra_times/index.shtml/){:target="_blank"} - da anni il mio sito preferito a tema Final Fantasy VII (tolto cetramod, ma sono di parte)
+- [**Final Fantasy VII Citadel**](http://www.ff7citadel.com){:target="_blank"} - da anni il mio sito preferito a tema Final Fantasy VII (tolto cetramod, ma sono di parte)
+
+- [**Adventure's Planet**](http://www.adventuresplanet.it/){:target="_blank"} - caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame
 
 - [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
 
