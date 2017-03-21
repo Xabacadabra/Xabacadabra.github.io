@@ -13,6 +13,7 @@ image:
   thumb: null
 published: true
 comments: true
+ads: true
 ---
 
 Per scongiurare il rischio di scatenare le ire di qualche cinefilo e/o ritrovarmi **Hideo Kojima** sotto casa, **preciso che adoro il cinema!** <small>(anche perché [questa sezione](http://xabacadabra.com/blog/tag/cinema/) non è stata creata mica per niente)</small> 
