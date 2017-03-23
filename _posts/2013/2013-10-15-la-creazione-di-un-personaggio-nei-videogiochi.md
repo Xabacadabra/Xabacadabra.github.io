@@ -10,6 +10,7 @@ image:
   teaser:  teaser-creazione-personaggio.jpg
   thumb: 
 published: true
+ads: true
 comments: true
 ---
 
