@@ -6,6 +6,7 @@ categories: [2015]
 excerpt: "Ci sono delle cose splendide in quest'album, delle piccole gemme di riff chitarristici (penso a Sword of Damocles, o Cold Blooded), c'è un Rob Halford che porta a casa un buon canto roco, perché giustamente all'età sua..."
 tags: [musica, recensioni]
 comments: true
+ads: true
 image: 
   feature: redeemer-of-souls.jpg
   teaser:  teaser-redeemer-of-souls.jpg
