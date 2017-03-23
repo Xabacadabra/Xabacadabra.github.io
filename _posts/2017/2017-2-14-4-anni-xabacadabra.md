@@ -3,7 +3,7 @@ layout: article
 title: "4 Anni di Xaba Cadabra !"
 modified: null
 categories: [2017]
-excerpt: "Mamma mia. Sul serio, così tanti ? .."
+excerpt: "Mamma mia. Sul serio, così tanti ? È a tratti un po' deprimente, devo dire la verità..."
 tags:
   - xabologia
 image: 

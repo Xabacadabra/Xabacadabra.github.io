@@ -118,7 +118,7 @@ E, parlando del frutto principale, torniamo a una delle prime risposte alla doma
 
 <small>SU LE MANI!</small>
 
-**Sabrina/Ayukawa** ha rappresentato un sogno tra l'erotico ed il romantico per tanti bimbi in crescita**, una delle varie *regine del celebrità* dell'infanzia anni '80-'90, e quindi un importantissimo aggancio per il pubblico maschile (certamente più abituato ad altri generi, almeno in Italia).
+**Sabrina/Ayukawa** ha rappresentato un sogno tra l'erotico ed il romantico per tanti bimbi in crescita, **una delle varie *regine del celebrità* dell'infanzia anni '80-'90**, e quindi un importantissimo aggancio per il pubblico maschile (certamente più abituato ad altri generi, almeno in Italia).
 
 Allo stesso modo, **ha incarnato il modello della ragazza grintosa, un po' ribelle, indipendente e con molto più sale in zucca del protagonista maschile**, dimostrandosi una figura memorabile pure per molte ragazzine.
 
