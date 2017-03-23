@@ -8,7 +8,7 @@ tags:
    - animazione
 image: 
   feature: gangsta.jpg
-  teaser: Teaser-gangsta.jpg
+  teaser: teaser-gangsta.jpg
   thumb: null
 published: true
 ads: true
