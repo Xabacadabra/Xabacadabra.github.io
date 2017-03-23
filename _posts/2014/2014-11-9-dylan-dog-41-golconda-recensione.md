@@ -5,7 +5,6 @@ modified: 2017-03-23
 categories: [2014]
 excerpt: "In Golconda ci sono buona parte dei deliri più belli di Tiziano Sclavi"
 tags: 
-   - recensioni
    - fumetti
 image: 
   feature: golconda.jpg
