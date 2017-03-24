@@ -25,7 +25,7 @@ Bene, come avrete letto dal titolo, oggi su Xaba Cadabra si parla (credo per la 
 
 <figure>
  <img src='http://4.bp.blogspot.com/-sUjprmo7Nqs/VPlwVGwHBLI/AAAAAAAALno/Bd9_5xGXSQY/s1600/kibuishi-spine-image.jpg' alt='Harry Potter'>
- <figcaption>Gli artwork di questo post sono opera del fenomenale [Kazu Kibuishi](https://twitter.com/boltcity)</figcaption>
+ <figcaption>Gli artwork di questo post sono opera del fenomenale Kazu Kibuishi</figcaption>
  </figure>
 
 Buoni buoni, abbassate le bacchette: so già che avete il Crucio pronto in canna da lanciarmi addosso, quindi diciamolo subito:
