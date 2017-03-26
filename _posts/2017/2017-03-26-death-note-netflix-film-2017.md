@@ -92,7 +92,7 @@ In generale gli esempi di rifacimenti meritevoli si sprecano...**tuttavia, il di
 <img src='http://www.animeclick.it/prove/img_tmp/63230.jpg' alt='death note'>
 </figure>
 
-Anzitutto **_Death Note_ è un manga abbastanza recente (2003), ed un prodotto dallo **_spropositato**_ successo internazionale:** 
+Anzitutto **_Death Note_ è un manga abbastanza recente (2003), ed un prodotto dallo _spropositato_ successo internazionale:** 
 
 È stato uno dei _seinen_ moderni più importanti e d'impatto nella storia recente, **aiutato anche dall'esplosione di cosplay e dall' _"otaku wave"_** scoppiata globalmente proprio in quello stesso periodo.
 
