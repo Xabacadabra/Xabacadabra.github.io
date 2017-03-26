@@ -96,7 +96,7 @@ Anzitutto **_Death Note_ è un manga abbastanza recente (2003), ed un prodotto d
 
 È stato uno dei _seinen_ moderni più importanti e d'impatto nella storia recente, **aiutato anche dall'esplosione di cosplay e dall' _"otaku wave"_** scoppiata globalmente proprio in quello stesso periodo.
 
-**Tutto ciò ha un peso spropositato in operazioni di questo tipo:** 
+**Tutto ciò ha un peso abnorme in operazioni di questo tipo:** 
 
 Esistono ancora ragazze innamorate di L, dei _Light Yagami wannabe_ tutti _ciccia & brufoli_, un'industria erotica che cura la propria linea d'abbigliamento utilizzando Misa Amane come standard eccetera eccetera.
 
