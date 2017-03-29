@@ -3,7 +3,7 @@ layout: article
 title: "Rocky Joe - Joe del Domani"
 modified: 2017-3-29
 categories: [2014]
-excerpt: "Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno affascinato nei vecchi classici prodotti d'animazione/fumettistici del sol levante..."
+excerpt: "Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno affascinato nei vecchi classici prodotti d'animazione/fumettistici del..."
 tags: 
   - fumetti
 image: 
@@ -15,13 +15,13 @@ ads: true
 comments: true
 ---
 
-Ho iniziato per la prima volta la controparte fumettistica di un cartone ben noto ad almeno un paio di italiche generazioni.
+Ho recentemente letto per la prima volta la controparte fumettistica di un cartone ben noto ad almeno un paio di italiche generazioni.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PFU2sT0JY2s" frameborder="0" allowfullscreen></iframe>
 
 Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno affascinato nei vecchi classici prodotti d'animazione/fumettistici del sol levante:
 
-**Quella crudezza al limite del sadismo**, il senso di sacrificio, rivalsa dalla povertà...e sopratutto quella sorta d'autoimposizione a non contemplare mai la resa, a **combattere sempre.**
+**Quella crudezza al limite del sadismo**, il senso di sacrificio, rivalsa dalla povertà...e soprattutto quella sorta d'autoimposizione a non contemplare mai la resa, a **combattere sempre.**
 
 _Rocky Joe_ è l'emblema di questi valori, molto **sentiti e radicati nel Giappone post-bellico**, di cui ahimè sopravvivono oramai poche tracce, rimpastate assieme a prodotti più o meno _plastici_ ([ma questa è un'altra storia](http://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/))
 
@@ -66,6 +66,4 @@ Per certi versi, **potremmo considerarlo uno dei primi esempi di _seinen_** [^se
 
 **La storia di Joe Yabuki è tutto questo, e pure qualcosa in più**:
 
-**Un manga semplicemente imperdibile, titanico e travolgente, attuale nel suo essere storicamente connotato.**
-
-Leggetevelo, e voletevi bene.
+**Un manga imperdibile per gli estimatori dei classici del fumetto nipponico**, un fumetto titanico e travolgente, attuale nel suo essere storicamente connotato.
