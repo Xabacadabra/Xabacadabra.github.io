@@ -10,6 +10,7 @@ image:
   teaser: teaser-la-grammatica-di-dio.jpg
   thumb: null
 published: true
+comments: true
 ads: true
 ---
 
