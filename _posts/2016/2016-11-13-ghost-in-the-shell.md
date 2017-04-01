@@ -54,7 +54,7 @@ Ad oggi, forse è secondo solo all'inarrivabile _Akira_ in quel particolare camp
 ## Il secondo manga
 
 <figure>
-<img src='http://static6.comicvine.com/uploads/scale_large/1/11307/381442-21491-129679-3-ghost-in-the-shell-2.jpg' alt='ghost in the shell'>
+<img src='https://static1.comicvine.com/uploads/scale_small/0/8015/224690-19529-116801-1-ghost-in-the-shell-2.jpg' alt='ghost in the shell'>
 </figure>
 
 è sempre il più difficile nella carriera di un artista.
