@@ -171,23 +171,29 @@ Due Cyber-braccobaldi che si guardano in faccia annoiati su 5
   "@context":"http://schema.org",
   "@type":"Movie",
   "name":"ghost-in-the-shell",
-  "image": "http://xabacadabra.com/images/teaser-ghost-in-the-shell-film-2017.jpg",
   "director": "Rupert Sanders",
+  "publisher" : "Universal",
   "review": {
     "@type": "Review",
     "reviewRating": {
       "@type": "Rating",
       "ratingValue": "2"
     },
-    "name": "about",
+    "name": "Ghost in the Shell",
     "author": {
       "@type": "Person",
       "name": "Andrea Xab Corinti",
     "image": "http://xabacadabra.com/andrea-corinti/images/avatar.jpg",
    },
+   "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://xabacadabra.com/2017/ghost-in-the-shell-film-2017-recensione/" 
+       },
    "datePublished": "2017-4-1",
    "dateCreated" : "2017-4-1",
-    "reviewBody": "Semplicemente quello che ho scritto in cima: un bel film. Anzi, Un GRAN bel film nella sua prima parte, un filmetto un po' così  nelle battute finali, specie considerando il loro peso narrativo."
+   "dateModified" : "2017-4-1",
+   "headline" : "Ghost in the Shell - Il film (2017) [Recensione]",
+   "reviewBody": "Semplicemente quello che ho scritto in cima: un bel film. Anzi, Un GRAN bel film nella sua prima parte, un filmetto un po' così  nelle battute finali, specie considerando il loro peso narrativo."
   }
 }
 </script> 
