@@ -180,11 +180,11 @@ Due Cyber-braccobaldi che si guardano in faccia annoiati su 5
       "ratingValue": "2"
     },
     "name": "Ghost in the Shell",
-    "author": {
-      "@type": "Person",
-      "name": "Andrea Xab Corinti",
-    "image": "http://xabacadabra.com/andrea-corinti/images/avatar.jpg",
-   },
+    "author" : {
+      "@type" : "Person",
+      "name" : "Andrea Xab Corinti",
+      "image" : "http://xabacadabra.com/andrea-corinti/images/avatar.jpg",
+      },
    "mainEntityOfPage": {
          "@type": "WebPage",
          "@id": "http://xabacadabra.com/2017/ghost-in-the-shell-film-2017-recensione/" 
