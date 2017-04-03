@@ -102,6 +102,9 @@ In mezzo: **ottimi attori, scene d'azione carine, bella colonna sonora e un inte
 4 Braccobaldi traducibili con un 7 pieno pieno.
 {: .notice-success}
 
+<div class="hreview" style="display: none;">
+<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Logan</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Mar 12 2017<br /> </span> Voto: <span class="rating">4</span></span></span></div>
+
 <script type="application/ld+json">
 {
   "@context":"http://schema.org",
