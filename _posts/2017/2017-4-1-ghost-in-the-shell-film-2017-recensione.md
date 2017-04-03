@@ -166,34 +166,7 @@ Se invece conoscete Ghost in the Shell, soprattutto i manga di Shirow, e li amat
 Due Cyber-braccobaldi che si guardano in faccia annoiati su 5
 {: .notice-danger}
 
-<script type="application/ld+json">
-{
-  "@context":"http://schema.org",
-  "@type":"Movie",
-  "name":"ghost-in-the-shell",
-  "director": "Rupert Sanders",
-  "publisher" : "Universal",
-  "review": {
-    "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "2"
-    },
-    "name": "Ghost in the Shell",
-    "author" : {
-      "@type" : "Person",
-      "name" : "Andrea Xab Corinti",
-      "image" : "http://xabacadabra.com/andrea-corinti/images/avatar.jpg",
-      },
-   "mainEntityOfPage": {
-         "@type": "WebPage",
-         "@id": "http://xabacadabra.com/2017/ghost-in-the-shell-film-2017-recensione/" 
-       },
-   "datePublished": "2017-4-1",
-   "dateCreated" : "2017-4-1",
-   "dateModified" : "2017-4-1",
-   "headline" : "Ghost in the Shell - Il film (2017) [Recensione]",
-   "reviewBody": "Semplicemente quello che ho scritto in cima: un bel film. Anzi, Un GRAN bel film nella sua prima parte, un filmetto un po' così  nelle battute finali, specie considerando il loro peso narrativo."
-  }
-}
-</script> 
+<div class="hreview">
+<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Ghost in the Shell</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Apr 1 2017<br /> </span> Voto: <span class="rating">2</span></span></span></div>
+<div style='clear: both;'></div>
+</div>
