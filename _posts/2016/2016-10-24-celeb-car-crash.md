@@ -8,7 +8,7 @@ tags:
      - musica
      - recensioni
 comments: true
-ads: true
+ads: false
 image: 
   feature: celeb-car-crash.jpg
   teaser:  teaser-celeb-car-crash.jpg

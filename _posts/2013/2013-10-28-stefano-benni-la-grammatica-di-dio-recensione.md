@@ -11,7 +11,7 @@ image:
   thumb: null
 published: true
 comments: true
-ads: true
+ads: false
 ---
 
 Prima di tutto ringrazio il buon **Cyano**, mio sommo mentore/divinità protettrice, per il suggerimento letterario ✊️

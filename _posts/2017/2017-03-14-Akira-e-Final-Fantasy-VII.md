@@ -13,7 +13,7 @@ image:
   teaser: teaser-akira-ff7.jpg
   thumb: 
 published: true
-ads: true
+ads: false
 comments: true
 staticman: false
 ---

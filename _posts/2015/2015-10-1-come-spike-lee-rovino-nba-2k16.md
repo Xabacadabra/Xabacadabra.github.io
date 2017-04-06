@@ -12,7 +12,7 @@ image:
   teaser: teaser-nba-2k16.jpg
   thumb: 
 published: true
-ads: true
+ads: false
 comments: true
 ---
 

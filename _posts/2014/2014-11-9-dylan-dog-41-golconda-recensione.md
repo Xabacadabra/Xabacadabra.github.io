@@ -11,7 +11,7 @@ image:
   teaser: teaser-golconda.jpg
   thumb: null
 published: true
-ads: true
+ads: false
 comments: true
 ---
 

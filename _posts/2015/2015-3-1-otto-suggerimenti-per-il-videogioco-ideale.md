@@ -11,7 +11,7 @@ image:
   teaser: teaser-suggerimenti-videogioco.jpg
   thumb: 
 published: true
-ads: true
+ads: false
 comments: true
 ---
 

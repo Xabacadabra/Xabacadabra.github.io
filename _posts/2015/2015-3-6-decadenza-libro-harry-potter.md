@@ -11,7 +11,7 @@ image:
   teaser:  teaser-decadenza-finale-harry-potter.jpg
   thumb:
 published: true
-ads: true
+ads: false
 comments: true
 ---
 

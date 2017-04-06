@@ -12,7 +12,7 @@ image:
   teaser: teaserdrizzit.jpg
   thumb: null
 published: true
-ads: true
+ads: false
 comments: true
 ---
 Venite a scoprire le deliranti e sagaci avventure dell'elfo oscuro più bonaccione del mondo, protagonista del fenomenale webcomic recentemente esploso sul web made in italy !

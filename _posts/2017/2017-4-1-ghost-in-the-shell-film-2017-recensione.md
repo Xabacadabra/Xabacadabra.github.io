@@ -12,7 +12,7 @@ image:
   teaser: teaser-ghost-in-the-shell-film-2017.jpg
   thumb: null
 published: true
-ads: true
+ads: false
 comments: true
 ---
 

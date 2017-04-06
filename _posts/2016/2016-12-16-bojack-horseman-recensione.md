@@ -15,7 +15,7 @@ image:
   thumb: null
 published: true
 comments: true
-ads: true
+ads: false
 ---
 
 Se avete Netflix, con ogni probabilità avrete intravisto il rettangolino d'anteprima di Bojack zompare fuori qua e la.

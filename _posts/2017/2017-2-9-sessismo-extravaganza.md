@@ -13,7 +13,7 @@ image:
   thumb: null
 published: true
 comments: true
-ads: true
+ads: false
 ---
 
 Leggendo "sessismo" starete già pensando a qualche predica morale o amorale (ultimamente è pure più trendy), e che io sia un qualche stronzo che vuole insegnarvi a vivere, magari spacciando un inutile ebook con la scusa di riempirvi di spam la casella mail o, (seguendo i tempi) intasare la vostra home di Facebook con pagine e quant'altro.

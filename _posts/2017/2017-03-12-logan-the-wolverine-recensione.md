@@ -11,7 +11,7 @@ image:
   feature: logan-the-wolverine.jpg
   teaser: teaser-logan-the-wolverine.jpg
   thumb: null
-ads: true
+ads: false
 published: true
 comments: true
 ---

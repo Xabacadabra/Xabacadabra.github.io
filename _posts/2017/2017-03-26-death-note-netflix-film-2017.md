@@ -11,7 +11,7 @@ image:
   feature: death-note-netflix.jpg
   teaser: teaser-death-note-netflix.jpg
   thumb: null
-ads: true
+ads: false
 published: true
 comments: true
 ---

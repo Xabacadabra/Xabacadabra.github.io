@@ -12,7 +12,7 @@ image:
   teaser: teaser-intervista-sakaguchi.jpg
   thumb: 
 published: true
-ads: true
+ads: false
 comments: true
 ---
 

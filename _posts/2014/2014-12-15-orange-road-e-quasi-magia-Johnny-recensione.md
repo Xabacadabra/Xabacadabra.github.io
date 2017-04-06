@@ -12,7 +12,7 @@ image:
   thumb: null
 published: true
 comments: true
-ads: true
+ads: false
 ---
 
 ATTENZIONE - QUESTO POST CONTIENE ALTE DOSI DI NOSTALGIA

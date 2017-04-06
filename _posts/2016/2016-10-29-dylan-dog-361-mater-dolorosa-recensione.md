@@ -12,7 +12,7 @@ image:
   teaser: teaser-mater-dolorosa.jpg
   thumb: null
 published: true
-ads: true
+ads: false
 comments: true
 ---
 Causa tempo, soldi (soprattutto soldi) voglia ed "ispirazione" è parecchio che non mi vado a leggere, e conseguentemente recensire, qualche albo di Dylan Dog.

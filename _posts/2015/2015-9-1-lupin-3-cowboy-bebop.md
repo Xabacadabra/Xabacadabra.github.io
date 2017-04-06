@@ -10,7 +10,7 @@ image:
   feature: lupin-3-cowboy-bebop.jpg
   teaser: Teaser-lupin-3-cowboy-bebop.jpg
   thumb: null
-ads: true
+ads: false
 published: true
 comments: true
 ---

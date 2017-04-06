@@ -12,7 +12,7 @@ image:
   teaser:  teaser-harry-potter-e-la-maledizione-dell-erede-recensione.jpg
   thumb:
 published: true
-ads: true
+ads: false
 comments: true
 ---
 
