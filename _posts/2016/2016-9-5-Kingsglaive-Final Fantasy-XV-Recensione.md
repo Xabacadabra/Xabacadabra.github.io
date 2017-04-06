@@ -150,7 +150,7 @@ Non dimentichiamo che **Kingsglaive fa parte di qualcosa di più grande di lui, 
 
 Sarà che quando si parla di Square Enix le mie aspettative partono sempre sottozero, sarà che il genere, le tematiche e lo stile rientrano perfettamente nelle mie corde, ma **Kingsglaive mi è piaciuto davvero parecchio.**
 
-**È un film che difficilmente potrà essere digerito da chi non ama intrecci militari / socio-politici** ed è imperativo tenere sempre in considerazione la sua natura da "apripista".
+<span itemprop="headline">**È un film che difficilmente potrà essere digerito da chi non ama intrecci militari / socio-politici** ed è imperativo tenere sempre in considerazione la sua natura da "apripista".</span>
 
 Ciò nonostante penso possa essere apprezzato da un buon numero di persone, **principalmente da chi conosce bene (con tutti i suoi alti e bassi) la cifra stilistica della saga di JRPG più famosa del mondo**. 
 
@@ -160,3 +160,6 @@ E questo, con buona pace dei votacci di _RottenTomatoes_, è in effetti tutto ci
 
 4 Braccobaldi su 5
 {: .notice-success} 
+
+<div class="hreview" style="display: none;">
+<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Kingsglaive - Final Fantasy XV</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Sep 5 2017<br /> </span> Voto: <span class="rating">4</span></span></span></div>

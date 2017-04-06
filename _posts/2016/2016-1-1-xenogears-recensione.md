@@ -37,7 +37,7 @@ Buttiamo giù un po' di nomi pesanti ?
 
 avoja quanti altri titoli si potrebbe citare...
 
-Eppure, sinceramente **non credo di aver mai visto un intreccio narrativo e soprattutto un'ambientazione tanto curata ed elaborata come si presenta quella di Xenogears.** 
+Eppure, sinceramente <span itemprop="headline">**non credo di aver mai visto un intreccio narrativo e soprattutto un'ambientazione tanto curata ed elaborata come si presenta quella di Xenogears.** </span>
 
 Ma manco da lontano proprio. 
 
@@ -173,26 +173,5 @@ Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede 
 I braccobaldi non possono che essere **5 su 5** !
 {: .notice-success}
 
-<script type="application/ld+json">
-{
-  "@context":"http://schema.org",
-  "@type":"VideoGame",
-  "name":"Xenogears",
-  "operatingSystem": "PlayStation",
-  "applicationCategory": "http://schema.org/Game", 
-  "review": {
-    "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5"
-    },
-    "name": "La storia più complessa del videogame",
-    "author": {
-      "@type": "Person",
-      "name": "Andrea Xab Corinti"
-   },
-   "datePublished": "2016-01-02",
-    "reviewBody": "Xenogears è solo per il penitente che vorrà passare, un percorso di fede realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri"
-  }
-}
-</script>
+<div class="hreview" style="display: none;">
+<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Xenogears</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Gen 1 2016<br /> </span> Voto: <span class="rating">5</span></span></span></div>

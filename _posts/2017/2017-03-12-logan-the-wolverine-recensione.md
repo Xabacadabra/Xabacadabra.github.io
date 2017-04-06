@@ -18,7 +18,7 @@ comments: true
 
 _Logan_ è un bel film. 
 
-Soprattutto **è un _Film_, non l'episodio della gargantuesca serie tv rappresentata dal Marvel Cinematic Universe:** 
+<span itemprop="headline">Soprattutto **è un _Film_, non l'episodio della gargantuesca serie tv rappresentata dal Marvel Cinematic Universe:**</span> 
 
 Vale insomma ciò che scrissi per [_Batman V Superman_](http://xabacadabra.com/2016/batman-v-superman-dawn-of-justice-recensione/)...**con la sostanziale differenza che quello era na ciofeca, mentre come detto _Logan_ è effettivamente un _bel_ film.**
 
@@ -104,29 +104,3 @@ In mezzo: **ottimi attori, scene d'azione carine, bella colonna sonora e un inte
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Logan</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Mar 12 2017<br /> </span> Voto: <span class="rating">4</span></span></span></div>
-
-<script type="application/ld+json">
-{
-  "@context":"http://schema.org",
-  "@type":"Movie",
-  "name":"Logan - Te Wolverine",
-  "image": "http://xabacadabra.com/images/teaser-logan-the-wolverine.jpg",
-  "director": "James Mangold",
-  "review": {
-    "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "4"
-    },
-    "name": "about",
-    "author": {
-      "@type": "Person",
-      "name": "Andrea Xab Corinti",
-    "image": "http://xabacadabra.com/andrea-corinti/images/avatar.jpg",
-   },
-   "datePublished": "2017-3-12",
-   "dateCreated" : "2017-3-12",
-    "reviewBody": "Semplicemente quello che ho scritto in cima: un bel film. Anzi, Un GRAN bel film nella sua prima parte, un filmetto un po' così  nelle battute finali, specie considerando il loro peso narrativo."
-  }
-}
-</script> 
