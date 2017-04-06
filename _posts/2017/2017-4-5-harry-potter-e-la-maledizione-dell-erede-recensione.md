@@ -60,7 +60,8 @@ D'altro canto, e _Pottermore_ insegna, **J. K. Rowling è fenomenale nella gesti
 
 _Nì._
 
-Complici molti fattori che andremo ad esaminare tra qualche paragrafo, **io il quarantenne descritto nel libro non riesco ad identificarlo con Harry Potter.**
+Complici molti fattori che andremo ad esaminare tra qualche paragrafo, 
+<span itemprop="headline">**io il quarantenne descritto nel libro non riesco ad identificarlo con Harry Potter.**</span>
 
 E non è un fatto di età: 
 

@@ -24,7 +24,7 @@ Poi:
 
 Io non amo quelli che rigirano la frittata per ore prima di cacciare numeri e pagelle, quindi vi do subito il mio verdetto: 
 
-**Il live action di Ghost in the Shell è _na fetenzia_.** 
+<span itemprop="headline">**Il live action di Ghost in the Shell è _na fetenzia_.**</span> 
 
 Non solo: 
 
