@@ -14,7 +14,9 @@ ads: true
 comments: true
 ---
 
-nota bene: in questo post non farò alcun accenno diretto ai videogiochi online, nell'eventualità ci sarebbe da scrivere tutto un articolo a parte
+{% include toc.html %}
+
+Nota bene: in questo post non farò alcun accenno diretto ai videogiochi online, nell'eventualità ci sarebbe da scrivere tutto un articolo a parte
 {: .notice-info}
 
 Esiste una caratteristica nel universo dei videogame che mi ha sempre condizionato molto, in particolare a partire dai tempi di _The Elder Scrolls III: Morrowind_:
