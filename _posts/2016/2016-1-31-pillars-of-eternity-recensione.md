@@ -51,7 +51,7 @@ In questo senso, **Pillars of Eternity rischia un po' di essere i Wolfmother: su
 	<img src="http://eternity.obsidian.net/img/media/screenshots/pe-screenshot-002-1920x1080.jpg" alt="pillars of eternity recensione">
 </figure>
 
-**Pillars of Eternity è un prodotto hardcore, da fan per i fan, nostalgico per i nostalgici** e, seppur dotato di accorgimenti innovativi interessanti e un'ambientazione tutta nuova (o quasi...), **fa di tutto per rammentarci quanto è classico:**
+<span itemprop="headline">**Pillars of Eternity è un prodotto hardcore, da fan per i fan, nostalgico per i nostalgici** e, seppur dotato di accorgimenti innovativi interessanti e un'ambientazione tutta nuova (o quasi...), **fa di tutto per rammentarci quanto è classico:**</span>
 
 Se da un lato tutto questo è bello, **è anche uno dei motivi per cui l'inevitabile confronto con la "vecchia scuola" originale si fa sentire di più:**
 
@@ -185,3 +185,6 @@ Magari ecco, la prossima volta recuperando qualcosa anche da Neverwinter Nights 
 
 **4 Braccobaldi su 5**
 {: .notice-success}
+
+<div class="hreview" style="display: none;">
+<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Pillars of Eternity</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Apr 1 2017<br /> </span> Voto: <span class="rating">4</span></span></span></div>
