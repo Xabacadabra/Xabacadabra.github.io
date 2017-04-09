@@ -76,7 +76,7 @@ Ecco...Watanabe temeva venisse fuori na roba troppo da "_sfigati_" <small>(parol
 
 In un'epoca dove mezzomondo scimiotta la cifra _Pixar_, **Watanabe si è mostrato fermo sostenitore della politica nipponica del _disegno classico_**, sottolineando in particolare un fatto : 
 
-> Praticamente a sfruttare il disegno tradizionale siamo rimasti solo noi giapponesi, tutti il resto è animazione in 3D 
+> Praticamente a sfruttare il disegno tradizionale siamo rimasti solo noi giapponesi, tutto il resto è animazione in 3D 
 
 Qualche eccezione ci sarà pure, ma in effetti ragionandoci **tutte le grandi produzioni animate a disegni vecchia maniera restano prerogativa del sol levante.**
 
@@ -84,7 +84,7 @@ Qualche eccezione ci sarà pure, ma in effetti ragionandoci **tutte le grandi pr
 
 Paroli di miele poi per la geniale compositrice **Yoko Kanno**, spesso interprete di un ruolo che va ben oltre quello di "mero" sottofondo musicale:
 
-Watanabe ha infatti spiegato come **alcune scene di _Cowboy Bebop_ siano state scritte sucessivamente all'ascolto dei brani della Kanno, una sorta di vero e proprio "storyboard musicale"**, concludendo che con ogni probabilità tornerà a collaborare con lei alla prima occasione.
+Watanabe ha infatti spiegato come **alcune scene di _Cowboy Bebop_ siano state scritte successivamente all'ascolto dei brani della Kanno, una sorta di vero e proprio "storyboard musicale"**, concludendo che con ogni probabilità tornerà a collaborare con lei alla prima occasione.
 
 ## Sul significato delle sue Opere 
 
