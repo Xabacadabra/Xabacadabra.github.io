@@ -36,13 +36,13 @@ Di Tokyo Trial ho apprezzato anzitutto  **l'enfasi per le _sfumature_**, in un r
 
 ### Realtà Sottovalutate 
 
-Confesso che **il processo di Tokyo che lo conoscevo molto poco.**
+Confesso che **il processo di Tokyo lo conoscevo molto poco.**
 
 Quello di Norimberga è sempre l'inevitabile _star_ nei libri di storia tanto quanto nella memoria comune e, ragionandoci, forse è un peccato:
 
 La questione coloniale, il peso dell'imperialismo occidentale, la futura imposizione del mercato asiatico **hanno tutte radici nel dopoguerra del Sol Levante.**
 
-Caldamente consigliata a tutti gli appassionati di Storia.
+Anche per questo, caldamente consigliata a tutti gli appassionati di Storia.
 
 ## Grillo vs Grillo
 
