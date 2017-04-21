@@ -3,7 +3,7 @@ layout: article
 title: "Il Netflix che non ti aspetti #2"
 modified: null
 categories: [2017]
-excerpt: "Secondo episodio di questa rubrica che avrei potuto benissimo chiamare Cazzeggiando su Netflix, ma a 'ste cose uno ci pensa sempre dopo..."
+excerpt: "Secondo episodio di una rubrica che avrei potuto benissimo chiamare Cazzeggiando su Netflix, ma a 'ste cose uno ci pensa sempre dopo..."
 tags:
   - recensioni
   - cinema
@@ -16,7 +16,7 @@ published: true
 comments: true
 ---
 
-Secondo episodio di questa rubrica che avrei potuto benissimo chiamare _Cazzeggiando su Netflix_, ma a 'ste cose uno ci pensa sempre dopo...
+Secondo episodio di una rubrica che avrei potuto benissimo chiamare _Cazzeggiando su Netflix_, ma a 'ste cose uno ci pensa sempre dopo...
 
 {% include toc.html %}
 
@@ -30,9 +30,9 @@ Il primo commento nerd è
 
 > il fallimento degli allineamenti di D&D
 
-Più seriamente parlando, la serie olandese **Tokyo Trial** pone l'accento su alcune delle diverse sfumature della giustizia...e certo, tavolta quest'ultima è inficiata da interessi di singole persone o nazioni, ma non è sempre questo il caso: 
+La serie olandese **Tokyo Trial** pone l'accento su alcune delle diverse sfumature della giustizia, di come certo, tavolta quest'ultima venga inficiata da interessi di singole persone o nazioni, ma anche di come non è sempre questo il caso: 
 
-In effetti di Tokyo Trial ho apprezzato anzitutto  **l'enfasi per le _sfumature_**, in un realismo socio-politico molto lontano dai soliti derby manichei.
+Di Tokyo Trial ho apprezzato anzitutto  **l'enfasi per le _sfumature_**, in un realismo socio-politico molto lontano dai soliti derby manichei.
 
 ### Realtà Sottovalutate 
 
@@ -54,7 +54,7 @@ Caldamente consigliata a tutti gli appassionati di Storia.
 
 Vorrei scrivere "tralasciamo un secondo la politica", ma in fin dei conti **quest'ultima è sempre stata il soggetto principe del comico Grillo, prima ancora che del Leader Beppe**...
 
-Quindi ecco, concentriamoci un attimo sulla forma e non sulla sostanza: 
+Ma ecco, facciamo un attimo quelli che si concentrano sulla forma e non sulla sostanza: 
 
 **Beppe Grillo resta sempre uno showman coi controtutti.**
 
@@ -66,11 +66,13 @@ Si butta in una sorta di autoironica agiografia di se stesso?
 
 Assolutamente!
 
-**La ruggine da politico "sceso in campo" oramai c'è e non se la potrà mai più scrollare di dosso**...eppure in fin dei conti è sempre rimasto uguale: 
+**La ruggine da politico "sceso in campo" oramai c'è e non se la potrà mai più scrollare di dosso**, ma trovo straordinario notare quanto in fin dei conti resti sempre uguale: 
 
-**Un comico fisico, "violento" (nel senso buono), mugugnone e strillatore eppur complice, diretto figlio della scuola genovese di Paolo Villaggio** (quello del [Professor Kranz](https://www.youtube.com/watch?v=eyQEm0AoOA4), non di Fantozzi).
+**Un comico fisico, "violento", mugugnone e strillatore eppur complice, diretto figlio della scuola genovese di Paolo Villaggio** (quello del [Professor Kranz](https://www.youtube.com/watch?v=eyQEm0AoOA4), non di Fantozzi).
 
-E certo, anche se Beppe si fa meno sconti di tanti altri, con se stesso usa carezze...ma se non altro la sana "cattiveria" da animale da palcoscencio c'è ancora tutta <small>(a differenza di un Benigni folgorato sulla via di Damasco, per dire).</small>
+Poi certo, anche se Beppe si fa meno sconti di tanti altri, con se stesso usa carezze.
+
+Diciamo che se non altro la sana "cattiveria" da animale da palcoscenico c'è ancora <small>(a differenza di quella di un Benigni folgorato sulla via di Damasco, per dire).</small>
 
 ### Comizio o Spettacolo ?
 
@@ -110,18 +112,26 @@ Documentario (ovviamente) francese del 2015 dedicato al duo più importante e ri
 
 Confesso di non essere mai stato troppo vicino al genere, ma il documentario è interessante e vi compaiono pure due miei mostri sacri: **Giorgio Moroder** e **Lejii Matsumoto**.
 
+Il lavoro è ben confenzionato ma direi **fin troppo esageratamente celebrativo**, specie considerando che i due robottoni parigini sono ancora _vivi_.
+
+Dovessi dire, avrei preferito meno "gossip"  (che pure è succoso e ci sta tutto) e più accento sull'aspetto tecnico, quindi strumentazione e via dicendo, ma vabbè.
+
+Nel complesso, **un documentario abbastanza interessante per comprendere le radici di un fenomeno che oramai controlla buona parte della musica (e della relativa moda) commerciale moderna.**
+
+_One more time!_
+
 ## 13 Reason Why 
 
 <figure>
 <img src='http://www.flickeringmyth.com/wp-content/uploads/2017/01/13-Reasons-Why.jpg' alt='13 Reason Why'>
 </figure>
 
-Serie Tv del momento, guardata tutta in un fiato (_bingewatch_, come dicono gli yankee), costruita e prodotta dannatamente bene ma forse un po' troppo "pretenziosa" per i miei gusti.
+Serie Tv del momento, guardata tutta in un fiato (_bingewatch_, come dicono gli yankee), costruita e **prodotta dannatamente bene ma forse un po' troppo "pretenziosa" per i miei gusti**.
 
-Nel dettaglio ne ho discusso un po' sui social, [TvShowTime]() in primis, e quando l'avrò digerita meglio non è da escludere un bel postone dedicato <small>(magari dopo che avrò recuperato il libro)</small>.
+Nel dettaglio ne ho discusso un po' sui social, _TvShowTime_ in primis, e quando l'avrò digerita meglio non è da escludere un bel postone dedicato <small>(magari dopo che avrò recuperato il relativo libro)</small>.
 
 Consigliarla è quasi superfluo, visto che a quanto pare un utente Netflix su due se l'è già bellamente sciroppata 
 
 ## Altro dalla rubrica "Il Netfilx che non ti aspetti"
 
-1. [Il Netflix che non ti aspetti #1](http://xabacadabra.com/2017/il-netfilx-che-non-ti-aspetti/
+1. [Il Netflix che non ti aspetti #1](http://xabacadabra.com/2017/il-netfilx-che-non-ti-aspetti/)
