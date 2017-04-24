@@ -25,9 +25,9 @@ viviamo nell'era del  [_wikipediamento perfetto_](https://it.wikipedia.org/wiki/
 
 [- **Link al sito ufficiale** - ](https://renpy.org/)
 
-Lo conosco da sette anni all'incirca e devo confessare che l'averci cavato fuori giusto magri esperimenti è una di quelle faccende che mi molce sempre il cuore:
+Lo conosco da sette anni all'incirca e devo confessare che l'averci cavato fuori giusto magri esperimenti mi molce sempre il cuore:
 
-**Ren'Py è infatti un engine potente, gratuito, facile da utilizzare e dalle enormi possibilità di _Racconto_, prima ancora che di gioco.**
+**Ren'Py è infatti un engine potente, gratuito ed opensource, facile da utilizzare e dalle enormi possibilità di _Racconto_, prima ancora che di gioco.**
 
 Come se non bastasse, è **multipiattaforma** (Linux, Windows, OSX) e da qualche tempo garantisce pure **l'esportazione su sistemi Android**.
 
@@ -75,11 +75,10 @@ E sì, le fa dannatamente bene...
 
 ma **quello delle Visual Novel  è un genere parecchio controverso**, appagante per la nicchia di _aficionados_ ma poco "giocato" nel vero senso della parola ed **abbastanza lontano dai palati delle masse.**
 
-Non a caso, tolte le contaminazioni con altri generi (emblematica in questo senso la serie JRPG  _Persona_ ) in genere si diffondono anzitutto grazie al genere _Hentai / Eroge_. 
+Non a caso, tolte le contaminazioni con altri generi (emblematica in questo senso la serie JRPG  _Persona_ ) si diffondono anzitutto grazie al genere _Hentai / Eroge_. 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/LsgwD4ehYI4?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-<img src='' alt='welcome to the NHK'>
 <small> È UN COMPLOTTO!</small>
 
 Quindi, per quanto le potenzialità dell'engine  si prestino a fare davvero un sacco di roba, bisogna sempre tenere a mente che spezzare i binari del genere su cui è basato è possibile, ma non per questo facile.
@@ -88,7 +87,7 @@ Un esempio analogo lo potremmo fare con [_Until I Have You_](http://xabacadabra.
 
 ## Conclusioni
 
-Detto ciò, **io lo consiglio su tutta la linea ad ogni aspirante creatore di videogiochi**, fermo restando che nulla può davvero sostituire l'apprendimento di un linguaggio di programmazione vero e proprio: 
+Detto ciò, **lo consiglio caldamente ad ogni aspirante creatore di videogiochi**, fermo restando che nulla può davvero sostituire l'apprendimento di un linguaggio di programmazione: 
 
 Tuttavia, anche in questo senso, **Ren'Py potrebbe risultare un grandioso apripista.**
 
