@@ -1,3 +1,19 @@
+---
+layout: article
+title: "Ren'Py: Visual Novel Engine gratis per tutti"
+modified: null
+categories: [2017]
+excerpt: "Creare videogiochi di tutto rispetto grazie allo splendido engine di PyTom Rothamel"
+tags:
+  - videogiochi
+  - cyberspazio
+image: 
+  feature: renpy.jpg
+  teaser: teaser-renpy.jpg
+  thumb: null
+published: false
+comments: true
+---
 
 
 Da queste parti non ho mai fatto mistero della mia sconfinata ammirazione per **Nobuo Uematsu**, compositore noto per il suo lavoro negli episodi storici della serie _Final Fantasy_:
