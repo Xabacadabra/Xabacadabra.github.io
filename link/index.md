@@ -63,6 +63,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Lucas Pope**](http://dukope.com/) - sviluppatore di videogiochi innovativo e visionario, una delle menti creative più interessanti della scena indie
 
+- [**William Kage**](http://www.williamkage.com/) - forse il vero padrino della New SNES Music, un sant'uomo che offre al mondo anche un'impressionante collezione di soundfont
+
 - [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. 
 
 - [**Silvia Ziche**](http://www.silviaziche.com/){:target="_blank"} - una delle massime regine del fumetto disneyano all'italiana. Da _Il Grande Splash_ in poi, per il sottoscritto è assurta a Maestra di Vita
