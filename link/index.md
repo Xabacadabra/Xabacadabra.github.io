@@ -29,17 +29,19 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
-- [**Netwars**](http://netwars-project.com/) - uno dei progetti più interessanti, emozionanti e tecnicamente magnifici che mi sia mai capitato di vedere in rete
+- [**Netwars**](http://netwars-project.com/){:target="_blank"} - uno dei progetti più interessanti, emozionanti e tecnicamente magnifici che mi sia mai capitato di vedere in rete
 
-- [**Link-age**](http://newmediasoc.com/projects/link-age/) - progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre
+- [**Link-age**](http://newmediasoc.com/projects/link-age/){:target="_blank"} - progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre
 
-- [**Radio Garden**](http://radio.garden/) - stazioni radio di tutto il globo selezionabili da un gigantesco mappamondo. Dopo averlo scoperto, mi sono commosso dalla felicità
+- [**Radio Garden**](http://radio.garden/){:target="_blank"} - stazioni radio di tutto il globo selezionabili da un gigantesco mappamondo. Dopo averlo scoperto, mi sono commosso dalla felicità
 
 - [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} - specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod
 
+- [**Shmuplations**](http://shmuplations.com/){:target="_blank"} - Traduzioni in Inglese di numerosissime interviste a sviluppatori di videogiochi giapponesi attivi negli anni '90 
+
 - [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
 
-- [**i 400 Calci**](http://www.i400calci.com/) - cinema da combattimento (e non solo), forse il miglior sito di di recensioni cinematografiche in italiano
+- [**i 400 Calci**](http://www.i400calci.com/){:target="_blank"} - cinema da combattimento (e non solo), forse il miglior sito di di recensioni cinematografiche in italiano
 
 - [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra trae diretta ispirazione
 
@@ -53,7 +55,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-pencil"></i> Blog
 
-- [**Michael Rose**](https://mademistakes.com/) - webdesigner favoloso, a cui si devono le fondamenta su cui Xaba Cadabra è basato
+- [**Michael Rose**](https://mademistakes.com/){:target="_blank"} - webdesigner favoloso, a cui si devono le fondamenta su cui Xaba Cadabra è basato
 
 - [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - forse il mio autore preferito in assoluto. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
 
@@ -61,9 +63,9 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Come Non Detto**](https://leortola.wordpress.com/){:target="_blank"} - il papà di Ratman, che però a me forse piace pure di più nelle vignette dove parla di film o dei suoi trascorsi gioventù emilianoromagnoli
 
-- [**Lucas Pope**](http://dukope.com/) - sviluppatore di videogiochi innovativo e visionario, una delle menti creative più interessanti della scena indie
+- [**Lucas Pope**](http://dukope.com/){:target="_blank"} - sviluppatore di videogiochi innovativo e visionario, una delle menti creative più interessanti della scena indie
 
-- [**William Kage**](http://www.williamkage.com/) - forse il vero padrino della New SNES Music, un sant'uomo che offre al mondo anche un'impressionante collezione di soundfont
+- [**William Kage**](http://www.williamkage.com/){:target="_blank"} - forse il vero padrino della New SNES Music, un sant'uomo che offre al mondo anche un'impressionante collezione di soundfont
 
 - [**David Revoy**](http://www.davidrevoy.com/){:target="_blank"} - un artista geniale dalle filosofie "opensource" interessantissime ed ispiranti. 
 
