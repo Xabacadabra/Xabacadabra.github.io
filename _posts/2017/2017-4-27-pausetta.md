@@ -77,7 +77,7 @@ Dovessi dire, **consiglierei a tutti gli sviluppatori di rispolverarsi un po' la
 
 ### Distant Worlds
 
-Tra qualche settimana andrò a vedermi il concertone [**Distant Worlds**](http://www.ffdistantworlds.com/concert/milan/) e per la prospettiva sono già _emozionato come uno scolaretto_...se riesco due righe in merito le vorrei buttare giù, ma **dubito in eventuali reportage chilometrici, perché la musica di Nobuo Uematsu per me è fondamentalmente qualcosa di sacro**: ogni volta che tento di descriverla soffro di un certo timore reverenziale. Quindi boh, vedremo!
+Tra qualche settimana andrò a vedermi il concertone [**Distant Worlds**](http://www.ffdistantworlds.com/concert/milan/) e per la prospettiva sono già _eccitato come uno scolaretto_...se riesco due righe in merito le vorrei buttare giù, ma **dubito in eventuali reportage chilometrici, perché la musica di Nobuo Uematsu per me è fondamentalmente qualcosa di sacro**: ogni volta che tento di descriverla soffro di un certo timore reverenziale. Quindi boh, vedremo!
 
 ### Thimbleweed Park e via giocando
 
