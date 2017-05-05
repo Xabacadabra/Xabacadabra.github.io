@@ -22,7 +22,7 @@ Sapevate che la pixel art di molti classici Final Fantasy si deve al lavoro di u
 
 Conosciamo meglio **Kazuko Shibuya, l'unica donna dell'originale staff di Final Fantasy**, _since 1986!_
 
-{% include toc.html %} 
+<hr />
 
 **Credo che questa sia la prima volta che abbiamo il piacere di parlare con lei, grazie per il tempo che ha deciso di concederci. Vorrei cominciare con qualche domanda riguardo la sua storia. Da quanto ho capito, prima di entrare nella Square, lei voleva lavorare nel campo dell'animazione...**
 
