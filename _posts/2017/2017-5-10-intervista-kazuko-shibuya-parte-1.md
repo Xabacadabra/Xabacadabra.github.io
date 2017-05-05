@@ -83,11 +83,11 @@ Con la pista da corsa in _Rad Racer_, essendo un gioco 3D, fu programmata in mod
 
 **Il senso di velocità in _Rad Racer_ era impressionante, non sapevo fosse realizzato in quel modo. Sembra che Nassir non lavorasse alla Square tutti i giorni quindi ?**
 
-No, e quando si faceva vedere finivamo tutti a cena, quindi erano tre feste alcoliche a settimana. [risate] Solitamente partecipavamo io, Nassir, Hromichi Tanaka e Hironobu Sakaguchi.
+No, e quando si faceva vedere finivamo tutti a cena, quindi erano tre feste alcoliche a settimana. [risate] Solitamente partecipavamo io, Nassir, Hiromichi Tanaka e Hironobu Sakaguchi.
 
-**Uao, un cast di all-star! Nel marzo del 1987 venne rilasciato_3D WorldRunner_, mentre ad Agosto fu il turno di _Rad Racer_. E finalmente <small>(è proprio il caso di dirlo - nota di xab )</small> a dicembre Square mostrò al mondo _Final Fantasy_.**
+**Uao, un cast di all-star! Nel marzo del 1987 venne rilasciato_3D WorldRunner_ , mentre ad Agosto fu il turno di _Rad Racer_. E finalmente <small>(è proprio il caso di dirlo - nota di xab )</small> a dicembre Square mostrò al mondo _Final Fantasy_.**
 
-Penso che _Final Fantasy_ fu una risposta all'impatto avuto da _Dragon Quest_
+Penso che _Final Fantasy_ fosse una risposta all'impatto avuto da _Dragon Quest_
 
 **_Dragon Quest_ uscì nel maggio del 1986, mentre _Dragon Quest 2_ nel gennaio 1987. Lo staff Square ebbe modo di giocarci? Ne furono impressionati ?**
 
@@ -105,3 +105,7 @@ Penso di sì. Qualcuno l'aveva comprato, e ricordo bene tutti in giro guardando 
 **Sì, nel primo gioco lo sprite del protagonista sembra guardarti continuamente in faccia mentre va in giro proseguendo nella sua avventura. [risate]**
 
 Non conosco i videogiochi molto bene, quindi quando lo vidi rimasi shockata: "uh, perché cammina come un granchio...?" Sakaguchi e Tanaka avevano giocato parecchio a _Ultima_ e _Wizardry_, quindi credo che furono tremendamente impressionati da _Dragon Quest_.
+
+## [To be continued]
+
+Restate sintonizzati per la seconda parte dell'intervista: si parla di **Yoshitaka Amano** e di tante altre belle cose (sapevate che il vecchio staff Square lavorava in una stanza di 13 metri quadrati?!)
