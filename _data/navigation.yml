@@ -10,10 +10,10 @@
   excerpt: "Le ultime"
   image: 300x200.gif
   
-- title: Progetti
-  url: /progetti/
-  excerpt: "Cose mie"
-  image: 300x200.gif
+# - title: Progetti
+#  url: /progetti/
+#  excerpt: "Cose mie"
+#  image: 300x200.gif
 
 - title: Recensioni
   url: /blog/tag/recensioni/
