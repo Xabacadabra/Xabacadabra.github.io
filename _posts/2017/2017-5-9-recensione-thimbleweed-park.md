@@ -11,7 +11,7 @@ image:
   feature: thimbleweed-park.jpg
   teaser: teaser-thimbleweed-park.jpg
   thumb: 
-published: false
+published: true
 comments: true
 ---
 
