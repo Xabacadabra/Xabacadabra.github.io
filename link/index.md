@@ -49,6 +49,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Final Fantasy VII Citadel**](http://www.ff7citadel.com){:target="_blank"} - da anni il mio sito preferito a tema Final Fantasy VII (tolto cetramod, ma sono di parte)
 
+- [**Lucasdelirium**](http://www.lucasdelirium.it/){:target="_blank"} -  inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms
+
 - [**Adventure's Planet**](http://www.adventuresplanet.it/){:target="_blank"} - caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame
 
 - [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
@@ -56,6 +58,8 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 ### <i class="fa fa-pencil"></i> Blog
 
 - [**Michael Rose**](https://mademistakes.com/){:target="_blank"} - webdesigner favoloso, a cui si devono le fondamenta su cui Xaba Cadabra è basato
+
+- [**Ron Gilbert**](http://grumpygamer.com/) {:target="_blank"} - Grumpy Gamer, blog ufficiale del papà di Monkey Island
 
 - [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - forse il mio autore preferito in assoluto. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
 

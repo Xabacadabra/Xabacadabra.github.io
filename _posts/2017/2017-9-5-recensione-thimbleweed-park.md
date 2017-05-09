@@ -1,0 +1,128 @@
+---
+layout: article
+title: "Thimbleweed Park [Recensione]"
+modified: null
+categories: [2017]
+excerpt: "Subito al sodo: Thimbleweed Park™ è una splendida Avventura Grafica che farà la gioia di ogni nostalgico dello stile Lucas Films che si rispetti..."
+tags:
+  - videogiochi
+  - recensioni
+image: 
+  feature: thimbleweed-park.jpg
+  teaser: teaser-thimbleweed-park.jpg
+  thumb: 
+published: true
+comments: true
+---
+
+Subito al sodo:
+
+**Thimbleweed Park™ è una splendida Avventura Grafica che farà la gioia di ogni nostalgico dello stile Lucas Films che si rispetti.**
+
+Soprattutto, **Thimbleweed Park è un'Avventura Grafica di Ron Gilbert in combo con Gary Winnick, e questo lo si percepisce in ogni suo singolo pixel.** [^Ron Gilbert]
+
+[^Ron Gilbert]: Per chi non lo sapesse, Ron Gilbert è l'autore di Maniac Mansion (assieme al sopracitato Winnick), Zak McKracken (agli ordini di David Fox) e sopratutto dei primi <u>due</u> Monkey Island  (prego notare quel due sottolineato: chi vi scrive rispetta ma non ha mai apprezzato la piega presa dalla serie da <i>Curse of</i> in poi). Se ancora non doveste sapere di che sto parlando mi spiace, siete capitati su Xaba Cadabra per un incidente di Google.
+
+**_Però._**
+
+{% include toc.html %} 
+
+## Però ?
+
+Però fosse tutto rosa e fiori non starei qui a scrivere qualcosa, [data la mia recente politica](http://xabacadabra.com/2017/pausetta/) e, avendolo appena finito, un discorsetto credo sia il caso di lasciarvelo.
+
+## Suonala ancora, Gilbert
+
+<figure>
+<img src='http://images.grumpygamer.com/boombox.gif' alt='Thimbleweed Park recensione'>
+</figure>
+
+Sempre senza girarci troppo attorno e senza spoilerare, basti dire che **ho praticamente indovinato il finale di Thimbleweed Park prima di metà del gioco.**
+
+Non che questo lo renda meno bello: **resta un finale brillante, scritto sontuosamente, in perfetto stile Gilbert...**
+
+...ma, ecco, _appunto_:
+
+**Chi conosce i precedenti del geniale game designer difficilmente troverà la conclusione di Thimbleweed Park qualcosa di davvero sorprendente o memorabile.** 
+
+Un po' come il piatto della casa di una trattoria che si conosce bene, o un disco a caso degli AC/DC.
+
+E, intendiamoci, sono abbastanza certo che tale prevedibilità sia stata voluta e cercata dallo stesso **Gilbert**.
+
+## Il dramma di Kickstarter e delle Operazioni Nostalgia
+
+<figure>
+<img src='https://storage.googleapis.com/images.thimbleweedpark.com/ThimbleweedParkKeyArtMay2016.png' alt='Thimbleweed Park recensione'>
+</figure>
+
+In generale **Thimbleweed Park è un gioco confezionato in modo certosino e pressoché perfetto**, infilato nell' **'imitazione del meraviglioso engine SCUMM**, con mirabile uso della pixel art da parte di **Octavi Navarro e Mark Ferrari** [^pixelart], uniti ad **un doppiaggio fantastico** ed una buona colonna sonora.
+
+[^pixelart]:  Che poi "pura" pixel art non è, parliamo di uno stile molto particolare e innovativo anche nel suo essere esplicitamente retrò: la risoluzione e i colori sono molto più abbondanti di quel che il gioco vorrebbe farci credere, impiegando pure il Rhubarb Lip-Sync
+
+Eppure, come ricorda [il consigliatissimo articolo di _Lucasdelirium_](http://www.lucasdelirium.it/tpscheda.php), nel 2013 Ron Gilbert scrisse quanto segue:
+
+> Se facessi un nuovo punta & clicca, la gente direbbe che non è all'altezza di Monkey Island. Ma si lamenterebbero in realtà perché non sarebbe all'altezza della loro nostalgia di Monkey Island. Non posso competere con una cosa del genere, nessuno può.
+
+Ecco. 
+
+Ora mi troverei negli scomodi panni de _la gente_, ma il fatto è che la questione non è così semplice o netta da definire, anche senza scomodare inevitabili paragoni e nostalgia.
+
+Generi e contesti del tutto diversi, eppure molti degli aspetti trattati qualche anno fa con [Pillars of Eternity](http://xabacadabra.com/2016/pillars-of-eternity-recensione/) li ho sentiti riaffiorare tutti fuori anche in questo caso...ma **con una consapevolezza di fondo tutta diversa, quasi _esasperata_:**
+
+Non per niente, **Thimbleweed Park è il gioco che meglio ha saputo sfruttare i contributi dei "backers" (i finaziatori di Kickstarter)**, cavalcando e spiattellando in faccia al giocatore il suo essere _"what the fans payed for"_ ad ogni secondo, giocandoci sopra con tutta la verve e l'ironia propria dei suoi autori.
+
+## Non solo Humor 
+
+<figure>
+<img src='https://storage.googleapis.com/images.thimbleweedpark.com/www/character_ransome.png' alt='Thimbleweed Park recensione'>
+</figure>
+
+**Thimbleweed Park è un gioco ricchissimo di contenuti e pensiero, in cui tutto offre commenti, interazioni e reazioni:** 
+
+in 14 ore abbondanti ho visto solo una parte di tutto ciò, il che già la dice lunga per la longevità standard del genere.
+
+Soprattutto, **è un gioco dall'umorismo dolce&amaro, castico come il buon vecchio Grog:** 
+
+**Non è mai un ridere a crepa pelle, ma un ghigno ragionato, di gusto per l'assurdo, con la consapevolezza di un retroscena squisitamente ambiguo.**
+
+## Meccaniche
+
+- Da non estimatore della caratteristica, utilizzare più personaggi mi è parso davvero divertente, anche se talvolta un po' confusionario e "scomodo"
+
+- L'esplorazione è bella, ma spesso troppo lenta e monotona, sicuramente anche per via del punto sopracitato (e per quel _maledetto_ ascensore, maledizione...)
+
+- Il gioco è **piuttosto facile anche in modalità difficile**, detto da uno che non risulta certo un asso del genere e che non cerca chissà quali enigmi eh
+
+- Nelle battute finali del gioco, **i protagonisti interagiscono fondamentalmente a caso e senza parlarsi** (cosa giustificabile per certe faccende di trama, ma comunque un po' tirata via.)
+
+-  **Tecnicamente questo gioco è straordinario:** il rapporto tra qualità /performance non è affatto scontato per lo standard dei moderni giochi 2D, e ve lo conferma uno che se l'è giocato su **Linux** con un PC non certo all'ultimo grido. Applausioni all'[Engine](https://blog.thimbleweedpark.com/roadmap1)!
+
+## Conclusioni
+
+> We've also set the price of the game at $19.99 on all launch platforms.
+
+<figure>
+<img src='https://storage.googleapis.com/images.thimbleweedpark.com/20_bucks.png' alt='Thimbleweed Park recensione'>
+</figure>
+
+<small>A proposito, consiglio a tutti gli smanettoni di studiarsi da cima a fondo il [dev blog](https://blog.thimbleweedpark.com/) del gioco</small>
+
+È molto più difficile di quel che sembra dare un'opinione su Thimbleweed Park...certo, per i canoni assoluti e sempliciotti dell'internet moderno è una bazzecola: 
+
+_pollice in alto, compratelo tutti, tanti saluti._
+
+Ma siccome **parliamo di un gioco pensato anzitutto per gente di un certo livello™**, non posso non specificarlo: 
+
+**Se _The Secret of Monkey Island I e II_ rappresentavano un spensierato amore _di cuore_, Thimbleweed Park risulta un intenso sentimento cerebrale che sguazza consapevolmente della nostra nostalgia con il vago intento di ucciderla, per poi superarla.**
+
+Morale ? 
+
+Amo ciò che rappresenta, com'è stato costruito, e mi pare un esperimento assolutamente riuscito...**eppure in quanto tale lo trovo un po' una _beta_**, la _crisalide_ di un qualcosa di più grande figlio dello stesso autore, la prima scossa di un sisma di cui l'industria videoludica avrebbe decisamente bisogno.
+
+4.5 Braccobaldi che stanno come un 9/10.
+{: .notice-success} 
+
+(nel dubbio, comunque, mi mando a fan*bip* )
+
+<div class="hreview" style="display: none;">
+<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Thimbleweed Park </span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Mag 9 2017<br /> </span> Voto: <span class="rating">4.5</span></span></span></div>
