@@ -31,7 +31,7 @@ Soprattutto, **Thimbleweed Park è un'Avventura Grafica di Ron Gilbert in combo 
 
 Però fosse tutto rosa e fiori non starei qui a scrivere qualcosa, [data la mia recente politica](http://xabacadabra.com/2017/pausetta/). 
 
-E, avendolo appena terminato, un paio di cose sentivo il bisogno di sputarle fuori.
+E, avendolo appena terminato, un paio di riflessioni sentivo il bisogno di sputarle fuori.
 
 ## Suonala ancora, Gilbert
 
@@ -71,7 +71,7 @@ Ecco.
 
 Ora, io qui mi trovo inevitabilmente negli scomodi panni de _la gente_, ma il fatto è che la questione non è così semplice o netta da dirimere, **anche senza scomodare inevitabili paragoni e nostalgia.**
 
-Generi e contesti del tutto diversi, eppure molti degli aspetti trattati qualche anno fa con [_Pillars of Eternity_](http://xabacadabra.com/2016/pillars-of-eternity-recensione/) rischiano di riaffiorare fuori anche in questo caso...eppure qui abbiamo di fronte un titolo **con una consapevolezza di fondo tutta diversa, quasi _esasperata_:**
+Generi e contesti del tutto diversi, eppure molti degli aspetti trattati qualche tempo fa con [_Pillars of Eternity_](http://xabacadabra.com/2016/pillars-of-eternity-recensione/) rischiano di riaffiorare fuori anche in questo caso...eppure qui abbiamo di fronte un titolo **con una consapevolezza di fondo tutta diversa, quasi _esasperata_:**
 
 **Thimbleweed Park è il gioco che meglio ha saputo sfruttare il contributo dei propri _backers_** <small>(i finaziatori di Kickstarter)</small>, cavalcando e spiattellando in faccia al giocatore il suo essere _"what fans paid for"_ ad ogni secondo, giocandoci sopra con tutta la verve e l'ironia propria dei suoi autori.
 
@@ -113,7 +113,7 @@ in 14 ore abbondanti ho visto solo una parte di tutto ciò, il che già la dice 
 
 <small>Consiglio a tutti gli smanettoni di studiarsi da cima a fondo il [dev blog](https://blog.thimbleweedpark.com/) del gioco</small>
 
-È molto più difficile di quel che potrebbe sembrare offrire un'opinione riguardo a Thimbleweed Park.
+Offrire un'opinione riguardo Thimbleweed Park è molto più difficile di quel che potrebbe sembrare 
 
 Certo, per i canoni assoluti e sempliciotti dell'internet moderno è una bazzecola: 
 
@@ -125,9 +125,11 @@ Diciamo che, **se _The Secret of Monkey Island I e II_ rappresentavano un spensi
 
 Morale ? 
 
-Amo ciò che rappresenta, com'è stato costruito, e mi pare un esperimento assolutamente riuscito...**eppure come avventura in quanto tale la trovo un po' una _beta_**, la _crisalide_ di un qualcosa di più grande ma figlio del medesimo autore, la prima scossa di un sisma di cui l'industria videoludica avrebbe decisamente bisogno.
+Amo ciò che rappresenta, il modo in cui è stato costruito, e mi pare un esperimento assolutamente riuscito...
 
-E boh, io ci spero, e ci credo, _Fan***bip!***_
+**Eppure come Avventura la trovo un po' una _beta_**, la _crisalide_ di un qualcosa di più grande figlio del medesimo autore, la prima scossa di un sisma di cui il genere (nonché tutta l'industria) avrebbe decisamente bisogno.
+
+E boh, io ci spero, _fan***bip!***_
 
 4.5 Braccobaldi che stanno come un 9/10.
 {: .notice-success} 
