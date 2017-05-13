@@ -3,7 +3,7 @@ layout: article
 title: "Distant Worlds - Milano [Resoconto]"
 modified:
 categories: [2017]
-excerpt: "Anticipo da subito che questo resoconto è una faccenda parecchio personale, quindi se state cercando un riepilogo dell'evento scritto in maniera più formale e un minimo più "giornalistica" mi spiace ma questa volta cascate male..."
+excerpt: "Anticipo da subito che questo resoconto è una faccenda parecchio personale, quindi se state cercando un riepilogo dell'evento scritto in maniera più formale e un minimo più giornalistica mi spiace ma questa volta cascate male..."
 tags: 
      - musica
      - videogiochi
