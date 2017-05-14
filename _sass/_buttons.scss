@@ -127,8 +127,10 @@
 		(twitter, $twitter-color),
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color);
+
 	@extend .btn;
 	color: $white !important;
+	&:include font-size(18);
 	&:visited,
 	&:active {
 		color: $white;
