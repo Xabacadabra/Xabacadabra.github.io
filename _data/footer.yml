@@ -4,8 +4,8 @@
   url: http://xabacadabra.com/blog/archivio/
 - title: <i class="fa fa-line-chart"></i> Recensioni
   url: http://xabacadabra.com/blog/tag/recensioni/
-- title: <i class="fa fa-mail"></i> Contatti
-  url: mailto:xabacadabra@gmail.com
+- title: <i class="fa fa-envelope"></i> Contatti
+  url: "mailto:xabacadabra@gmail.com"
 - title: <i class="fa fa-link"></i> Link
   url: http://xabacadabra.com/link/
 - title: <i class="fa fa-user"></i> About
