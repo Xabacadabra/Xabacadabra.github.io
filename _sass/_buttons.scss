@@ -130,7 +130,6 @@
 
 	@extend .btn;
 	color: $white !important;
-	&:include font-size(18);
 	&:visited,
 	&:active {
 		color: $white;
