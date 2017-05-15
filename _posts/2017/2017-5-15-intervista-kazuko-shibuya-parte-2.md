@@ -104,7 +104,7 @@ Io sedevo di fronte a un muro, e non c'erano cassetti nelle nostre scrivanie, so
 
 Alzavo la mano esclamando "Sakaguchi-saaaan" e lui arrivava. [risate]
 
-**Non avevo realizzato che lavoraste in una stanza tanto piccola per il sviluppo di FFII**
+**Non avevo realizzato che lavoraste in una stanza tanto piccola per lo sviluppo di FFII**
 
 Era troppo piccola, quindi finivamo sempre per litigare! [risate] I programmatori e i tre in mezzo finivano spesso per dirsele quattro...[risate]
 
