@@ -109,3 +109,5 @@ Non conosco i videogiochi molto bene, quindi quando lo vidi rimasi shockata: "uh
 ## [To be continued]
 
 Restate sintonizzati per la seconda parte dell'intervista: si parla di **Yoshitaka Amano** e di tante altre belle cose (sapevate che il vecchio staff Square lavorava in una stanza di 13 metri quadrati?!)
+
+1. [Seconda Parte](http://xabacadabra.com)
