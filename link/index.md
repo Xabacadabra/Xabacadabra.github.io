@@ -59,7 +59,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 - [**Michael Rose**](https://mademistakes.com/){:target="_blank"} - webdesigner favoloso, a cui si devono le fondamenta su cui Xaba Cadabra è basato
 
-- [**Ron Gilbert**](http://grumpygamer.com/) {:target="_blank"} - Grumpy Gamer, blog ufficiale del papà di Monkey Island
+- [**Ron Gilbert**](http://grumpygamer.com/){:target="_blank"} - Grumpy Gamer, blog ufficiale del papà di Monkey Island
 
 - [**Neil Gaiman**](http://www.neilgaiman.com/){:target="_blank"} - forse il mio autore preferito in assoluto. Nascere in un'epoca in cui è stato possibile leggere _Sandman_ (tra le altre cose) è stata una bella fortuna
 

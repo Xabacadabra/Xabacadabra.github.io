@@ -20,7 +20,7 @@ Seconda parte dell'intervista alla storica Designer della Serie: lo sviluppo di 
 Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).
 {:.notice-info}
 
-### [Prima Parte](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
+1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
 
 <hr />
 
@@ -28,14 +28,22 @@ Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/g
 
 **Una delle cose più celebri che ha realizzato per _Final Fantasy_ è stata la grafica dell'introduzione. All'epoca, penso che molte persone rimasero colpite da quella scena: "ma allora i videogiochi possono avere anche questo tipo di presentazione..." di chi è stata l'idea dell' _opening_ ?**
 
-Credo di Sakaguchi o Tanaka. "Quando attraversano il ponte, voglio un'immagine di cut-scene." Ma ricordo che non avevamo abbastanza memoria a disposizione per realizzare un'intera immagine come quella, e impazzimmo per trovare il modo di rappresentarla. Alla fine abbiamo optato per  una decisa economia: la parte superiore dell'immagine  la lasciammo vuota,  mentre "livellammo"  molti sprite uguali per le colline e l'oeano.
+Credo di Sakaguchi o Tanaka. "Quando attraversano il ponte, voglio un'immagine di cut-scene." 
+
+Ma ricordo che non avevamo abbastanza memoria a disposizione per realizzare un'intera immagine come quella, e impazzimmo per trovare il modo di rappresentarla.
+
+Alla fine abbiamo optato per  una decisa economia: la parte superiore dell'immagine  la lasciammo vuota,  mentre "livellammo"  molti sprite uguali per le colline e l'oeano.
 
 **Cosa intende dire con "livellammo" ?**
 
-Intendo dire che disegnai un singolo sprite, per poi ripeterlo ancora e ancora in una linea. Se volevamo creare un certo accento nello scenario, prima capovolgevamo lo sprite. [risate] Come ulteriore contromisura per economizzare sullo spazio a disposizione, realizzammo la scena in primo piano completamente in nero, rappresentando solo la collina e i personaggi lì sopra.
+Intendo dire che disegnai un singolo sprite, per poi ripeterlo ancora e ancora in una linea. 
+
+Se volevamo creare un certo accento nello scenario, prima capovolgevamo lo sprite.[risate] 
+
+Come ulteriore contromisura per economizzare sullo spazio a disposizione, realizzammo la scena in primo piano completamente in nero, rappresentando solo la collina e i personaggi lì sopra.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/ffopening.png' alt='final-fantasy-opening>
+<img src='http://shmuplations.com/wp-content/uploads/2014/02/ffopening.png' alt='final-fantasy-opening'>
 <figcaption>L'introduzione di Final Fantasy</figcaption>
 </figure>
 
@@ -51,30 +59,38 @@ Sì, anche se il design originale dei personaggi si deve a [Koichi Ishii](https:
 
 **Da quanto ho capito, il processo grafico dietro a Final Fantasy vedeva Amano alla creazione delle illustrazioni per i concept, quindi Ishii le utilizzava  come base per un design più vicino a qualcosa che lei avrebbe potuto usare nel pixel artwork vero e proprio.**
 
-In realtà le illustrazioni di Amano furono utilizzate solo come concept art. I personaggi che furono utilizzati nel gioco sono stati creati prima da noi. Ma Amano ha disegnato alcuni dei mostri. I suoi disegni erano in bianco e nero però. [risate]
+In realtà le illustrazioni di Amano furono utilizzate solo come concept art. I personaggi che furono utilizzati nel gioco sono stati creati prima da noi. 
+
+Ma Amano ha disegnato alcuni dei mostri. I suoi disegni erano in bianco e nero però. [risate]
 
 **Quindi lei ha tentato di replicare i mostri di Amano il più fedelmente possibile per il gioco, ma le scelte per la colorazione dipesero dal suo giudizio ?**
 
-Beh, credo si possa definire "giudizio", ma la palette del Famicon era limitata, quindi facevi quel che potevi con le combinazioni di colori disponibili. [risate] Inoltre, parecchi altri mostri furono concepiti da altri membri dello staff, inclusa me.
+Beh, credo si possa definire "giudizio", ma la palette del Famicon era limitata, quindi facevi quel che potevi con le combinazioni di colori disponibili. [risate] 
+
+Inoltre, parecchi altri mostri furono concepiti da altri membri dello staff, inclusa me.
 
 **Oh, ha disegnato anche dei mostri!**
 
 Già. I miei disegni avevano qualcosa del "tocco di Amano" all'epoca. Spesi una marea di tempo a studiare la sua arte.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/Amano_FF1_Golem.gif' alt='final-fantasy-golem>
+<img src='http://shmuplations.com/wp-content/uploads/2014/02/Amano_FF1_Golem.gif' alt='final-fantasy-golem'>
 <figcaption>Illustrazione del Golem di Yoshitaka Amano</figcaption>
 </figure>
 
 **A proposito, ha qualche aneddoto interessante riguardo lo sviluppo di _Final Fantasy I_?**
 
-Durante la realizzazione di _Final Fantasy_ non avevamo molti membri nello staff. Lo sviluppo durò meno di un anno, e sembrò volare via in un attimo. Ricordo quanto fossimo tutti eccitati quando i disegni di Amano arrivarono all'ufficio. Vedemmo l'illustrazione dove il gigante estende la sua mano, e galvanizzò tutti quanti.
+Durante la realizzazione di _Final Fantasy_ non avevamo molti membri nello staff. Lo sviluppo durò meno di un anno, e sembrò volare via in un attimo. 
+
+Ricordo quanto fossimo tutti eccitati quando i disegni di Amano arrivarono all'ufficio. Vedemmo l'illustrazione dove il gigante estende la sua mano, e galvanizzò tutti quanti.
 
 ## Sequel: Famicon, Gameboy, Super Famicon
 
 **Con FFII e FFIII lo staff Square crebbe di numero,  lei continuò ad aiutare in altri ruoli oltre al design di mostri e personaggi ?**
 
-Molte persone aiutarono nel design dei mostri, ma solo io e un altra persona realizzammo tutti i lavori grafici dei giochi. Ai tempi del terzo _Final Fantasy_ avevamo qualche persona in più, mi sembra.
+Molte persone aiutarono nel design dei mostri, ma solo io e un altra persona realizzammo tutti i lavori grafici dei giochi. 
+
+Ai tempi del terzo _Final Fantasy_ avevamo qualche persona in più, mi sembra.
 
 **Quindi fu ancora una volta un team molto piccolo che lavorò a FFII**
 
@@ -82,14 +98,18 @@ Già. Lavoravamo tutti in una stanza più o meno di queste dimensioni. [13 metri
 
 **Davvero ? Così piccola?**
 
-Sì. I due programmatori avevano le loro scrivanie contro la finestra, e in quella nel mezzo della stanza sedevano Sakaguchi, Tanaka e Kawazu. Io sedevo di fronte a un muro, e non c'erano cassetti nelle nostre scrivanie, solo un paio di tavoli da sala conferenze. Lì è dove realizzai tutto il mio lavoro. Alzavo la mano esclamando "Sakaguchi-saaaan" e lui arrivava. [risate]
+Sì. I due programmatori avevano le loro scrivanie contro la finestra, e in quella nel mezzo della stanza sedevano Sakaguchi, Tanaka e Kawazu. 
+
+Io sedevo di fronte a un muro, e non c'erano cassetti nelle nostre scrivanie, solo un paio di tavoli da sala conferenze. Lì è dove realizzai tutto il mio lavoro. 
+
+Alzavo la mano esclamando "Sakaguchi-saaaan" e lui arrivava. [risate]
 
 **Non avevo realizzato che lavoraste in una stanza tanto piccola per il sviluppo di FFII**
 
 Era troppo piccola, quindi finivamo sempre per litigare! [risate] I programmatori e i tre in mezzo finivano spesso per dirsele quattro...[risate]
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/square1986.jpg' alt='final-fantasy-staff>
+<img src='http://shmuplations.com/wp-content/uploads/2014/02/square1986.jpg' alt='final-fantasy-staff'>
 <figcaption>Lo staff Square nel 1986.</figcaption>
 </figure>
 
@@ -100,19 +120,22 @@ Sì, e per lo stesso motivo, eravamo tutti molto seri riguardo il nostro lavoro.
 **Giochi come questi, realizzati con la dedizione di tutti,  sono quelli che non hanno perso il loro fascino dopo tutti questi anni. La Square continuò con FFIII, e con lui sembrò volesse alzare il tiro dello standard della serie**
 
 Con FFIII realizzai mostri, sfondi dei combattimenti e le mappe.
+
 I mostri in FFIII furono un vero dramma. I disegni di Amano erano pieni di colori e noi non avevamo molta memoria a disposizione, quindi lottai per trovare una resa adeguata.
 
 **C'era un mostro che le ha dato particolarmente filo da torcere?**
 
-L'ultimo boss, _Kurayami no Kumo_ (Cloud of Darkness). Se osservate le illustrazioni originali di Amano, noterete che lei è in piedi rivolta di fronte a voi. Ma tradurre quella posa nello schermo non avrebbe avuto molto senso nello spazio orizzontale del combattimento, e non sarebbe sembrato un boss finale appropriato. Finii per realizzare un grosso "remix" per donarle l'adeguata maestosità.
+L'ultimo boss, _Kurayami no Kumo_ (Cloud of Darkness). Se osservate le illustrazioni originali di Amano, noterete che lei è in piedi rivolta di fronte a voi. Ma tradurre quella posa nello schermo non avrebbe avuto molto senso nello spazio orizzontale del combattimento, e non sarebbe sembrato un boss finale appropriato. 
+
+Finii per realizzare un grosso "remix" per donarle l'adeguata maestosità.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/amano-cloudofdarkness.jpg' alt='cloud-of-darkness-amano>
+<img src='http://shmuplations.com/wp-content/uploads/2014/02/amano-cloudofdarkness.jpg' alt='cloud-of-darkness-amano'>
 <figcaption>Concept originale di Yoshitaka Amano per Cloud of Darkness</figcaption>
 </figure>
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/ff3-finalbattle01.png' alt='cloud-of-darkness-shibuya>
+<img src='http://shmuplations.com/wp-content/uploads/2014/02/ff3-finalbattle01.png' alt='cloud-of-darkness-shibuya'>
 <figcaption>Resa in-game di Cloud of Darkness realizzata dalla Shibuya</figcaption>
 </figure>
 
@@ -141,7 +164,7 @@ Sì. Non lavorai direttamente ai dati del gioco, ma realizzai i _nitoushin_ [^ni
 Sì. Ho disegnato le illustrazioni su cui sono basati. All'esibizione per il venticinquesimo anniversario di _Final Fantasy_, ho presentato il mio sketchbook contenente parecchi nitoushin di _Final Fantasy IV_.
 
 <figure>
-<img src='http://www.hellandheavennet.com/files/final-fantasy-4/box-snes-jp-1.jpg' alt='final-fantasy-iv-cover-art>
+<img src='http://www.hellandheavennet.com/files/final-fantasy-4/box-snes-jp-1.jpg' alt='final-fantasy-iv-cover-art'>
 <figcaption>Box giapponese di Final Fantasy IV</figcaption>
 </figure>
 
@@ -154,6 +177,12 @@ Sì, disegni fatti a mano con gli acquarelli. Non c'era Photoshop all'epoca. [ri
 Mi spiegava cose del tipo "questo personaggio dovrebbe essere così" eccetera. Era un lavoro semplice per me, e credo anche per lui. Lavoriamo seguendo lo stesso metodo tuttoggi, in effetti.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/shibuyasketchbook.jpg' alt='final-fantasy-iv-cover-art'>
+<img src='http://shmuplations.com/wp-content/uploads/2014/02/shibuyasketchbook.jpg' alt='shibuya-sketchbook'>
 <figcaption>Lo sketchbook della Shibuya mostrato durante le celebrazioni per il 25° anniversario di Final Fantasy.</figcaption>
 </figure>
+
+## [To be continued]
+
+Nella prossima puntata... si parlerà di _Romancing Saga_, _Final Fantasy IX_ e Hawaii! (?!?)
+
+1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
