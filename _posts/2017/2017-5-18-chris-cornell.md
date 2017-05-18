@@ -33,11 +33,11 @@ _Qualcuno_ in più.
 
 E (fatto da non sottovalutare per ogni frontman che si rispetti) **era anche un figo pazzesco**: 
 
-non so più quante ragazze che conosco, pure lontane da certi contesti musicali, hanno perso la testa per lui.
+non so più quante ragazze che conosco, pure lontane da certi contesti musicali, abbiano perso la testa per lui.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14r7y6rM6zA" frameborder="0" allowfullscreen></iframe>
 
-Oltre ai Soundgarden, gli anni anni '90 partorirono anche il supergruppo **Temple of the Dog** con un bellissimo self-titled composto quasi interamente da lui.
+Oltre ai Soundgarden, gli anni '90 partorirono anche il supergruppo **Temple of the Dog** con un bellissimo self-titled composto quasi interamente da lui.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VUb450Alpps" frameborder="0" allowfullscreen></iframe>
 
@@ -55,7 +55,7 @@ Ed in effetti, a 13 anni _Cochise_ per me rappresentava una delle poche canzoni 
 
 Di lì in poi, Cornell troverà anche una bella carriera solista...un percorso molto più _soft_, come succede a tanti artisti rock dopo che passano i quaranta...e che per questo vengono bollati come _venduti, commerciali_ e chi più ne ha più ne metta.
 
-Però ehi, anche nel mio periodo più ferocemente metallaro io con **Cornell 'sta faccenda personalmente non l'ho mai vissuta, e se l'ho sentita in giro è stato sempre molto sottovoce.**
+Però ehi, anche nel mio periodo più ferocemente metallaro io con **Cornell 'sta faccenda personalmente non l'ho mai vissuta, e se l'ho sentita in giro è stata mormorata sempre molto sottovoce.**
 
 Forse perché **nessuno sano di mente si è mai potuto mettere a discutere il suo fantastico theme di James Bond.**
 
@@ -69,6 +69,6 @@ E boh.
 
 **Chris Cornell aveva una di quelle voci che riconoscevi nel giro di un istante**, e questo nonostante l'avesse impiegata in un sacco di generi e sonorità diverse.
 
-E il fatot che se ne sia andato così presto è qualcosa di profondamente ingiusto.
+E il fatto che se ne sia andato così presto è qualcosa di profondamente ingiusto.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3mbBbFH9fAg" frameborder="0" allowfullscreen></iframe>
