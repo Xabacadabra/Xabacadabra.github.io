@@ -54,7 +54,7 @@ Eppure, fu proprio a seguito di quello stesso entusiasmo che nacque in me un'ans
 
 Per intenderci:
 
-Nei miei periodi di editing più intensi, mi ritrovavo giocare **finendo per concentrarmi su aspetti meramente "tecnici"**, e questo molto spesso andava a scapito dell'attenzione per dialoghi, trama ed immersione:
+Nei miei periodi di editing più intensi, mi ritrovavo a giocare **finendo per concentrarmi su aspetti meramente "tecnici"**, e questo molto spesso andava a scapito dell'attenzione per dialoghi, trama ed immersione:
 
 > Ah quindi se faccio questo combattimento uno script sblocca un determinato dialogo e la ragazza muore, mentre in caso contrario scatta lo switch che determina l'implosione del mondo...potrei tentare di realizzare qualcosa di simile creando un "evento" con una "condizione se"
 
