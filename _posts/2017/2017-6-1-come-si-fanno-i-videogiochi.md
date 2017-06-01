@@ -32,7 +32,7 @@ il nipponico _**RPG Maker**_ , sviluppato da Ascii (Enterbrain). [^rpgmaker]
 Rimasi **completamente estasiato dalla semplicità e dalle possibilità offerte dal programma**, come penso sia capitato a tutti i pischelli aspiranti "game designer" venuti su a _pane & Final Fantasy_.
 
 <figure class="half">
-	<img src="http://3.bp.blogspot.com/-X393aNyRUPc/T0Ilq4R1mcI/AAAAAAAACBI/RiBvET8yZOY/s1600/4.png" alt='rpg-maker'>
+	<img src="http://2.bp.blogspot.com/-HmYDxOuo1Ak/T0Ilu3jUnkI/AAAAAAAACBQ/D4cfMGFcBI4/s1600/5.png" alt='rpg-maker'>
 	<img src="http://3.bp.blogspot.com/-X393aNyRUPc/T0Ilq4R1mcI/AAAAAAAACBI/RiBvET8yZOY/s1600/4.png" alt='rpg-maker'>
 </figure>
 
@@ -60,13 +60,13 @@ Nei miei periodi di editing più intensi, mi ritrovavo giocare **finendo per con
 
 Senza andare troppo nello specifico, penso sia **un discorso allargabile ad un sacco di campi:**
 
-Per esempio **chi ha fatto cinema**, che da spettatore potrebbe dimenticarsi della trama di un film per identificare il girato di determinate sequenze, o ancora **un musicista può dedurre scale**, ritmi e giri armonici triti e ritriti in una canzone tralasciandone magari il "gusto poetico", e così via.
+Per esempio **chi ha fatto cinema**, che da spettatore potrebbe dimenticarsi della trama di un film per identificare il girato di determinate sequenze, o ancora **un musicista che può dedurre scale, ritmi e giri armonici** triti e ritriti in una canzone tralasciandone magari il "gusto poetico", e così via.
 
 Vale, insomma, per chiunque si sia cimentato nel seguente impegno:
 
 ## Decodificare un Linguaggio
 
-Laddove _"Linguaggio"_ non va inteso solo nell'ambito della programmazione, ma come detto applicato a molte altre faccende umane.
+Laddove _"Linguaggio"_ va inteso non solo nell'ambito della programmazione, ma come detto applicato a molte altre faccende umane.
 
 È un po' una versione sofisticata dell'umana curiosità, **il _bisogno_ di capire come funziona ciò che ci appassiona.**
 
