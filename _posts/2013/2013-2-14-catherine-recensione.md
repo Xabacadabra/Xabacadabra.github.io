@@ -10,7 +10,7 @@ image:
   teaser: teasercatherine.jpg
   thumb: null
 published: true
-staticman: true
+staticman: false
 ---
 
 Lo dico subito: 
