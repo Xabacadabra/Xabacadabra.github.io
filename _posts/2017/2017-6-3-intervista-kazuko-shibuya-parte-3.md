@@ -11,7 +11,7 @@ image:
   feature: intervista-kazuko-shibuya.jpg
   teaser: teaser-intervista-kazuko-shibuya.jpg
   thumb: 
-published: false
+published: true
 comments: true
 ---
 
