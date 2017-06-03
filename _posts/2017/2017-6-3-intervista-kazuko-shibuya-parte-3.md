@@ -24,35 +24,36 @@ Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/g
 
 2. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
 
-
 ## Romancing SaGa e Tomomi Kobayashi
 
-**Lei è stata coinvolta anche nello sviluppo della serie Famicon _Romancing SaGa_. Ha lavorato per tutti i giochi?**
+**Lei è stata coinvolta anche nello sviluppo della serie Famicon _Romancing SaGa_. Ha lavorato per tutti i capitoli ?**
 
-No, solo ai capitoli I e III. 
+No, solo a I e III. 
 
 Dopo il primo _Romancing SaGa_, sono tornata a lavorare su _Final Fantasy_, quindi  non lavorai al suo sequel. Accidenti, sono stata davvero per tutta la Square...non penso ci fosse nessun altro che andasse ovunque come me!
 
-**Riguardo _Romancing SaGa_, lei ha lavorato ai personaggi. Al posto di Yoshitaka Amano, che lavorava ai concept dei personaggi di _Final Fantasy_, qui ha trovato Tomomi Kobayashi. Realizzando gli elementi grafici del gioco, ha trovato delle differenze sostanziali tra i due artisti ?**
+**Riguardo _Romancing SaGa_, lei ha lavorato sui personaggi. Al posto di Yoshitaka Amano, che lavorava ai concept dei personaggi di _Final Fantasy_, qui ha trovato Tomomi Kobayashi. Realizzando gli elementi grafici del gioco, ha trovato delle differenze sostanziali tra i due artisti ?**
 
 Me lo chiedono spesso ma no, non particolarmente. 
 
-Con i mostri in _Final Fantasy_, spendevo un sacco di tempo ad osservare le opere di Amano, quindi la grafica di _Final Fantasy_ è venuta fuori così. Con _Romancing SaGa_ ho lavorato a stretto contatto con Tomomi, e mi sono potuta rivolgere a lei mentre disegnavo. Quindi _Romancing SaGa_ si mostra naturalmente così. [risate]
+Con i mostri in _Final Fantasy_ spendevo un sacco di tempo ad osservare le opere di Amano, quindi la grafica di _Final Fantasy_ è venuta fuori così. 
+
+Con _Romancing SaGa_ ho lavorato a stretto contatto con Tomomi, e mi sono potuta rivolgere a lei mentre disegnavo. Quindi _Romancing SaGa_ si mostra naturalmente in questo modo. [risate]
 
 <figure>
 <img src='http://shmuplations.com/wp-content/uploads/2014/02/shibuyatomomi.jpg' alt='romancing-saga'>
 <figcaption>Il team di Romancing SaGa nel 2013. Da sinistra: Kazuko Shibuya (designer), Tomomi Kobayashi (artist), Kenji Ito (musica), Akitoshi Kawazu (director) e Masanori Ishikawa (producer di Emperor's Saga)</figcaption>
 </figure>
 
-**A proposito, prima spiegava che ha creato i personaggi di _Final Fantasy_ prima dei concept di Amano. Con _SaGa Frontier_ cosa arrivò prima: le illustrazioni di Tomomi, o i suoi character design?**
+**A proposito, ha spiegato che creava i personaggi di _Final Fantasy_ prima dei concept di Amano. Con _SaGa Frontier_ cosa arrivò prima: le illustrazioni di Tomomi, o i suoi character design?**
 
 Questa volta Tomomi arrivò prima. 
 
-Sai, per il Final Fantasy originale erano previsti un sacco di personaggi senza nome: Guerriero, Ladro eccetera.
+Sai, per il Final Fantasy originale erano previsti un sacco di personaggi senza nome: _Guerriero, Ladro_ eccetera.
 
-Ma con il mondo pensato da Akitoshi Kawazu per Romancing SaGa, ciascun personaggio aveva un nome  e un background dettagliato, quindi a Tomomi fu chiesto di realizzare tutti i concept prima che noi cominciassimo a fare qualcosa. Visitavo Tomomi a casa sua parlando del suo stile artistico, quindi portavo le illustrazioni che faceva al resto del team. 
+Con il mondo pensato da Akitoshi Kawazu per Romancing SaGa, ciascun personaggio aveva un nome e un background dettagliato, quindi a Tomomi fu chiesto di realizzare tutti i concept prima che noi cominciassimo a fare qualcosa.
 
-Visto che avevo già lavorato con Amano in questo modo, l'ho fatto anche con Tomomi.
+Visitavo Tomomi a casa sua parlando del suo stile artistico, quindi portavo le illustrazioni che faceva al resto del team. Visto che avevo già lavorato con Amano in questo modo, l'ho fatto anche con Tomomi.
 
 Realizzai ancora una volta le grafiche dei personaggi nel gioco, ma io e Tomomi andavamo veramente d'accordo e la cosa ha rafforzato il mio interesse personale per il lavoro.
 
@@ -68,7 +69,7 @@ Ricordo un'intervista per una rivista con Sakaguchi parlando di FFV dove dicevo,
 
 Per un anno tutto quello che ho fatto è stato realizzare la grafica di quei job [^job].
 
-[^job]: il peculiare Job-system di FFV prevedeva una marea di classi (o job, appunto) diverse, con relativi sprite
+[^job]: il peculiare Job-system di FFV prevedeva una marea di classi (o job, appunto) diverse, con relativi sprite personalizzati per ciascuna di esse.
 
 **C'erano cinque personaggi per FFV, e più di venti job diversi. Quindi, se ha dovuto creare la grafica per ciascuno di loro, dovrebbe averne realizzati più di 100...davvero ne ha fatti così tanti ?**
 
@@ -82,7 +83,7 @@ Lavorai a _SaGa Frontier_ e _SaGa Frontier 2_ con lo stesso staff che realizzò 
 
 **Virando sul nuovo sistema Playstation, cambiò qualcosa anche a livello di sviluppo?**
 
-Per _SaGa Frontier_ usai alcuni editori di grafica 3D e realizzai alcuni modelli io stessa. Creavo l'animazione basica e i pre-render in questo modo, quindi li ritoccavo con un po' di lavoro sui pixel.
+Per _SaGa Frontier_ usai alcuni editor di grafica 3D e realizzai alcuni modelli io stessa. Creavo l'animazione basica e i pre-render in questo modo, quindi li ritoccavo con un po' di lavoro sui pixel.
 
 <figure>
 <img src='http://shmuplations.com/wp-content/uploads/2014/02/saga3.png' alt='saga-frontier-3'>
@@ -93,21 +94,23 @@ Per _SaGa Frontier_ usai alcuni editori di grafica 3D e realizzai alcuni modelli
 
 Qualsiasi cosa potessi fare, la facevo. Ovviamente non sono familiare con gli ultimi, aggiornati editor di grafica 3D odierni, ma ho un'approfondita conoscenza teorica in merito alla grafica 3D, e quell'esperienza continua ad aiutarmi tuttoggi.
 
-**Parlando d'esperienza, quando vedo il balletto della vittoria _"banzai!"_ dei personaggi di _Final Fantasy_, o le pose da "danza" dei personaggi di _Romancing SaGa_ durante i combattimenti trovo che la sua esperienza nell'animazione le abbia sicuramente giovato. L'ha portata a creare personaggi mirabili e convincenti nonostante i limiti di frame**
+**Parlando d'esperienza, quando vedo la danza della vittoria _"banzai!"_ dei personaggi di _Final Fantasy_, o le pose da "ballo" dei personaggi di _Romancing SaGa_ durante i combattimenti trovo che la sua esperienza nell'animazione le abbia sicuramente giovato. L'ha portata a creare personaggi mirabili e convincenti nonostante i limiti di frame**
 
 Sì, senz'altro l'esperienza come animatrice è stata indispensabile per me.
 
 **Mi piace particolarmente quel personaggio di _Romancing SaGa_ che compie una giravolta e si mette in posa**
 
-Quel movimento è stato creato da uno dei planner. Voleva una posa che coinvolgesse un calcio o simili, ma alla fine sembrava che il personaggio stesse girando su se stesso. [risate]
+Quel movimento è stato creato accidentalmente da uno dei planner. 
+
+Voleva una posa che coinvolgesse un calcio o simili, ma alla fine sembrava che il personaggio stesse roteando su se stesso. [risate]
 
 **Un incidente fortunato! Gira in modo così bello, ne rimasi veramente impressionato. Interessante che sia venuto fuori così...**
 
 All'epoca eravamo tutti molto bravi a fare di necessità virtù. [risate]
 
-**Dopo SaGa Frontier 2 ha lavorato come graphic director per Blue Wing Blitz per Wonderswan, ma dopodiché abbiamo iniziato a veder apparire meno il suo nome nei giochi Square**
+**Dopo SaGa Frontier 2 ha lavorato come graphic director per _Blue Wing Blitz_ per Wonderswan, ma dopodiché abbiamo iniziato a veder comparire meno il suo nome nei giochi Square**
 
-Ho continuato a lavorare alla Square, ma iniziai a realizzare meno lavori grafici. Dopo quello ho dato una mano per FFIX.
+Ho continuato a lavorare alla Square, ma iniziai a realizzare meno lavori grafici. Dopo Blue Wing Blitz, ho dato una mano per FFIX.
 
 **Cioè?**
 

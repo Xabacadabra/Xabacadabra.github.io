@@ -22,6 +22,8 @@ Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/g
 
 1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
 
+2. [**Terza Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
+
 <hr />
 
 ## Disegnando Mostri con l' "Amano Touch"
@@ -186,3 +188,5 @@ Mi spiegava cose del tipo "questo personaggio dovrebbe essere così" eccetera. E
 Nella prossima puntata... si parlerà di _Romancing Saga_, _Final Fantasy IX_ e Hawaii! (?!?)
 
 1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
+
+2. [**Terza Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
