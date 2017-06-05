@@ -3,7 +3,7 @@ layout: article
 title: "Addio Gazebo: un disastro per la RAI"
 modified: null
 categories: [2017]
-excerpt: "Diego "in arte Zoro" e tutta la sua ciurma passano a La7, e così il servizio pubblico perde una delle sue realtà più importanti."
+excerpt: "Diego in arte Zoro e tutta la sua ciurma passano a La7, e così il servizio pubblico perde una delle sue realtà più importanti."
 tags:
   - politica
   - xabologia
