@@ -55,15 +55,9 @@ Insomma, **molti dei cosidetti "nativi digitali"** <small>(per dirla alla Google
 
 ## Topolino
 
-**Musica, Anime e Fumetti** seguono a ruota nel discorso, e in questo senso una menzione di merito va a _Topolino_: 
+**Musica, Anime e Fumetti** seguono a ruota nel discorso, e in questo senso una menzione di merito va a _Topolino_, a cui aggiungerei la leggendaria testata _**PK - Paperinik New Adventures**_: 
 
-<div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="false" data-embed-uuid="df6b1f48-4157-4fb4-bb85-de1398e00907" data-embed-created="2017-06-19T17:39:28.474Z"><a href="https://www.reddit.com/r/italy/comments/6hxzo4/come_siete_capitati_su_internet/dj23n02/">Comment</a> from discussion <a href="https://www.reddit.com/r/italy/comments/6hxzo4/come_siete_capitati_su_internet/">Come siete capitati su Internet ?</a>.</div><script async src="https://www.redditstatic.com/comment-embed.js"></script>
-
-<div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="false" data-embed-uuid="0e2f8e5d-fb1b-43e8-ba6c-386289b45adc" data-embed-created="2017-06-19T17:39:47.272Z"><a href="https://www.reddit.com/r/italy/comments/6hxzo4/come_siete_capitati_su_internet/dj2by0v/">Comment</a> from discussion <a href="https://www.reddit.com/r/italy/comments/6hxzo4/come_siete_capitati_su_internet/">Come siete capitati su Internet ?</a>.</div><script async src="https://www.redditstatic.com/comment-embed.js"></script>
-
-a cui aggiungerei la leggendaria testata _**PK - Paperinik New Adventures**_: 
-
-La Disney nostrana degli anni '90 contribuì in modo deciso e avveniristico ad avviare nelle spirali del web un sacco di bimbi: 
+**La Disney nostrana degli anni '90 contribuì in modo deciso e avveniristico ad avviare nelle spirali del web un sacco di bimbi:** 
 
 Per l'appunto nel 1995, **in un periodo in cui in televisione dire _modem_ era na parolaccia**, _Topolino_ se ne usciva così:
 
@@ -71,12 +65,14 @@ Per l'appunto nel 1995, **in un periodo in cui in televisione dire _modem_ era n
 	<img src='https://1.bp.blogspot.com/-pD9Dc9hZcq4/V7qeCGxjG6I/AAAAAAABqw8/PaI3G7oTh-YHwJuy9CL9lbmNfIXJHRVlgCLcB/s1600/1-Internet-nel-1995.jpg' alt='Topolino'>
 </figure>
 
-La fonte è il solito grandissimo [**Doc Manhattan**](http://docmanhattan.blogspot.it/2016/08/come-era-internet-nel-1995.html) che sul tema è andato pure nel dettaglio.
+La fonte è il solito leggendario [**Doc Manhattan**](http://docmanhattan.blogspot.it/2016/08/come-era-internet-nel-1995.html) che sul tema è andato nel dettaglio.
 
 ## Dare Internet per scontato
 
-Viziati come siamo dai mostri d'hardware <small>(spesso ingiustificato)</small> che ci portiamo in tasca e abituati ormai ad un mondo in perpetuo _aggiornamento_ costante, forse ogni tanto dovremmo fermarci un attimo:
+Viziati come siamo dai mostri d'hardware <small>(spesso ingiustificato)</small> che ci portiamo in tasca, abituati ormai ad un mondo in perpetuo _aggiornamento_ costante, forse ogni tanto dovremmo fermarci un attimo e fare un _downgrade_ mentale:
 
 Tra qualche decennio **saremo gli unici a ricordarsi di com'era il mondo prima d'Internet, e dell'esatto istante in cui il Web è entrato nelle nostre esistenze.**
 
-Na roba per certi versi spaventosa, ma per altri bellissima. 
+<figure>
+<img src='http://images4.fanpop.com/image/photos/22500000/Neo-in-The-Matrix-Reloaded-the-matrix-22575477-560-300.gif' alt='matrix'>
+</figure>
