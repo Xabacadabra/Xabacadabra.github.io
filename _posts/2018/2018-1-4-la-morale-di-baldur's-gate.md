@@ -20,14 +20,18 @@ Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire 
 **le _Enhanced Edition_ ad opera di Beamdog**.
 
 <figure>
-<img src="http://www.dlcompare.com:8042/upload/cache/game_tetiere/img/baldurs-gate-enhanced-edition-img-4.jpg" alt="Baldur's Gate Enhanced Edition">
+<img src="http://www.gatheryourparty.com/wp-content/uploads/2012/12/Baldurs-Gate-Enhanced-Edition.jpg" alt="Baldur's Gate Enhanced Edition">
 </figure>
-
-{% include toc.html %}
 
 Questa "recensione-panoramica" è abbastanza pachidermica (al solito amo perdermi in svariate fregnacce, capitemi) ergo la strutturerò in punti salienti, in modo che ognuno possa concentrarsi sul determinato argomento d'interesse.
 
-Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti legati alla serie classica. 
+<figure>
+<img src="http://www.nohighscores.com/wp-content/uploads/2012/07/baldursgate_ee_newstuff.png" alt="NPC Baldur's Gate Enhanced Edition">
+</figure>
+
+Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti legati alla serie classica.
+
+{% include toc.html %} 
 
 ## Il variabile ritmo lento di Baldur's Gate
 
@@ -100,8 +104,8 @@ Ultimamente sto provando il recente _Tyranny_ e le mie memorie di <a href="http:
 
 Nella scuola dei RPG isometrici, **la saga di Baldur's Gate** è ancora imbattibile.
 
-Non è uno straordinario capolavoro di narrazione come _Planescape: Torment_, non ha le stesse pretese d'originalità dei suoi successori spirituali come il sopracitato PoE (o anche gli ormai datati Neverwinter Nights) ma resta ancora oggi il più immersivo, immenso esempio di come un RPG di questo tipo dovrebbe essere a livello di scrittura, interazioni e rapporto visivo x ottimizzazione:
+Non è uno straordinario capolavoro di narrazione come _Planescape: Torment_, non ha le stesse pretese d'originalità dei suoi successori spirituali come il sopracitato PoE (o anche gli ormai datati Neverwinter Nights) ma **resta ancora oggi il più immersivo, immenso esempio di come un RPG di questo tipo dovrebbe essere a livello di scrittura, interazioni e rapporto visivo x ottimizzazione**:
 
 Non c'è storia: 
 
-Tra un vetusto Infinity Engine scattante, con fondali meravigliosi e senza 3D buttato a caso e i vari accrocchi fatti con l'Unity io preferirò sempre il primo, o qualche soluzione intermedia (telefonare agli ex della **Troika Games** per credere)           
+Tra **un vetusto Infinity Engine scattante**, con fondali meravigliosi e senza 3D buttato a caso e i **vari accrocchi fatti con l'Unity** io preferirò sempre il primo, o quantomeno qualche soluzione intermedia (telefonare agli ex della **Troika Games** per credere)           
