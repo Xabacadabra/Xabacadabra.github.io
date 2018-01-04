@@ -3,7 +3,7 @@ layout: article
 title: "La Morale di Baldur's Gate"
 modified: null
 categories: [2018]
-excerpt: "Niente recensione e/o altri termini altisonanti. Solo qualche piccolo appunto, quasi solo squisitamente tecnico..."
+excerpt: "Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di Baldur's Gate, approfittando nella sua ultima incarnazione..."
 tags:
   - videogiochi
   - recensioni
