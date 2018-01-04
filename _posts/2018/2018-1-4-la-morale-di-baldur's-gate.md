@@ -6,6 +6,7 @@ categories: [2018]
 excerpt: "Niente recensione e/o altri termini altisonanti. Solo qualche piccolo appunto, quasi solo squisitamente tecnico..."
 tags:
   - videogiochi
+  - recensioni
 image: 
   feature: baldur.jpg
   teaser: teaser-baldur.jpg
@@ -14,9 +15,9 @@ published: true
 comments: true
 ---
 
-Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di _Baldur's Gate_, più precisamente nella sua ultima incarnazione: 
+Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di _Baldur's Gate_, approfittando nella sua ultima incarnazione: 
 
-**le _Enhanced Edition_ ad opera di **Beamdog**.
+**le _Enhanced Edition_ ad opera di Beamdog**.
 
 <figure>
 <img src="http://www.dlcompare.com:8042/upload/cache/game_tetiere/img/baldurs-gate-enhanced-edition-img-4.jpg" alt="Baldur's Gate Enhanced Edition">
@@ -24,9 +25,9 @@ Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire 
 
 {% include toc.html %}
 
-Questa "recensione-panoramica" è abbastanza pachidermica, quindi la strutturerò in più punti salienti, così ognuno può concentrarsi su quello che vuole
+Questa "recensione-panoramica" è abbastanza pachidermica (al solito amo perdermi in svariate fregnacce, capitemi) ergo la strutturerò in punti salienti, in modo che ognuno possa concentrarsi sul determinato argomento d'interesse.
 
-Ma prima di parlare della EE, andiamo ad analizzare un paio di punti 
+Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti legati alla serie classica. 
 
 ## Il variabile ritmo lento di Baldur's Gate
 
@@ -70,12 +71,37 @@ Lo sanno i membri del gruppo, i nostri vari nemici, perfino le fugaci comparse c
 
 ## Enhanced Edition
 
-Le nuove edizioni Beamdog fanno un lavoro certosino per quanto riguarda compatibilità, ottimizzazione del vecchio Infinity Engine e resa su macchine moderne... <small>(tanto che non si capisce come dalle parti dell'Obsidian si ostinino ad utilizzare quel mattone dello Unity, ma vabbè)</small>
+<figure>
+<img src="https://www.baldursgateii.com/images/screens/concept02.jpg" alt="Baldur's Gate Enhanced Edition">
+<figcaption>Uno dei nuovi NPC
+</figcaption>
+</figure>
+
+Le nuove edizioni Beamdog fanno **un lavoro certosino per quanto riguarda compatibilità, ottimizzazione del vecchio Infinity Engine e resa su macchine moderne**... <small>(tanto che non si capisce come mai dalle parti dell'Obsidian si ostinino ad utilizzare quel mattone dello Unity, ma vabbè)</small>
 
 ...in compenso, escono decisamente dal seminato quando ci mettono "del loro" nell'ambito creativo:
 
-Gli NPC (e le relative quest) aggiunti sono ovviamente facoltativi, ma spesso risultano estremamente "stonati" e fuori posto se paragonati ai personaggi classici, e più che altro decisamente poco memorabili: 
+**Gli NPC (e le relative quest) aggiunti sono ovviamente facoltativi, ma in ogni modo spesso estremamente "stonati" e fuori posto se paragonati ai personaggi classici**, e diciamo pure che parliamo di gente decisamente poco memorabile: 
 
-In particolare parlo di Hexxat e Dorn, che non mi sono sembrati per niente ispirati e spesso fuori luogo, mentre Neera (che ho usato solo in BG1 per questioni di "spazio") sembra aver avuto uno sviluppo più ragionato, anche se per qualche motivo _chiassosamente moderno_.
+Personalmente posso parlare nel dettaglio giusto di **Hexxat** (portata avanti fino alla fine) e **Dorn** (parcheggiato con GIOIA subito dopo l'inizio di _Throne of Bhaal_):
 
-## Morale       
+Ecco, **sembrano i classici personaggi precotti e volutamente stereotipati che trovate alla fine dei vari manuali supplementari di un generico GDR fantasy**.
+
+La main quest di Hexxat, in particolare, rappresentava potenzialmente **un'occasione per esplorare altre parti degli sterminati Forgotten Realms**, ma all'atto pratico si risolve in **una storia scialba** che viene per giunta narrata peregrinando tra alcuni dei dungeon peggio escogitati del mondo isometrico.    
+
+**Neera** (che ho usato solo in BG1 per questioni di "spazio" e allineamento) sembra aver avuto uno sviluppo più interessante e ragionato, anche se per a istinto mi pare _chiassosamente moderno_.
+
+## Morale
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0YRPiygI2Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<small>L'EPICITÀ</small>
+
+Ultimamente sto provando il recente _Tyranny_ e le mie memorie di <a href="http://xabacadabra.com/2016/pillars-of-eternity-recensione/">Pillars of Eternity</a> sono ancora abbastanza fresche, quindi lo posso dire senza mezzi termini:
+
+Nella scuola dei RPG isometrici, **la saga di Baldur's Gate** è ancora imbattibile.
+
+Non è uno straordinario capolavoro di narrazione come _Planescape: Torment_, non ha le stesse pretese d'originalità dei suoi successori spirituali come il sopracitato PoE (o anche gli ormai datati Neverwinter Nights) ma resta ancora oggi il più immersivo, immenso esempio di come un RPG di questo tipo dovrebbe essere a livello di scrittura, interazioni e rapporto visivo x ottimizzazione:
+
+Non c'è storia: 
+
+Tra un vetusto Infinity Engine scattante, con fondali meravigliosi e senza 3D buttato a caso e i vari accrocchi fatti con l'Unity io preferirò sempre il primo, o qualche soluzione intermedia (telefonare agli ex della **Troika Games** per credere)           
