@@ -24,6 +24,8 @@ Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/g
 
 2. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
 
+3. [**Quarta Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-4)
+
 ## Romancing SaGa e Tomomi Kobayashi
 
 **Lei è stata coinvolta anche nello sviluppo della serie Famicon _Romancing SaGa_. Ha lavorato per tutti i capitoli ?**
@@ -132,7 +134,8 @@ Dal Giappone a New York, quindi alle Hawaii...l'ho fatto qualcosa come tre volte
 
 ### [To be continued]
 
-Nella prossima puntata... font & menù, 
+Nella prossima puntata... font & menù, il processo della pixel art e dragon quest!
 
 1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
 2. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
+3. [**Quarta Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-4)
