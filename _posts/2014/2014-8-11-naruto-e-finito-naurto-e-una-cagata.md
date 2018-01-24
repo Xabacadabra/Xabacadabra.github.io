@@ -12,7 +12,7 @@ image:
   teaser: TeaserNaruto.jpg
   thumb: null
 published: true
-ads: false
+ads: true
 comments: true
 ---
 

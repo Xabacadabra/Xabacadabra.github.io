@@ -2,7 +2,7 @@
 layout: article
 title: "Intervista a Kazuko Shibuya [Parte 4]"
 modified: null
-categories: [2017]
+categories: [2018]
 excerpt: "Quarta parte dell'intervista alla storica Designer della Serie: Romancing Saga, i Job di Final Fantasy V, l'avvento della Playstation e Final Fantasy alle Hawaii (!)"
 tags:
   - videogiochi
@@ -135,6 +135,62 @@ Sì, è stato sorprendente. Ricordo di aver pensato, "è l'alba di una nuova era
 **Ha anche osservato il lavoro di Toriyama esterno a Dragon Quest, come Dr. Slump e Dragon Ball?**
 
 Certamente. Ho provato a disegnare come se Toriyama realizzasse Dragon Quest oggi. Il primo che ho fatto è quello delle pianure, e al vederlo il produttore mi ha detto "Basta un secondo per capire che si tratta di Dragon Quest". Ero davvero contenta.
+
+**Sì, quel tipo di prima impressione è davvero importante con le immagini. È un mistero, ma in qualche modo puoi individuarlo subito, anche da un semplice sfondo con un prato: "oh, questo è Dragon Quest" oppure "questo è Toriyama".**
+
+Sì, è stato divertente illudermi che anche io fossi una sviluppatrice di Dragon Quest. (risate)
+
+**Il suo ultimo lavoro è stato un gioco per smartphone, Final Fantasy Dimensions, rilasciato nell'agosto del 2012. Ha affermato di aver ritoccato la grafica per i porting su android/iphone?**
+
+Sì. Anche quello è stato un progetto parecchio difficoltoso. La dimensione degli sprite era immensa. Questi (indica gli originali) erano solo 16x24, mentre quelli di Final Fantasy Dimensions 48x48.
+
+**Sei volte più grandi di un vecchio sprite 8x8**
+
+All'epoca erano le dimensioni di un boss secondario, è stato davvero difficile. Se si dovessero realizzare sprite ancora più grandi, non credo che potrebbero essere disegnati come pixel art.
+
+**È stata una sfida disegnare sprite di quelle dimensioni?**
+
+Sì. Anche se, e forse è un po' triste ammetterlo, il mio metodo per disegnarli non è cambiato dopo 25 anni.
+
+**In che senso?**
+
+Basicamente, non utilizzo nessun tool grafico particolare. Non c'è niente per rendermi il lavoro più facile. (risate)
+
+**Grazie ai passi avanti nella tecnologia, software per la composizione musicale e la Computer Grafica sono diventati gradualmente sempre più sofisticati, ma la pixel art va realizzata ancora alla vecchia maniera, un pixel per volta. Giusto?**
+
+Già. Ma essendoci riuscita, ho sentito ancora una volta che "la mia abilità è cresciuta". (risate)
+
+**Ho sempre sostenuto che lei fosse già ad un livello magistrale, ma lei dice di avere ancora margini di miglioramento?**
+
+Sì. Se continuo a lavorare con questo grande formato, probabilmente potrò fare un lavoro ancora migliore nel futuro.
+
+<figure>
+<img src='http://shmuplations.com/wp-content/uploads/2014/02/ffdimensions.png
+' alt='final-fantasy-dimensions'>
+<figcaption>Gli sprite di Final Fantasy Dimensions</figcaption>
+</figure>
+
+**Immagino che anche il numero di colori sia incrementato**
+
+Sì, ma comunque restano solo 32 colori disponibili. Togliendo le restrizioni di colore con sprite tanto grandi, non finirei mai sul serio...(risate)
+
+**È difficile insegnare la pixel art alle persone?**
+
+Lo è. La prima cosa che la gente mi chiede è: "hai studiato disegno bozze a scuola? Puoi fare delle bozze di figure?"
+
+**Quindi anche con la pixel art si ritorna alle basi del disegno?**
+
+Sì! Se non sai disegnare, non saprai nemmeno realizzare pixel art.
+
+**Ad un profano deve sembrare che le tecniche utilizzate per il disegno realistico siano completamente differenti da quelle della pixel art...ma a quanto pare non è così!**
+
+È perché una buona capacità nel disegno è quello che garantisce la capacità di rappresentare ombre e forme più accuratamente. Più gli sprite diventano grandi, più questo diventa importante.
+
+Molte persone, per trovare un senso di "solidità" nei loro sprite, utilizzano ombreggiatura per creare contrasto. Nel mio caso, è l'opposto: io cerco di creare un senso di "profondità".
+
+**Questo mi fa pensare ad Amano, i suoi disegni hanno un forte senso di profondità. Il contrasto è basso in buona parte del suo lavoro, quasi privo di luci forti. Crea una sorta di "morbida" profondità.**
+
+Con la pixel art,     
 
 ### [Parti precedenti:]
 

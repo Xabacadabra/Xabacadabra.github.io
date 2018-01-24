@@ -12,6 +12,7 @@ image:
   thumb: null
 published: true
 comments: true
+ads: true
 ---
 
 O meglio una panoramica sui tre giochi antecedenti a Mankind Divided (che magari un giorno giocherò e recensirò, prima di morire speriamo)
