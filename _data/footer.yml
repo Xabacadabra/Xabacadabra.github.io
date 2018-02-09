@@ -1,13 +1,13 @@
 # Footer navigation links
 
 - title: <i class="fa fa-archive"></i> Archivio
-  url: https://xabacadabra.com/blog/archivio/
+  url: "{{ site.url }}/blog/archivio/"
 - title: <i class="fa fa-line-chart"></i> Recensioni
-  url: https://xabacadabra.com/blog/tag/recensioni/
+  url: "{{ site.url }}/blog/tag/recensioni/"
 - title: <i class="fa fa-envelope"></i> Contatti
   email: mailto:xabacadabra@gmail.com
 - title: <i class="fa fa-link"></i> Link
-  url: https://xabacadabra.com/link/
+  url: "{{ site.url }/link/"
 - title: <i class="fa fa-user"></i> About
   url: https://xabacadabra.com/andrea-corinti/
 - title: <i class="fa fa-instagram"></i> Instagram
