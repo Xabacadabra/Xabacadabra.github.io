@@ -26,7 +26,7 @@ Venendo al gioco vero e proprio...ho preso Suits attirato dal basso prezzo[^prez
 [^prezzo]: Suits è disponibile su Steam a 0.99 €, al momento in cui scrivo è scontato a 0.59 per il lancio.
 
 <figure>
-<img src="http://cdn.akamai.steamstatic.com/steam/apps/410670/ss_cac4c9f83895ae95bd4a884743372222595d88ed.1920x1080.jpg" alt="suits a business rpg">
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/410670/ss_cac4c9f83895ae95bd4a884743372222595d88ed.1920x1080.jpg" alt="suits a business rpg">
 </figure>
 
 Che dire? 
@@ -34,7 +34,7 @@ Che dire?
 **Non posso affermare che si tratti di un gioco che tradisce le aspettative ma, sinceramente, mi sa di prodotto molto "furbo"**, estremamente commerciale nel suo pseudo anticonformismo, nato per ammiccare al pubblico "indie-radical chic" che spopola sulle imageboard e che, a dispetto delle proprie pretese intellettuali, spesso e volentieri si rivela più prevedibile e pecorone del pubblico da cinepanettone.
 
 <figure>
-<img src="http://cdn.akamai.steamstatic.com/steam/apps/410670/ss_effba4c2939a7653ff85d3ad25e798ee97ecc124.1920x1080.jpg" alt="suits a business rpg">
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/410670/ss_effba4c2939a7653ff85d3ad25e798ee97ecc124.1920x1080.jpg" alt="suits a business rpg">
 <figcaption>Aldilà dell'originalità concettuale e grafica, Suits utilizza paro paro la meccanica di default di RPG Maker</figcaption>
 </figure>
 

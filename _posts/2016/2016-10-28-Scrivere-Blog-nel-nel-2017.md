@@ -27,7 +27,7 @@ E sì, lo so, sento già i _"E grazie al ca...."_ in dirittura d'arrivo, quindi 
 ## 1: Voglio fare un Blog per guadagnare
 
 <figure>
-<img src='http://animal-dream.com/data_images/money/money7.jpg' alt='money'>
+<img src='https://animal-dream.com/data_images/money/money7.jpg' alt='money'>
 </figure>
 
 In breve: **scordatelo**.
@@ -45,7 +45,7 @@ Anzi, ancor più probabilmente un misto tra i due.
 ## 2: Fashion Blog, Blog di Cucina, Viaggi...
 
 <figure>
-<img src='http://vignette4.wikia.nocookie.net/monkeyisland/images/e/e0/Chef_scumm.png/revision/latest?cb=20120508161802' alt='blog'>
+<img src='https://vignette4.wikia.nocookie.net/monkeyisland/images/e/e0/Chef_scumm.png/revision/latest?cb=20120508161802' alt='blog'>
 </figure>
 
 
@@ -68,7 +68,7 @@ Certo, **sempre ammesso che le interazioni col pubblico v'interessino** (non è 
 ## 3: Meritocrazia 
 
 <figure>
-<img src='http://assets3.bigthink.com/system/idea_thumbnails/56016/size_1024/Big_Think_Pyramid_scramble.jpg?1407524400' alt='blog'>
+<img src='https://assets3.bigthink.com/system/idea_thumbnails/56016/size_1024/Big_Think_Pyramid_scramble.jpg?1407524400' alt='blog'>
 </figure>
 
 Il discorso appena concluso qui sopra ci dice un'altra cosa: 
@@ -88,7 +88,7 @@ Scelta di lessico e creatività, ahimé, risultano sempre poco sondabili rispett
 ## 4: Blog Personali
 
 <figure>
-<img src='http://66.media.tumblr.com/adefb125c4005b411df7ab37f64e9aba/tumblr_nyva16N6861s1vn29o1_500.jpg' alt='blog'>
+<img src='https://66.media.tumblr.com/adefb125c4005b411df7ab37f64e9aba/tumblr_nyva16N6861s1vn29o1_500.jpg' alt='blog'>
 </figure>
 
 O meglio, blog-diari dove raccontiamo amabilmente i cazzi nostri (perché un blog dovrebbe essere sempre un minimo personale):
@@ -112,7 +112,7 @@ Per intenderci...nel caso la popolarità fosse il vostro mantra, **concentrarsi 
 ## 6: Costanza
 
 <figure>
-<img src='http://www.wdonna.it/wp-content/uploads//2015/05/maurizio-costanzo.jpeg' alt='blog'>
+<img src='https://www.wdonna.it/wp-content/uploads//2015/05/maurizio-costanzo.jpeg' alt='blog'>
 </figure>
 
 La cosa più difficile, ovviamente, è postare contenuti un minimo strutturati e appetibili il più spesso possibile:
@@ -124,7 +124,7 @@ Questo punto è cruciale soprattutto **agli inizi**, quando le interazioni con l
 ## 7: L'esigenza di scrivere
 
 <figure>
-<img src='http://splash.creairtive.com/wp-content/uploads/writing-wall-bulletin-board-ideas.jpg' alt='blog'>
+<img src='https://splash.creairtive.com/wp-content/uploads/writing-wall-bulletin-board-ideas.jpg' alt='blog'>
 </figure>
 
 Notate la scelta del termine: 
@@ -144,7 +144,7 @@ Questa necessità non la posseggono in molti, e credo sia quasi fondamentale per
 ## 8: Come posso creare un blog ?
 
 <figure>
-<img src='http://www.notiziedilavoro.com/wp-content/uploads/2016/08/lego.jpg' alt='blog'>
+<img src='https://www.notiziedilavoro.com/wp-content/uploads/2016/08/lego.jpg' alt='blog'>
 </figure>
 
 Chiariti questi punti prevalentemente di natura "etica", passiamo alla pratica più concreta:
@@ -175,7 +175,7 @@ in parole povere ?
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/768px-Blogger.svg.png' alt='blogger'>
 </figure>
 
-Che il sottoscritto conosce molto bene, avendolo utilizzato per parecchi anni ([anche per le prime versioni di Xaba Cadabra](http://xabacadabra.com/blog/story/)), perciò leviamoci subito il dente:
+Che il sottoscritto conosce molto bene, avendolo utilizzato per parecchi anni ([anche per le prime versioni di Xaba Cadabra](https://xabacadabra.com/blog/story/)), perciò leviamoci subito il dente:
 
 **Blogger è inferiore a Wordpress in ogni singola caratteristica, salvo forse una: è di Google**
 

@@ -32,7 +32,7 @@ Anzitutto le cose scomode:
 
 Storicamente, **i robottoni mi fanno cagare.**
 
-Insomma, ci sono le solite eccezioni...**Evangelion** (che però diciamolo, è una faccenda piuttosto diversa), **Code Geass** (che tuttavia non riguarderei mai e poi mai), [**Xenogears**](http://xabacadabra.com/2016/xenogears-recensione/) (che ritengo un'opera d'arte) e forse qualche altro caso che ora non ricordo. 
+Insomma, ci sono le solite eccezioni...**Evangelion** (che però diciamolo, è una faccenda piuttosto diversa), **Code Geass** (che tuttavia non riguarderei mai e poi mai), [**Xenogears**](https://xabacadabra.com/2016/xenogears-recensione/) (che ritengo un'opera d'arte) e forse qualche altro caso che ora non ricordo. 
 
 Insomma, personalmente, il concetto di _mobile suit_ o comunque di "omino che pilota il megarobottone antropomorfo colorato" al 90% mi disgusta:
 
@@ -46,7 +46,7 @@ siccome parliamo di Gundam, penso che su questo punto occorra spenderci un inter
 
 Noi altri italiani classe '89 (e limitrofi) siamo cresciuti in un **guazzabuglio fatto da tante epoche animate diverse:** 
 
-Dall'avvento dei Classici Disney in VHS a _Lupin III_, passando per lo strapotere di [Dragon Ball](http://xabacadabra.com/2013/dragon-ball-in-italia/), i _Cavalieri dello Zodiaco_, la straordinaria linea editoriale dell'**MTV Anime Night** o le meravigliose TV locali che trasmettevano tranquillamente _Uomo Tigre_, _Lamù_ e _Kenshiro_ in barba al MOIGE...
+Dall'avvento dei Classici Disney in VHS a _Lupin III_, passando per lo strapotere di [Dragon Ball](https://xabacadabra.com/2013/dragon-ball-in-italia/), i _Cavalieri dello Zodiaco_, la straordinaria linea editoriale dell'**MTV Anime Night** o le meravigliose TV locali che trasmettevano tranquillamente _Uomo Tigre_, _Lamù_ e _Kenshiro_ in barba al MOIGE...
 
 Quel 1979 anagrafico di Gundam, quindi, in realtà non rappresenterebbe poi tutto 'sto problema.
 
@@ -57,7 +57,7 @@ Escludendo gli sporadici _Robotech_ e _Yattaman_ del caso o la moderna serie di 
 ## Pregiudizi
 
 <figure>
-<img src="http://i.imgur.com/67ZsLDp.jpg" alt="gundam">
+<img src="https://i.imgur.com/67ZsLDp.jpg" alt="gundam">
 </figure>
 
 Non so se i miei gusti siano stati deviati da queste scelte televisive o si parli di una fortunata coincidenza, ma sta di fatto che **nel mio cervello _Gundam_ ha sempre rappresentato una roba brutta**, pensata a tavolino per vendere modellini di robot ancora più brutti.
@@ -67,7 +67,7 @@ Non so se i miei gusti siano stati deviati da queste scelte televisive o si parl
 ## Netflix
 
 <figure>
-<img src="http://i2.hd-cdn.it/img/max_width1000/id535810_1.jpg" alt="gundam">
+<img src="https://i2.hd-cdn.it/img/max_width1000/id535810_1.jpg" alt="gundam">
 </figure>
 
 In verità l'amico Gatto (non nel senso felino, ma di amico nerd / compagno di viaggio delle mie spedizioni lucchesi) mi ha sempre esortato a concedere alla leggendaria serie una possibilità, più che altro **per gli aspetti socio-politici che quest'ultima portò in scena.**
@@ -77,7 +77,7 @@ Quindi, **complice l'avvento della serie ridoppiata e ripulita su Netflix**, ho 
 ## Verdetto ?
 
 <figure>
-<img src="http://i295.photobucket.com/albums/mm145/SaotomeAlto/Mobile%20Suit%20Gundam/Mobile%20Suit%20Gundam%200079/rx782-battered.jpg" alt="gundam">
+<img src="https://i295.photobucket.com/albums/mm145/SaotomeAlto/Mobile%20Suit%20Gundam/Mobile%20Suit%20Gundam%200079/rx782-battered.jpg" alt="gundam">
 </figure>
 
 Dopo 7 episodi (opinione sempre superficiale, quindi), posso dire che capisco buona parte delle ragioni che hanno reso Gundam un perno fondamentale nella storia dell'animazione nipponica: 
@@ -89,7 +89,7 @@ Per intenderci, **sostituendo ambientazione spaziale e mobile suit con la vera T
 ## Quindi è bello ?
 
 <figure>
-<img src="http://images.sgcafe.net/2013/07/rx782.jpg" alt="gundam">
+<img src="https://images.sgcafe.net/2013/07/rx782.jpg" alt="gundam">
 </figure>
 
 Di base, fino a questo punto, sì: 
@@ -99,7 +99,7 @@ Certo esiste **l'esasperazione del dramma che la faceva da padrone nel grosso de
 ## Concludendo 
 
 <figure>
-<img src="http://www.fanboy.com/archive-images/gundam-0079-02.jpg" alt="gundam">
+<img src="https://www.fanboy.com/archive-images/gundam-0079-02.jpg" alt="gundam">
 </figure>
 
 Sinceramente, conoscendomi, non so se riuscirò a terminarla: 

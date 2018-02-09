@@ -22,7 +22,7 @@ Potrei scrivere per ore delle varie Mark che si sono susseguite nel corso della 
 
 ## E MO?! 
 <figure>
-	<img src="http://www.robadarocker.com/uploads/8/7/6/5/8765586/1919314_orig.jpg" alt="Deep Purple 2013">
+	<img src="https://www.robadarocker.com/uploads/8/7/6/5/8765586/1919314_orig.jpg" alt="Deep Purple 2013">
 </figure>
 
 Mo in realtà è oramai da anni che i Deep Purple risultano una realtà diversa per quanto affine alle origini, e del resto fintanto che le leggende **Roger Glover**, **Ian Paice** e **Ian Gillan** continueranno a far gruppo con gente del calibro di **Don Airey** e quel fenomeno di **Steve Morse** direi che la qualità musicale non verrà certo a mancare...ma i dubbi, come s'intuisce, non erano certo legati a quest'ultima: 

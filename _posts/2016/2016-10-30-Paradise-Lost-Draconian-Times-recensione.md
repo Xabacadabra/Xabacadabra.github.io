@@ -48,7 +48,7 @@ Davvero.
 Sentite come parte _Hallowed Land_, guardate quant'è meravigliosa la cover, come stanno bene le frasi campionate di Charles Manson in _Forever Failure_...
 
 <figure>
-<img src='http://www.nuclearblast.de/static/articles/104/104536.jpg/1000x1000.jpg' alt='paradise-lost-draconian-times'>
+<img src='https://www.nuclearblast.de/static/articles/104/104536.jpg/1000x1000.jpg' alt='paradise-lost-draconian-times'>
 </figure>
 
 Diamine, è figo pure il titolo.

@@ -26,7 +26,7 @@ Esempio:
 
 Questa sorta di _pseudo-bullismo_ è abbastanza in linea con quello dei **ragazzini delle medie/superiori che hanno fretta di diventare grandi**, enfatizzando a più non posso quanto siano "maturi" in modi più o meno consoni e sempre **nocivi** (Fumare, citare Palahniuk almeno tre volte al giorno, dedicarsi al _grammarnazismo_, ascoltarsi i Coldplay e iscriversi alle sezioni giovanili di un partito)  
   
-In realtà, è anche uno degli elementi derivati dall'**[abbattimento del muro che separava il Web pre-social da quello odierno](http://xabacadabra.com/2014/la-storia-di-internet-e-il-web-15):**  
+In realtà, è anche uno degli elementi derivati dall'**[abbattimento del muro che separava il Web pre-social da quello odierno](https://xabacadabra.com/2014/la-storia-di-internet-e-il-web-15):**  
 
 ## Pischelli che odiano Pischelli
 

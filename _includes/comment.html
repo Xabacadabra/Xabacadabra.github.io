@@ -1,5 +1,5 @@
 
-<article id="comment{{ include.index }}" class="js-comment comment" itemprop="comment" itemscop itemtype="http://schema.org/Comment">
+<article id="comment{{ include.index }}" class="js-comment comment" itemprop="comment" itemscop itemtype="https://schema.org/Comment">
   <div class="comment__avatar-wrapper">
     {% if include.avatar %}
       <img class="comment__avatar" src="{{ include.avatar }}" alt="{{ include.name }}" height="50" width="50">
@@ -8,7 +8,7 @@
     {% endif %}
   </div>
   <div class="comment__content-wrapper">
-    <h3 class="comment__author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <h3 class="comment__author" itemprop="author" itemscope itemtype="https://schema.org/Person">
       {% unless include.url == blank %}
         <a rel="nofollow" href="{{ include.url }}"><span itemprop="name">{{ include.name }}</span></a>
       {% else %}

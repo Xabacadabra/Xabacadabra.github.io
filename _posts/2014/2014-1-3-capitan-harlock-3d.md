@@ -28,7 +28,7 @@ La risposta è...
 ## JAPAN!
 
 <figure>
-<img src='http://1.bp.blogspot.com/-FBSSc2r7Rio/UsWCyamm3dI/AAAAAAAAF9M/UJd_bFcc28M/s1600/toei+logo.jpg' alt='capitan-harlock-3d'>
+<img src='https://1.bp.blogspot.com/-FBSSc2r7Rio/UsWCyamm3dI/AAAAAAAAF9M/UJd_bFcc28M/s1600/toei+logo.jpg' alt='capitan-harlock-3d'>
 <figcaption>dopo 30 minuti di pubblicità e trailer di merda, sbotto
 "SE NON VEDO LE ONDE CHE SI STAGLIANO SULLO SCOGLIO DELLA TOEI ANIMATION IO ME NE VADO!" e in quell'istante, eccotelola</figcaption>
 </figure>
@@ -50,7 +50,7 @@ Nonostante questo però, **si avverte anche da subito che sceneggiatura e regia 
 ## Ke-mo-sah-bee, Fratello sbagliato
 
 <figure>
-<img src='http://2.bp.blogspot.com/-Y6X-vigSeVI/UsbL1qOOOgI/AAAAAAAAF9c/K5nllXzKkDI/s1600/yama_space_pirate_captain_harlock_by_yamimaetel-d6hcc4g.jpg' alt='capitan-harlock-3d'>
+<img src='https://2.bp.blogspot.com/-Y6X-vigSeVI/UsbL1qOOOgI/AAAAAAAAF9c/K5nllXzKkDI/s1600/yama_space_pirate_captain_harlock_by_yamimaetel-d6hcc4g.jpg' alt='capitan-harlock-3d'>
 <figcaption>Diceva il saggio Tonto in Lone Ranger, ed è un po' quello che dicevo pure io al cinema (giudicate da voi le azioni e l'operato di Yama, vero protagonista del filmozzo)
 </figcaption>
 </figure>
@@ -66,7 +66,7 @@ Non a caso **l'universo di Matsumoto è la quintessenza della cosiddetta space-o
 ## Tirando le somme di materiaiscura
 
 <figure>
-<img src='http://3.bp.blogspot.com/-HDSEzvx23qY/UsbVV2edbeI/AAAAAAAAF94/3hf1rYxYq8U/s1600/yattaran-ride.jpg' alt='capitan-harlock-3d'>
+<img src='https://3.bp.blogspot.com/-HDSEzvx23qY/UsbVV2edbeI/AAAAAAAAF94/3hf1rYxYq8U/s1600/yattaran-ride.jpg' alt='capitan-harlock-3d'>
 </figure>
 
 **Yattaran** è meraviglioso (anche se non gioca coi suoi modellini), **Harlock** è l'indiscutibile fierissimo antieroe che ci si aspettava, **Mime** è sempre bellissima e la figona bionda (**Yuki**) fa del fanservice d'ottima qualità.

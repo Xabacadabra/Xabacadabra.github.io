@@ -13,7 +13,7 @@ image:
 
 Vecchia riflessione sparata un annetto fa [^annetto] riguardo la "sindrome dell'epoca d'oro" nel senso musicale (da me che ne sono pure affettissimo !)
 
-[^annetto]: [Commento all'articolo Originale](http://www.ilfattoquotidiano.it/2012/03/10/musica-morta-alla-fine-degli-anni/196381/#comment-461761488)  
+[^annetto]: [Commento all'articolo Originale](https://www.ilfattoquotidiano.it/2012/03/10/musica-morta-alla-fine-degli-anni/196381/#comment-461761488)  
 ---
   
 Sono assolutamente d'accordo nel "_uscire allo scoperto e scrutare nuovi orizzonti_"  
@@ -24,7 +24,7 @@ Perché ?
 
 Perché posso conoscere e ascoltare in pochissimo tempo artisti di ogni luogo e ogni epoca, che spesso _spacciano_ **mp3** gratuitamente per promuoversi (l'esempio più recente che ho è l'ultimo album del gruppo metal svizzero **Eluveitie**, nome che ai più non dirà nulla ma che nel settore è oramai piuttosto famoso) o si giostrano con **channel youtube e profili myspace**, il tutto senza dovermi ridurre alla fame (e se dovessi davvero pagare per ogni disco che ho ascoltato in questi modi probabilmente dovrei forzatamente chiamarmi Tronchetti Provera, o altro che fame)  
   
-Posso ascoltare **Edgar Varèse, Bach, Madonna, Frank Zappa** o i **Gogol Bordello** in maniera del tutto legale con pochi click, e posso anche dare un ascolto a qualche artista indipendente su [soundcloud](hhttps://soundcloud.com/) o [libre.fm](http://libre.fm/), perché no?
+Posso ascoltare **Edgar Varèse, Bach, Madonna, Frank Zappa** o i **Gogol Bordello** in maniera del tutto legale con pochi click, e posso anche dare un ascolto a qualche artista indipendente su [soundcloud](hhttps://soundcloud.com/) o [libre.fm](https://libre.fm/), perché no?
 
 Cercatevi qualche cover dei **[Pianoguys](https://www.youtube.com/user/ThePianoGuys)** su youtube, tanto per fare un esempio  
   
@@ -37,7 +37,7 @@ Se il **business** di soldi dietro al mondo musicale si decidesse finalmente
 ## PS:
 
 <figure>
-<img src="http://www.ondarock.it/images/cover/aqualung.jpg" alt="Aqualung">
+<img src="https://www.ondarock.it/images/cover/aqualung.jpg" alt="Aqualung">
 </figure>
 
 Nel '71 è uscito **Aqualung** dei **Jethro Tull**, ma se non sbaglio nelle classifiche sbancò molto di più **Rod Stewart**, così come da noi (vado a intuito in questo caso) a suo tempo sbancò più **Baglioni** (che oltretutto a me piace eh!) che gli **Area** (che quasi nessuno si ricorda), quindi io non credo che le vendite siano mai state indicative della qualità di un'artista, oggi come negli anni '70 ( per quanto all'epoca **si sperimentasse di più** e il giogo mediatico influisse decisamente meno) 

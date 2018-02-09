@@ -19,11 +19,11 @@ Lo dico subito ? Lo dico subito:
 
 Ho scritto tre post su Metal Gear Solid 5, mentre ci stavo giocando, e se avete tempo/voglia vi consiglio di darci un'occhiata perché così questa recensione dovrebbe risultarvi più completa:
 
-1. [Prime Impressioni a caldo](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/)
+1. [Prime Impressioni a caldo](https://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/)
 
-2. [Seconde Impressioni a tiepido (?!)](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)
+2. [Seconde Impressioni a tiepido (?!)](https://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)
 
-3. [Terze impressioni a freddo](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-terze-impressioni/)
+3. [Terze impressioni a freddo](https://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-terze-impressioni/)
 
 Lo dico perché, in effetti, è molto difficile parlare di questo gioco immenso senza perdersi da qualche parte e, proprio perché di parole ne ho già spese tante, questo articoletto sarà abbastanza conciso.
 
@@ -42,7 +42,7 @@ E anzi, se vogliamo dirla tutta, il vero finale di Peace Walker, con il relativo
 ## Ludus e Pathos
 
 <figure>
- <img src="http://4.bp.blogspot.com/-2vIlvBngqv8/Vk6Q2WyBD1I/AAAAAAAANWA/TsDyzjmXyhc/s320/QuietStare.jpg" alt="Quiet">
+ <img src="https://4.bp.blogspot.com/-2vIlvBngqv8/Vk6Q2WyBD1I/AAAAAAAANWA/TsDyzjmXyhc/s320/QuietStare.jpg" alt="Quiet">
  <figcaption>Oh, ma certo che ho una backstory. Ma sei proprio sicuro che non preferiresti vedere qualche altro tipo di back?</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Eppure, **la componente narrativa è un perno fondante dell'opera Kojimiana**, o
 E in The Phantom Pain, 'sta cosa non esiste.
 
 <figure>
- <img src="http://1.bp.blogspot.com/-FS7KxO9QtYM/Vk6SmHdOWYI/AAAAAAAANWQ/n9oGeFL7iQw/s200/ocelot%2Bddog.jpg" alt="Quiet" alt="Ocelot e D-Dog">
+ <img src="https://1.bp.blogspot.com/-FS7KxO9QtYM/Vk6SmHdOWYI/AAAAAAAANWQ/n9oGeFL7iQw/s200/ocelot%2Bddog.jpg" alt="Quiet" alt="Ocelot e D-Dog">
  <figcaption>Ehilà, siamo i due personaggi più carismatici del gioco!
 Includerei anche Miller, ma il suo essere esagitato alla lunga scassa.</figcaption>
 </figure>
@@ -70,7 +70,7 @@ Quello su cui mi concentro, tuttavia, è il risultato, **la somma di quello che 
 ## Valutazione
 
 <figure>
- <img src="http://4.bp.blogspot.com/-JoYoXmPG1Q8/Vk6R0jnLkdI/AAAAAAAANWI/GqUEvbpMHRM/s320/MGSV_Code_Talker.png" alt="Quiet" alt="Code Talker">
+ <img src="https://4.bp.blogspot.com/-JoYoXmPG1Q8/Vk6R0jnLkdI/AAAAAAAANWI/GqUEvbpMHRM/s320/MGSV_Code_Talker.png" alt="Quiet" alt="Code Talker">
  <figcaption>Vorresti una trama..eh..dinè...e invece...ti becchi...
 quattrocentosessanta ore di mie audiocassette autografate e parassitate.</figcaption>
 </figure>

@@ -16,7 +16,7 @@ published: true
 comments: true
 ---
 
-Tempo fa [avevo fatto un post più generale a proposito delle sexy cosplayer](http://xabacadabra.com/2014/le-sexy-cosplayer/), ma numericamente parlando (e quindi anche economicamente) mi sono reso conto che Jessica Nigri merita un discorso a parte e, comunque la si pensi nel merito, trovo che parlare di lei in quanto fenomeno dell'internet ci porti ad un discorso parecchio globale nel [Cyberspazio](http://xabacadabra.com/blog/tag/cyberspazio/) moderno.
+Tempo fa [avevo fatto un post più generale a proposito delle sexy cosplayer](https://xabacadabra.com/2014/le-sexy-cosplayer/), ma numericamente parlando (e quindi anche economicamente) mi sono reso conto che Jessica Nigri merita un discorso a parte e, comunque la si pensi nel merito, trovo che parlare di lei in quanto fenomeno dell'internet ci porti ad un discorso parecchio globale nel [Cyberspazio](https://xabacadabra.com/blog/tag/cyberspazio/) moderno.
 
 Ma voi non mi credete, e pensate solo alle _zinne_. Lo so.
 
@@ -27,7 +27,7 @@ Vediamo se riesco a farvi cambiare idea: pronti ?
 ## Le Tette
 
 <figure>
-<img src="http://i.imgur.com/99VoH9s.jpg" alt="Il successo di Jessica Nigri">
+<img src="https://i.imgur.com/99VoH9s.jpg" alt="Il successo di Jessica Nigri">
 </figure>
 
 Partiamo col botto siliconato, giustappunto.
@@ -53,7 +53,7 @@ Anche così però, restiamo nel regno delle risposte semplici e palesi...
 ## Viral Marketing
 
 <figure>
-<img src="http://i.imgur.com/AWXDFRU.jpg" alt="Il successo di Jessica Nigri">
+<img src="https://i.imgur.com/AWXDFRU.jpg" alt="Il successo di Jessica Nigri">
 </figure>
 
 Fermandoci un attimo a riflettere infatti, dovrebbe apparirci abbastanza chiaro quanto **il numero di cosplayer belle e prosperose nel mondo non risulti certo risicato:** 
@@ -69,7 +69,7 @@ Proverò a spiegarlo tramite qualche altro punto.
 ## America (Fuck Yeah!)
 
 <figure>
-<img src="http://i.imgur.com/um41B2J.jpg" alt="Il successo di Jessica Nigri">
+<img src="https://i.imgur.com/um41B2J.jpg" alt="Il successo di Jessica Nigri">
 </figure>
 
 Anche se cresciuta in Nuova Zelanda, l'avere un pubblico di riferimento anglofono e accesso alle relative convention statunitensi è stato un vantaggio importantissimo: 
@@ -83,7 +83,7 @@ Chiaro: pure tenendo conto del solo numero di "cosplayer gnocche americane" non 
 ## Gestione consapevole del proprio "tasso erotico"
 
 <figure>
-<img src="http://i.imgur.com/SxgMXkr.jpg" alt="Il successo di Jessica Nigri">
+<img src="https://i.imgur.com/SxgMXkr.jpg" alt="Il successo di Jessica Nigri">
 </figure>
 
 Che si può sintetizzare molto bene con una parola inglese: _**teasing**_ (per me rende parecchio meglio del nostro "stuzzicare")
@@ -101,7 +101,7 @@ una specie di "scienza della profumiera" portata all'estremo.
 ## Personaggio in linea coi tempi
 
 <figure>
-<img src="http://i.imgur.com/IAfPxOS.jpg" alt="Il successo di Jessica Nigri">
+<img src="https://i.imgur.com/IAfPxOS.jpg" alt="Il successo di Jessica Nigri">
 </figure>
 
 Questo è il punto per me un po' più triste, ma forse **quello davvero cruciale per spiegare il successo di Jessica Nigri**, e dimostra che **avrebbe avuto un buon seguito (seppur infinitamente inferiore) anche se fosse nata uomo:**
@@ -113,8 +113,8 @@ l'umorismo random e scemo, l'ossessione per il _kawaii_, le contaminazioni che s
 ## Infantilismo Maturo
 
 <figure>
-<img src="http://art.ngfiles.com/images/263000/263728_g3no_i-don-t-want-to-fight.png" alt="Il successo di Jessica Nigri">
-<figcaption>Quest'artwork di <a href="http://g3no.newgrounds.com/">G3no</a> è una rappresentazione lampante di questo "movimento culturale", posto che si tratta di un raro esempio di ottima qualità.</figcaption>
+<img src="https://art.ngfiles.com/images/263000/263728_g3no_i-don-t-want-to-fight.png" alt="Il successo di Jessica Nigri">
+<figcaption>Quest'artwork di <a href="https://g3no.newgrounds.com/">G3no</a> è una rappresentazione lampante di questo "movimento culturale", posto che si tratta di un raro esempio di ottima qualità.</figcaption>
 </figure>
 
 Termine con cui sintetizzo **l'unione tra elementi tradizionalmente legati al mondo dell'infanzia** (cartoni animati con target dagli 11 anni in giù) e **dinamiche più o meno adulte** (deliri psicotici, omicidi, sessualità, humor nero).

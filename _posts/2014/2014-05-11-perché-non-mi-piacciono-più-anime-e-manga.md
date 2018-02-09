@@ -25,13 +25,13 @@ Fanno eccezione giusto **Psycho Pass** e qualche altro caso mooolto sporadico, c
 Il resto che mi ha preso è al 90% roba uscita prima del 2002
 
 <figure>
-<img src='http://2.bp.blogspot.com/-e_cJQ2rBvEM/VFoG2hFEiTI/AAAAAAAAK1U/QQJNZ66kock/s1600/Revy_Black_Lagoon_OP.jpg' alt='revy'>
+<img src='https://2.bp.blogspot.com/-e_cJQ2rBvEM/VFoG2hFEiTI/AAAAAAAAK1U/QQJNZ66kock/s1600/Revy_Black_Lagoon_OP.jpg' alt='revy'>
 </figure>
 
 Le ultime emozioni davvero forti in un animemanga che può dirsi nuovo le ho avute forse con **Black Lagoon** (anche qui parliamo di qualche anno fa - leggo ora che il manga è proprio del 2002) poi, togliendo i sopracitati e altri piccoli casi, **c'è molto deserto nel mio sol levante.**
 
 <figure>
-<img src='http://1.bp.blogspot.com/-pb-EyO8JgJ8/VFoMQCyfBSI/AAAAAAAAK2E/LAVELfH6-So/s1600/rogue_x_men_manga_20_colored_by_gordonalyx-d5sffyc.jpg' alt='manga rogue'>
+<img src='https://1.bp.blogspot.com/-pb-EyO8JgJ8/VFoMQCyfBSI/AAAAAAAAK2E/LAVELfH6-So/s1600/rogue_x_men_manga_20_colored_by_gordonalyx-d5sffyc.jpg' alt='manga rogue'>
 </figure>
 
 **Un po' sarò stato indottrinato dalla Marvel** e dai suoi film, che mi hanno spinto a rinvigorire l'antico amore per gli X-Men (analogo - ma più moderato - il discorso con Batman e la DC) nonché a scoprire un sacco di bella roba 'mmerigana che mai avrei pensato potesse piacermi, e invece.
@@ -39,7 +39,7 @@ Le ultime emozioni davvero forti in un animemanga che può dirsi nuovo le ho avu
 Un po', e mi sento di dire un po' tanto, **c'è qualcosa che per me non funziona più nel grosso delle produzioni animato/fumettistiche del Sol Levante.** E mettiamoci pure quelle videogiochistiche, già che ci siamo.
 
 <figure>
-<img src='http://3.bp.blogspot.com/-nK5PkjK5QgU/VFoIQ-8_r0I/AAAAAAAAK1g/bayhO2w_5Co/s1600/Valk_hero_vf3.jpg' alt='valkyria-chronicles'>
+<img src='https://3.bp.blogspot.com/-nK5PkjK5QgU/VFoIQ-8_r0I/AAAAAAAAK1g/bayhO2w_5Co/s1600/Valk_hero_vf3.jpg' alt='valkyria-chronicles'>
 </figure>
 
 Si, lo so: ci sono sempre le eccezioni.
@@ -47,7 +47,7 @@ Si, lo so: ci sono sempre le eccezioni.
 C'è che, ad esempio, devo ancora vedermi **Si alza il vento** di Mastro Hayao, che se ne è andato in pensione come Bloch.
 
 <figure>
-<img src='http://3.bp.blogspot.com/-75gZyywT7Z0/VFoK_fHsByI/AAAAAAAAK14/zAYEzUXj7zc/s1600/si-alza-il-vento.jpg' alt='si-alza-il-vento'>
+<img src='https://3.bp.blogspot.com/-75gZyywT7Z0/VFoK_fHsByI/AAAAAAAAK14/zAYEzUXj7zc/s1600/si-alza-il-vento.jpg' alt='si-alza-il-vento'>
 </figure>
 
 Tuttavia Miyazaki non è propriamente definibile "nuovo", ne "vecchio"...**Miyazaki È l'animazione giapponese, ma non è l'anime.**
@@ -61,7 +61,7 @@ E, appunto, **Miyazaki se ne è andato in pensione.**
 Lo so, lo so. Trattenete le lacrime però, che qua c'è da leggere il resto del post. 
 
 <figure>
-<img src='http://2.bp.blogspot.com/-Dngn7Z2wj4M/VFoJYCXIXjI/AAAAAAAAK1s/gwcHbsLeaxc/s1600/67-foto-video-lucca-comics-2014-varie.jpg' alt='attacco-dei-giganti'>
+<img src='https://2.bp.blogspot.com/-Dngn7Z2wj4M/VFoJYCXIXjI/AAAAAAAAK1s/gwcHbsLeaxc/s1600/67-foto-video-lucca-comics-2014-varie.jpg' alt='attacco-dei-giganti'>
 </figure>
 
 Ecco, si, va bene: c'è questo **Attacco dei Giganti** che è piaciuto praticamente a mezzo mondo e si è guadagnato il capoccione nel cuore del Padiglione Napoleone a Lucca.
@@ -73,12 +73,12 @@ Avessi voglia di farlo.
 ## Il Giappone 
 
 <figure>
-<img src='http://4.bp.blogspot.com/-dEZe5kwMdGg/VFoMoUjyXqI/AAAAAAAAK2M/--40L9mya7c/s1600/japan.jpeg' alt='giappone'>
+<img src='https://4.bp.blogspot.com/-dEZe5kwMdGg/VFoMoUjyXqI/AAAAAAAAK2M/--40L9mya7c/s1600/japan.jpeg' alt='giappone'>
 </figure>
 
 Credo che in tutto questo incida **ciò che è stato il Giappone**, ciò che rappresentava negli anni in cui sfornava tutte quelle opere a cui mi sento più legato...e badate bene, **io al Giappone mediatico devo quasi tutta la mia infanzia.**
 
-È un discorso che mesi fa [il Dr Manhattan ha magistralmente descritto nel suo antro atomico.](http://docmanhattan.blogspot.it/2014/08/giappone-in-film-fantascienza-anni-80-e-90.html)
+È un discorso che mesi fa [il Dr Manhattan ha magistralmente descritto nel suo antro atomico.](https://docmanhattan.blogspot.it/2014/08/giappone-in-film-fantascienza-anni-80-e-90.html)
 
 Ecco, io all'anagrafe un po' di anni in meno di lui li ho, eppure (sarà che son diventato vecchio presto, sarà che in quel mondo lì ci sono comunque stato svezzato) in tutto questo discorso mi ci rivedo un sacco.
 
@@ -88,7 +88,7 @@ Un futuro che non assomiglia a quello che **esisteva già** nella Tokyo anni '80
 
 **Un futuro globalmente mai nato** che credo abbia gambizzato una grossa fetta della vena creativa nipponica.
 
-Poi chi lo sa, magari domani usciranno gli eredi moderni di _Berserk, Slam Dunk_ e [_Parasite Eve_](http://xabacadabra.com/2015/parasite-eve-recensione/) tutti in una botta.
+Poi chi lo sa, magari domani usciranno gli eredi moderni di _Berserk, Slam Dunk_ e [_Parasite Eve_](https://xabacadabra.com/2015/parasite-eve-recensione/) tutti in una botta.
 
 Magari 'sto Attacco dei Giganti potrebbe pure pure piacermi.
 

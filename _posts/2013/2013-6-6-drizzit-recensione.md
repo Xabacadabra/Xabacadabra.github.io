@@ -20,7 +20,7 @@ Venite a scoprire le deliranti e sagaci avventure dell'elfo oscuro più bonaccio
 ## Premessa - Free For Your Eyes
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-DyUGTCrMvhY/UIBW5WH4zuI/AAAAAAAAEF0/if02JmpIgL0/s320/Drizzit_Bavarese.jpg" alt="Drizzit Bavarese">
+	<img src="https://2.bp.blogspot.com/-DyUGTCrMvhY/UIBW5WH4zuI/AAAAAAAAEF0/if02JmpIgL0/s320/Drizzit_Bavarese.jpg" alt="Drizzit Bavarese">
 </figure>
 
 Nel parlare di Drizzit tocca ricordare almeno sommariamente quanto dissi a suo tempo riguardo i budget zero italiani, ovvero sia quei fenomeni creativi venuti alla ribalta per merito di internet e degli sforzi autonomi dei rispettivi autori/produttori , che rendono poi i frutti del loro lavoro fruibili liberamente e gratuitamente per chicchessia
@@ -35,18 +35,18 @@ Bene, a mio parere devo dire che Drizzit rispetta emblematicamente queste qualit
 R.A. Salvatore, Streghe poppute e Charlie Brown
 
 <figure>
-	<img src="http://www.eldonthompson.com/images/Fav-Drizzt.gif" alt="Drizzt Eldon Thomspon">
+	<img src="https://www.eldonthompson.com/images/Fav-Drizzt.gif" alt="Drizzt Eldon Thomspon">
 	<figcaption>Il Drizzt "originale" in un'illustrazione di Eldon Thompson</figcaption>
 </figure>
 
-Drizzit nasce dalla tavoletta grafica e dalla mente del buon [Bigio](http://pauldeggan.blogspot.it/) come una striscia a fumetti, improntata (almeno nelle sue origini) sull'aspetto comicamente immediato di battute che, come chi è abbastanza nerd avrà già intuito, fanno il verso al mondo del GDR (gioco di ruolo) - nella fattispecie quello del GDR per antonomasia:
+Drizzit nasce dalla tavoletta grafica e dalla mente del buon [Bigio](https://pauldeggan.blogspot.it/) come una striscia a fumetti, improntata (almeno nelle sue origini) sull'aspetto comicamente immediato di battute che, come chi è abbastanza nerd avrà già intuito, fanno il verso al mondo del GDR (gioco di ruolo) - nella fattispecie quello del GDR per antonomasia:
 
 Dungeons & Dragons ed i suoi celebri Forgotten Realms , visti come una parodia del Drizzt romanzesco di Robert Anthony Salvatore
 
 ## Mera parodia o rivoluzione fumettistica ?
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-Z8TWBIGuksg/UQk10fpZrAI/AAAAAAAAFD0/XPbcY4Ji8I8/s320/Drizzit_600_party.jpg" alt="Drizzit">
+	<img src="https://3.bp.blogspot.com/-Z8TWBIGuksg/UQk10fpZrAI/AAAAAAAAFD0/XPbcY4Ji8I8/s320/Drizzit_600_party.jpg" alt="Drizzit">
 </figure>
 
 Ora, qui è da dove Drizzit parte, le origini che non ha mai rinnegato, e che del resto si vedono ancora spesso e volentieri.
@@ -58,7 +58,7 @@ Sotto sotto ero/sono un sostenitore dela coppia Artemide/Katy
 Del resto, con ogni probabilità, è proprio in questo che sta il suo crescente successo, nonché la capacità di avvicinare anche un pubblico che magari un D20 lo ha visto solo in un fotogramma di Big Bang Theory e che se gli dici Drizzt ti risponde "Salute!"
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-35xuaEiVOF0/ThQ-nwKAVrI/AAAAAAAAB20/4azBsAM62LI/s400/drizzit_084_2011.jpg">
+	<img src="https://2.bp.blogspot.com/-35xuaEiVOF0/ThQ-nwKAVrI/AAAAAAAAB20/4azBsAM62LI/s400/drizzit_084_2011.jpg">
 	<figcaption>Lo stile ancora "acerbo" delle prime strisce è andato progressivamente migliorando, incontrando una sua dimensione ideale</figcaption>
 </figure>
 
@@ -74,6 +74,6 @@ Ma, e soprattutto, è una pressoché inesauribile fonte di risate, stile ed iron
 
 1. L'aggiornatissima [pagina facebook](https://www.facebook.com/Drizzit.by.Bigio), dove vengono pubblicate quotidianamente tutte le strisce più aggiornamenti di varia natura
 
-2. Il fumetto cartaceo, acquistabile tramite lo [Shockdom Store](http://store.shockdom.com/108-drizzit-1-it-9788896275030.html)
+2. Il fumetto cartaceo, acquistabile tramite lo [Shockdom Store](https://store.shockdom.com/108-drizzit-1-it-9788896275030.html)
 
-3. [Il blog dell'autore](http://pauldeggan.blogspot.it/) Bigio, che la domenica pubblica le intere uscite della settimana con tanto di commento  
+3. [Il blog dell'autore](https://pauldeggan.blogspot.it/) Bigio, che la domenica pubblica le intere uscite della settimana con tanto di commento  

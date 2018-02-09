@@ -21,7 +21,7 @@ Ho giocato _Omikron: The Nomad Soul_ per circa mezz'ora, e siccome già avrei ti
 
 Tanto per farsi fighi con gli amici nerd senza spulciare Wikipedia:
 
-Omikron è il primissimo gioco realizzato da **David Cage** e la sua **Quantic Dream**, cioè quelli di _Fahrenheit, Heavy Rain e [Beyond: Due Anime](http://xabacadabra.com/2013/beyond-due-anime-recensione/)_ (mica ciufoli, almeno in teoria).
+Omikron è il primissimo gioco realizzato da **David Cage** e la sua **Quantic Dream**, cioè quelli di _Fahrenheit, Heavy Rain e [Beyond: Due Anime](https://xabacadabra.com/2013/beyond-due-anime-recensione/)_ (mica ciufoli, almeno in teoria).
 
 E, elemento notevole del lotto, è pure quello strano gioco in cui campeggia la presenza di un certo **David Bowie**, e non solo musicalmente parlando.
 

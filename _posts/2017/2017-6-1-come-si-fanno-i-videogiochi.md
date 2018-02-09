@@ -32,12 +32,12 @@ il nipponico _**RPG Maker**_ , sviluppato da Ascii (Enterbrain). [^rpgmaker]
 Rimasi **completamente estasiato dalla semplicità e dalle possibilità offerte dal programma**, come penso sia capitato a tutti i pischelli aspiranti "game designer" venuti su a _pane & Final Fantasy_.
 
 <figure class="half">
-	<img src="http://2.bp.blogspot.com/-HmYDxOuo1Ak/T0Ilu3jUnkI/AAAAAAAACBQ/D4cfMGFcBI4/s1600/5.png" alt='rpg-maker'>
-	<img src="http://3.bp.blogspot.com/-X393aNyRUPc/T0Ilq4R1mcI/AAAAAAAACBI/RiBvET8yZOY/s1600/4.png" alt='rpg-maker'>
+	<img src="https://2.bp.blogspot.com/-HmYDxOuo1Ak/T0Ilu3jUnkI/AAAAAAAACBQ/D4cfMGFcBI4/s1600/5.png" alt='rpg-maker'>
+	<img src="https://3.bp.blogspot.com/-X393aNyRUPc/T0Ilq4R1mcI/AAAAAAAACBI/RiBvET8yZOY/s1600/4.png" alt='rpg-maker'>
 </figure>
 
 <figure>
-<img src='http://1.bp.blogspot.com/-JG_pLIqB4eE/T0IlmsS5IgI/AAAAAAAACA4/qpjNK5-1z1w/s1600/2.png' alt='rpg-maker'>
+<img src='https://1.bp.blogspot.com/-JG_pLIqB4eE/T0IlmsS5IgI/AAAAAAAACA4/qpjNK5-1z1w/s1600/2.png' alt='rpg-maker'>
         <figcaption>Andando a memoria, <i>Goetian</i> fu l'ultima incompiuta che provai a realizzare con Rpg Maker (roba del 2010) </figcaption>
 </figure>
 
@@ -48,8 +48,8 @@ Eppure, fu proprio a seguito di quello stesso entusiasmo che nacque in me un'ans
 ## Sospensione dell'Incredulità
 
 <figure>
-<img src='http://68.media.tumblr.com/ab0226b54ffe35a1356e6f36d4294137/tumblr_inline_o9jvxkZKAx1rownoh_500.png' alt='six-engine'>
-<figcaption>Il <a href='http://www.sixengine.com/'>Six Engine</a> di William Cage si pone l'ambizioso obbiettivo di sviluppare browser game basati sui classici del Super Nintendo, in primis Final Fantasy VI</figcaption>
+<img src='https://68.media.tumblr.com/ab0226b54ffe35a1356e6f36d4294137/tumblr_inline_o9jvxkZKAx1rownoh_500.png' alt='six-engine'>
+<figcaption>Il <a href='https://www.sixengine.com/'>Six Engine</a> di William Cage si pone l'ambizioso obbiettivo di sviluppare browser game basati sui classici del Super Nintendo, in primis Final Fantasy VI</figcaption>
 </figure>
 
 Per intenderci:
@@ -75,7 +75,7 @@ Il dramma è che **questo "dietro le quinte" molto spesso fa inevitabilmente sco
 ## Morale
 
 <figure>
-	<img src='http://www.thedailyenlightenment.com/The%20Matrix-Buddhism%20Connection_files/mat10.jpg' alt='cypher'>
+	<img src='https://www.thedailyenlightenment.com/The%20Matrix-Buddhism%20Connection_files/mat10.jpg' alt='cypher'>
 </figure>
 
 > I know what you're thinking, 'cause right now I'm thinking the same thing. Actually, I've been thinking it ever since I got here: Why oh why didn't I take the BLUE pill? 
@@ -85,6 +85,6 @@ Nella mia infinita presunzione temo che questa forma mentis interessi buona part
 Tutto 'sto pippone, per dire che oggi come oggi io consiglio sempre di seguire la filosofia di quel sant'uomo di Cypher:
 
 <figure>
-	<img src='http://blog.mozilla.com/privacy/files/2011/11/red-pill-blue-pill.jpg' alt='matrix'>
+	<img src='https://blog.mozilla.com/privacy/files/2011/11/red-pill-blue-pill.jpg' alt='matrix'>
 	<figcaption>nel dubbio, scegliete sempre la pillola blu</figcaption>
 </figure>

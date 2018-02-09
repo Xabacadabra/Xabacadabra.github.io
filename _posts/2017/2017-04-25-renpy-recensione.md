@@ -83,7 +83,7 @@ Non a caso, tolte le contaminazioni con altri generi (emblematica in questo sens
 
 Quindi, per quanto le potenzialità dell'engine  si prestino a fare davvero un sacco di roba, bisogna sempre tenere a mente che spezzare i binari del genere su cui è basato è possibile, ma non per questo facile.
 
-Un esempio analogo lo potremmo fare con [_Until I Have You_](http://xabacadabra.com/2016/until-i-have-you/), platform a scorrimento laterale sviluppato con _Adventure Game Studio_ (software chiuso e ben più vecchio di Ren'Py)
+Un esempio analogo lo potremmo fare con [_Until I Have You_](https://xabacadabra.com/2016/until-i-have-you/), platform a scorrimento laterale sviluppato con _Adventure Game Studio_ (software chiuso e ben più vecchio di Ren'Py)
 
 ## Conclusioni
 

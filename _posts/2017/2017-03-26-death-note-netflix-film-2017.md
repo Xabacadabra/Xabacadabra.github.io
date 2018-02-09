@@ -19,7 +19,7 @@ comments: true
 Hello, America.
 
 <figure>
- <img src='http://dwjx78790mroz.cloudfront.net/wp-content/uploads/2016/05/22100200/50172405_trumpmelaniapiano.jpg' alt='donald trump melania piano'>
+ <img src='https://dwjx78790mroz.cloudfront.net/wp-content/uploads/2016/05/22100200/50172405_trumpmelaniapiano.jpg' alt='donald trump melania piano'>
  <figcaption>Vintage!</figcaption>
  </figure>
 
@@ -27,7 +27,7 @@ So che suona strano, ma siamo nel 2017, e l'Era Digitale ha contribuito ad abbat
 
 Lo scrivo perché **un _"Facciamo arrivare Ringu al grande pubblico con The Ring"_ nel 2002 poteva avere un suo senso**: 
 
-Era un'epoca ancora saldamente legata a DVD noleggiati al _Blockbuster_, dove spesso o mettevi in moto le dogane importando oppure t'attaccavi. <small>(Vero [_Advent Children?_](http://xabacadabra.com/2016/final-fantasy-vii-advent-children/))</small>
+Era un'epoca ancora saldamente legata a DVD noleggiati al _Blockbuster_, dove spesso o mettevi in moto le dogane importando oppure t'attaccavi. <small>(Vero [_Advent Children?_](https://xabacadabra.com/2016/final-fantasy-vii-advent-children/))</small>
 
 Ma oggi ? 
 
@@ -38,7 +38,7 @@ Voglio dire, proprio su Netflix possiamo trovare opere quali:
 - _Pandora_, lungometraggio **sudcoreano**
 - _Ingobernable_, serie TV **messicana** 
 - _Il processo di Tokyo_, mini-serie **olandese**
-- _Suburra_, serie in uscita entro l'anno tratta dall'[omonimo film **italiano**](http://xabacadabra.com/2015/suburra-recensione/)
+- _Suburra_, serie in uscita entro l'anno tratta dall'[omonimo film **italiano**](https://xabacadabra.com/2015/suburra-recensione/)
 
 Per non parlare delle varie serie britanniche di abnorme successo proprio negli states (_Sherlock_ e _Downton Abbey_, giusto per citare quelle più ciccione)
 
@@ -48,7 +48,7 @@ Per non parlare delle varie serie britanniche di abnorme successo proprio negli 
 
 Ergo, **a che diavolo serve fare un live action USA di _Death Note_ ?** 
 
-Certo, ci sarà pure il solito discorso commerciale di cui abbiamo discusso di recente parlando di [cinema e videogiochi](http://xabacadabra.com/2017/il-cinema-non-altezza-videogiochi/)...ma ragazzi dai, non scherziamo: 
+Certo, ci sarà pure il solito discorso commerciale di cui abbiamo discusso di recente parlando di [cinema e videogiochi](https://xabacadabra.com/2017/il-cinema-non-altezza-videogiochi/)...ma ragazzi dai, non scherziamo: 
 
 Il potenziale pubblico di un film tratto da _Death Note_ da un'operazione del genere **parte ostile e finisce incazzato**, anche aldilà di ogni ragionevole _oggettività_.
 
@@ -59,7 +59,7 @@ Il potenziale pubblico di un film tratto da _Death Note_ da un'operazione del ge
 ## Braccobaldi Oggettivi
 
 <figure>
-<img src='http://digiphotostatic.libero.it/AstinenteMioMalgrado/med/615e2a5bdc_2149606_med.jpg' alt='Braccobaldo'>
+<img src='https://digiphotostatic.libero.it/AstinenteMioMalgrado/med/615e2a5bdc_2149606_med.jpg' alt='Braccobaldo'>
 </figure>
 
 Perché intendiamoci, **potrebbe pure venir fuori un bel film.** [^potrebbe]
@@ -89,7 +89,7 @@ In generale gli esempi di rifacimenti meritevoli si sprecano...**tuttavia, il di
 ## Memoria Collettiva
 
 <figure>
-<img src='http://www.animeclick.it/prove/img_tmp/63230.jpg' alt='death note'>
+<img src='https://www.animeclick.it/prove/img_tmp/63230.jpg' alt='death note'>
 </figure>
 
 Anzitutto **_Death Note_ è un manga abbastanza recente (2003), ed un prodotto dallo _spropositato_ successo internazionale:** 
@@ -104,7 +104,7 @@ Insomma, **se a questi gli tocchi _Death Note_ rischi di radicalizzarli che manc
 
 ## Questioni Razziali
 
-Come dicevo dalle parti di [_Ghost in The Shell_](http://xabacadabra.com/2016/ghost-in-the-shell/) <small>(ci siamo quasi!)</small> in taluni casi il _whitewashing_ lo posso pure comprendere, **perché magari è collegato ad un nome altisonante che il film aiuta a venderlo, e quindi produrlo** (Scarlettona di questi tempi è una bella _prezzemolina_ mica per niente).
+Come dicevo dalle parti di [_Ghost in The Shell_](https://xabacadabra.com/2016/ghost-in-the-shell/) <small>(ci siamo quasi!)</small> in taluni casi il _whitewashing_ lo posso pure comprendere, **perché magari è collegato ad un nome altisonante che il film aiuta a venderlo, e quindi produrlo** (Scarlettona di questi tempi è una bella _prezzemolina_ mica per niente).
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgalbadia%2Fposts%2F1456352267762571&width=500" width="500" height="667" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 

@@ -41,7 +41,7 @@ Anche qui vedremo che combinerò piano piano, però sinceramente credo sia megli
 
 Alla fine sono sempre state la categoria di punta di questo blog, ma la verità è che mi è un po' passata la voglia di farle, come si sarà notato...
 
-Cioè, quella di [**Kingsglaive**](http://xabacadabra.com/2016/Kingsglaive-Final-Fantasy-XV-Recensione/) volevo fortemente realizzarla perché c'era proprio quell'esigenza, quel senso da _"se non scrivo tutta sta roba esplodo"_ che mi ha assalito direttamente durante la visione del film...
+Cioè, quella di [**Kingsglaive**](https://xabacadabra.com/2016/Kingsglaive-Final-Fantasy-XV-Recensione/) volevo fortemente realizzarla perché c'era proprio quell'esigenza, quel senso da _"se non scrivo tutta sta roba esplodo"_ che mi ha assalito direttamente durante la visione del film...
 
 Però per dire, i cinefumetti mi hanno stancato (_Civil War_ mi ha fatto scendere talmente tanto la uallera che il solo pensiero di scriverci qualcosa mi fa addormentare) e le Serie TV per forza di cose richiedono una certa costanza, e andrebbero molto spesso sviscerate episodio per episodio (ma ciao, proprio)
 
@@ -53,6 +53,6 @@ D'altro canto, dovrei compensare con...
 
 ## I Progetti
 
-...che ovviamente risultano una pura Utopia, ma di questi tempi mi sono innamorato di [**Phaser**](http://phaser.io/) e mi piacerebbe un sacco farci qualcosina anche solo per sperimentarci sopra.
+...che ovviamente risultano una pura Utopia, ma di questi tempi mi sono innamorato di [**Phaser**](https://phaser.io/) e mi piacerebbe un sacco farci qualcosina anche solo per sperimentarci sopra.
 
 Vedremo, vedremo...

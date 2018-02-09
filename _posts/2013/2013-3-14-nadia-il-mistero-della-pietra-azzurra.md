@@ -47,7 +47,7 @@ La mini-serie di episodi ambientata sulle isole, in cui Shinji Higuchi sostituis
 
 Sarei un bugiardo se non dicessi che questi 7/8 episodi (a volte intermezzati da puntate comunque valide) minano seriamente la godibilità dell'anime (che resta comunque bellissimo) e non avvertissi che l'epilogo per certi versi tende a lasciare con l'amaro in bocca, ma parliamo comunque di quisquiglie se paragonate alla qualità complessiva di quello che è, a tutti gli effetti, un prodotto generazionale
 
-![Jean, Nadia, Marie e Il Team Gratan]({{site.baseurl}}/http://www.animeclick.it/prove/serie/Nadia/Nadia5.jpg)
+![Jean, Nadia, Marie e Il Team Gratan]({{site.baseurl}}/https://www.animeclick.it/prove/serie/Nadia/Nadia5.jpg)
 
 Tra il sorriso ed epicità, sti ragazzi vi resteranno davvero nel cuore
 
@@ -61,7 +61,7 @@ Parlando strettamente dell'edizione Yamato (che è quella che consiglio per forz
 
 Nadia nasce celebrando numerosi classici dell'animazione nipponica (Yattaman in primis, parlando del Team Gratan) per poi divenire a sua volta celebrato dai suoi successori (Neon Genesis Evangelion, manco a dirlo, su tutti).
 
-Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'Impero Perduto (41° classico della casa di produzione del topastro), per la quale rimando tutti quelli che conoscono entrambe le opere (e non temono quindi spoiler di sorta) [a questa pagina](http://www.thesecretofbluewater.com/atlantis-i.htm) in cui lo spinoso argomento viene accuratamente trattato
+Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'Impero Perduto (41° classico della casa di produzione del topastro), per la quale rimando tutti quelli che conoscono entrambe le opere (e non temono quindi spoiler di sorta) [a questa pagina](https://www.thesecretofbluewater.com/atlantis-i.htm) in cui lo spinoso argomento viene accuratamente trattato
 
 **Perché guardarlo:**
 1. Storia appassionante

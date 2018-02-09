@@ -52,7 +52,7 @@ Detto ciò, passiamo alle cose belle di quest'anno!
 ### La mostra di Evangelion
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-3FTC7l1w4fU/VjpSOBxlZEI/AAAAAAAANQw/x4lnqaJL_aU/s1600/100_3005.JPG" alt="La mostra di Evangelion">
+	<img src="https://2.bp.blogspot.com/-3FTC7l1w4fU/VjpSOBxlZEI/AAAAAAAANQw/x4lnqaJL_aU/s1600/100_3005.JPG" alt="La mostra di Evangelion">
 </figure>	
 
 Nascosta in sordina nei pressi dell'entrata della Japan Town, molto tranquilla, e contenente un frappo di fighissimi storyboard
@@ -64,7 +64,7 @@ Complimentoni ai ragazzi di Nipponbashi! Per quanto mi riguarda, assolutamente u
 ### I Bassotti
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-aZ-_YIqVmLI/VjpZBZqqylI/AAAAAAAANRA/71IyBSMeJ1s/s1600/100_2972.JPG" alt="I Bassotti">
+	<img src="https://3.bp.blogspot.com/-aZ-_YIqVmLI/VjpZBZqqylI/AAAAAAAANRA/71IyBSMeJ1s/s1600/100_2972.JPG" alt="I Bassotti">
 </figure>	
 
 Che hanno fregato la (funzionante!) 313 al povero Paperino
@@ -72,7 +72,7 @@ Che hanno fregato la (funzionante!) 313 al povero Paperino
 ### La _Banda_ Bassotti
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-IzV0dsG5ydM/VjpZsnJR8SI/AAAAAAAANRI/8Z3p4MyIOWw/s1600/100_2982.JPG" alt="La Banda Bassotti">
+	<img src="https://3.bp.blogspot.com/-IzV0dsG5ydM/VjpZsnJR8SI/AAAAAAAANRI/8Z3p4MyIOWw/s1600/100_2982.JPG" alt="La Banda Bassotti">
 </figure>	
 
 Che giravano per i vicoli qua e la suonando, tra le altre cose, pure la sigla di Lupin (e con delle bassotte bellissime che ballavano come delle matte suonando maracas: ragazze mie, siete tra i miei tipi di donna ideale)
@@ -80,7 +80,7 @@ Che giravano per i vicoli qua e la suonando, tra le altre cose, pure la sigla di
 ### Questa Aeris 
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-cwL58ZE3Cvs/VjpaBKWCSDI/AAAAAAAANRQ/HmmvF6X-SNk/s1600/aeris.jpg" alt="Aeris">
+	<img src="https://4.bp.blogspot.com/-cwL58ZE3Cvs/VjpaBKWCSDI/AAAAAAAANRQ/HmmvF6X-SNk/s1600/aeris.jpg" alt="Aeris">
 </figure>	
 
 Vista da lontano seduta sulle mura, un fiore in mano e la luce del tardo pomeriggio: sarebbe stato il perfect shot, non fossimo in perenne movimento.
@@ -134,7 +134,7 @@ Da un lato tutto un po' più triste, meno spettacoloso, ma anche un buon segno d
 
 ## Foto
 
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.1014084321989370.1073741870.100001634359824&amp;type=3" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.1014084321989370.1073741870.100001634359824&amp;type=3"><p>S&#xec; viaggiare! (ma parcheggiare &#xe8; in forse)Resoconto bloggoso -&gt; http://xabacadabra.blogspot.com/2015/11/lucca-comics-games-2015.html</p>Pubblicato da <a href="https://www.facebook.com/galbadia">Andrea Corinti</a> su&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1014084321989370.1073741870.100001634359824&amp;type=3">Mercoledì 4 novembre 2015</a></blockquote></div></div>
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.1014084321989370.1073741870.100001634359824&amp;type=3" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.1014084321989370.1073741870.100001634359824&amp;type=3"><p>S&#xec; viaggiare! (ma parcheggiare &#xe8; in forse)Resoconto bloggoso -&gt; https://xabacadabra.blogspot.com/2015/11/lucca-comics-games-2015.html</p>Pubblicato da <a href="https://www.facebook.com/galbadia">Andrea Corinti</a> su&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1014084321989370.1073741870.100001634359824&amp;type=3">Mercoledì 4 novembre 2015</a></blockquote></div></div>
 
 ## Conclusioni
 

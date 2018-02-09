@@ -12,9 +12,9 @@ image:
 published: false
 comments: false
 ---
-Un paio di giorni fa un amico lettore mi ha contattato su [Telegram](http://xabacadabra.com/2016/telegram/) chiedendo lumi a proposito di un post del mese scorso: 
+Un paio di giorni fa un amico lettore mi ha contattato su [Telegram](https://xabacadabra.com/2016/telegram/) chiedendo lumi a proposito di un post del mese scorso: 
 
-[**10 suggerimenti per scrivere Blog nel 2017**](http://xabacadabra.com/2016/Scrivere-Blog-nel-nel-2017/)
+[**10 suggerimenti per scrivere Blog nel 2017**](https://xabacadabra.com/2016/Scrivere-Blog-nel-nel-2017/)
 
 Poco tempo dopo questa conversazione, manco a farlo apposta, **Telegram ha estratto dal cilindro Telegraph**, un'interessantissima struttura per il microblogging che sulla carta mi ricorda una specie di **Medium anonimo e minimal**: logicamente, io e l'amico quindi siamo tornati sull'argomento.
 

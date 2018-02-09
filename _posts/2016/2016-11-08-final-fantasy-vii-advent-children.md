@@ -34,7 +34,7 @@ Nel **2005**, mentre alcuni fortunelli poterono godere della proiezione in quel 
 	<figcaption>Buscando Locutorios en Mar del Plata. Presa da google maps perché non trovo foto decenti della zona urbana</figcaption>
 </figure>
 
-Ricordo ancora come se fosse ieri le mie spedizioni quotidiane negli Internet Point, scaricando **trailer su trailer** da siti come [_Phoenix Down_](http://www.phoenixdown.it/) per poi masterizzarmeli su dvd e rivedermeli nel mio vecchio portatile, fantasticando su quello che all'epoca risultava, per le mie disponibilità, un film introvabile.
+Ricordo ancora come se fosse ieri le mie spedizioni quotidiane negli Internet Point, scaricando **trailer su trailer** da siti come [_Phoenix Down_](https://www.phoenixdown.it/) per poi masterizzarmeli su dvd e rivedermeli nel mio vecchio portatile, fantasticando su quello che all'epoca risultava, per le mie disponibilità, un film introvabile.
 
 E onestamente, **non credo di aver mai voluto vedere un film così tanto.**
 
@@ -75,19 +75,19 @@ In mezzo ben **3 Final Fantasy, un MMORPG, un sequel maledetto ed un film orribi
 Era anche un'epoca in cui **certe differenze ancora si notavano a occhio nudo**, senza bisogno dei Vittorio Sgarbi del 4k che imperversano oggigiorno...
 
 <figure>
-	<img src="http://fantasyanime.com/finalfantasy/screenshots/albums/05-Chocobo/ff7emushot282.jpg" alt="FFVII">
+	<img src="https://fantasyanime.com/finalfantasy/screenshots/albums/05-Chocobo/ff7emushot282.jpg" alt="FFVII">
 </figure>
 
 <figure>
-	<img src="http://vignette1.wikia.nocookie.net/finalfantasy/images/0/01/Double.png/revision/latest?cb=20091116050826" alt="FFVIII">
+	<img src="https://vignette1.wikia.nocookie.net/finalfantasy/images/0/01/Double.png/revision/latest?cb=20091116050826" alt="FFVIII">
 </figure>
 
 <figure>
-<img src="http://vignette2.wikia.nocookie.net/finalfantasy/images/0/00/Black-Waltz-2.png/revision/latest?cb=20130514025524" alt="FFIX">
+<img src="https://vignette2.wikia.nocookie.net/finalfantasy/images/0/00/Black-Waltz-2.png/revision/latest?cb=20130514025524" alt="FFIX">
 </figure>
 
 <figure>
-<img src="http://vignette1.wikia.nocookie.net/finalfantasy/images/1/1b/Auron_Victory_Pose.png/revision/latest?cb=20131228200338" alt="FFX">
+<img src="https://vignette1.wikia.nocookie.net/finalfantasy/images/1/1b/Auron_Victory_Pose.png/revision/latest?cb=20131228200338" alt="FFX">
 </figure>
 
 eccetera eccetera.
@@ -166,7 +166,7 @@ E il guaio è che, beh, **non lo faceva manco tanto bene.**
 
 ## L'odio 
 
-Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilation porta in scena [**allegre porcate**](http://finalfantasy.wikia.com/wiki/Lazard_Deusericus) capaci di sporcare la memoria di uno dei videogiochi più importanti della storia trasformandolo in una sorta di _telenovela J-Pop_.
+Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilation porta in scena [**allegre porcate**](https://finalfantasy.wikia.com/wiki/Lazard_Deusericus) capaci di sporcare la memoria di uno dei videogiochi più importanti della storia trasformandolo in una sorta di _telenovela J-Pop_.
 
 Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialoghi nebulosi e le spiegazioni farlocche.**
 

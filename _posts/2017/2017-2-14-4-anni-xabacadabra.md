@@ -48,7 +48,7 @@ Un po' come le "piccole" squadre che vendono a peso d'oro i talenti più in vist
 
 ## Tutto e Niente 
 
-Del resto, [come ho scritto io stesso](http://xabacadabra.com/2016/Scrivere-Blog-nel-nel-2017/), molto di ciò deriva dal peccato originale del blog non-tematico...tuttavia, conoscendomi, se mi fossi concentrato su un singolo tema non starei qui a scrivere: 
+Del resto, [come ho scritto io stesso](https://xabacadabra.com/2016/Scrivere-Blog-nel-nel-2017/), molto di ciò deriva dal peccato originale del blog non-tematico...tuttavia, conoscendomi, se mi fossi concentrato su un singolo tema non starei qui a scrivere: 
 
 **E quattro anni di post sono davvero un bel po' di roba, soprattutto fuori dal sempre più preponderante discorso paludoso dei social network.**
 
@@ -56,9 +56,9 @@ Se in tutto questo tempo avessi scritto esclusivamente di videogiochi, film o fu
 
 ## Cetramod 
 
-Tra le altre cose **lo scorso gennaio [Cetramod](http://www.arcweb.it/cetramod/) ha compiuto la bellezza di 10 anni**, festeggiati con il secondo delirante raduno capitolino, di cui potete leggere qualche resoconto [qui](http://www.arcweb.it/cetramod/viewtopic.php?f=53&t=48461).
+Tra le altre cose **lo scorso gennaio [Cetramod](https://www.arcweb.it/cetramod/) ha compiuto la bellezza di 10 anni**, festeggiati con il secondo delirante raduno capitolino, di cui potete leggere qualche resoconto [qui](https://www.arcweb.it/cetramod/viewtopic.php?f=53&t=48461).
 
-**Cetramod è attualmente un forum attivo e aperto a tutti,** anche se in una fase transitoria per renderlo più "tascabile" e al passo coi tempi, soprattutto comodo da usare via Smartphone tramite l'app **Tapatalk** -> [qui la videoguida di arc](http://www.arcweb.it/cetramod/viewtopic.php?f=87&t=48473)
+**Cetramod è attualmente un forum attivo e aperto a tutti,** anche se in una fase transitoria per renderlo più "tascabile" e al passo coi tempi, soprattutto comodo da usare via Smartphone tramite l'app **Tapatalk** -> [qui la videoguida di arc](https://www.arcweb.it/cetramod/viewtopic.php?f=87&t=48473)
 
 ## Altri progetti
 
@@ -67,7 +67,7 @@ _Tempo & Costanza_ sono notoriamente una coppia con cui litigo piuttosto spesso 
 A proposito: **Auguri a tutti i piccioncini e le colombelle per San Valentino!** 
 
 <figure>
-	<img src='http://static.fanpage.it/wp-content/uploads/2017/01/al-capone.jpg' alt='al capone'>
+	<img src='https://static.fanpage.it/wp-content/uploads/2017/01/al-capone.jpg' alt='al capone'>
 </figure>
 
 ## Dulcis in fundo

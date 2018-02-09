@@ -21,7 +21,7 @@ Ora, lungi da me darlo per finito (quante volte ho visto gente stappare spumanti
 
 **Berlusconi è un rottame.**
 
-Sempre un uomo potentissimo, ok, ma oggi uno tra i tanti potenti che giocano con l'italica scacchiera, e soprattutto **un prodotto politicamente pressoché invendibile anche ai suoi** (con l'8 Novembre a Bologna direi che [la cosa è diventata lampante](http://st.ilfattoquotidiano.it/wp-content/uploads/2015/11/berlusconi-salvini-6751.jpg)).
+Sempre un uomo potentissimo, ok, ma oggi uno tra i tanti potenti che giocano con l'italica scacchiera, e soprattutto **un prodotto politicamente pressoché invendibile anche ai suoi** (con l'8 Novembre a Bologna direi che [la cosa è diventata lampante](https://st.ilfattoquotidiano.it/wp-content/uploads/2015/11/berlusconi-salvini-6751.jpg)).
 
 **Dieci anni fa, ben prima dell'avvento dei due Mattei, Berlusconi era signore e padrone incontrastato di una terra in tumulto.** 
 
@@ -66,7 +66,7 @@ Discorsi simili si possono fare in altri contesti: vedi **Santoro, Augias,** il 
 
 Perché sì, oggi ci sono i Renzi, i Salvini, pure i Grillo ed insomma, i motivi per lamentarsi non mancherebbero, anzi.
 
-Però **è una lotta spenta**, vaga, [nauseata](http://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/) e parecchio disinteressata.
+Però **è una lotta spenta**, vaga, [nauseata](https://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/) e parecchio disinteressata.
 
 Per me, nel personale, c'è un po' tutto il passaggio che va da un quattordicenne ad un trentenne in divenire, sommato allo **spirito inglobante da balena bianca** che Renzi sa certamente incarnare meglio, più _moderatamente_, del Banana.
 

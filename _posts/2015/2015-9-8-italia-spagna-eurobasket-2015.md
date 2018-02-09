@@ -32,7 +32,7 @@ Del piacere sportivo a livelli inenarrabili, perché abbiamo battuto la fortissi
 
 ma soprattutto perché abbiamo giocato con un talento divino, contro una squadra che ne possiede (almeno) altrettanto. E abbiamo Dominato.
 
-<blockquote class="twitter-tweet" data-lang="it"><p lang="it" dir="ltr">Ultimo Quarto <a href="https://twitter.com/hashtag/ItaliaSpagna?src=hash">#ItaliaSpagna</a> <a href="https://twitter.com/hashtag/EuropeiTipo?src=hash">#EuropeiTipo</a> <a href="http://t.co/pQv8wHI8M2">pic.twitter.com/pQv8wHI8M2</a></p>&mdash; Xab (@Xabaras89) <a href="https://twitter.com/Xabaras89/status/641347120167936001">8 settembre 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="it"><p lang="it" dir="ltr">Ultimo Quarto <a href="https://twitter.com/hashtag/ItaliaSpagna?src=hash">#ItaliaSpagna</a> <a href="https://twitter.com/hashtag/EuropeiTipo?src=hash">#EuropeiTipo</a> <a href="https://t.co/pQv8wHI8M2">pic.twitter.com/pQv8wHI8M2</a></p>&mdash; Xab (@Xabaras89) <a href="https://twitter.com/Xabaras89/status/641347120167936001">8 settembre 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 E certo, lo so che i problemi ci sono ancora e siamo lungi dalla perfezione o dal livello di altre squadre...ma sai che c'è? Oggi, chissenefrega.

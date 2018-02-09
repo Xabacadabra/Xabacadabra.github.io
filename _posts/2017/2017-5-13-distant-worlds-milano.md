@@ -16,7 +16,7 @@ image:
 
 Anticipo da subito che questo resoconto **è una faccenda parecchio personale**, quindi se state cercando un riepilogo dell'evento scritto in maniera più formale e un minimo più "giornalistica" mi spiace ma questa volta cascate male...
 
-Il fatto è che, come spiegavo [un paio di settimane fa](http://xabacadabra.com/2017/pausetta/), la musica di Nobuo Uematsu e la serie _Final Fantasy_ in generale per me significano davvero un bel po'...
+Il fatto è che, come spiegavo [un paio di settimane fa](https://xabacadabra.com/2017/pausetta/), la musica di Nobuo Uematsu e la serie _Final Fantasy_ in generale per me significano davvero un bel po'...
 
 ## Dai Midi all'Orchestra
 
@@ -24,13 +24,13 @@ Il fatto è che, come spiegavo [un paio di settimane fa](http://xabacadabra.com/
 
 > Non ho mai studiato musica. Non ho mai studiato composizione o imparato a suonare uno strumento. Volevo semplicemente realizzare musica per me stesso, così ho cominciato a suonare un po'.
 
-<small>Nobuo Uematsu [(fonte)](http://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview) </small>
+<small>Nobuo Uematsu [(fonte)](https://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview) </small>
 
-Anni fa citavo lo stesso Uematsu per trattare [**la questione dei limiti tecnici**](http://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/) e di quanto quest'ultimi (per paradosso) abbiano spinto oltre in termini di creatività parecchi autori e artisti legati al meraviglioso mondo dei videogames.
+Anni fa citavo lo stesso Uematsu per trattare [**la questione dei limiti tecnici**](https://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/) e di quanto quest'ultimi (per paradosso) abbiano spinto oltre in termini di creatività parecchi autori e artisti legati al meraviglioso mondo dei videogames.
 
 ## Soundfont 
 
-Senza divagare, giovando dell'esperienza del grandissimo [**William Kage**](http://www.williamkage.com/snes_soundfonts/), possiamo "toccare" con mano alcune repliche dei banchi di suoni con cui Nobuo Uematsu ha lavorato nell'epoca del Super Nintendo:
+Senza divagare, giovando dell'esperienza del grandissimo [**William Kage**](https://www.williamkage.com/snes_soundfonts/), possiamo "toccare" con mano alcune repliche dei banchi di suoni con cui Nobuo Uematsu ha lavorato nell'epoca del Super Nintendo:
 
 _sample_ da una manciata di kilobyte, mirabili salti mortali con i sintetizzatori e le _Roland SC-55 e SC-88_  sommati ad un lavoro a stretto contatto con i programmatori, **Sakaguchi** in primis.
 

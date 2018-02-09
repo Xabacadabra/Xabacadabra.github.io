@@ -25,13 +25,13 @@ Perché sì, mentre il mondo impazzisce per **la remastered di Skyrim** (per me 
 
 ## DaggerXL
 
-Sghiribizzo che in realtà ho da parecchio, ma che ho sempre tenuto a freno nella (temo vana) speranza di vedere la beta dell'[XL Engine](http://xlengine.com/) portata a compimento...
+Sghiribizzo che in realtà ho da parecchio, ma che ho sempre tenuto a freno nella (temo vana) speranza di vedere la beta dell'[XL Engine](https://xlengine.com/) portata a compimento...
 
 ## DOSBox Power
 
 ...siccome però le cose su quel fronte vanno per le lunghissime, toccava fare alla vecchia maniera, usando dosbox:
 
-nello specifico ho seguito l'ottima guida presente su [Gamers On Linux](http://www.gamersonlinux.com/forum/threads/elder-scrolls-ii-daggerfall-guide.1559/) (è piuttosto semplice, nel caso di problemi fatemi sapere qua sotto se siete interessati!)
+nello specifico ho seguito l'ottima guida presente su [Gamers On Linux](https://www.gamersonlinux.com/forum/threads/elder-scrolls-ii-daggerfall-guide.1559/) (è piuttosto semplice, nel caso di problemi fatemi sapere qua sotto se siete interessati!)
 
 ## Impostare i controlli di Daggerfall
 
@@ -54,7 +54,7 @@ Ed ecco qui il personaggio che mi sono creato per l'occasione:
 
 Potrei scriverci sopra qualche storia volendo...forse da queste parti non l'ho specificato, ma il mio massimo divertimento in questo tipo di giochi è **inventarmi biografie, alberi genalogici e cronologie** che creino contesto e background ai miei personaggi.
 
-Non ci credete? [Date un'occhiata a cosa ho combinato per il mio ultimo personaggio di Skyrim.](http://xabacadabra.com/velnias/)
+Non ci credete? [Date un'occhiata a cosa ho combinato per il mio ultimo personaggio di Skyrim.](https://xabacadabra.com/velnias/)
 
 ## Postilla: A proposito di Tamriel
 

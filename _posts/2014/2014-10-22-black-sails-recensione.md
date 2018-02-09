@@ -20,7 +20,7 @@ _Black Sails_ è una di quelle serie che scopri in sordina, che non ha sulla car
 Eppure, la "piccola" produzione **Starz**, grazie ai soldi di quel maledetto Michael Bay che ogni tanto mi diletto ad odiare, ha tirato fuori un prodotto **davvero interessante ed avvincente**, confermato già per la terza stagione (nonostante la seconda non sia ancora andata in onda)
 
 <figure>
-  <img src="http://3.bp.blogspot.com/-EmfKJuCeT7E/VEc_ZQ_mSrI/AAAAAAAAKgg/zK5yeaFa464/s1600/blacksails.jpg" alt="Black Sails | Recensione">
+  <img src="https://3.bp.blogspot.com/-EmfKJuCeT7E/VEc_ZQ_mSrI/AAAAAAAAKgg/zK5yeaFa464/s1600/blacksails.jpg" alt="Black Sails | Recensione">
 </figure>
 
 Ora, lo avrò già detto e ripetuto in altre occasioni ma se c'è una cosa che ancora prima della venuta dei videogiochi amavo tanto da bimbo erano i film d'avventura, i film di Sergio Leone (che come si vedrà non cito a caso) ed i Pirati:
@@ -28,30 +28,30 @@ Ora, lo avrò già detto e ripetuto in altre occasioni ma se c'è una cosa che a
 Nella fattispecie sono da sempre visceralmente innamorato del celeberrimo romanzo _**L'Isola del Tesoro_ di Robert Louis Stevenson**, di cui adoro pressoché qualsiasi trasposizione:
 
 <figure>
-  <img src="http://4.bp.blogspot.com/-_FCT1hzQEU8/VEdAq0WTxuI/AAAAAAAAKg0/rfOoB45WxCs/s1600/charlton%2Bheston%2Be%2Bchristian%2Bbale.jpg" alt="Christian Bale pischello e Charlton Heston">
+  <img src="https://4.bp.blogspot.com/-_FCT1hzQEU8/VEdAq0WTxuI/AAAAAAAAKg0/rfOoB45WxCs/s1600/charlton%2Bheston%2Be%2Bchristian%2Bbale.jpg" alt="Christian Bale pischello e Charlton Heston">
 </figure>
 
 Il film del '90 con Christian Bale pischello e Charlton Heston (una volta tanto senza tavole della legge per le mani)
 
 <figure>
-  <img src="http://2.bp.blogspot.com/-ZGyc4PWh-Eg/VEdBHg_K4KI/AAAAAAAAKg8/u7I9TwP6iMU/s1600/curry.jpg" alt="Tim Curry">
+  <img src="https://2.bp.blogspot.com/-ZGyc4PWh-Eg/VEdBHg_K4KI/AAAAAAAAKg8/u7I9TwP6iMU/s1600/curry.jpg" alt="Tim Curry">
 </figure>
 
 quel capolavoro al limite del demenziale dei Muppets con un Tim Curry STRAORDINARIO (tanto che per me Long John Silver sarà sempre identificato con la sua faccia) e l'epica colonna sonora di Hans Zimmer (!)
 
 <figure>
-  <img src="http://4.bp.blogspot.com/-lhEbccX00AA/VEdB-qb2yFI/AAAAAAAAKhI/T0boT2S3rIg/s1600/treasure_planet_walt_disney-1280x1024.jpg" alt="Pianeta del Tesoro">
+  <img src="https://4.bp.blogspot.com/-lhEbccX00AA/VEdB-qb2yFI/AAAAAAAAKhI/T0boT2S3rIg/s1600/treasure_planet_walt_disney-1280x1024.jpg" alt="Pianeta del Tesoro">
 </figure>
 
 la ingiustamente sottovalutata **versione spaziale della Disney**, uno dei classici che ho conosciuto più tardi e forse l'unico in grado di commuovermi tanto (più di Mufasa, più della mamma di Bambi o chi ve pare a voi), unico film Disney in cui ho avuto modo d'identificarmi col protagonista. ma vabbè
 
 <figure>
-  <img src="http://4.bp.blogspot.com/-YrSxrik8Bes/VEdCKzPQ0QI/AAAAAAAAKhQ/OrZ5uvnylmc/s1600/jessica-parker-kennedy-e-max-in-black-sails.jpg" alt="Jessica Parker Kennedy">
+  <img src="https://4.bp.blogspot.com/-YrSxrik8Bes/VEdCKzPQ0QI/AAAAAAAAKhQ/OrZ5uvnylmc/s1600/jessica-parker-kennedy-e-max-in-black-sails.jpg" alt="Jessica Parker Kennedy">
   <figcaption>Jessica Parker Kennedy (Max) è una bravissima attrice ed una delle GNOCCHE più GNOCCHE che io abbia mai visto in vita mia</figcaption>
 </figure>
 
 <figure>
-  <img src="http://1.bp.blogspot.com/-JuJSGcjPfjI/VEdColU99AI/AAAAAAAAKhY/R7qN0dzh9Oc/s1600/Max_Eleanor_2.jpg" alt="Jessica Parker Kennedy">
+  <img src="https://1.bp.blogspot.com/-JuJSGcjPfjI/VEdColU99AI/AAAAAAAAKhY/R7qN0dzh9Oc/s1600/Max_Eleanor_2.jpg" alt="Jessica Parker Kennedy">
   <figcaption>Si, lo so, in Gotham mi ero lamentato per certe faccende. Ma qui si parla di "onesto fanservice". Tutt'altro discorso. Si. Insomma. Yohoho!</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ Tutto questo preambolo dovrebbe essere già MOLTO indicativo su quanto alto foss
 [^figlio]: Edit: ho scoperto parecchio tempo dopo aver scritto questo post che Toby Stephens è figlio di Maggie Smith! Giuro che la citazione a Harry Potter non era voluta
 
 <figure>
-  <img src="http://1.bp.blogspot.com/-4M_rqgHvg_o/VEc_m_Uvu8I/AAAAAAAAKgo/IEmQ7lUb6L4/s1600/flint.png" alt="Toby Stephens">
+  <img src="https://1.bp.blogspot.com/-4M_rqgHvg_o/VEc_m_Uvu8I/AAAAAAAAKgo/IEmQ7lUb6L4/s1600/flint.png" alt="Toby Stephens">
   <figcaption>"Eeastwood. Flint Eastwood"</figcaption>
 </figure>
 
 E, come se non bastasse, la storia mischia alla fantasia di Stevenson eventi e figure storiche realmente esistite quali **Charles Vane, Calico Jack e Anne Bonney**
 
 <figure>
-  <img src="http://3.bp.blogspot.com/-4E2pmNWqRRo/VEc-kMT8ZOI/AAAAAAAAKgQ/-t1jcnX06xE/s1600/Black-Sails-23.jpg.png" alt="Charles Vane, Calico Jack e Anne Bonney">
+  <img src="https://3.bp.blogspot.com/-4E2pmNWqRRo/VEc-kMT8ZOI/AAAAAAAAKgQ/-t1jcnX06xE/s1600/Black-Sails-23.jpg.png" alt="Charles Vane, Calico Jack e Anne Bonney">
 </figure>
 
 Ciò detto, partiamo con i "pro e contro" perché come avrete capito una recensione tradizionale non potrebbe MAI essere obbiettiva.
@@ -97,7 +97,7 @@ Ciò detto, partiamo con i "pro e contro" perché come avrete capito una recensi
 ## Concludendo
 
 <figure>
-  <img src="http://1.bp.blogspot.com/-SdVtmFF2-MU/VEdJRimHNeI/AAAAAAAAKhw/Guv3tqZ10G8/s1600/3BlackSails.jpg" alt="Silver">
+  <img src="https://1.bp.blogspot.com/-SdVtmFF2-MU/VEdJRimHNeI/AAAAAAAAKhw/Guv3tqZ10G8/s1600/3BlackSails.jpg" alt="Silver">
 </figure>
 
 **Consigliatissima in tutto e per tutto a chiunque abbia anche solo un vago amore per il mondo dei filibustieri, soprattutto quelli storici e romanzeschi.**

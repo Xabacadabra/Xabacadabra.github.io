@@ -42,7 +42,7 @@ Oltre a quanto appena scritto, specifico che la sua natura di sceneggiatura rend
 
 Come chi mi conosce a livello _Final Fantasy_ già saprà, **non sono un amante dei sequel di storie concepite con un finale ben preciso in testa.**
 
-Ad onor del vero, da queste parti [**ho già scritto di come il settimo libro di Harry Potter non mi abbia mai convinto fino infondo**](http://xabacadabra.com/2015/decadenza-libro-harry-potter/), quindi sta volta mi sono trovato di fronte ad un caso abbastanza particolare.
+Ad onor del vero, da queste parti [**ho già scritto di come il settimo libro di Harry Potter non mi abbia mai convinto fino infondo**](https://xabacadabra.com/2015/decadenza-libro-harry-potter/), quindi sta volta mi sono trovato di fronte ad un caso abbastanza particolare.
 
 Inoltre vale la pena ricordare che **parliamo di un'opera il cui controllo generale resta sempre saldamente nelle mani della Rowling**, sebbene la farina provenga prevalentemente dal sacco di **Jack Thorne** e **John Tiffany**. [^jackjohn]
 
@@ -90,7 +90,7 @@ L'empatia non ringrazierà, ma il tipo di personaggio (parecchio stereotipato ed
 ## Scorpius Malfoy 
 
 <figure>
-<img src='http://i3.mirror.co.uk/incoming/article8100559.ece/ALTERNATES/s615/Draco-MAIN.jpg' alt='Scorpius Malfoy'>
+<img src='https://i3.mirror.co.uk/incoming/article8100559.ece/ALTERNATES/s615/Draco-MAIN.jpg' alt='Scorpius Malfoy'>
 <figcaption>A vedè sta foto devo dire che il casting per lo spettacolo teatrale mi lascia perplesso</figcaption>
 </figure>
 

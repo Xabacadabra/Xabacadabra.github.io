@@ -22,7 +22,7 @@ A me i giochi ***Quantic Dream***, tendenzialmente, piacciono.
 Non sono uno di quei **videogiocatori** mentalmente chiusi che hanno necessariamente bisogno di una combo per sedare i propri bollenti spiriti (del resto io, tra le altre cose, ho anche una lunga storia d'amore con le avventure grafiche) e amo anzitutto l'**originalità**, il presenziare a qualcosa di mai visto prima.
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-nQZ8G7mTFf4/Uo4E9uzArFI/AAAAAAAAFkw/jmcrsRzuWB8/s1600/cage.jpg" alt="david cage">
+	<img src="https://3.bp.blogspot.com/-nQZ8G7mTFf4/Uo4E9uzArFI/AAAAAAAAFkw/jmcrsRzuWB8/s1600/cage.jpg" alt="david cage">
 </figure>  
 
 Detto questo, il capoccia **David Cage (al secolo David De Gruttola) mi è sempre sembrato un regista frustrato più che un vero e proprio game designer**, uno che volesse raccontare storie e sfruttasse il medium videogame **senza però averne il dovuto rispetto** (andate a cercarvi qualche sua dichiarazione per capire cosa intendo).
@@ -32,10 +32,10 @@ Ciò, bene inteso, non cambia il fatto che abbiamo di fronte **un autore di gran
 ## Beyond: Due Anime de li mortacci tua
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-BZDfobw2aps/Uo4F5b4YY0I/AAAAAAAAFlM/jAiJw685MOU/s1600/beyond-two-souls-story-will-be-12-to-15-hours-long-2.jpg" alt="beyond: due anime">
+	<img src="https://1.bp.blogspot.com/-BZDfobw2aps/Uo4F5b4YY0I/AAAAAAAAFlM/jAiJw685MOU/s1600/beyond-two-souls-story-will-be-12-to-15-hours-long-2.jpg" alt="beyond: due anime">
 </figure>  
 
-**Su Beyond avevo più di qualche remora**, anche perché il buon vecchio zio Arc (che è molto più *quanticdreamofilo* di me) con [il suo articolo](http://www.arcweb.it/2013/10/07/beyond-due-anime-prime-riflessioni/?fb_source=pubv1) m'aveva messo un pochino d'ansia da prestazione, e se poi ci aggiungiamo pure st'affermazione di un Cage tutto gongolante:
+**Su Beyond avevo più di qualche remora**, anche perché il buon vecchio zio Arc (che è molto più *quanticdreamofilo* di me) con [il suo articolo](https://www.arcweb.it/2013/10/07/beyond-due-anime-prime-riflessioni/?fb_source=pubv1) m'aveva messo un pochino d'ansia da prestazione, e se poi ci aggiungiamo pure st'affermazione di un Cage tutto gongolante:
 
 >"il gioco può essere affrontato con uno smartphone perché non tutti son nati con un joypad in mano"
 
@@ -48,7 +48,7 @@ Lasciamo perdere per un secondo il fotorealismo grafico, le animazioni più uman
 ## Variabilità
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-SvFfU5Mo0Bo/Uo4EA9bunJI/AAAAAAAAFkY/PNb1Dx0WYeI/s1600/beyond+.jpg" alt="beyond: due anime">
+	<img src="https://4.bp.blogspot.com/-SvFfU5Mo0Bo/Uo4EA9bunJI/AAAAAAAAFkY/PNb1Dx0WYeI/s1600/beyond+.jpg" alt="beyond: due anime">
 </figure>  
 
 Beyond si focalizza su un punto ben preciso: **la sua protagonista, il legame e il rapporto con il suo "compagno spirituale" Aiden e il loro interagire nei più disparati e diversi contesti.**
@@ -70,7 +70,7 @@ Sono invece **scritti quasi tutti magistralmente**, comparse comprese...l'eccezi
 La vera superstar del lotto è poi, indubbiamente, **Jodie Holmes**:
 
 <figure>
-<img src="http://1.bp.blogspot.com/-KrE_ha9NGKA/Uo4DpxADcNI/AAAAAAAAFkQ/DB1vToFjsSw/s1600/beyond-two-souls-02-595x334.jpg" alt="beyond: due anime">
+<img src="https://1.bp.blogspot.com/-KrE_ha9NGKA/Uo4DpxADcNI/AAAAAAAAFkQ/DB1vToFjsSw/s1600/beyond-two-souls-02-595x334.jpg" alt="beyond: due anime">
 </figure>
 
 **Ellen Page** (l'attrice) da sola porta in scena **una protagonista capace di empatizzare straordinariamente con il giocatore**, probabilmente uno dei casi più importanti in tutta la storia del videogame.
@@ -78,7 +78,7 @@ La vera superstar del lotto è poi, indubbiamente, **Jodie Holmes**:
 Nota di merito va poi anche all'altro nome altisonante del cast:
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-YIzYOo0CXAk/Uo4C2bwG-2I/AAAAAAAAFkE/Ve5AJNsoFuY/s1600/BEYOND_WD_SCREEN010.jpg" alt="beyond: due anime">
+	<img src="https://1.bp.blogspot.com/-YIzYOo0CXAk/Uo4C2bwG-2I/AAAAAAAAFkE/Ve5AJNsoFuY/s1600/BEYOND_WD_SCREEN010.jpg" alt="beyond: due anime">
 </figure>  
 
 il bravissimo **Willem Dafoe** (interprete di Nathan Dawkins) relegato forse in **un ruolo fin troppo scontato**, riesce nonostante tutto a trasmettere partecipazione ed enfasi.
@@ -88,7 +88,7 @@ A questo proposito, segnalo che il gioco è **anche magistralmente doppiato in I
 ## Adrenalina e Gameplay
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-1wBx8H0wtU0/Uo4EQYqKX7I/AAAAAAAAFko/r8_ttI27cMo/s1600/QD_BEYOND_SCREEN34_1378219155-990x556.jpg" alt="beyond: due anime">
+	<img src="https://2.bp.blogspot.com/-1wBx8H0wtU0/Uo4EQYqKX7I/AAAAAAAAFko/r8_ttI27cMo/s1600/QD_BEYOND_SCREEN34_1378219155-990x556.jpg" alt="beyond: due anime">
 </figure>  
 
 **Beyond non è poi così "non-gioco" come paventavo:** l'interagire tra Aiden e Jodie mi è sembrato più che soddisfacente in molte occasioni. Però...e si, però c'è un però.

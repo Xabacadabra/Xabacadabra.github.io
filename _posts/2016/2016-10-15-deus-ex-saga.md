@@ -20,7 +20,7 @@ O meglio una panoramica sui tre giochi antecedenti a Mankind Divided (che magari
 ## Deus Ex
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-tD3g31CQICE/ViTiGmB5MgI/AAAAAAAANCE/830jV8j-6Us/s1600/deus%2Bex.jpg" alt="Deus Ex">
+	<img src="https://1.bp.blogspot.com/-tD3g31CQICE/ViTiGmB5MgI/AAAAAAAANCE/830jV8j-6Us/s1600/deus%2Bex.jpg" alt="Deus Ex">
 </figure>
 
 L'avvento del nuovo millennio, lo strapotere cinematografico di _Matrix_, **Warren Spector** sotto chissà quali _nanodroghe_ pronto a dare definitiva coronazione a quanto aveva già sperimentato con i suoi due _System Shock_....
@@ -36,7 +36,7 @@ La storia di **JC Denton** rappresenta a tuttoggi un validissimo elemento di par
 ## Deus Ex: Invisible War
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-ywSi5E3yKfM/ViTgIHJEB4I/AAAAAAAANBw/fjoA8uP62BA/s1600/invisible%2Bwar.png" alt="Deus Ex">
+	<img src="https://3.bp.blogspot.com/-ywSi5E3yKfM/ViTgIHJEB4I/AAAAAAAANBw/fjoA8uP62BA/s1600/invisible%2Bwar.png" alt="Deus Ex">
 </figure>
 
 _Invisibile War_ è stato per massima parte un grosso passo falso, diciamolo pure subito senza girarci attorno.
@@ -52,7 +52,7 @@ Peccato.
 ## Deus Ex: Human Revolution
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-I4JYjFiu2hA/ViTgVfnY25I/AAAAAAAANB4/t3VkRckZc9o/s1600/human%2Brevolution.jpg" alt="Deus Ex">
+	<img src="https://1.bp.blogspot.com/-I4JYjFiu2hA/ViTgVfnY25I/AAAAAAAANB4/t3VkRckZc9o/s1600/human%2Brevolution.jpg" alt="Deus Ex">
 </figure>
 
 Quello più noto ai giovini e al pubblico mainstream, concepito da **Eidos Montreal** senza Warren Spector a dirigere i lavori.

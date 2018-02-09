@@ -36,13 +36,13 @@ Però.
 Però c'è un guaio: 
 
 <figure>
-<img src="http://www.movimentolibertario.com/wp-content/uploads/2015/02/paperone-tasse.jpg" alt="paperone-tasse">
+<img src="https://www.movimentolibertario.com/wp-content/uploads/2015/02/paperone-tasse.jpg" alt="paperone-tasse">
 </figure>
 
 da accanito lettore di Topolino, e nella fattispecie estimatore delle bislacche, caserecce avventure dei Paperi nostrani, **a confronto DuckTales l'ho sempre trovato un melenso polpettone americano**, privo di tutto quel "pepe" che è nei fatti una materia della nostra scuola, sebbene figlio di autori come Don Rosa e (soprattutto) sua maestà Carl Barks...
 
 <figure>
-<img src="http://www.papersera.net/immagini/articoli/aIn4/01.jpg" alt="ducktales 2017">
+<img src="https://www.papersera.net/immagini/articoli/aIn4/01.jpg" alt="ducktales 2017">
 </figure>
 
 Insomma: abituato a debiti, intrallazzi, sindaci maiali e maltrattamenti di varia natura inferti dal Paperone fumettistico ai danni del nipotame, recepivo le bonarie avventure dello Zione in DuckTales (dove in genere più che altro un buon nonnino un po' parsimonioso) parecchio più noiose e dimenticabili.
@@ -57,7 +57,7 @@ Insomma: abituato a debiti, intrallazzi, sindaci maiali e maltrattamenti di vari
 ## Ducktales 2017
 
 <figure>
-<img src="http://www.iogiocopulito.it/wp-content/uploads/2017/10/IoGiocoPulito_ducktales_disney_italia.jpg" alt="ducktales 2017">
+<img src="https://www.iogiocopulito.it/wp-content/uploads/2017/10/IoGiocoPulito_ducktales_disney_italia.jpg" alt="ducktales 2017">
 </figure>
 
 La situazione per fortuna è cambiata, virando molto più nella direzione fumettosa: 

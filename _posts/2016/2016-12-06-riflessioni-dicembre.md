@@ -27,7 +27,7 @@ Senza dilungarsi troppo: da qualche giorno avevo semplicemente voglia di scriver
 <blockquote class="twitter-tweet" data-lang="it"><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/maratonamentana?src=hash">#maratonamentana</a> Mentana ha appena &quot;doppiato&quot; in diretta un Makkox imitando l&#39;accento toscano di Renzi. Per me capodanno è oggi</p>&mdash; Xab (@Xabaras89) <a href="https://twitter.com/Xabaras89/status/805542172439310336">4 dicembre 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Varrebbe sempre un vecchio [post nauseato](http://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), ma beh, come forse si sarà notato rispetto alle origini non **scrivo praticamente più di politica italiana**, anche se continuo a seguirne le vicende in modo _vorace_ (complice la mia passione per le Maratone di Mentana).
+Varrebbe sempre un vecchio [post nauseato](https://xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), ma beh, come forse si sarà notato rispetto alle origini non **scrivo praticamente più di politica italiana**, anche se continuo a seguirne le vicende in modo _vorace_ (complice la mia passione per le Maratone di Mentana).
 
 Beh, **ho votato No dopo essermi letto la riforma articolo per articolo** e, parlando di elezioni venture (chissà) ora come ora non saprei assolutamente per chi votare. 
 
@@ -37,7 +37,7 @@ Beh, **ho votato No dopo essermi letto la riforma articolo per articolo** e, par
 
 <img src='https://cdn2.img.sputniknews.com/images/104813/69/1048136923.jpg' alt='Fidel'>
 
-Risparmio qualsiasi parolona, e [linko direttamente questo splendido articolo di Lia de Feo](http://www.ilcircolo.net/lia/).
+Risparmio qualsiasi parolona, e [linko direttamente questo splendido articolo di Lia de Feo](https://www.ilcircolo.net/lia/).
 
 Da bimbo (circa vent'anni fa) coi miei ho visitato Cuba: mio padre ricorda ancora un tassista a cui chiese _"Che farete quando Fidel morirà?"_
 
@@ -49,7 +49,7 @@ Forse, in un certo senso, aveva ragione lui.
 
 ## Rileggendomi
 
-Dovendo lavorare a molti aspetti tecnici del blog e importare un sacco di roba negli archivi, mi sono ritrovato anche a rileggere molto spesso vecchi post [**come questo**](http://xabacadabra.com/2013/solitudine/), e beh...
+Dovendo lavorare a molti aspetti tecnici del blog e importare un sacco di roba negli archivi, mi sono ritrovato anche a rileggere molto spesso vecchi post [**come questo**](https://xabacadabra.com/2013/solitudine/), e beh...
 
 come dire, so che può sembrare la quintessenza dell'onanismo digitale, ma **credo che rileggersi sia una delle cose più belle per un blogger.**
 
@@ -59,9 +59,9 @@ Non per motivo di vanto o altro, intendiamoci, ma per rendersi conto che certi d
 
 Come forse avrete notato ora Xaba Cadabra possiede bellissime faccine! 👊
 
-Si tratta dell'ottimo plugin [Jemoji](https://github.com/jekyll/jemoji), se usate Jekyll probabilmente lo conoscete già (o dovreste! Ho scritto pure [un post](http://xabacadabra.com/2015/la-discriminazione-delle-faccine/) sull'importanza delle faccine, che diamine!)
+Si tratta dell'ottimo plugin [Jemoji](https://github.com/jekyll/jemoji), se usate Jekyll probabilmente lo conoscete già (o dovreste! Ho scritto pure [un post](https://xabacadabra.com/2015/la-discriminazione-delle-faccine/) sull'importanza delle faccine, che diamine!)
 
-Poi...**ho cambiato completamente la pagina dell'[About](http://xabacadabra.com/andrea-corinti/)**, sfruttando un altro theme del fantastico [Michael Rose](https://mademistakes.com/)...devo sistemarlo bene, metterci una foto decente e fare qualche altra cosetta ma per adesso sono abbastanza contento.
+Poi...**ho cambiato completamente la pagina dell'[About](https://xabacadabra.com/andrea-corinti/)**, sfruttando un altro theme del fantastico [Michael Rose](https://mademistakes.com/)...devo sistemarlo bene, metterci una foto decente e fare qualche altra cosetta ma per adesso sono abbastanza contento.
 
 ## Che cosa sto guardando ?
 
@@ -75,11 +75,11 @@ Tanto per fare un veloce riepilogo per il me stesso futuro:
 
 **South Park** -> che, in un modo o nell'altro, riesce ad essere sempre straordinariamente sul pezzo (member?)
 
-**BoJack Horseman** -> che sinceramente a pelle pensavo mi avrebbe fatto tremendamente cagare, e invece mi sta intrigando (al momento in cui scrivo sono alla S01E08), ringrazio il buon [**Arc**](http://www.arcweb.it/) per aver insistito tanto nel farmela conoscere!
+**BoJack Horseman** -> che sinceramente a pelle pensavo mi avrebbe fatto tremendamente cagare, e invece mi sta intrigando (al momento in cui scrivo sono alla S01E08), ringrazio il buon [**Arc**](https://www.arcweb.it/) per aver insistito tanto nel farmela conoscere!
 
 ## A cosa sto giocando?
 
-<img src='http://www.pontofrio-imagens.com.br/html/conteudo-produto/336/2890879/imagens/jogo-dark-souls-2-x360-1.jpg' alt='Dark Souls 2'>
+<img src='https://www.pontofrio-imagens.com.br/html/conteudo-produto/336/2890879/imagens/jogo-dark-souls-2-x360-1.jpg' alt='Dark Souls 2'>
 
 Da queste parti non ho avuto modo/tempo/voglia di scriverlo come si deve, **ma mesi fa mi sono perdutamente innamorato di _Dark Souls_** e ora mi sto dedicando al suo diretto sucessore (sì, essendo povero [^povero] mi compro giochi in saldo diversi anni dopo i _dayone_): 
 
@@ -93,7 +93,7 @@ Nel complesso, comunque, **mi duole dire che trovo _Dark Souls 2_ artisticamente
 
 ## Vampiri, Masquerade e Vecchio Mondo di Tenebra
 
-<img src='http://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg' alt='vampiri-la-masquerade'>
+<img src='https://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg' alt='vampiri-la-masquerade'>
 
 Per un motivo e per l'altro mi sto ritrovado a spulciare di nuovo gli splendidi vecchi manuali della White Wolf...
 

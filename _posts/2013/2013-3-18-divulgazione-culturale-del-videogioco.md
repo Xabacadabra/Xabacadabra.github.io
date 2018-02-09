@@ -22,7 +22,7 @@ Che il Videogioco sia ascrivibile o meno allo stato di Arte è sempre stato un d
 Intendiamoci, so benissimo che molti videogiochi sono dei veri e propri "_contenitori_" di eccellenze nella narrativa, nella musica e nelle arti visuali....il punto è che ciò che **definisce il gioco**, nella sua interezza (da _Pro Evolution Soccer_ a _Final Fantasy_, passando per _Super Mario_ ) è **l'elemento ludico**, vale a dire **l'atto di giocare** di per se.
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-VGmK5map4vg/UMO-vXA8JGI/AAAAAAAAA_Y/7avQuwJ0Vt8/s1600/videogamesart.jpg" alt="marihol">
+	<img src="https://4.bp.blogspot.com/-VGmK5map4vg/UMO-vXA8JGI/AAAAAAAAA_Y/7avQuwJ0Vt8/s1600/videogamesart.jpg" alt="marihol">
 	<figcaption>Itsa me, Marihol !</figcaption>
 </figure>
 
@@ -45,17 +45,17 @@ Ma ok, mi fermo che sto divagando troppo: state calmi, non lanciatemi quelle pie
 ### Le sottovalutate potenzialità di un videogame
 
 <figure>
-	<img src="http://2e130c55e0c2763c8a20-c7a4d0feffd26319b59c92c4aecae366.r18.cf1.rackcdn.com/f4f10f5d814431457cacac88bb89eeb2d24f8d70.jpg" alt="civilization">
+	<img src="https://2e130c55e0c2763c8a20-c7a4d0feffd26319b59c92c4aecae366.r18.cf1.rackcdn.com/f4f10f5d814431457cacac88bb89eeb2d24f8d70.jpg" alt="civilization">
 	<figcaption>Poi ecco, magari la Muraglia Cinese a Salerno e il Colosso di Rodi a Gallarate si potrebbero evitare</figcaption>
 </figure>
 
-[Già parlai](http://xabacadabra.blogspot.it/2013/03/videogiochi-italiani.html) di come, in Italia, l'industria videoludica sia pressapoco evanescente, ma penso sia il caso di riproporre alcune osservazioni di massima:
+[Già parlai](https://xabacadabra.blogspot.it/2013/03/videogiochi-italiani.html) di come, in Italia, l'industria videoludica sia pressapoco evanescente, ma penso sia il caso di riproporre alcune osservazioni di massima:
   
 Per farla breve, **i Videogiochi danno da mangiare**, pure tanto considerando che si parla di un'industria estremamente attiva. 
   
 Ciò che probabilmente ha minore enfatizzazione, anche nei paesi capitalisti dove la maggior parte dei videogiochi viene prodotta (Stati Uniti e Giappone) è la possibilità del videogioco di farsi valere **anche in ambito accademico.**   
   
-Ora, quell'"accademico" pigliatelo con le pinze, **non sto dicendo che i medici dovrebbero laurearsi con _Trauma  Center_** (anche se oh, [forse ad alcuni farsi na partita male non farebbe)](http://www.ilsecoloxix.it/p/italia/2013/02/23/APJ9POpE-stomaco_medici_indagati.shtml), sto pensando più che altro ad un _Civilization_, per fare un esempio classico:  
+Ora, quell'"accademico" pigliatelo con le pinze, **non sto dicendo che i medici dovrebbero laurearsi con _Trauma  Center_** (anche se oh, [forse ad alcuni farsi na partita male non farebbe)](https://www.ilsecoloxix.it/p/italia/2013/02/23/APJ9POpE-stomaco_medici_indagati.shtml), sto pensando più che altro ad un _Civilization_, per fare un esempio classico:  
   
 la celeberrima serie di **Sid Meier** ha infatti offerto negli anni un videogioco strategicamente divertente tanto quanto **congenitamente colto:** 
 
@@ -79,7 +79,7 @@ Impararsi la Seconda Guerra Mondiale integrando ai libri i primi due _Call Of D
 Improbabile, ma divertente da immaginare !
 
 <figure>
-	<img src="http://www.tombraiders.net/stella/images/savegame/sg_karate.jpg
+	<img src="https://www.tombraiders.net/stella/images/savegame/sg_karate.jpg
 " alt="Lara Croft">
 	<figcaption>"DRAKE ?! INSEGNARE ?!? NON SE QUALCOSA IN PROPOSITO DA DIRE IO HO !"</figcaption>
 </figure>
@@ -93,7 +93,7 @@ Se invece questo ipotetico videogioco avesse un approccio _wikipediano_, per di
 ## Conclusioni
 
 <figure>
-	<img src="http://www.otakufreaks.com/wp-content/uploads/2013/02/indiana-jones-lara-croft-nathan-drake.jpg" alt="Lara Croft Nathan Drake Indiana Jones">
+	<img src="https://www.otakufreaks.com/wp-content/uploads/2013/02/indiana-jones-lara-croft-nathan-drake.jpg" alt="Lara Croft Nathan Drake Indiana Jones">
 </figure>
 
 Insomma, il **Cinema** un suo (fin troppo piccolo) spazio a scuola lo ha trovato, ergo non vedo perché non dovrebbe trovarselo anche il videogioco, che potenzialmente come detto offre un approccio più universale e che potrebbe anche integrarsi al meglio con il concetto di **studio protratto nel tempo**  

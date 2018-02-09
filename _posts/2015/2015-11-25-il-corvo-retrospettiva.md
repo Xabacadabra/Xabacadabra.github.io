@@ -36,7 +36,7 @@ E per fortuna, per il bambino che ero, **lo è stato.**
 ## Eredità
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-2o2eBTwXgt4/VlVhMi4-tGI/AAAAAAAANXE/I9PiDgWLmfs/s1600/il-corvo-L-PymN76.jpeg" alt="il corvo">
+	<img src="https://3.bp.blogspot.com/-2o2eBTwXgt4/VlVhMi4-tGI/AAAAAAAANXE/I9PiDgWLmfs/s1600/il-corvo-L-PymN76.jpeg" alt="il corvo">
 </figure>
 
 Probabilmente **per i canoni di adesso Il Corvo verrebbe stroncato poiché moralmente estremo**, forte dei suoi pochi "grigi" in mezzo e senza chissà quali messaggi celati di nascosto:
@@ -50,7 +50,7 @@ Ecco, diciamo che **la sceneggiatura de Il Corvo è un po' come quelle storie cl
 ## Tecnica & Contesto
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-ZoVfkgAARbI/VlVhlx46jrI/AAAAAAAANXM/UzVlU7oHC0Y/s1600/il%2Bcorvo.jpg" alt="il corvo">
+	<img src="https://4.bp.blogspot.com/-ZoVfkgAARbI/VlVhlx46jrI/AAAAAAAANXM/UzVlU7oHC0Y/s1600/il%2Bcorvo.jpg" alt="il corvo">
 </figure>
 
 Quella fotografia, quella regia, quelle interpretazioni, quella colonna sonora (davvero, pensare che **spaziava dai Pantera ai Cure** fa capire come questo film fosse davvero TOTALE) e l'indubbio "aiuto morboso" che la tragica morte di Brandon Lee diede alla sua celebrità sembravano quasi una sceneggiatura nella sceneggiatura, una sorta di destino già scritto.
@@ -64,7 +64,7 @@ E, forse un po' provincialmente, aggiungiamoci pure che questo film possedeva **
 ## Oggi
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-2MID_fKkTqc/VlViJnUMEaI/AAAAAAAANXY/43N9aWyL_D8/s1600/giphy.gif" alt="il corvo">
+	<img src="https://3.bp.blogspot.com/-2MID_fKkTqc/VlViJnUMEaI/AAAAAAAANXY/43N9aWyL_D8/s1600/giphy.gif" alt="il corvo">
 </figure>
 
 **Oggi Il Corvo viene da un lato osannato forse un po' troppo romanticamente**, figlio di un amore e di un'importanza che certamente nascondono quelle sue piccole ingenuità di fondo, e dall'altro (molto più raramente) **stroncato con una certa sufficienza intellettuale** che passa sempre spesso e volentieri nelle lande di internet. 

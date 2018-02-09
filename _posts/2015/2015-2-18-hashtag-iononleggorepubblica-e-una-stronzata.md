@@ -31,7 +31,7 @@ ma fattela pure tu <a href="https://twitter.com/beppe_grillo">@beppe_grillo</a>:
 Con il macello in Libia? Con l'Ucraina, lo <a href="https://twitter.com/hashtag/SwissLeaks?src=hash">#SwissLeaks</a>, la riforma costituzionale ecc.? Manco vivessimo nel paese dei lettori poi <a href="https://twitter.com/toxxybar">@toxxybar</a><br />
 — Xab (@Xabaras89) <a href="https://twitter.com/Xabaras89/status/568051618081423360">18 Febbraio 2015</a></blockquote>
 
-E insomma, sinceramente [a me di come se la passa il blog di Beppe Grillo](http://www.beppegrillo.it/2015/02/iononleggorepubblica.html) non me ne può fregar di meno, quindi questa sarebbe la prima critica che farei anzitutto a Repubblica, giornale che IO leggo, e spesso critico, anche perché ce l'ho digitalmente gratis ogni giorno grazie Brianza Biblioteche.
+E insomma, sinceramente [a me di come se la passa il blog di Beppe Grillo](https://www.beppegrillo.it/2015/02/iononleggorepubblica.html) non me ne può fregar di meno, quindi questa sarebbe la prima critica che farei anzitutto a Repubblica, giornale che IO leggo, e spesso critico, anche perché ce l'ho digitalmente gratis ogni giorno grazie Brianza Biblioteche.
 
 Ma è soprattutto la critica che faccio di rimando ai 5 Stelle e lo stesso Beppe: lasciamo perdere un attimo il merito della questione, diamo per scontato che Repubblica (così come altri quotidiani) le spara spesso e volentieri ed **è più che giusto smontare eventuali bufale con i fatti...**
 

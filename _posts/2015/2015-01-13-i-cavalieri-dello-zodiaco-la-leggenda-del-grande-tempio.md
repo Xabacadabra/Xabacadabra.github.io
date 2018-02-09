@@ -31,14 +31,14 @@ Ma proprio perché a livello di design lo trovo semplicemente osceno per il mio 
 
 Tuttavia **anche il manga originale di Kurumada non è che brillasse per chissà quale senso artistico, armature a parte** (molto meglio l'anime del compianto Maestro **Araki**), quindi parlassimo di un'opera abbastanza meritevole, forse ci avrei pure potuto passare sopra.
 
-Diciamo giusto che, anche graficamente, come riedizione moderna preferisco mille volte il design del [**Lost Canvas**](http://xabacadabra.com/2015/saint-seiya-lost-canvas/) a questo milionario 3D Mecha farlocco (sarà che io odio mecha e robottoni da sempre, boh)
+Diciamo giusto che, anche graficamente, come riedizione moderna preferisco mille volte il design del [**Lost Canvas**](https://xabacadabra.com/2015/saint-seiya-lost-canvas/) a questo milionario 3D Mecha farlocco (sarà che io odio mecha e robottoni da sempre, boh)
 
 Premesso questo, **che non è certo un tratto negativo del film ma una mera faccenda di gusto**, via con l'analisi:
 
 ## Pro
 
 <figure>
-<img src='http://4.bp.blogspot.com/-qSEZBiis85o/VLVe-HPjLMI/AAAAAAAALTQ/5KEEIReCYvA/s1600/4281.jpg' alt='pro'>
+<img src='https://4.bp.blogspot.com/-qSEZBiis85o/VLVe-HPjLMI/AAAAAAAALTQ/5KEEIReCYvA/s1600/4281.jpg' alt='pro'>
 </figure>
 
 1. I Cavalieri dello Zodiaco al Cinema!!
@@ -49,7 +49,7 @@ Premesso questo, **che non è certo un tratto negativo del film ma una mera facc
 ## Contro
 
 <figure>
-<img src='http://2.bp.blogspot.com/-4XKRcIqHBf4/VLVfGXvVJNI/AAAAAAAALTY/QuIWJnQcFzk/s1600/4282.jpg' alt='contro'>
+<img src='https://2.bp.blogspot.com/-4XKRcIqHBf4/VLVfGXvVJNI/AAAAAAAALTY/QuIWJnQcFzk/s1600/4282.jpg' alt='contro'>
 </figure>
 
 1. **Frettolosa tempistica.** Siccome vuole ricoprire la celeberrima saga delle 12 case in un'ora e mezza, **il film finisce inevitabilmente per premere sull'acceleratore.** Il che, mi fa sorgere una domanda spontanea: **non si poteva creare un soggetto nuovo**, che coinvolgesse sempre i cavalieri d'oro, ma **nei tempi giusti per il cinema ?** Cioè hai fatto un reboot, a quel punto rebootta tutto quanto senza mezze misure
@@ -62,7 +62,7 @@ Premesso questo, **che non è certo un tratto negativo del film ma una mera facc
 ## Concludendo
 
 <figure>
-<img src='http://2.bp.blogspot.com/-rUBT9ci7olM/VLVfOto11vI/AAAAAAAALTg/45BOPy32zD0/s1600/grande%2Btempio.jpg' alt='I Cavalieri dello Zodiaco: La Leggenda del Grande Tempio'>
+<img src='https://2.bp.blogspot.com/-rUBT9ci7olM/VLVfOto11vI/AAAAAAAALTg/45BOPy32zD0/s1600/grande%2Btempio.jpg' alt='I Cavalieri dello Zodiaco: La Leggenda del Grande Tempio'>
 </figure>
 
  ..._Legend of the Sanctuary_, in breve, è questo.
@@ -81,6 +81,6 @@ Non vedo come un fan della serie classica lo possa apprezzare, aldilà di un eve
 
 [^corrente]: Sarà che ho un fratello undicenne a cui qualche scena di questo Legend of the Sanctuary è bastata per concedersi in una stroncatura ben più netta della mia (a differenza del Lost Canvas, che gli è piaciuto)
 
-Personalmente, vedo il bene della disgrazia nel notare [quanto abbia floppato questa pellicola in Giappone](http://myanimelist.net/forum/?topicid=1216595), facendomi riappacificare un minimo col pubblico odierno del Sol Levante (dove però, ricordiamolo, Saint Seiya non ha mai riscosso un successo paragonabile a quello avuto in Italia e Sud America)
+Personalmente, vedo il bene della disgrazia nel notare [quanto abbia floppato questa pellicola in Giappone](https://myanimelist.net/forum/?topicid=1216595), facendomi riappacificare un minimo col pubblico odierno del Sol Levante (dove però, ricordiamolo, Saint Seiya non ha mai riscosso un successo paragonabile a quello avuto in Italia e Sud America)
 
 PS: Il fatto che **il Cavaliere dello Scorpione qui sia una donna** personalmente non mi ha disturbato: certo è la solita questione delle "quote rosa" inserite giusto per ammiccare a determinati tipi di target, ma oh, quello del reboot è un universo originale a se stante, quindi vabbè ci può stare.

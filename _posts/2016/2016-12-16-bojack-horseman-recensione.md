@@ -31,17 +31,17 @@ bene: **nulla di più errato, poiché Bojack è una delle serie più drammatiche
 ## Approccio
 
 <figure>
-<img src='http://bojackhorseman.com/art/friends/XFiles.jpg' alt='bojack horseman XFiles'>
+<img src='https://bojackhorseman.com/art/friends/XFiles.jpg' alt='bojack horseman XFiles'>
 </figure>
 
-Fermo sulle mie convinzioni superficiali di cui sopra, alla fine ho ceduto solo perchè il nostro buon vecchio [**Arc**](http://www.arcweb.it/) di quartiere ha insistito (grazie!), quindi ho concesso a Bojack un'opportunità.
+Fermo sulle mie convinzioni superficiali di cui sopra, alla fine ho ceduto solo perchè il nostro buon vecchio [**Arc**](https://www.arcweb.it/) di quartiere ha insistito (grazie!), quindi ho concesso a Bojack un'opportunità.
 
 E miseria nera, mi ha ipnotizzato.
 
 ## Graduale
 
 <figure>
-<img src='http://bojackhorseman.com/art/friends/5SecondsOfSummer.jpg' alt='bojack horseman 5 seconds of summer'>
+<img src='https://bojackhorseman.com/art/friends/5SecondsOfSummer.jpg' alt='bojack horseman 5 seconds of summer'>
 </figure>
 
 Non subito, intendiamoci: 
@@ -67,8 +67,8 @@ E, prima di rendersene pienamente conto, viene tutta fuori con dei **dialoghi sc
 ## Concept spiccio
 
 <figure>
-<img src='http://bojackhorseman.com/art/friends/Fresh_Prince.jpg' alt='bojack horseman e willy, il principe di bel-air'>
-<figcaption>Ah, il sito internet di Bojack (http://bojackhorseman.com/) è qualcosa di meraviglioso</figcaption>
+<img src='https://bojackhorseman.com/art/friends/Fresh_Prince.jpg' alt='bojack horseman e willy, il principe di bel-air'>
+<figcaption>Ah, il sito internet di Bojack (https://bojackhorseman.com/) è qualcosa di meraviglioso</figcaption>
 </figure>
 
 Bojack è un attore che ha sfondato grazie alla classica sitcom anni '90: 
@@ -80,12 +80,12 @@ Altro da dire? Beh, che Bojack è un cavallo, l'agente una gatta rosa e che in g
 ## Sentiment
 
 <figure>
-<img src='http://bojackhorseman.com/art/friends/urkel.jpg' alt='bojack horseman'>
+<img src='https://bojackhorseman.com/art/friends/urkel.jpg' alt='bojack horseman'>
 </figure>
 
-**Ho ritrovato parecchio di [Birdman](http://xabacadabra.com/2015/birdman-recensione/) in Bojack Horseman**, ma anche di me stesso.
+**Ho ritrovato parecchio di [Birdman](https://xabacadabra.com/2015/birdman-recensione/) in Bojack Horseman**, ma anche di me stesso.
 
-Probabilmente, anche del [discorso che facevo qualche settimana fa](http://xabacadabra.com/2016/evasione/) a proposito de Labadessa e del bisogno di "evadere"...
+Probabilmente, anche del [discorso che facevo qualche settimana fa](https://xabacadabra.com/2016/evasione/) a proposito de Labadessa e del bisogno di "evadere"...
 
 Sarà un caso, ma **il fatto che Raphael Bob-Waksberg (l'autore della serie) sia un classe '84 per me la dice lunga su quella famosa sensazione di disagio e disperazione**, un Mostro noto molto bene a quelli che in questo periodo girano attorno ai 30 anni (ma non solo).
 

@@ -17,14 +17,14 @@ comments: true
 
 Quarta parte dell'intervista alla storica Designer della Serie: 
 
-Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).
+Quest'IMMENSA intervista è stata realizzata da [4gamer](https://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](https://shmuplations.com/kazukoshibuya/).
 {:.notice-info}
 
-1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
+1. [**Prima Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
 
-2. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
+2. [**Seconda Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
 
-3. [**Terza Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
+3. [**Terza Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
 
 ## Font e Menù
 
@@ -35,7 +35,7 @@ _[Shibuya]_ In effetti, quando ero coinvolta con il lavoro a FFIX, si formò il 
 Mi piace anche occuparmi del design delle interfacce. I effetti, ho anche concepito i menù dei Final Fantasy dell'era NES, e ho disegnato i font 8x8 pixel.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/ffmenu.jpg
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/ffmenu.jpg
 ' alt='final-fantasy-menù'>
 <figcaption>L'iconico menù dell'originale Final Fantasy (NES), base stilistica per tutti i suoi eredi e molti altri JRPG</figcaption>
 </figure>
@@ -66,7 +66,7 @@ Hehe. [risate] Trova qualcosa d'interessante qualsiasi cosa incontrerai - questo
 
 ## Il processo creativo della Pixel Art
 
-**Mi pare che in quel periodo Square aprì il sito ["Pixel Craftsman - Kazuko Shibuya"](http://archive.is/himbr)**
+**Mi pare che in quel periodo Square aprì il sito ["Pixel Craftsman - Kazuko Shibuya"](https://archive.is/himbr)**
 
 I membri di Square Enix avevano un browser web tool, "GAME BRAIN", dove potevi realizzare un semplice gioco in stile NES, con grafica 8bit. Dopodiché la persona che realizzò quel sito chiese a me di realizzare il "Pixel Craftsman".
 
@@ -77,7 +77,7 @@ I membri di Square Enix avevano un browser web tool, "GAME BRAIN", dove potevi r
 Sì, ancora oggi non disegno su carta. In verità, credo che l'esperienza col 3D che ho avuto mi aiuti in questo.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/shibuya3.jpg
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/shibuya3.jpg
 ' alt='final-fantasy-menù'>
 <figcaption>L'iconico menù dell'originale Final Fantasy (NES), base stilistica per tutti i suoi eredi e molti altri JRPG</figcaption>
 </figure>
@@ -127,7 +127,7 @@ Quando abbiamo convertito “Dragon Quest Monsters WANTED!” in una nuova versi
 Sì, è stato sorprendente. Ricordo di aver pensato, "è l'alba di una nuova era!" (risate) Ma sobbarcarsi la responsabilità di una serie come Dragon Quest significa lavorarci come si deve. Se si parla di Dragon Quest, deve avere lo stile di Akira Toriyama, così ho studiato le sue immagini intensamente. Ho osservato il suo stile e la sua tecnica per assicurarmi che i miei background corrispondessero allo stile dei mostri di Dragon Quest.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/dqm.jpg
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/dqm.jpg
 ' alt='dragon-quest-wanted'>
 <figcaption>Uno dei background della Shibuya per Dragon Quest Monsters: WANTED</figcaption>
 </figure>
@@ -165,7 +165,7 @@ Già. Ma essendoci riuscita, ho sentito ancora una volta che "la mia abilità è
 Sì. Se continuo a lavorare con questo grande formato, probabilmente potrò fare un lavoro ancora migliore nel futuro.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/ffdimensions.png
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/ffdimensions.png
 ' alt='final-fantasy-dimensions'>
 <figcaption>Gli sprite di Final Fantasy Dimensions</figcaption>
 </figure>
@@ -194,6 +194,6 @@ Con la pixel art,
 
 ### [Parti precedenti:]
 
-1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
-2. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
-3. [**Terza Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
+1. [**Prima Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
+2. [**Seconda Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2)
+3. [**Terza Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)

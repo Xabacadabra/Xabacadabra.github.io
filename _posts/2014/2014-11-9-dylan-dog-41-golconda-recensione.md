@@ -15,7 +15,7 @@ ads: false
 comments: true
 ---
 
-L'altro giorno il buon Alex, uno dei miei più affezionati lettori nonché uno dei tanti timidoni allergici ai commenti (sappiate esiste un girone dell'inferno apposta per voi) leggendo [il resoconto di Lucca](http://xabacadabra.com/2014/lucca-comics-games-2014/) mi fa:
+L'altro giorno il buon Alex, uno dei miei più affezionati lettori nonché uno dei tanti timidoni allergici ai commenti (sappiate esiste un girone dell'inferno apposta per voi) leggendo [il resoconto di Lucca](https://xabacadabra.com/2014/lucca-comics-games-2014/) mi fa:
 
 > « Scusa, ma se è il tuo albo preferito, perché non hai mai parlato di "Golconda!" su Xaba Cadabra ? »
 
@@ -23,7 +23,7 @@ L'ovvia risposta è che **_Golconda! è vecchio.** [^vecchio]
 
 [^vecchio:] è uscito nel Febbraio del 1990
 
-Certo, in passato ho fatto accenni a _Il Lungo Addio_ (un altro dei DyD più amati dal sottoscritto) e una sottospecie di recensione del ben più recente _[Mater Morbi_](http://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/), ma beh...
+Certo, in passato ho fatto accenni a _Il Lungo Addio_ (un altro dei DyD più amati dal sottoscritto) e una sottospecie di recensione del ben più recente _[Mater Morbi_](https://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/), ma beh...
 
 Ecco, la risposta meno ovvia è che **_Golconda!_ è un fottuto casino.**
 

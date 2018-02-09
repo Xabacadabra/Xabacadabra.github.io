@@ -23,26 +23,26 @@ Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno
 
 **Quella crudezza al limite del sadismo**, il senso di sacrificio, rivalsa dalla povertà...e soprattutto quella sorta d'autoimposizione a non contemplare mai la resa, a **combattere sempre.**
 
-_Rocky Joe_ è l'emblema di questi valori, molto **sentiti e radicati nel Giappone post-bellico**, di cui ahimè sopravvivono oramai poche tracce, rimpastate assieme a prodotti più o meno _plastici_ ([ma questa è un'altra storia](http://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/))
+_Rocky Joe_ è l'emblema di questi valori, molto **sentiti e radicati nel Giappone post-bellico**, di cui ahimè sopravvivono oramai poche tracce, rimpastate assieme a prodotti più o meno _plastici_ ([ma questa è un'altra storia](https://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/))
 
 <figure>
-	<img src='http://2.bp.blogspot.com/-RO-B-JzI5YI/VIhS8jGD0KI/AAAAAAAALGI/VYfMobhI2zI/s1600/Rocky%2BJoe%2B1.png' alt= 'rocky-joe'>
+	<img src='https://2.bp.blogspot.com/-RO-B-JzI5YI/VIhS8jGD0KI/AAAAAAAALGI/VYfMobhI2zI/s1600/Rocky%2BJoe%2B1.png' alt= 'rocky-joe'>
 </figure>
 
 L'autore, il compianto **Asao Takamori** (pseudonimo di **Ikki Kajiwara**), non a caso fu padre anche di un certo _Uomo Tigre_, ambientato in un contesto sociale del tutto simile: 
 
 lo stile di Takamori era infatti non solo estremamente contemporaneo per l'epoca in cui è stato scritto, ma direttamente proiettato al futuro:
 
-**L'aggressiva irriverenza di Joe, antieroe canagliesco ed indisciplinato**, pareva quasi preannunciare la straordinaria rivalsa sociale del [**_Miracolo economico giapponese_.**](http://it.wikipedia.org/wiki/Miracolo_economico_giapponese)
+**L'aggressiva irriverenza di Joe, antieroe canagliesco ed indisciplinato**, pareva quasi preannunciare la straordinaria rivalsa sociale del [**_Miracolo economico giapponese_.**](https://it.wikipedia.org/wiki/Miracolo_economico_giapponese)
 
 <figure>
-	<img src='http://1.bp.blogspot.com/-cxKagIdpI8M/VIha0PKO2CI/AAAAAAAALGY/J8qpW5NewAA/s1600/Rocky%2BJoe%2B2.png' alt= 'rocky-joe'>
+	<img src='https://1.bp.blogspot.com/-cxKagIdpI8M/VIha0PKO2CI/AAAAAAAALGY/J8qpW5NewAA/s1600/Rocky%2BJoe%2B2.png' alt= 'rocky-joe'>
 </figure>
 
 **Al solito, il manga è invecchiato decisamente meglio della controparte animata**: considerevole vantaggio di non dover sottostare ai processi d'animazione/colorazione economici di svariate decadi fa.
 
 <figure>
-	<img src='http://4.bp.blogspot.com/-EfWyAxxVkqg/VIhcAVlrYuI/AAAAAAAALGk/PiBCIdSWUU0/s1600/Rocky%2BJoe%2B3.png' alt= 'rocky-joe'>
+	<img src='https://4.bp.blogspot.com/-EfWyAxxVkqg/VIhcAVlrYuI/AAAAAAAALGk/PiBCIdSWUU0/s1600/Rocky%2BJoe%2B3.png' alt= 'rocky-joe'>
 </figure>
 
 E poi i disegni sono della leggenda **Tetsuya Chiba**, uno dei più importanti pionieri dell'arte manga, **possessore di un dinamismo e di un'intensità straordinari nel loro essere classici** (diretti figli dell'epoca di **Osamu Tezuka**, per forza di cose) e che per questo penso sosterranno la prova del tempo praticamente in eterno.

@@ -41,7 +41,7 @@ No perché, a grandi linee, questo è quello che s'è inventato **Bill Willingha
 ## Cast e Situazioni
 
 <figure>
-<img src="http://3.bp.blogspot.com/-UkKq62EWH6s/VhVytZWctsI/AAAAAAAAMyU/JzVheTYppOo/s1600/fables2.jpg" alt="Fables recensione">
+<img src="https://3.bp.blogspot.com/-UkKq62EWH6s/VhVytZWctsI/AAAAAAAAMyU/JzVheTYppOo/s1600/fables2.jpg" alt="Fables recensione">
 </figure>
 
 L'idea di avere a che fare con un **Lupo Cattivo** talvolta negli umani panni (parecchio _wolverinici_) del **detective, Biancaneve amministratrice frustrata** (anche per colpa della cara sorellina...), **Principe Azzurro puttaniere** occasionalmente prestato alla politica (gli mancano giusto le televisioni), **Cenerentola splendida femme fatale** (assolutamente la mia "principessa" preferita quaggiù) e via _fiabando_ è quel che si dice geniale:
@@ -51,7 +51,7 @@ Personaggi **consapevoli dei millenni sulle proprie spalle ma pur sempre umani**
 ## Tutto bello ?
 
 <figure>
-<img src="http://4.bp.blogspot.com/-0-2H11Ejhas/VhV1tNrjlxI/AAAAAAAAMys/0P5PJDKI1Ho/s1600/fly.jpg" alt="Fables fly">
+<img src="https://4.bp.blogspot.com/-0-2H11Ejhas/VhV1tNrjlxI/AAAAAAAAMys/0P5PJDKI1Ho/s1600/fly.jpg" alt="Fables fly">
 <figcaption>Se non lo avete letto non ci crederete mai, ma lui è uno dei personaggi più belli della storia del fumetto TUTTO.</figcaption>
 </figure>
 
@@ -62,14 +62,14 @@ Leggendolo **è abbastanza chiaro come all'origine non fosse pensato come un fum
 ## Once Upon A Plagio ?
 
 <figure>
-<img src="http://1.bp.blogspot.com/-uN0Bs5l9_Bs/VhVzyCznAwI/AAAAAAAAMyg/XiwEiYpL0nw/s1600/lana%2Bparilla.jpg" alt="Once Upon A Time ha plagiato Fables?
+<img src="https://1.bp.blogspot.com/-uN0Bs5l9_Bs/VhVzyCznAwI/AAAAAAAAMyg/XiwEiYpL0nw/s1600/lana%2Bparilla.jpg" alt="Once Upon A Time ha plagiato Fables?
 ">
 <figcaption>(lei comunque può plagiare me quando vuole)</figcaption>
 </figure>
 
 La serie _Once Upon A Time_ ha plagiato Fables?
 
-Allora, **_Once Upon A Time_ può assolutamente sembrare uno scimmiottamento di quanto scritto dal buon Bill Willingham nelle pagine di Fables** (per quanto [lui stesso](http://www.comicbookresources.com/?page=article&id=35737) tenda a minimizzare e allontanare la polemica).
+Allora, **_Once Upon A Time_ può assolutamente sembrare uno scimmiottamento di quanto scritto dal buon Bill Willingham nelle pagine di Fables** (per quanto [lui stesso](https://www.comicbookresources.com/?page=article&id=35737) tenda a minimizzare e allontanare la polemica).
 
 Forse **non ci sono gli estremi del plagio**, del _rip off_, ma di sicuro **delle lampanti influenze concettuali** (prontamente edulcorate per esigenze televisive) della serie ABC direi siano sotto gli occhi di tutti.
 
@@ -80,7 +80,7 @@ Dovessi rispolverare _Once_, ne parlerò più approfonditamente in un articolo d
 ## Conclusioni
 
 <figure>
-<img src="http://3.bp.blogspot.com/-ATSHLcuF2H4/VhV6Zw0ReHI/AAAAAAAAMy4/6rnGenoFlJI/s1600/DC-Comic-Team-TV-Shows-Fables.jpg" alt="Fables recensione">
+<img src="https://3.bp.blogspot.com/-ATSHLcuF2H4/VhV6Zw0ReHI/AAAAAAAAMy4/6rnGenoFlJI/s1600/DC-Comic-Team-TV-Shows-Fables.jpg" alt="Fables recensione">
 </figure>
 
 _Fables_ mi è piaciuto davvero tanto.

@@ -17,7 +17,7 @@ comments: true
 
 ## Can you _read_ me, Major Tom ? [^tom]
 
-[^tom]: questo titoletto l'avevo abozzato prima della <a href="http://xabacadabra.com/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono...ero indeciso se modificarlo, ma alla fine ho preferito lasciarlo lì :')
+[^tom]: questo titoletto l'avevo abozzato prima della <a href="https://xabacadabra.com/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono...ero indeciso se modificarlo, ma alla fine ho preferito lasciarlo lì :')
 
 Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?
 
@@ -27,13 +27,13 @@ Bene, spero di sì:
 
 **benvenuti su Xaba Cadabra!**
 
-Se il nome non vi giunge nuovo (in caso contrario magari fate un salto [qui](http://xabacadabra.com/blog/story/)) dovreste aver notato un bel po' di cambiamenti, primo fra tutti l'indirizzo:
+Se il nome non vi giunge nuovo (in caso contrario magari fate un salto [qui](https://xabacadabra.com/blog/story/)) dovreste aver notato un bel po' di cambiamenti, primo fra tutti l'indirizzo:
 
 **xabacadabra.blogspot.it** d'ora in poi sarà relegato a mero redirect per questi lidi (xabacadabra.com), e **la piattaforma di blogger ufficialmente abbandonata.**
 
 ## Perché ?
 
-è un discorso un po' lungo da spiegare, ma volendo fare una sintesi, perché **blogger è sempre una struttura efficace ma davvero troppo vecchia**, con poche possibilità di personalizzazione e controllo...l'esatto opposto di [**Jekyll**](http://jekyllrb.com/), sistema di pubblicazione blog opensource, privo di database, cookies e chincaglierie varie che me lo hanno da subito più simpatico di Wordpress e affini.
+è un discorso un po' lungo da spiegare, ma volendo fare una sintesi, perché **blogger è sempre una struttura efficace ma davvero troppo vecchia**, con poche possibilità di personalizzazione e controllo...l'esatto opposto di [**Jekyll**](https://jekyllrb.com/), sistema di pubblicazione blog opensource, privo di database, cookies e chincaglierie varie che me lo hanno da subito più simpatico di Wordpress e affini.
 
 Un'altra ragione è perché, da navigatore, sono sempre più vicino ad una particolare filosofia:
 
@@ -45,7 +45,7 @@ Credo che le belle interfacce frichettone abbiano fatto il loro tempo, come il b
 
 Al momento in cui scrivo siamo ancora ben lungi dall'importazione di **quasi tre anni d'archivio xabacadabrico**, e non è da escludere che **alcuni post non veranno ripescati affatto**, magari in attesa di una futura stesura riveduta e corretta: 
 
-Per fare un esempio che li vale tutti, il succo della recente recensione di [Xenogears](http://xabacadabra.com/2016/xenogears-recensione/) è stato scritto più o meno ai tempi di quella di [Grandia 2](http://xabacadabra.com/2013/grandia-2-recensione/) ma ripubblicato questo gennaio:
+Per fare un esempio che li vale tutti, il succo della recente recensione di [Xenogears](https://xabacadabra.com/2016/xenogears-recensione/) è stato scritto più o meno ai tempi di quella di [Grandia 2](https://xabacadabra.com/2013/grandia-2-recensione/) ma ripubblicato questo gennaio:
 
 Semplicemente, **il mio vecchio post era vago e approssimativo**, non una recensione vera e propria, quindi ho pensato valesse la pena risistemarlo come si deve e farne un pezzo rinnovato, senza rinnegare nulla di quanto già scritto nel 2013.
 

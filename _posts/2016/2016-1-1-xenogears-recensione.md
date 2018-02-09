@@ -32,7 +32,7 @@ Buttiamo giù un po' di nomi pesanti ?
 - Deus Ex
 - Metal Gear Solid
 - Final Fantasy VII
-- [Final Fantasy Tactics](http://xabacadabra.github.io/2013/final-fantasy-tactics-recensione/)
+- [Final Fantasy Tactics](https://xabacadabra.github.io/2013/final-fantasy-tactics-recensione/)
 - I vari Persona (e Shin Megami Tensei)
 
 avoja quanti altri titoli si potrebbe citare...
@@ -50,7 +50,7 @@ Ed ecco, regia e tempi di sceneggiatura un pochino Xenogears rischiano d'ammazza
 Ma andiamo con ordine
 
 <figure>
-	<img src="http://www.blogcdn.com/www.joystiq.com/media/2012/01/xenogears7vr.jpg" alt="Grahf xenogears">
+	<img src="https://www.blogcdn.com/www.joystiq.com/media/2012/01/xenogears7vr.jpg" alt="Grahf xenogears">
 	<figcaption>Le modeste ambizioni di quel simpaticone di Grahf</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ Confrontiamo ora il suo modo di raccontarla con quello di questo suo ombroso _cu
 Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, rendendo il relativo stupore figlio di un progressivo percorso facile da ricordare, con più e più rimandi autoreferenziali...per capirci: in un colpo di scena di Final Fantasy VII è facile esclamare _"Ah, allora ecco perché quel pirla di Cloud aveva le convulsioni peggio di Lino Banfi imbizzarrito!"_
 
 <figure>
-	<img src="http://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="cast xenogears">
+	<img src="https://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="cast xenogears">
 	<figcaption>Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, re
 
 Quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** (in questo senso palma d'oro agli Anziani del Ministero di Gazel: roba che un momento ti pare di star guardando _Escaflowne_, ed un secondo dopo ti ritrovi a _Ballarò_).
 
-A proposito di dialoghi: se v'interessa **Xenogears in italiano** annate a fare un saluto ai SadNES [qui](http://www.sadnescity.it/traduzioni/xeno/xeno.php) ! 
+A proposito di dialoghi: se v'interessa **Xenogears in italiano** annate a fare un saluto ai SadNES [qui](https://www.sadnescity.it/traduzioni/xeno/xeno.php) ! 
 {: .notice-info}
 
 Chiaro: **c'è il fattore rigiocabilità**, ma trattandosi di un JRPG non proprio brevissimo e con altri problemi di cui parliamo tra poco, **non credo sia il caso di farci troppo affidamento.**
@@ -83,7 +83,7 @@ Tutto ciò incide anche nella memoria: non avete idea di quante volte mi è capi
 ## Disco 2, Budget e Mutilazioni
 
 <figure>
-	<img src="http://lparchive.org/Xenogears/Update%2018/31-SLUS_006.64_08072007_050210_0546.jpg" alt="chu-chu xenogears">
+	<img src="https://lparchive.org/Xenogears/Update%2018/31-SLUS_006.64_08072007_050210_0546.jpg" alt="chu-chu xenogears">
 	<figcaption>l'unico vero ABNORME difetto del gioco.</figcaption>
 </figure>
 
@@ -95,14 +95,14 @@ La verità, più semplicemente, è che l'autore **Tatsuya Takahashi** risultava 
 
 **Xenogears nasce come quinto episodio di un'ideale serie mai realizzata** (Che NO, non è Xenosaga. Temi, autore e citazioni rimandanti a Xenogears ci sono, è vero, ma si parla comunque di un'altra storia) e per forza di cose tenta di concentrare in se stesso tanti rimandi e riferimenti che non avranno mai degni approfondimenti se non nel _Perfect Works_ 
 
-_**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano [qui](http://xenogearsitalia.jimdo.com/)
+_**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano [qui](https://xenogearsitalia.jimdo.com/)
 {: .notice-info}
 
 
 Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo potesse ricevere lo stesso riscontro di pubblico di un capitolo di un brand già arcinoto quale Final Fantasy era non utopico..._deppiù._
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-oWA0kG-vneY/UEUtYlPbgQI/AAAAAAAAB8M/Fah9L_iwdZc/s200/Xenogears3.jpg" alt="fei bambino xenogears">
+	<img src="https://4.bp.blogspot.com/-oWA0kG-vneY/UEUtYlPbgQI/AAAAAAAAB8M/Fah9L_iwdZc/s200/Xenogears3.jpg" alt="fei bambino xenogears">
 	<figcaption>Pensavate che la storia di Cloud fosse triste ? AHAHAHAHAHHA!</figcaption>
 </figure>
 
@@ -111,7 +111,7 @@ Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo pote
 Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-corpo tanto quanto nel proverbiale scontro robottonico (che di mio non ho mai sopportato per la mia antipatia nei confronti dei mecha, ma soprassediamo)...
 
 <figure>
-	<img src="http://www.time4rpgs.net/wp-content/uploads/2010/04/xenogears_battle.png" alt="combattimenti xenogears">
+	<img src="https://www.time4rpgs.net/wp-content/uploads/2010/04/xenogears_battle.png" alt="combattimenti xenogears">
 	<figcaption>Il Battle System "fisico", molto classico e dinamico</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-
 Il binomio grafico sprite 2D + ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso temo non abbia aiutato.
 
 <figure>
-	<img src="http://lparchive.org/Xenogears/Update%2029/4-SLUS_006.69_30072007_184131_0828.jpg" alt="dungeon xenogears">
+	<img src="https://lparchive.org/Xenogears/Update%2029/4-SLUS_006.69_30072007_184131_0828.jpg" alt="dungeon xenogears">
 	<figcaption>Esplorare un Dungeon in Xenogears può seriamente provocare il mal di mare...</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ Per contrasto bisogna considerare come **il livello grafico del gioco risulti pr
 ## Chi dovrebbe giocare a Xenogears
 
 <figure>
-	<img src="http://lparchive.org/Xenogears-(by-The-Dark-Id)/Update%2076/9-babel14.jpg" alt="combattimenti xenogears">
+	<img src="https://lparchive.org/Xenogears-(by-The-Dark-Id)/Update%2076/9-babel14.jpg" alt="combattimenti xenogears">
 	<figcaption>il Battle System "robottonico", non lontano anni luce dal primo ma decisamente profondo e appagante</figcaption>
 </figure>
 

@@ -22,7 +22,7 @@ comments: true
 Perché nel momento in cui scrivo il gioco **è scontato del 75% su Steam, costando solo 3 € e 49 contro i soliti 13**, quindi vorrei esortarvi ad approfittarne, dura fino al **14 novembre**!
 
 <figure>
-<img src='http://2.bp.blogspot.com/-lPwoijs2A1s/T13ff9OHHAI/AAAAAAAAFAA/4qzSSXFhlg8/s1600/88733944.jpg' alt='venghino signori'>
+<img src='https://2.bp.blogspot.com/-lPwoijs2A1s/T13ff9OHHAI/AAAAAAAAFAA/4qzSSXFhlg8/s1600/88733944.jpg' alt='venghino signori'>
 </figure>  
 
 Specifico che **non m'ha pagato nessuno** e manco conosco qualcuno che abbia contribuito a realizzarlo, quindi il mio è un moto **assolutamente spontaneo:**
@@ -37,12 +37,12 @@ Ergo, siccome il gioco non è così famoso, nel mio piccolo voglio contribuire
 ## Pregi
 
 <figure>
-<img src='http://img08.deviantart.net/db5b/i/2015/363/6/e/until_i_have_you_by_anxrea-d9lx5gh.png' alt='until i have you'>
+<img src='https://img08.deviantart.net/db5b/i/2015/363/6/e/until_i_have_you_by_anxrea-d9lx5gh.png' alt='until i have you'>
 </figure>  
 
 1. Pixelart allo stato dell'arte;
 2. Splendida ambientazione cyberpunk;
-3. Colonna sonora a tinte [synthwave](http://xabacadabra.com/2015/Synthwave-Una-purissima-audio-droga/) ispirata;
+3. Colonna sonora a tinte [synthwave](https://xabacadabra.com/2015/Synthwave-Una-purissima-audio-droga/) ispirata;
 4. Gameplay ben costruito ed interessante;
 5. Trama/Ambientazione estremamente fascinose;
 6. Interessante ibrido di meccaniche d'**avventura grafica** e **platform**;
@@ -53,7 +53,7 @@ Ergo, siccome il gioco non è così famoso, nel mio piccolo voglio contribuire
 <img src='https://i.ytimg.com/vi/pX0vREgqvTw/maxresdefault.jpg' alt='until i have you'>
 </figure>
 
-1. Che è anche motivo di coraggio: il gioco è stato realizzato tramite il mitico [AGS](http://www.adventuregamestudio.co.uk/), ergo **un engine assolutamente inappropriato per un gioco dove i riflessi, gravità e fisica la fanno da padrone;**
+1. Che è anche motivo di coraggio: il gioco è stato realizzato tramite il mitico [AGS](https://www.adventuregamestudio.co.uk/), ergo **un engine assolutamente inappropriato per un gioco dove i riflessi, gravità e fisica la fanno da padrone;**
 2. I classici piccoli problemi di molti giochi indie: il doppiaggio non è sempre all'altezza, qualche lag di troppo, alcuni effetti di transizione e movimenti di telecamera (molto figli dell'engine di provenienza)
 
 ## Conclusione

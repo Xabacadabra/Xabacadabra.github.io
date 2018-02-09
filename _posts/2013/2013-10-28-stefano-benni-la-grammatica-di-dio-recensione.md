@@ -23,7 +23,7 @@ Personalmente "conobbi" la figura di Benni circa una decina d'anni fa, quando sc
 ## La grammatica di Dio
 
 <figure>
-<img src='http://1.bp.blogspot.com/-c33KDC_w4_U/Um42SLogBjI/AAAAAAAAFMw/u2u8JS-KC24/s1600/stefano-benni.jpg' alt='Stefano benni'>
+<img src='https://1.bp.blogspot.com/-c33KDC_w4_U/Um42SLogBjI/AAAAAAAAFMw/u2u8JS-KC24/s1600/stefano-benni.jpg' alt='Stefano benni'>
 </figure>
 
 Scritta nel 2007, si tratta di **una raccolta di 25 racconti tra loro estremamente diversi**: 
@@ -32,7 +32,7 @@ Taluni quasi sul fantasy, altri satirici, comici, e qualcuno pure con qualche sp
 
 [^pausini]: il primo che nomina la Pausini lo denuncio alla buoncostume
 
-L'argomento, [come già dissi in altra sede](http://xabacadabra.com/2013/solitudine/), è uno di quelli che da sempre più mi affascina/sconforta:
+L'argomento, [come già dissi in altra sede](https://xabacadabra.com/2013/solitudine/), è uno di quelli che da sempre più mi affascina/sconforta:
 
 Non credo quindi sia un caso che io mi sia ritrovato immediatamente rapito dalle pagine di questa serie di storie (l'ho praticamente finito nell'ora e mezza di treno che passa tra Milano e Genova)
 

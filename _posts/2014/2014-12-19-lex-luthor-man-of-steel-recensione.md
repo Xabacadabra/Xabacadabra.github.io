@@ -27,7 +27,7 @@ Agganciandomi a questo esempio, a partire da oggi posso dire che sull'altra mano
 ## Il punto di vista del cattivo
 
 <figure>
-<img src="http://3.bp.blogspot.com/-ll6tzhB3hBg/VJRGsnp9KuI/AAAAAAAALLs/tEvcRHewOXE/s1600/superman.gif" alt="Lex Luthor: Man of Steel">
+<img src="https://3.bp.blogspot.com/-ll6tzhB3hBg/VJRGsnp9KuI/AAAAAAAALLs/tEvcRHewOXE/s1600/superman.gif" alt="Lex Luthor: Man of Steel">
 </figure>
 
 **Lex Luthor è certamente un gran figlio di buona donna**, e in questa storia di Brian Azzarello non fa eccezione, anzi, semmai ribadisce il concetto.
@@ -39,7 +39,7 @@ Non è un caso che certe sue idee riescano a passare tra personaggi non certo "c
 ## Who watches the watchmen ?
 
 <figure>
-<img src="http://3.bp.blogspot.com/-kP8mkW_ffC4/VJRJAR8vpJI/AAAAAAAALME/8trUdpTAVN0/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
+<img src="https://3.bp.blogspot.com/-kP8mkW_ffC4/VJRJAR8vpJI/AAAAAAAALME/8trUdpTAVN0/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
 </figure>
 
 Dicevano Giovenale e un altro fumetto di un certo signore inglese dalla barba lunga...ed è, in breve, quello che Luthor dice a Superman.
@@ -49,13 +49,13 @@ Dicevano Giovenale e un altro fumetto di un certo signore inglese dalla barba lu
 O meglio, *il* sorvegliante
 
 <figure>
-<img src="http://4.bp.blogspot.com/-GUyQEa1evIM/VJRJdGiWfmI/AAAAAAAALMM/5t3iweMoJZA/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
+<img src="https://4.bp.blogspot.com/-GUyQEa1evIM/VJRJdGiWfmI/AAAAAAAALMM/5t3iweMoJZA/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
 </figure>
 
 Nella fattispecie, un sorvegliante designato da nessuno, potenzialmente migliaia di volte più pericoloso di un uragano o di qualsiasi altra calamità naturale, ed estraneo dalle meccaniche umane.
 
 <figure>
-<img src="http://3.bp.blogspot.com/-wZD-VhORCdk/VJRHhh1LW_I/AAAAAAAALL0/F2gTHFbCH5g/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
+<img src="https://3.bp.blogspot.com/-wZD-VhORCdk/VJRHhh1LW_I/AAAAAAAALL0/F2gTHFbCH5g/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
 </figure>
 
 *All we have is his word*
@@ -71,7 +71,7 @@ A lungo termine, stagnazione, dipendenza subtotale dall'entità aliena (divenuta
 ## Guest Star from Gotham
 
 <figure>
-<img src="http://1.bp.blogspot.com/-uWMcqqROkkY/VJRIRIEwcwI/AAAAAAAALL8/HEq_2zoA9Ts/s1600/bruce.gif" alt="Lex Luthor: Man of Steel">
+<img src="https://1.bp.blogspot.com/-uWMcqqROkkY/VJRIRIEwcwI/AAAAAAAALL8/HEq_2zoA9Ts/s1600/bruce.gif" alt="Lex Luthor: Man of Steel">
 </figure>
 
 In una veste molto Violet di Tekken, un Bruce Wayne playboy, filantropo e milionario (ah no, quello era un altro) fa una comparsata abbastanza cruciale in questa miniserie (non è uno spoiler, è sulle copertine ed è stato pure in immagini promozionali a suo tempo).
@@ -81,13 +81,13 @@ Un epico scambio di vedute a cena tra il pipistrellone in borghese ed il nostro 
 ## Conclusioni
 
 <figure>
-<img src="http://1.bp.blogspot.com/-DGf11Tr5rIk/VJRMZhwsGOI/AAAAAAAALMY/94BAEtx2zLI/s1600/superman.gif" alt="Lex Luthor: Man of Steel">
+<img src="https://1.bp.blogspot.com/-DGf11Tr5rIk/VJRMZhwsGOI/AAAAAAAALMY/94BAEtx2zLI/s1600/superman.gif" alt="Lex Luthor: Man of Steel">
 </figure>
 
 Poco tempo fa ho parlato del senso di delusione che mi ha lasciato addosso Death of Wolverine, recente miniserie made in Marvel, un po' minata da una certa "frettolosità" del finale
 
 <figure>
-<img src="http://1.bp.blogspot.com/-xdiaka-L-64/VJRODAfYJ0I/AAAAAAAALMk/OSf0K8gPB7s/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
+<img src="https://1.bp.blogspot.com/-xdiaka-L-64/VJRODAfYJ0I/AAAAAAAALMk/OSf0K8gPB7s/s1600/lex.gif" alt="Lex Luthor: Man of Steel">
 </figure>
 
 Ecco, questo *Luthor* è una miniserie altrettanto breve, eppure semplicemente perfetta, con **una straordinaria carica di pathos e dialoghi meravigliosi**, capace di mettere degnamente in mostra quello che è a tutti gli effetti **uno dei personaggi più affascinanti di tutto l'universo DC.**

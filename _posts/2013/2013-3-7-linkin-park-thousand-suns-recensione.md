@@ -25,7 +25,7 @@ Non è che io abbia mai odiato i Linkin Park...è che, quando nei primi anni 200
 
 _Hybrid Theory_ a riascoltarlo oggi non è affatto un brutto disco (non penso sia nemmeno la quintessenza dell'arte musicale, frenate i vostri bassi istinti da debaser), diciamo solo che all'epoca di _In the End_ non ne potevo davvero più:
 
-![Chester Bennington]({{site.baseurl}}/{{site.baseurl}}/http://a3.ec-images.myspacecdn.com/images02/124/2fac991b524740929b0d25fcfd577924/l.jpg)
+![Chester Bennington]({{site.baseurl}}/{{site.baseurl}}/https://a3.ec-images.myspacecdn.com/images02/124/2fac991b524740929b0d25fcfd577924/l.jpg)
 (e secondo me non ne poteva più manco lui)
 
 Radio, Televisione, compagni di classe, spot pubblicitari, futuri AMV su Dragon Ball (prego ogni giorno che esista un apposito girone infernale per VOI, luiridi videomakers ripetitivi e metodici che manco il peggio serial killer)....

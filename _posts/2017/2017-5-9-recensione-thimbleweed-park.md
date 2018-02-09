@@ -29,14 +29,14 @@ Soprattutto, **Thimbleweed Park è un'Avventura Grafica di Ron Gilbert in combo 
 
 ## Però ?
 
-Però fosse tutto rosa e fiori non starei qui a scrivere qualcosa, [data la mia recente politica](http://xabacadabra.com/2017/pausetta/). 
+Però fosse tutto rosa e fiori non starei qui a scrivere qualcosa, [data la mia recente politica](https://xabacadabra.com/2017/pausetta/). 
 
 E, avendolo appena terminato, un paio di riflessioni sentivo il bisogno di sputarle fuori.
 
 ## Suonala ancora, Gilbert
 
 <figure>
-<img src='http://images.grumpygamer.com/boombox.gif' alt='Thimbleweed Park recensione'>
+<img src='https://images.grumpygamer.com/boombox.gif' alt='Thimbleweed Park recensione'>
 </figure>
 
 Sempre senza girarci attorno ed evitando spoiler, partiamo col dire che **ho praticamente indovinato il finale di Thimbleweed Park nella prima metà del gioco.**
@@ -63,7 +63,7 @@ In generale **Thimbleweed Park è un gioco confezionato in modo certosino e pres
 
 Insomma, una classica Avventura Grafica di Ron Gilbert...
 
-Eppure, come ricorda [il consigliatissimo articolo di _Lucasdelirium_](http://www.lucasdelirium.it/tpscheda.php), nel 2013 quello stesso Gilbert scrisse:
+Eppure, come ricorda [il consigliatissimo articolo di _Lucasdelirium_](https://www.lucasdelirium.it/tpscheda.php), nel 2013 quello stesso Gilbert scrisse:
 
 > Se facessi un nuovo punta & clicca, la gente direbbe che non è all'altezza di Monkey Island. Ma si lamenterebbero in realtà perché non sarebbe all'altezza della loro nostalgia di Monkey Island. Non posso competere con una cosa del genere, nessuno può.
 
@@ -71,7 +71,7 @@ Ecco.
 
 Ora, io qui mi trovo inevitabilmente negli scomodi panni de _la gente_, ma il fatto è che la questione non è così semplice o netta da dirimere, **anche senza scomodare inevitabili paragoni e nostalgia.**
 
-Generi e contesti del tutto diversi, eppure molti degli aspetti trattati qualche tempo fa con [_Pillars of Eternity_](http://xabacadabra.com/2016/pillars-of-eternity-recensione/) rischiano di riaffiorare fuori anche in questo caso...eppure qui abbiamo di fronte un titolo **con una consapevolezza di fondo tutta diversa, quasi _esasperata_:**
+Generi e contesti del tutto diversi, eppure molti degli aspetti trattati qualche tempo fa con [_Pillars of Eternity_](https://xabacadabra.com/2016/pillars-of-eternity-recensione/) rischiano di riaffiorare fuori anche in questo caso...eppure qui abbiamo di fronte un titolo **con una consapevolezza di fondo tutta diversa, quasi _esasperata_:**
 
 **Thimbleweed Park è il gioco che meglio ha saputo sfruttare il contributo dei propri _backers_** <small>(i finaziatori di Kickstarter)</small>, cavalcando e spiattellando in faccia al giocatore il suo essere _"what fans paid for"_ ad ogni secondo, giocandoci sopra con tutta la verve e l'ironia propria dei suoi autori.
 

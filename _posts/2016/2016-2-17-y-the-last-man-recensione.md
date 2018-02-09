@@ -80,11 +80,11 @@ Dovessi dire, è l'americano più inglese che io abbia mai letto in ambito fumet
 ## Conclusioni
 
 <figure>
-<img src="http://media.dcentertainment.com/sites/default/files/GalleryComics_V_1920x1080_20141300_YLM-book2-CVR_54b02cac52cfd4.73783886.jpg" alt="Y - L'ultimo uomo">
+<img src="https://media.dcentertainment.com/sites/default/files/GalleryComics_V_1920x1080_20141300_YLM-book2-CVR_54b02cac52cfd4.73783886.jpg" alt="Y - L'ultimo uomo">
 </figure>
 
 Credo sia **un fumetto estremamente universale** e possa piacere un po' a tutti, in particolar modo chiunque abbia un debole per contesti apocalittici e distopici (ma non solo, davvero) e una certa attenzione agli aspetti psicologici dei personaggi. 
 
-Parlando di quest'ultimi e dei loro rapporti, ho trovato in Y parecchi interessanti paralleli con il bellissimo _Strange Days_, sottovalutato filmone fantascientifico degli anni '90 (se siete curiosi, vi rimando all'<a href='http://docmanhattan.blogspot.it/2014/11/strange-days-recensione.html'>ottima recensione del Dottor Manhattan</a>)
+Parlando di quest'ultimi e dei loro rapporti, ho trovato in Y parecchi interessanti paralleli con il bellissimo _Strange Days_, sottovalutato filmone fantascientifico degli anni '90 (se siete curiosi, vi rimando all'<a href='https://docmanhattan.blogspot.it/2014/11/strange-days-recensione.html'>ottima recensione del Dottor Manhattan</a>)
 
 Infine, menzione specialissima per le splendide copertine del nostro **Massimo Carnevale** (vero orgoglio nazionale), tanti applausi alla solita Vertigo e beh, un sorriso dolce amaro per una storia di quelle belle, che anche se ti leggi in qualche settimana sembrano averti accompagnato per tutta una vita.

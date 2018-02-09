@@ -30,7 +30,7 @@ Il punto, però, è che nel paragrafo sopra ho scritto _"che palle"_ e mo tocca 
 ## Macbeth Super Star
 
 <figure>
-	<img src="http://www.theyorker.co.uk/wp-content/uploads/2015/10/Macbeth-Poster-.jpg
+	<img src="https://www.theyorker.co.uk/wp-content/uploads/2015/10/Macbeth-Poster-.jpg
 " alt="macbeth 2016 locandina">
 </figure>
 
@@ -47,7 +47,7 @@ l'ho letta parecchi anni fa e ho visto i film di Welles[^orson] e Polanksi[^pola
 ## In che senso _Che palle_ ?
 
 <figure>
-	<img src="http://thefilmstage.com/wp-content/uploads/2015/06/macbeth_header-620x338.png
+	<img src="https://thefilmstage.com/wp-content/uploads/2015/06/macbeth_header-620x338.png
 " alt="macbeth 2016 marion cotillard">
 </figure>
 
@@ -72,7 +72,7 @@ So che adesso sembrerò ritrattare quanto scritto, ma non credo che Justin Kurze
 ## Conclusioni
 
 <figure>
-	<img src="http://images.vanityfair.it/gallery/31830/Big/c02e4e28-a53b-40bd-8754-3dc4164caa0f.jpg
+	<img src="https://images.vanityfair.it/gallery/31830/Big/c02e4e28-a53b-40bd-8754-3dc4164caa0f.jpg
 " alt="macbeth 2016 michael fassbender">
 </figure>
 
@@ -91,7 +91,7 @@ Personalmente lo vedrei pure un punto sotto...ma che ci volete fare, ogni tanto 
 
 <script type="application/ld+json">
 {
-  "@context":"http://schema.org",
+  "@context":"https://schema.org",
   "@type":"Movie",
   "name":"Macbeth",
   "director": "Justin Kurzel",
@@ -105,7 +105,7 @@ Personalmente lo vedrei pure un punto sotto...ma che ci volete fare, ogni tanto 
     "author": {
       "@type": "Person",
       "name": "Andrea Xab Corinti",
-    "image": "http://xabacadabra.com/images/macbeth.jpg",
+    "image": "https://xabacadabra.com/images/macbeth.jpg",
    },
    "datePublished": "2016-1-14",
    "dateCreated" : "2016-1-14",

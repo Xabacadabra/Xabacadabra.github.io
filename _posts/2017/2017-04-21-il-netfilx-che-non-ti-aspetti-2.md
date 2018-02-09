@@ -23,7 +23,7 @@ Secondo episodio di una rubrica che avrei potuto benissimo chiamare _Cazzeggiand
 ## Tokyo Trial 
 
 <figure>
-<img src='http://static.apparata.nl/images/2016/Tokyo-Trial-1.jpg' alt='Tokyo Trial'>
+<img src='https://static.apparata.nl/images/2016/Tokyo-Trial-1.jpg' alt='Tokyo Trial'>
 </figure>
 
 Il primo commento nerd è 
@@ -47,7 +47,7 @@ Anche per questo, caldamente consigliata a tutti gli appassionati di Storia.
 ## Grillo vs Grillo
 
 <figure>
-<img src='http://binrome.com/wp-content/uploads/2016/04/grillo-640x432.jpg' alt='Grillo vs Grillo'>
+<img src='https://binrome.com/wp-content/uploads/2016/04/grillo-640x432.jpg' alt='Grillo vs Grillo'>
 </figure>
 
 <small>(Che a consigliare Louis C.K. son boni tutti.)</small>
@@ -91,7 +91,7 @@ Altro che post-verità
 ## Harry a pezzi 
 
 <figure>
-<img src='http://aforismi.meglio.it/img/film/Harry_a_pezzi.jpg' alt='Harry a Pezzi'>
+<img src='https://aforismi.meglio.it/img/film/Harry_a_pezzi.jpg' alt='Harry a Pezzi'>
 </figure>
 
 **Un Woody Allen nella fase crepuscolare del proprio esaurimento nervoso**, quello del 1997: 
@@ -105,7 +105,7 @@ Al solito, **lo humor di Allen ha un sapore piuttosto "europeo" che poco ha a ch
 ## Daft Punk Unchained
 
 <figure>
-<img src='http://amassing2.sakura.ne.jp/image/jacket/large/2015b/53250.jpg' alt='Daft Punk Unchained'>
+<img src='https://amassing2.sakura.ne.jp/image/jacket/large/2015b/53250.jpg' alt='Daft Punk Unchained'>
 </figure>
 
 Documentario (ovviamente) francese del 2015 dedicato al duo più importante e rivoluzionario della moderna musica elettronica.
@@ -123,7 +123,7 @@ _One more time!_
 ## 13 Reason Why 
 
 <figure>
-<img src='http://www.flickeringmyth.com/wp-content/uploads/2017/01/13-Reasons-Why.jpg' alt='13 Reason Why'>
+<img src='https://www.flickeringmyth.com/wp-content/uploads/2017/01/13-Reasons-Why.jpg' alt='13 Reason Why'>
 </figure>
 
 Serie Tv del momento, guardata tutta in un fiato (_bingewatch_, come dicono gli yankee), costruita e **prodotta dannatamente bene ma forse un po' troppo "pretenziosa" per i miei gusti**.
@@ -134,4 +134,4 @@ Consigliarla è quasi superfluo, visto che a quanto pare un utente Netflix su du
 
 ## Altro dalla rubrica "Il Netfilx che non ti aspetti"
 
-1. [Il Netflix che non ti aspetti #1](http://xabacadabra.com/2017/il-netfilx-che-non-ti-aspetti/)
+1. [Il Netflix che non ti aspetti #1](https://xabacadabra.com/2017/il-netfilx-che-non-ti-aspetti/)

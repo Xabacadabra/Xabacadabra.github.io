@@ -15,7 +15,7 @@ published: true
 comments: true
 ---
 
-Della mia stima per **Zoro** (**Diego Bianchi**) e del suo **_[Gazebo](http://xabacadabra.com/2013/gazebo)_ **televisivo ho già fatto sapere a più riprese, ed è cosa nota per chiunque mi veda bazzicare su **[twitter](https://twitter.com/Xabaras89) **nelle tarde ore della domenica e del lunedì  
+Della mia stima per **Zoro** (**Diego Bianchi**) e del suo **_[Gazebo](https://xabacadabra.com/2013/gazebo)_ **televisivo ho già fatto sapere a più riprese, ed è cosa nota per chiunque mi veda bazzicare su **[twitter](https://twitter.com/Xabaras89) **nelle tarde ore della domenica e del lunedì  
 
 Va da se che TV e Cinema sono cose ben diverse, pur senza dimenticare che il buon Diego proviene anzitutto dal Web...ergo, l'amletico dubbio:  
   
@@ -44,7 +44,7 @@ Il fatto è che, in fin della fiera, non è mai del tutto così.
 ## Fischia(va) il vento
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-Mmq1RwFmG4Q/VNOfhyh4qLI/AAAAAAAALXg/LTYy9EYdKQY/s1600/berlusconi.jpg" alt="makkox">
+	<img src="https://4.bp.blogspot.com/-Mmq1RwFmG4Q/VNOfhyh4qLI/AAAAAAAALXg/LTYy9EYdKQY/s1600/berlusconi.jpg" alt="makkox">
 	<figcaption>Makkox è sempre Makkox</figcaption>
 </figure>	
 
@@ -77,7 +77,7 @@ Molto si può discutere sulla regia complessiva del film, ma** in quanto a "dir
 ## Il culo di Ilaria Spada
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-D1uPHi1V0dA/VNOddGDUiHI/AAAAAAAALXM/YzpPZAZQD0Q/s1600/vlcsnap-2015-02-05-17h36m41s191.png" alt="Ilaria Spada">
+	<img src="https://4.bp.blogspot.com/-D1uPHi1V0dA/VNOddGDUiHI/AAAAAAAALXM/YzpPZAZQD0Q/s1600/vlcsnap-2015-02-05-17h36m41s191.png" alt="Ilaria Spada">
 </figure>	
 
 No cioè, chiamatemelo _fanservice_, chiamatemelo come vi pare, datemi del becero maschilista, ma che capolavoro di madre natura signori miei.
@@ -85,7 +85,7 @@ No cioè, chiamatemelo _fanservice_, chiamatemelo come vi pare, datemi del bece
 ## Lorena Cesarini
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-gwyLF5FV5LM/VNOd1AGgDiI/AAAAAAAALXU/9VOR2vOj6Q4/s1600/vlcsnap-2015-02-05-17h33m36s1.png" alt="Lorena Cesarini">
+	<img src="https://4.bp.blogspot.com/-gwyLF5FV5LM/VNOd1AGgDiI/AAAAAAAALXU/9VOR2vOj6Q4/s1600/vlcsnap-2015-02-05-17h33m36s1.png" alt="Lorena Cesarini">
 </figure>
 
 Che pure lei, bontà sua, dopo i titoli di testa m'ha fatto innamorare con tempeste ormonali degne di un quindicenne.

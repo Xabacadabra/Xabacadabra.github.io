@@ -13,7 +13,7 @@ published: true
 comments: true
 ---
 
-Otto giorni fa eravamo rimasti [così](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/).
+Otto giorni fa eravamo rimasti [così](https://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/).
 
 Oggi, 40 ore e rotte di gioco giocatissimo dopo, posso dirmi...ancora a metà strada.
 

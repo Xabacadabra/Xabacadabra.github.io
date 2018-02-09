@@ -22,7 +22,7 @@ Beh, anche se giusto quel paio d'anni fuori tempo massimo, ho pensato di recensi
 ## La lentezza complessiva del film
 
 <figure>
-<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Russell-Crowe-image-3.jpg" alt="l'uomo d'acciaio recensione">
+<img src="https://cdn.collider.com/wp-content/uploads/Man-of-Steel-Russell-Crowe-image-3.jpg" alt="l'uomo d'acciaio recensione">
 </figure> 
 
 Che **è un po' il fattore che mi ha sempre reso antipatico il cinema di Zack Snyder**, salvo un paio d'eccezioni:
@@ -34,7 +34,7 @@ Che **è un po' il fattore che mi ha sempre reso antipatico il cinema di Zack Sn
 ## I due approcci al Divino di Superman
 
 <figure>
-<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Michael-Shannon-image-3.jpg" alt="l'uomo d'acciaio recensione">
+<img src="https://cdn.collider.com/wp-content/uploads/Man-of-Steel-Michael-Shannon-image-3.jpg" alt="l'uomo d'acciaio recensione">
 </figure> 
 
 Ovvero quello che credo un punto fondamentale sia per capire _Man of Steel_ sia per capire la creatura di Siegel e Shuster in generale:
@@ -68,7 +68,7 @@ piuttosto che **tra l'invincibilità assoluta e la vulnerabilità manifesta** di
 ## Superman senza Clark Kent
 
 <figure>
-<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-image-8.jpg" alt="l'uomo d'acciaio recensione">
+<img src="https://cdn.collider.com/wp-content/uploads/Man-of-Steel-image-8.jpg" alt="l'uomo d'acciaio recensione">
 </figure> 
 
 **Clark Kent**, l'alterego di Superman (spoiler!) è un po' **l'incarnazione ideale del sopracitato aspetto "Gesuita" dell'uomo d'acciaio**, l'emblema di quel _"s'è fatto uomo"_, il filone da cui attingono molti fumetti e su cui (tra le altre cose) era basata un po' tutta la serie _Smallville_
@@ -88,16 +88,16 @@ In tutto questo discorso, **Clark Kent resta solo una maschera**, un po' come Ta
 Detto questo, stando così le cose, semplicemente **ha ragione Lex Luthor**, poche ciance.
 
 <figure class="half">
- <img src="http://1.bp.blogspot.com/-DGf11Tr5rIk/VJRMZhwsGOI/AAAAAAAALMY/94BAEtx2zLI/s1600/superman.gif" alt="lex luthor">
- <img src="http://1.bp.blogspot.com/-xdiaka-L-64/VJRODAfYJ0I/AAAAAAAALMk/OSf0K8gPB7s/s1600/lex.gif" alt="lex luthor">
+ <img src="https://1.bp.blogspot.com/-DGf11Tr5rIk/VJRMZhwsGOI/AAAAAAAALMY/94BAEtx2zLI/s1600/superman.gif" alt="lex luthor">
+ <img src="https://1.bp.blogspot.com/-xdiaka-L-64/VJRODAfYJ0I/AAAAAAAALMk/OSf0K8gPB7s/s1600/lex.gif" alt="lex luthor">
 </figure>
 
-(tratto da Lex Luthor: Man of Steel, che tempo fa avevo recensito <a href src="http://xabacadabra.com/2014/lex-luthor-man-of-steel-recensione">qui.</a>)
+(tratto da Lex Luthor: Man of Steel, che tempo fa avevo recensito <a href src="https://xabacadabra.com/2014/lex-luthor-man-of-steel-recensione">qui.</a>)
 
 Così come ha ragione **il Batman di Frank Miller** (che con il ragazzone di Krypton c'è sempre andato giù abbastanza pesante):
 
 <figure>
-<img src="http://robot6.comicbookresources.com/wp-content/uploads/2015/10/batmanvssupermantdkr.jpg" alt="batman superman miller">
+<img src="https://robot6.comicbookresources.com/wp-content/uploads/2015/10/batmanvssupermantdkr.jpg" alt="batman superman miller">
 </figure> 
 
 lungi dalle sue genuine buone intenzioni, **l'incapacità di concepire le umane vulnerabilità rendono Superman nel migliore dei casi un genitore ultraprotettivo, e nel peggiore un burattinaio (e al tempo stesso burattino) di una sorta di stagnante "dittatura morbida".**
@@ -105,7 +105,7 @@ lungi dalle sue genuine buone intenzioni, **l'incapacità di concepire le umane 
 ## Tutto il resto è noia...?
 
 <figure>
-<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-9.jpg" alt="l'uomo d'acciaio recensione">
+<img src="https://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-9.jpg" alt="l'uomo d'acciaio recensione">
 </figure> 
 
 **_L'Uomo d'Acciaio_ io l'ho trovato un film estremamente noioso per tempi, inquadrature, luci, dialoghi ed impiego degli effetti speciali.**
@@ -119,7 +119,7 @@ Certo, **forse sono più legati alla particolare natura del personaggio che alla
 ## Bouillabaisse vs Hot Dog
 
 <figure>
-<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-7.jpg" alt="l'uomo d'acciaio recensione">
+<img src="https://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-7.jpg" alt="l'uomo d'acciaio recensione">
 </figure> 
 
 è la differenza che passa tra un piatto caratteristico al ristorante e un saporitissimo paninazzo preso al volo: 
@@ -129,7 +129,7 @@ Certo, **forse sono più legati alla particolare natura del personaggio che alla
 ## Più cine e meno comic
 
 <figure>
-<img src="http://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-4.jpg" alt="l'uomo d'acciaio recensione">
+<img src="https://cdn.collider.com/wp-content/uploads/Man-of-Steel-Henry-Cavill-image-4.jpg" alt="l'uomo d'acciaio recensione">
 <figcaption>Cavill m'è parso adatto al ruolo, anche se il costume è un po' na chiavica</figcaption>
 </figure> 
 

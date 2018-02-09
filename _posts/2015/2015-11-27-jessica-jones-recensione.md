@@ -43,7 +43,7 @@ e, visto che in mezzo c'è inevitabilmente **Luke Cage** (che ad Harlem e quarti
 ## I guai di famiglia di Barty Crouch - Parte II
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-0JHxJ6hFC38/VlcTetOrbLI/AAAAAAAANX4/LkNEM1qXoAY/s1600/Jessica-Jones-Killgrave-poster.jpg" alt="Marvel's Jessica Jones | Recensione">
+	<img src="https://3.bp.blogspot.com/-0JHxJ6hFC38/VlcTetOrbLI/AAAAAAAANX4/LkNEM1qXoAY/s1600/Jessica-Jones-Killgrave-poster.jpg" alt="Marvel's Jessica Jones | Recensione">
 </figure>
 
 **Killgrave** è poi sì un bel cattivo originale (interpretato benissimo da un grandioso **David Tennant**) ma alla lunga, sinceramente, **l'uso costante di flashback relativi al suo rapporto con la protagonista m'è parso un po' estenuante e retorico**, e per paradosso l'avrei trovato più funzionale in un minutaggio da Cinema che da Serie TV (ogni tanto succede, oh).
@@ -55,7 +55,7 @@ senza spoilerare niente, diciamo solo che alla fine di qualche episodio mi sono 
 ## Heisenberg aiutaci tu ?
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-mokOncGzIG4/Vlel2a4xv-I/AAAAAAAANYI/1EKqjXZnj5g/s1600/krysten%2Britter.png" alt="Marvel's Jessica Jones | Recensione">
+	<img src="https://4.bp.blogspot.com/-mokOncGzIG4/Vlel2a4xv-I/AAAAAAAANYI/1EKqjXZnj5g/s1600/krysten%2Britter.png" alt="Marvel's Jessica Jones | Recensione">
 </figure>
 Meno bene devo dire poi di **Krysten Ritter**:
 
@@ -72,7 +72,7 @@ Buon prospetto per futuri crossover, ma d'altro canto un sonorosissimo "BOH?!" c
 ## Conclusioni
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-iaQNzPpTPWA/VlemXaOW-sI/AAAAAAAANYQ/yaIvALwMlQg/s1600/lukecage.jpg" alt="Marvel's Jessica Jones | Recensione">
+	<img src="https://1.bp.blogspot.com/-iaQNzPpTPWA/VlemXaOW-sI/AAAAAAAANYQ/yaIvALwMlQg/s1600/lukecage.jpg" alt="Marvel's Jessica Jones | Recensione">
 </figure>
 
 Specificando che attendo con ansia la serie su Luke Cage (Mike Colter forse è troppo bonaccione e poco stronzo rispetto a come ricordo il personaggio, ma complessivamente mi ha convinto) e la seconda di Daredevil beh...diciamo che con Jessica ci vediamo un po' in giro (*coff coff Difensori coff coff*), anche se sono rimasto decisamente meno coinvolto...
@@ -86,7 +86,7 @@ Insomma: **niente male ragazza**, però perdonami...ci sono davvero tante squadr
 
 <script type="application/ld+json">
 {
-  "@context":"http://schema.org",
+  "@context":"https://schema.org",
   "@type":"TVSeries",
   "name":"Marvel's Jessica Jones", 
   "review": {

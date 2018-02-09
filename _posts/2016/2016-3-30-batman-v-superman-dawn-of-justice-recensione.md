@@ -34,7 +34,7 @@ Cioè, viene facile se la si ragiona in modo superficiale e modaiolo, il che fon
 ## L'accanimento della critica
 
 <figure>
-<img src="http://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/8/87/BvSDawnofJusticeLogo.jpg" alt="batman v superman recensione">
+<img src="https://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/8/87/BvSDawnofJusticeLogo.jpg" alt="batman v superman recensione">
 </figure>
 
 **Batman V Superman non è il film di merda che critica e social network tanto vorrebbero che fosse.**
@@ -50,7 +50,7 @@ Detto questo, al solito ciò che scrivo qui è tutto a titolo squisitamente pers
 ## Crossover Fumettistici
 
 <figure>
-<img src="http://vignette3.wikia.nocookie.net/newdcmovieuniverse/images/4/4c/BatmanvSupermanComicConPoster.jpg" alt="batman v superman recensione">
+<img src="https://vignette3.wikia.nocookie.net/newdcmovieuniverse/images/4/4c/BatmanvSupermanComicConPoster.jpg" alt="batman v superman recensione">
 </figure>
 
 Personalmente **quelli che mi sono piaciuti si contano sulle dita di una mano** (...che in genere indossa [il guanto dell'infinito](https://it.wikipedia.org/wiki/Il_guanto_dell'infinito)), soprattutto nel discorso DC non mi hanno mai convinto:
@@ -68,15 +68,15 @@ ecco, **il Batman di questo film è praticamente ricalcato su quello di Miller**
 ## Il Superman di Cavill
 
 <figure>
-<img src="http://vignette1.wikia.nocookie.net/newdcmovieuniverse/images/9/9b/Henrycavill.jpg" alt="batman v superman recensione">
+<img src="https://vignette1.wikia.nocookie.net/newdcmovieuniverse/images/9/9b/Henrycavill.jpg" alt="batman v superman recensione">
 </figure>
 
-**Batman V Superman in origine doveva essere Man of Steel II**, quindi partiamo col dire che la previa visione dell'Uomo d'Acciaio è molto importante (purtroppo) e **per non allungare troppo il brodo vi rimando alla mia [relativa recensione](http://xabacadabra.com/2016/l-uomo-d-acciaio-recensione/)**, visto che il Superman che abbiamo in questo film è sostanzialmente lo stesso che avevamo lasciato nel film precedente (forse **un pelo spogliato della sua divinità dal Batman-Prometeo della situazione**).
+**Batman V Superman in origine doveva essere Man of Steel II**, quindi partiamo col dire che la previa visione dell'Uomo d'Acciaio è molto importante (purtroppo) e **per non allungare troppo il brodo vi rimando alla mia [relativa recensione](https://xabacadabra.com/2016/l-uomo-d-acciaio-recensione/)**, visto che il Superman che abbiamo in questo film è sostanzialmente lo stesso che avevamo lasciato nel film precedente (forse **un pelo spogliato della sua divinità dal Batman-Prometeo della situazione**).
 
 ## Il Batman di Affleck
 
 <figure>
-<img src="http://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/0/03/3hRU6px.jpg" alt="batman v superman recensione">
+<img src="https://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/0/03/3hRU6px.jpg" alt="batman v superman recensione">
 </figure>
 
 Ben Affleck come attore non mi ha mai detto molto, e anche per questo sono stato tra i tanti che che sbuffarono alla notizia della scelta di casting.
@@ -92,7 +92,7 @@ Come però dicevo, **il Batman picchione è ottimo sia a livello interpretativo 
 ## Il Lex Luthor di Eisenberg
 
 <figure>
-<img src="http://vignette4.wikia.nocookie.net/newdcmovieuniverse/images/f/f5/Jesse-Lex-000220568-1-.jpg" alt="batman v superman recensione">
+<img src="https://vignette4.wikia.nocookie.net/newdcmovieuniverse/images/f/f5/Jesse-Lex-000220568-1-.jpg" alt="batman v superman recensione">
 </figure>
 
 Mentre per contro Lex è uno dei suoi principali problemi.
@@ -102,19 +102,19 @@ Perché sì, l'attore è bravo, perché ok, il Lex Luthor originale era uno scie
 Ma perché cazzo...
 
 <figure>
-<img src="http://vignette3.wikia.nocookie.net/dcanimated/images/b/b2/JL_Luthor.png" alt="batman v superman recensione">
-<img src="http://3.bp.blogspot.com/-wZD-VhORCdk/VJRHhh1LW_I/AAAAAAAALL0/F2gTHFbCH5g/s1600/lex.gif" alt="batman v superman recensione">
-<img src="http://images-cdn.moviepilot.com/image/upload/v1426599973/1152385-lex_luthor-batman-v-superman-lex-luthor-for-president-jpeg-169170.jpg">
+<img src="https://vignette3.wikia.nocookie.net/dcanimated/images/b/b2/JL_Luthor.png" alt="batman v superman recensione">
+<img src="https://3.bp.blogspot.com/-wZD-VhORCdk/VJRHhh1LW_I/AAAAAAAALL0/F2gTHFbCH5g/s1600/lex.gif" alt="batman v superman recensione">
+<img src="https://images-cdn.moviepilot.com/image/upload/v1426599973/1152385-lex_luthor-batman-v-superman-lex-luthor-for-president-jpeg-169170.jpg">
 </figure>
 
 Il Lex Luthor moderno _è questo_, e **non esiste un film dove sia stato reso in un modo decente.**
 
-E la cosa mi da immenso fastidio, perché **in un film del genere un Lex alla Frank Underwood ci sarebbe stato alla grande** (a tal proposito, consiglio vivamente [questa lettura](http://maglomaniac.com/frank-underwood-the-lex-luthor-we-deserved-from-kevin-spacey/)), mentre **il Lex di Batman V Superman non può fare a meno di somigliare ad un Joker di Nolan dei poveri**
+E la cosa mi da immenso fastidio, perché **in un film del genere un Lex alla Frank Underwood ci sarebbe stato alla grande** (a tal proposito, consiglio vivamente [questa lettura](https://maglomaniac.com/frank-underwood-the-lex-luthor-we-deserved-from-kevin-spacey/)), mentre **il Lex di Batman V Superman non può fare a meno di somigliare ad un Joker di Nolan dei poveri**
 
 ## Wonder Woman e Doomsday
 
 <figure>
-<img src="http://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/3/33/Ezelsn5vZaY-1-.jpg" alt="batman v superman recensione">
+<img src="https://vignette2.wikia.nocookie.net/newdcmovieuniverse/images/3/33/Ezelsn5vZaY-1-.jpg" alt="batman v superman recensione">
 </figure>
 
 Messi assieme perché, come già si può evincere dai trailer, **sono quelli che sdoganano la quota più tamarra del film**, con tanto di battutine e theme supereroistico che per la verità (non me ne voglia Hans prezzemolo Zimmer) sembra uscito da _Soul Reaver 2_.
@@ -133,7 +133,7 @@ Quanto a Doomsday, **lui pare effettivamente una versione pataccosa del Re Gobli
 <img src="https://leortola.files.wordpress.com/2013/06/05.jpg" alt="batman v superman recensione">
 </figure>
 
-Alla fine delle due ore abbondanti mi sono ritrovato istintivamente a pensare come **le sensazioni che mi ha lasciato Batman V Superman siano diametralmente opposte a quelle che ho avuto con [Star Wars VII - Il Risveglio della Forza](http://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/)...**
+Alla fine delle due ore abbondanti mi sono ritrovato istintivamente a pensare come **le sensazioni che mi ha lasciato Batman V Superman siano diametralmente opposte a quelle che ho avuto con [Star Wars VII - Il Risveglio della Forza](https://xabacadabra.com/2015/star-wars-7-recensione-il-risveglio-della-forza/)...**
 
 Film lontanissimi certo, ma entrambi nerd-franchise-movie creati con una spiccatissima idea commerciale dietro:
 
@@ -144,7 +144,7 @@ Poi oh, Snyder non è certo il Santo Protettore della Creatività, infatti in pi
 ## [LIEVE SPOILER] Il momento terrone
 
 <figure>
-<img src="http://idiitalia.com/wp-content/uploads/2015/05/MAMMA-SON-TANTO-FELICE.jpg" alt="batman v superman recensione">
+<img src="https://idiitalia.com/wp-content/uploads/2015/05/MAMMA-SON-TANTO-FELICE.jpg" alt="batman v superman recensione">
 </figure>
 
 A dispetto dei nomi crucco-sassoni di Snyder e Goyer, la sceneggiatura risolve il conflitto tra i due supereroi in **un momento che è puro melodramma italico.**
@@ -158,7 +158,7 @@ E vabbè, considerando la storia di Bruce Wayne la cosa ci può anche stare, per
 ## Conclusioni
 
 <figure>
-<img src="http://vignette3.wikia.nocookie.net/newdcmovieuniverse/images/3/39/UkeWmNrCNYA-1-.jpg" alt="batman v superman recensione">
+<img src="https://vignette3.wikia.nocookie.net/newdcmovieuniverse/images/3/39/UkeWmNrCNYA-1-.jpg" alt="batman v superman recensione">
 </figure>
 
 **Avrei preferito che il film fosse più breve e conciso**, magari lasciando da parte Wonder Woman e altre cose per un sequel, ma mi rendo conto che **in termini economici e di promozione è stato senz'altro più conveniente gestirsela così** (tanto più che al botteghino il film sta sbancando, per quanto il franchise rischi di uscirne con le ossa rotte in prospettiva).

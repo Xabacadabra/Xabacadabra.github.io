@@ -61,7 +61,7 @@ Sono alle prese con la fase embrionale di **un esperimento molto personale abbas
 
 Appena possibile **vorrei provare a tornare a cimentarmi in qualcosa di "collettivo" a livello web**, concretizzando troppe idee rimaste per aria nel corso degli anni spostandole su piattaforme e settori tutti diversi, che personalmente non ho mai affrontato prima e confesso mi spaventano un po'. 
 
-Per adesso mi sento di dire solo che **conto sulla partecipazione del buon vecchio zio [Arc](http://www.arcweb.it/)** e spero di dare ulteriori news entro la fine dell'estate 😄
+Per adesso mi sento di dire solo che **conto sulla partecipazione del buon vecchio zio [Arc](https://www.arcweb.it/)** e spero di dare ulteriori news entro la fine dell'estate 😄
 
 ### Master! Master! Where’s the dreams that I’ve been after?
 
@@ -77,7 +77,7 @@ Dovessi dire, **consiglierei a tutti gli sviluppatori di rispolverarsi un po' la
 
 ### Distant Worlds
 
-Tra qualche settimana andrò a vedermi il concertone [**Distant Worlds**](http://www.ffdistantworlds.com/concert/milan/) e per la prospettiva sono già _eccitato come uno scolaretto_...se riesco due righe in merito le vorrei buttare giù, ma **dubito in eventuali reportage chilometrici, perché la musica di Nobuo Uematsu per me è fondamentalmente qualcosa di sacro**: ogni volta che tento di descriverla soffro di un certo timore reverenziale. Quindi boh, vedremo!
+Tra qualche settimana andrò a vedermi il concertone [**Distant Worlds**](https://www.ffdistantworlds.com/concert/milan/) e per la prospettiva sono già _eccitato come uno scolaretto_...se riesco due righe in merito le vorrei buttare giù, ma **dubito in eventuali reportage chilometrici, perché la musica di Nobuo Uematsu per me è fondamentalmente qualcosa di sacro**: ogni volta che tento di descriverla soffro di un certo timore reverenziale. Quindi boh, vedremo!
 
 ### Thimbleweed Park e via giocando
 
@@ -95,14 +95,14 @@ Eh, sì: avendo adorato 3 e 4, appena possibile mi accatterò **Persona 5**, di 
 
 Tornando a Xaba Cadabra, segnalo un megapostone in cantiere che personalmente m'interessa un sacco: 
 
-Dopo la traduzione dell'[Intervista ad Hironobu Sakaguchi](http://xabacadabra.com/2017/intervista-hironobu-sakaguchi/) sto lavorando ad un'altra dedicata a **Kazuko Shibuya**, designer della Square sin dal 1986 e somma maestra della pixel art: 
+Dopo la traduzione dell'[Intervista ad Hironobu Sakaguchi](https://xabacadabra.com/2017/intervista-hironobu-sakaguchi/) sto lavorando ad un'altra dedicata a **Kazuko Shibuya**, designer della Square sin dal 1986 e somma maestra della pixel art: 
 
 <figure>
 <img src='https://lparchive.org/Final-Fantasy-VI-(by-Blastinus)/Update%2047/1-25072011_134100.png' alt='Final-Fantasy-VI'>
 <figcaption>A lei si devono una marea di cose, dai classici menù al font del primissimo Final Fantasy passando per la "pixellizazione" di mostri e concept art del Maestro Yoshitaka Amano...dovessi dire, penso che il lavoro di design/animazione degli sprite di Final Fantasy VI possa essere considerato il suo miglior biglietto da visita.</figcaption>
 </figure>
 
-Tolto l'aspetto della traduzione (impegnativo ma anche abbastanza appagante), **faccende come questa rappresentano il tipo di contenuto con cui avrei voglia di riempire Xaba Cadabra in questa fase** (vedi anche  [il reportage al Cartoons on the Bay con Shin'ichiro Watanabe](http://xabacadabra.com/2017/il-shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/) )
+Tolto l'aspetto della traduzione (impegnativo ma anche abbastanza appagante), **faccende come questa rappresentano il tipo di contenuto con cui avrei voglia di riempire Xaba Cadabra in questa fase** (vedi anche  [il reportage al Cartoons on the Bay con Shin'ichiro Watanabe](https://xabacadabra.com/2017/il-shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/) )
 
 Per forza di cose però **parliamo di roba abbastanza tosta da scrivere/impaginare** e, con l'estate alle porte, temo risulterà ancor più dura mantenere un minimo di costanza.
 

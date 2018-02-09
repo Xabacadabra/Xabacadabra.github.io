@@ -2,7 +2,7 @@
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
 User-agent: *
-Sitemap: http://xabacadabra.com/sitemap.xml
+Sitemap: https://xabacadabra.com/sitemap.xml
 
 User-agent: *
-Disallow: http://xabacadabra.com/media-tracker
+Disallow: https://xabacadabra.com/media-tracker

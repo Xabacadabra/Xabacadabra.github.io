@@ -32,7 +32,7 @@ E direi che parte qui il mio excursus autobiografico.
 ## Passo Indietro
 
 <figure>
-	<img src='http://1.bp.blogspot.com/-O8LDY003lvk/VcVSBtFepGI/AAAAAAAAMSA/zaiDWye4grI/s1600/MJ.png' alt='Jordan'>
+	<img src='https://1.bp.blogspot.com/-O8LDY003lvk/VcVSBtFepGI/AAAAAAAAMSA/zaiDWye4grI/s1600/MJ.png' alt='Jordan'>
 </figure>
 
 Il mio sport prediletto, come ogni tanto ho scritto pure da queste parti, è da sempre **il basket**, ma da buon bimbo italiano il calcio ha rappresentato un interesse costante e imperioso negli anni dell'infanzia, segnandomi molto: dalle partitelle di calcetto, passando ai primi videogiochi, arrivando alle lotte per gli scambi di figurine negli intervalli scolastici...
@@ -43,10 +43,10 @@ Non posso dire di essere mai stato davvero innamorato di questo sport (anche per
 
 Nel '94-'95 diventai Juventino, e avevo un paio di ottime ragioni:
 
-<a href='http://it.wikipedia.org/wiki/Moreno_Torricelli'>Moreno Torricelli</a>, nome che ai più non dirà molto, ma ad oggi credo sia ancora il mio unico compaesano (erbese) campione d'Italia, e (soprattutto), lui:
+<a href='https://it.wikipedia.org/wiki/Moreno_Torricelli'>Moreno Torricelli</a>, nome che ai più non dirà molto, ma ad oggi credo sia ancora il mio unico compaesano (erbese) campione d'Italia, e (soprattutto), lui:
 
 <figure>
-	<img src='http://2.bp.blogspot.com/-mgfLWC_lIU0/VV5472SDOSI/AAAAAAAAMBA/bd7zwtTDq9g/s1600/Roberto_Baggio%252C_Juventus%252C_Pallone_d%2527oro_1993.jpg' alt='Baggio'>
+	<img src='https://2.bp.blogspot.com/-mgfLWC_lIU0/VV5472SDOSI/AAAAAAAAMBA/bd7zwtTDq9g/s1600/Roberto_Baggio%252C_Juventus%252C_Pallone_d%2527oro_1993.jpg' alt='Baggio'>
 </figure>
 
 Quando l'anno dopo Baggio se ne andò al Milan (dove tra l'altro giocava anche **George Weah**, altro mio idolo indiscusso di questo sport) io divenni conseguentemente per un breve, fugace periodo milanista:
@@ -65,7 +65,7 @@ Il Mondiale del 2006 attenuò le cose, sì, ma fu il tempo di un'estate.
 
 Letteralmente:
 
-<a href='http://it.wikipedia.org/wiki/Scontri_di_Catania'>**2 febbraio 2007.**</a>
+<a href='https://it.wikipedia.org/wiki/Scontri_di_Catania'>**2 febbraio 2007.**</a>
 
 **Io Catania in quei giorni ci vivevo. E la bara di Raciti la sentivo vicinissima.**
 
@@ -74,7 +74,7 @@ Penso che, in un certo senso, la mia condanna totale verso quello che poteva sca
 ## Tévez in giro
 
 <figure>
-	<img src='http://2.bp.blogspot.com/-sxrhfMVjlcU/VcdYmlYSUSI/AAAAAAAAMSU/xLkPoJms3hw/s1600/tevez.jpg' alt='Tevez'>
+	<img src='https://2.bp.blogspot.com/-sxrhfMVjlcU/VcdYmlYSUSI/AAAAAAAAMSU/xLkPoJms3hw/s1600/tevez.jpg' alt='Tevez'>
 </figure>
 
 Ogni tanto però m'informavo felicemente dei destini e delle fortune del buon Carlitos.
@@ -87,7 +87,7 @@ Eppure, nella mia profanità, l'ho sempre sentito lontano, freddo, come una sort
 
 Sarà che, in effetti, io tra Holly e Benji ho sempre preferito Mark Lenders.
 
-E il fatto che Tevez abbia giocato per la Juventus (<a href='http://farm3.static.flickr.com/2398/2178057416_c5e2757c91_o.jpg'>come pure Mark Lenders</a>) mi ha reso davvero felice
+E il fatto che Tevez abbia giocato per la Juventus (<a href='https://farm3.static.flickr.com/2398/2178057416_c5e2757c91_o.jpg'>come pure Mark Lenders</a>) mi ha reso davvero felice
 
 ## Ballo e Lotta
 

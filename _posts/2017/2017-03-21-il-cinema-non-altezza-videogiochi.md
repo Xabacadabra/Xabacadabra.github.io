@@ -16,7 +16,7 @@ comments: true
 ads: false
 ---
 
-Per scongiurare il rischio di scatenare le ire di qualche cinefilo e/o ritrovarmi **Hideo Kojima** sotto casa, **preciso che adoro il cinema!** <small>(anche perché [questa sezione](http://xabacadabra.com/blog/tag/cinema/) non è stata creata mica per niente)</small> 
+Per scongiurare il rischio di scatenare le ire di qualche cinefilo e/o ritrovarmi **Hideo Kojima** sotto casa, **preciso che adoro il cinema!** <small>(anche perché [questa sezione](https://xabacadabra.com/blog/tag/cinema/) non è stata creata mica per niente)</small> 
 
 A dirla tutta, **sono un cinefilo tanto vorace da potermi giocare qualche partita nel campionato Tarantino pronosticando di piazzarmi almeno nei playoff**: 
 
@@ -41,16 +41,16 @@ E buona parte dell'argomento di questo post, in effetti, verte anzitutto su ques
 ## Quanto fattura l'industria dei videogiochi ?
 
 <figure>
-<img src='http://www.nerdsrevenge.it/wp-content/uploads/2013/09/Marios-Coins.jpg' alt='super mario'>
+<img src='https://www.nerdsrevenge.it/wp-content/uploads/2013/09/Marios-Coins.jpg' alt='super mario'>
 </figure> 
 
-Tralasciando questioni artistiche <small>(ci arriviamo tra un attimo)</small> e discutendo in termini ben più pragamatici, possiamo notare come [già nel 2015](http://www.ilpost.it/2015/06/21/vendite-videogiochi/) l'industria del videogame fatturasse **più di quella cinematografica e musicale messe assieme.**
+Tralasciando questioni artistiche <small>(ci arriviamo tra un attimo)</small> e discutendo in termini ben più pragamatici, possiamo notare come [già nel 2015](https://www.ilpost.it/2015/06/21/vendite-videogiochi/) l'industria del videogame fatturasse **più di quella cinematografica e musicale messe assieme.**
 
 Morale ? Piaccia o meno, oggigiorno i videogiochi non è che dominano il settore dell'intrattenimento..._lo tengono saldamente per le palle_.
 
 Eppure, forse anche per via dei media d'informazione non proprio aggiornatissimi, **sembra persistere una certa sudditanza psicologica nei confronti del Cinema**, visto quasi sempre come un settore "Alto" rispetto a quello videoludico. 
 
-Questo discorso l'ho già affrontato per massima parte [parlando del coinvolgimento del regista **Spike Lee** nella realizzazione di NBA 2K16.](http://xabacadabra.com/2015/come-spike-lee-rovino-nba-2k16/)
+Questo discorso l'ho già affrontato per massima parte [parlando del coinvolgimento del regista **Spike Lee** nella realizzazione di NBA 2K16.](https://xabacadabra.com/2015/come-spike-lee-rovino-nba-2k16/)
 
 ## Videogioco & Arte
 
@@ -118,10 +118,10 @@ Ma, anche volendo fare gli ottimisti e aspettarsi opere curate in modo certosino
 
 Infondo, _a che serve?_
 
-Voglio dire: avete presente _Kingsglaive_, il film-prequel di Final Fantasy XV realizzato in computer grafica ? <small>(se non sapete di che sto parlando, cliccate pure [qui](http://xabacadabra.com/2016/Kingsglaive-Final-Fantasy-XV-Recensione/))</small>
+Voglio dire: avete presente _Kingsglaive_, il film-prequel di Final Fantasy XV realizzato in computer grafica ? <small>(se non sapete di che sto parlando, cliccate pure [qui](https://xabacadabra.com/2016/Kingsglaive-Final-Fantasy-XV-Recensione/))</small>
 
 <figure>
-<img src='http://xabacadabra.com/gallery/kingsglaive/2.jpg' alt='Kingsglaive-Final-Fantasy-XV'>
+<img src='https://xabacadabra.com/gallery/kingsglaive/2.jpg' alt='Kingsglaive-Final-Fantasy-XV'>
 </figure> 
 
 Ci terreste _davvero_ a vederne una nuova versione con **attori in carne ed ossa che ciarlano tra uno schermo verde e l'altro ?** [^gandalf]
@@ -137,7 +137,7 @@ Perché ecco, **oramai nella _current gen_ siamo sempre più prossimi a quel liv
 ## Morale ?
 
 <figure>
-<img src='http://images.movieplayer.it/images/2016/12/22/assassins-creed-film-header-1280jpg-685176_1280w.jpg' alt='assassins-creed-film-header-1280jpg-685176_1280w'>
+<img src='https://images.movieplayer.it/images/2016/12/22/assassins-creed-film-header-1280jpg-685176_1280w.jpg' alt='assassins-creed-film-header-1280jpg-685176_1280w'>
 <figcaption>Questo non l'ho visto perché non sono nemmeno fan della serie videoludica, ma il fatto che sia stato accolto così male (per quel che vale l'opinione della critica) nonostante la presenza di sua maestà Michael Fassbender già la dice lunga.</figcaption>
 </figure>
 

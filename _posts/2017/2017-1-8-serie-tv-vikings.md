@@ -21,12 +21,12 @@ Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno
 ## Cosa c'insegna Vikings ?
 
 <figure>
-	<img src='http://thedockyards.com/wp-content/uploads/2015/08/Floki.jpg' alt='Vikings'>
+	<img src='https://thedockyards.com/wp-content/uploads/2015/08/Floki.jpg' alt='Vikings'>
 </figure>
 
 Anzitutto che **la Storia è sexy.**
 
-Anche se non parliamo di un documentario <small>(o di Alberto Angela, per tutte le signorine all'ascolto)</small>, **le ambientazioni storiche** rese bene e con un buon livello di fedeltà offrono molto spesso **gli scenari più suggestivi e affascinanti della narrativa a tutti i livelli**, e le Serie TV non fanno eccezione (in questo discorso inserirei bene anche [Black Sails](http://xabacadabra.com/2014/black-sails-recensione/))
+Anche se non parliamo di un documentario <small>(o di Alberto Angela, per tutte le signorine all'ascolto)</small>, **le ambientazioni storiche** rese bene e con un buon livello di fedeltà offrono molto spesso **gli scenari più suggestivi e affascinanti della narrativa a tutti i livelli**, e le Serie TV non fanno eccezione (in questo discorso inserirei bene anche [Black Sails](https://xabacadabra.com/2014/black-sails-recensione/))
 
 ## La vera lezione
 
@@ -64,7 +64,7 @@ Allo stesso modo, in genere **una persona è ciò che è ed avrà un determinato
 ## La "palude" di Westeros
 
 <figure>
-	<img src='http://screencrush.com/442/files/2014/05/dae.jpg' alt='Game of Thrones'>
+	<img src='https://screencrush.com/442/files/2014/05/dae.jpg' alt='Game of Thrones'>
 	<figcaption>Ok, Emilia Clarke è una bella figliola e tutto, ma personalmente Daenerys la trovo un po' l'emblema di tutto il discorso qui sotto</figcaption>
 </figure>
 

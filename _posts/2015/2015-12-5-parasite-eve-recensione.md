@@ -25,7 +25,7 @@ Liberamente tratto dall'omonimo romanzo di Hideaki Sena del 1995, Parasite Eve �
 ## Setting
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-r1jteAGVYUM/VmMHwQhv9oI/AAAAAAAANaA/Ey_1cceakGg/s320/parasite-eve-freeze.jpg" alt="Parasite Eve">
+	<img src="https://4.bp.blogspot.com/-r1jteAGVYUM/VmMHwQhv9oI/AAAAAAAANaA/Ey_1cceakGg/s320/parasite-eve-freeze.jpg" alt="Parasite Eve">
 </figure>
 
 **New York**, Natale 1997.
@@ -39,7 +39,7 @@ Arya e il giocatore hanno **sei giorni** di tempo per portare avanti l'indagine 
 ## Survival JRPG ?
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-WWvqKKr9BBM/VmMIJbZja1I/AAAAAAAANaI/on_bVNKekZw/s320/pe1.jpg" alt="Parasite Eve">
+	<img src="https://4.bp.blogspot.com/-WWvqKKr9BBM/VmMIJbZja1I/AAAAAAAANaI/on_bVNKekZw/s320/pe1.jpg" alt="Parasite Eve">
 </figure>
 
 Parasite Eve, nel gameplay così come nelle tematiche, rappresenta **un caso piuttosto atipico per il settore.**
@@ -53,7 +53,7 @@ I fantomatici **incontri casuali** sono a loro volta gestiti "ad area" (come nei
 ## Grafica
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-pWOh5CZPOHk/VmMQo8zFhdI/AAAAAAAANaY/nInDtdOqPGU/s320/parasite_eve.jpg" alt="Parasite Eve">
+	<img src="https://3.bp.blogspot.com/-pWOh5CZPOHk/VmMQo8zFhdI/AAAAAAAANaY/nInDtdOqPGU/s320/parasite_eve.jpg" alt="Parasite Eve">
 </figure>
 
 In perfetto stile Final Fantasy (simile per stile, livello e animazioni a quella del coetaneo Final Fantasy VIII): 
@@ -65,7 +65,7 @@ Insomma, come da tradizione Squaresoft, **Parasite Eve fu (e per certi versi è 
 ## Musica
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-1W4pd85aV3Y/VmMQ_bL_vFI/AAAAAAAANag/jGh4C7NHLgM/s320/70-capture_04062011_224038.jpg" alt="Parasite Eve">
+	<img src="https://1.bp.blogspot.com/-1W4pd85aV3Y/VmMQ_bL_vFI/AAAAAAAANag/jGh4C7NHLgM/s320/70-capture_04062011_224038.jpg" alt="Parasite Eve">
 </figure>
 
 La colonna sonora del gioco è opera della compositrice **Yoko Shimomura**, nota anche per il suo impegno nella serie Kingdom Hearts ed in classici come Breath of Fire e Front Mission.
@@ -77,7 +77,7 @@ Non si esagera quando si afferma che **massima parte dell'atmosfera e del coinvo
 ## Difetti (?)
 
 <figure>
-	<img src="http://2.bp.blogspot.com/--6NDEt7Oy18/VmMR7bGDFeI/AAAAAAAANa0/jyO7sANstC4/s320/parasite.jpg" alt="Parasite Eve">
+	<img src="https://2.bp.blogspot.com/--6NDEt7Oy18/VmMR7bGDFeI/AAAAAAAANa0/jyO7sANstC4/s320/parasite.jpg" alt="Parasite Eve">
 </figure>
 
 In assoluto, potremmo parlare dell'innegabile **scarsa longevità** del gioco, compensata dalla **EX-mode** (sbloccabile alla seconda partita) ma che è pur sempre giustificabile visto il taglio notevolmente cinematografico di Parasite Eve, e in alcuni macchinosi punti nell'esplorazione (ad esempio attivare oggetti e aprire porte) che comunque non compromettono la godibilità complessiva del gioco. 
@@ -85,15 +85,15 @@ In assoluto, potremmo parlare dell'innegabile **scarsa longevità** del gioco, c
 ## Localizzazione
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-ASAM_U-Hqa0/VmMRqP5bX3I/AAAAAAAANas/Cn_2GfSd4DQ/s320/parasite%2Beve%2Bmenu.jpg" alt="Parasite Eve">
+	<img src="https://1.bp.blogspot.com/-ASAM_U-Hqa0/VmMRqP5bX3I/AAAAAAAANas/Cn_2GfSd4DQ/s320/parasite%2Beve%2Bmenu.jpg" alt="Parasite Eve">
 </figure>
 
-Sfortunatamente **il gioco non ha mai raggiunto l'Europa** (e quindi non è mai stato tradotto ufficialmente in Italiano), tuttavia i celeberrimi SadNES hanno realizzato una traduzione amatoriale reperibile [qui](http://www.sadnescity.it/traduzioni/pe/pe.php). 
+Sfortunatamente **il gioco non ha mai raggiunto l'Europa** (e quindi non è mai stato tradotto ufficialmente in Italiano), tuttavia i celeberrimi SadNES hanno realizzato una traduzione amatoriale reperibile [qui](https://www.sadnescity.it/traduzioni/pe/pe.php). 
 
 ## Commento
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-vnnMIPZGSNY/VmMShkzPSiI/AAAAAAAANa8/Wni1CQJIUt8/s320/arya.jpg" alt="Parasite Eve">
+	<img src="https://2.bp.blogspot.com/-vnnMIPZGSNY/VmMShkzPSiI/AAAAAAAANa8/Wni1CQJIUt8/s320/arya.jpg" alt="Parasite Eve">
 </figure>
 
 **Parasite Eve resta uno di quei giochi che va visto come un'esperienza**, tanto nel suo gameplay quanto nelle vicende più personali della protagonista e, per apprezzarlo al meglio, forse bisogna saperlo analizzare nel suo lato più profondo, legato ad una particolare visione della natura dell'essere umano stesso.

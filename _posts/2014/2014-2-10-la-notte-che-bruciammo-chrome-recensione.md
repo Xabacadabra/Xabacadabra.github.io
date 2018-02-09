@@ -38,7 +38,7 @@ Solo **250 paginette**, eppure rappresentano un summa creativo capace di pigliar
 ## La notte che realizzammo il sogno erotico di Apple e Microsoft
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-qQ9W8B2kCrA/UviF8wQtk2I/AAAAAAAAG2I/35qEE6SeibE/s1600/burning-chrome.jpg" alt="Burning Chrome">
+	<img src="https://1.bp.blogspot.com/-qQ9W8B2kCrA/UviF8wQtk2I/AAAAAAAAG2I/35qEE6SeibE/s1600/burning-chrome.jpg" alt="Burning Chrome">
 </figure>
 
 La notte che bruciammo Chrome è una serie di racconti brevi antecedenti ai lavori più celebri di Gibson (come la Trilogia dello Sprawl), scritti nell'arco di tempo che va dal 1977 al 1985 
@@ -48,7 +48,7 @@ Se non sapete cosa s'intende per cyberpunk potete farvi una veloce wikipediata (
 ## Una saporitissima macedonia
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-S52v7aI9BRs/UviM3MxG8yI/AAAAAAAAG2Y/QG3MliBdbmM/s1600/johnny_mnemonic-poster-it2.jpg" alt="Johnny Mnemonic">
+	<img src="https://2.bp.blogspot.com/-S52v7aI9BRs/UviM3MxG8yI/AAAAAAAAG2Y/QG3MliBdbmM/s1600/johnny_mnemonic-poster-it2.jpg" alt="Johnny Mnemonic">
 	<figcaption>Johnny Mnemonic, con Keanu Reeves, è uno dei due film tratti dai racconti di Gibson presenti nell'antologia</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ Ancora, La razza giusta per molti aspetti mi ha ricordato il miglior Tiziano Scl
 ## "Faceva caldo, la notte che bruciammo Chrome."
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-0BHfcqb2YLE/UviO5DlhINI/AAAAAAAAG2k/IEoXVr5zHK0/s1600/New-Rose-Hotel_reference.jpg" alt="New Rose Hotel">
+	<img src="https://4.bp.blogspot.com/-0BHfcqb2YLE/UviO5DlhINI/AAAAAAAAG2k/IEoXVr5zHK0/s1600/New-Rose-Hotel_reference.jpg" alt="New Rose Hotel">
 	<figcaption>l'altro film è New Rose Hotel, che a dispetto del cast importante (e di Asia Argento in intimo) ha avuto poco riscontro
 </figcaption>
 </figure>

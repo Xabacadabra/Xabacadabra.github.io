@@ -24,7 +24,7 @@ Bene.
 ## L'Ombra dell'Amn
 
 <figure>
-	<img src="http://d1079ywfijtdjs.cloudfront.net/eternity/media/screenshots/20150313/pe-engwithan-04-1920x1080.jpg" alt="pillars of eternity recensione">
+	<img src="https://d1079ywfijtdjs.cloudfront.net/eternity/media/screenshots/20150313/pe-engwithan-04-1920x1080.jpg" alt="pillars of eternity recensione">
 </figure>
 
 Non giriamoci intorno:
@@ -38,7 +38,7 @@ Obsidian del resto non ne fa certo mistero e ha convinto i fan a finanziare Pill
 ## Infinity Engine 2.0
 
 <figure>
-	<img src="http://eternity.obsidian.net/img/media/screenshots/pe-screenshot-001-1920x1080.jpg" alt="pillars of eternity recensione">
+	<img src="https://eternity.obsidian.net/img/media/screenshots/pe-screenshot-001-1920x1080.jpg" alt="pillars of eternity recensione">
 </figure>
 
 In questo senso, **Pillars of Eternity rischia un po' di essere i Wolfmother: suona alla grande, ma parte con la consapevolezza che non potrà mai essere i Led Zeppelin.**
@@ -48,7 +48,7 @@ In questo senso, **Pillars of Eternity rischia un po' di essere i Wolfmother: su
 ## Armi a doppio taglio
 
 <figure>
-	<img src="http://eternity.obsidian.net/img/media/screenshots/pe-screenshot-002-1920x1080.jpg" alt="pillars of eternity recensione">
+	<img src="https://eternity.obsidian.net/img/media/screenshots/pe-screenshot-002-1920x1080.jpg" alt="pillars of eternity recensione">
 </figure>
 
 <span itemprop="headline">**Pillars of Eternity è un prodotto hardcore, da fan per i fan, nostalgico per i nostalgici** e, seppur dotato di accorgimenti innovativi interessanti e un'ambientazione tutta nuova (o quasi...), **fa di tutto per rammentarci quanto è classico:**</span>
@@ -66,7 +66,7 @@ Per dirla in breve, in parecchi punti sembra esserci **più forma che sostanza.*
 ## Operazione Nostalgia Canaglia
 
 <figure>
-	<img src="http://eternity.obsidian.net/img/media/screenshots/pe-screenshot-004-1920x1080.jpg" alt="pillars of eternity recensione">
+	<img src="https://eternity.obsidian.net/img/media/screenshots/pe-screenshot-004-1920x1080.jpg" alt="pillars of eternity recensione">
 </figure>
 
 Allo stesso modo, **certe scelte di gameplay sembrano fatte giusto per inseguire lo spirito nostalgico a scapito della funzionalità:**
@@ -76,7 +76,7 @@ Per carità, all'inizio può anche far salire la lacrimuccia rivedere le care ma
 ## Spunti da Master
 
 <figure>
-	<img src="http://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/b/ba/Scripted-interaction-climbing-rope-screen.jpg" alt="pillars of eternity recensione">
+	<img src="https://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/b/ba/Scripted-interaction-climbing-rope-screen.jpg" alt="pillars of eternity recensione">
 </figure>
 
 O anche da Libro Game: 
@@ -106,12 +106,12 @@ In particolare, **Pillars of Eternity porta in scena una trama splendida con con
 ## Trama
 
 <figure>
-	<img src="http://d1079ywfijtdjs.cloudfront.net/eternity/media/screenshots/20150305/pe-sky-dragon-1920x1080.jpg" alt="pillars of eternity recensione">
+	<img src="https://d1079ywfijtdjs.cloudfront.net/eternity/media/screenshots/20150305/pe-sky-dragon-1920x1080.jpg" alt="pillars of eternity recensione">
 </figure>
 
 **Pillars of Eternity ha un soggetto magnifico.**
 
-Per più di una ragione mi sono ritrovato spesso a pensare a [_Xenogears_](http://xabacadabra.com/2016/xenogears-recensione/), non solo per certe tematiche di fondo (vagamente simili, seppur in contesti del tutto diversi), ma più che altro per il vecchio discorso che feci parlando della sua scarsa accessibilità:
+Per più di una ragione mi sono ritrovato spesso a pensare a [_Xenogears_](https://xabacadabra.com/2016/xenogears-recensione/), non solo per certe tematiche di fondo (vagamente simili, seppur in contesti del tutto diversi), ma più che altro per il vecchio discorso che feci parlando della sua scarsa accessibilità:
 
 > non conta solo la bellezza del soggetto, ma come lo racconti
 
@@ -126,7 +126,7 @@ Ed è allora che per paradosso **vince sempre il vecchio Baldur's Gate II, forte
 ## Party!
 
 <figure>
-	<img src="http://d1079ywfijtdjs.cloudfront.net/eternity/media/screenshots/20150318/pe-bighead-02-1920x1080.jpg" alt="pillars of eternity recensione">
+	<img src="https://d1079ywfijtdjs.cloudfront.net/eternity/media/screenshots/20150318/pe-bighead-02-1920x1080.jpg" alt="pillars of eternity recensione">
 </figure>
 
 Gli 8 personaggi _precotti_ per formare il nostro gruppo sono scritti tutti mediamente bene, ma forse con un po' di alti e bassi qua e la
@@ -142,7 +142,7 @@ Gli 8 personaggi _precotti_ per formare il nostro gruppo sono scritti tutti medi
 ## Ambientazione
 
 <figure>
-	<img src="http://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/d/d8/WorldMap.jpg" alt="pillars of eternity recensione">
+	<img src="https://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/d/d8/WorldMap.jpg" alt="pillars of eternity recensione">
 </figure>
 
 Che _Eora_ riprenda a piene mani dai Forgotten Realms e la Foresta di Dyr risulti una pittoresca discendente della Costa della Spada è chiaro come il sole, ma l'idea di mischiare le carte in tavola del fantasy classico inserendoci una connotazione prossima all'era rinascimentale, con rimandi all'epoca coloniale, ma anche preistorica (!) funziona parecchio:

@@ -18,7 +18,7 @@ comments: true
 
 Allora.
 
-Prima di tutto, le premesse riguardo Ghost in the Shell le saltiamo in allegria: [**questo post**](http://xabacadabra.com/2016/ghost-in-the-shell/) è stato concepito anche con lo scopo di alleggerire situazioni simili.
+Prima di tutto, le premesse riguardo Ghost in the Shell le saltiamo in allegria: [**questo post**](https://xabacadabra.com/2016/ghost-in-the-shell/) è stato concepito anche con lo scopo di alleggerire situazioni simili.
 
 Poi: 
 
@@ -94,7 +94,7 @@ Seguendo la linearità 'mericana poi, **si sentiva il _fondamentale_ bisogno di 
 Salta fuori che **Motoko era una No-Tav mazzualata male dal Governo Matusa**, esattamente come il suo amico/nemico/ex-fidanzato Kuze, lo pseudo-Marionettista altrimenti detto HIDEO (o SuperGiovane)
 
 <figure>
-	<img src="http://static2.fjcdn.com/comments/I+was+scared+of+all+system+start+up+screensfor+some+reason+_49e55a9eb9d4364ae3568f72a694dc75.jpg" alt='hideo'>
+	<img src="https://static2.fjcdn.com/comments/I+was+scared+of+all+system+start+up+screensfor+some+reason+_49e55a9eb9d4364ae3568f72a694dc75.jpg" alt='hideo'>
 </figure>
 
 E fu così che la Motoko dei Centri Sociali anti-tech divenne ciò che ha sempre odiato: **un _celerino robocoppo_!** 

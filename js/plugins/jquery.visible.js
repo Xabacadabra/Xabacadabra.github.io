@@ -3,7 +3,7 @@
   /**
    * Copyright 2012, Digital Fusion
    * Licensed under the MIT license.
-   * http://teamdf.com/jquery-plugins/license/
+   * https://teamdf.com/jquery-plugins/license/
    *
    * @author Sam Sehnert
    * @desc A small plugin that checks whether elements are within

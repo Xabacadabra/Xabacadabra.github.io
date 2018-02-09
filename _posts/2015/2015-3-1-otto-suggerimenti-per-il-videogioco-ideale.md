@@ -28,17 +28,17 @@ Proverò ad essere sintetico quanto basta (cioè per niente), sperando di non es
 
 Imprescindibile.
 
-So benissimo che esistono fior di giochi che funzionano alla grande con personaggi precotti (_The Witcher_, [_Deus Ex_](http://xabacadabra.com/2016/deus-ex-saga/), _Planescape: Torment_), però è un elemento a mio avviso fondamentale per **immedesimazione, variabilità e rigiocabilità.**
+So benissimo che esistono fior di giochi che funzionano alla grande con personaggi precotti (_The Witcher_, [_Deus Ex_](https://xabacadabra.com/2016/deus-ex-saga/), _Planescape: Torment_), però è un elemento a mio avviso fondamentale per **immedesimazione, variabilità e rigiocabilità.**
 
-Per approfondire questo discorso, [cliccate pure qui](http://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/).
+Per approfondire questo discorso, [cliccate pure qui](https://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/).
 
 ## 2. Scelte che contano
 
 E no, _Mass Effect_, _Fallout_ e _Dragon Age_ per me non sono abbastanza.
 
-Diamine, hanno scelte e binari più ridotti del già citato _Planescape: Torment_, o [_Vampire the Masquerade: Bloodlines_](http://xabacadabra.com/2013/vampire-masquerade-bloodlines-recensione/), che a loro confronto sono degli arzilli vecchietti...capisco che i costi e le risorse da impiegare siano aumentati, **ma perché non può esserci un investimento narrativo, oltre che tecnico ?**
+Diamine, hanno scelte e binari più ridotti del già citato _Planescape: Torment_, o [_Vampire the Masquerade: Bloodlines_](https://xabacadabra.com/2013/vampire-masquerade-bloodlines-recensione/), che a loro confronto sono degli arzilli vecchietti...capisco che i costi e le risorse da impiegare siano aumentati, **ma perché non può esserci un investimento narrativo, oltre che tecnico ?**
 
-**Parliamo di un Gioco di RUOLO, signori: il libero arbitrio del giocatore è il fulcro di ogni cosa**, e dovrebbe essere in cima alle priorità di ogni sviluppatore che si rispetti (i giapponesi non fanno testo, l'ho già spiegato sempre [qui](http://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/#japan))
+**Parliamo di un Gioco di RUOLO, signori: il libero arbitrio del giocatore è il fulcro di ogni cosa**, e dovrebbe essere in cima alle priorità di ogni sviluppatore che si rispetti (i giapponesi non fanno testo, l'ho già spiegato sempre [qui](https://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/#japan))
 
 ## 3. Freeroaming
 
@@ -135,7 +135,7 @@ Certo, **questa mappa deve anche essere riempita come si deve, magari senza manc
 i cugini JRPG dell'era Play Station in questo senso la sapevano già lunga, così come in altri sensi il primo Baldur's Gate e i vari titoli Bethesda:
 
 <figure>
-<img src='http://3.bp.blogspot.com/-cl09zWNU3Us/VPLr49KmekI/AAAAAAAALkk/GhoJ9m8x7i8/s1600/Final_Fantasy_VII_(PSX)_048.png' alt="Final Fantasy VII">
+<img src='https://3.bp.blogspot.com/-cl09zWNU3Us/VPLr49KmekI/AAAAAAAALkk/GhoJ9m8x7i8/s1600/Final_Fantasy_VII_(PSX)_048.png' alt="Final Fantasy VII">
 <figcaption>C'era molta più soddisfazione a perdersi in quel pugno di pixel che in tanti giochi dalla pompatissima grafica odierna
 </figcaption>
 </figure>
@@ -150,7 +150,7 @@ va bene fare una metropoli ultradettagliata, ma visto che c'è tutto sto spazio,
 
 La parola d'ordine qui dev'essere una: **varietà.**
 
-<small>(No, non [quel genere](http://www.lospettacolo.it/images/2011/12/14/3045.jpg) di varietà.)</small>
+<small>(No, non [quel genere](https://www.lospettacolo.it/images/2011/12/14/3045.jpg) di varietà.)</small>
 
 Il più possibile: 
 

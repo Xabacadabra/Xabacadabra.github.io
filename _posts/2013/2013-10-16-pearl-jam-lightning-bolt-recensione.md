@@ -29,7 +29,7 @@ La primissima cosa che mi viene a dire su questo disco, proprio la prima sensazi
 Un male ? Un bene ? Boh.
 
 <figure>
-<img src="http://1.bp.blogspot.com/-by8NY96dgHk/Ul2JW36cxAI/AAAAAAAAEwk/jFbQRvkMxYM/s1600/young-pearl-jam-photo.jpg" alt="Pearl Jam Pischelli">
+<img src="https://1.bp.blogspot.com/-by8NY96dgHk/Ul2JW36cxAI/AAAAAAAAEwk/jFbQRvkMxYM/s1600/young-pearl-jam-photo.jpg" alt="Pearl Jam Pischelli">
 <figcaption>So' ragazzi...</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Subito mi viene in mente una sintesi, sul bel basso di Jeff Ament su _Infallible
 **I Pearl Jam non sono incazzati.** Ma proprio per niente. Anzi, sono _contenti_
 
 <figure>
-<img src="http://3.bp.blogspot.com/-LVu8tTsZ8hE/Ul2JsLwtbvI/AAAAAAAAEws/qS8VPG82S6o/s1600/Pearl-Jam-nuovo-album-2013-Lightning-Bolt.jpg" alt="Pearl Jam 2013">
+<img src="https://3.bp.blogspot.com/-LVu8tTsZ8hE/Ul2JsLwtbvI/AAAAAAAAEws/qS8VPG82S6o/s1600/Pearl-Jam-nuovo-album-2013-Lightning-Bolt.jpg" alt="Pearl Jam 2013">
 <figcaption>Anche se le loro facce sembrano dire l'esatto contrario</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ E poi **un blues rockeggione come quello di _Let The Records Play_**, per quanto
 ### dimmelo sennò vattene da Chris Cornell e non rumperme er ca...
 
 <figure>
-<img src="http://1.bp.blogspot.com/-YJD3phEUMkQ/Ul2KW7b8S6I/AAAAAAAAEw4/UWnMCk2poEY/s1600/eddie.jpg" alt="Eddie Vedder">
+<img src="https://1.bp.blogspot.com/-YJD3phEUMkQ/Ul2KW7b8S6I/AAAAAAAAEw4/UWnMCk2poEY/s1600/eddie.jpg" alt="Eddie Vedder">
 </figure>
 
 Lightning Bolt ha due caratteristiche che di solito sembrano inconciliabili:

@@ -7,11 +7,11 @@ published: false
 ### Questo un sottotitolo e via via fino a 6
 
 <figure>
-	<img src="http://placehold.it/900x450.gif">
+	<img src="https://placehold.it/900x450.gif">
 	<figcaption>Immmagine in html</figcaption>
 </figure>
 
-[![sample image](http://placehold.it/900x450.gif)](http://placehold.it "Immagine in markdown.")
+[![sample image](https://placehold.it/900x450.gif)](https://placehold.it "Immagine in markdown.")
 
 ## Buttons
 

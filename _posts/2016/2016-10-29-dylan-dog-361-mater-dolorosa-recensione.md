@@ -33,20 +33,20 @@ Perciò, evitando di sconfinare in pipponi troppo personali, farò una sintesi d
 
 ## Mater Dolorosa
 
-Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**](http://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/) ed il recente ritorno in scena di Tiziano Sclavi, questa volta però non ho resistito, e sono qui per dire quattro parole sul "sequel di compleanno" firmato sempre da **Recchioni** e disegnato da **Gigi Cavenago**.
+Complice il clima di Halloween, il fatto che esattamentre tre anni fa scrivevo qualcosina su un certo [**Mater Morbi**](https://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/) ed il recente ritorno in scena di Tiziano Sclavi, questa volta però non ho resistito, e sono qui per dire quattro parole sul "sequel di compleanno" firmato sempre da **Recchioni** e disegnato da **Gigi Cavenago**.
 
 ## Disegni 
 
 <figure>
-<img src='http://www.dimensionefumetto.it/wp-content/uploads/2015/11/1-Mater-Dolorosa.jpg' alt='dylan-dog-mater-dolorosa'>
+<img src='https://www.dimensionefumetto.it/wp-content/uploads/2015/11/1-Mater-Dolorosa.jpg' alt='dylan-dog-mater-dolorosa'>
 </figure>
 
 <figure>
-<img src='http://i0.wp.com/www.badcomics.it/wp/wp-content/uploads-badcomics/2016/02/12688359_10153410750047916_3095338348861955217_n.jpg' alt='dylan-dog-mater-dolorosa'>
+<img src='https://i0.wp.com/www.badcomics.it/wp/wp-content/uploads-badcomics/2016/02/12688359_10153410750047916_3095338348861955217_n.jpg' alt='dylan-dog-mater-dolorosa'>
 </figure>
 
 <figure>
-<img src='http://images.wired.it/wp-content/uploads/2016/09/1473243047_2-Mater-Dolorosa.jpg' alt='dylan-dog-mater-dolorosa'>
+<img src='https://images.wired.it/wp-content/uploads/2016/09/1473243047_2-Mater-Dolorosa.jpg' alt='dylan-dog-mater-dolorosa'>
 </figure>
 
 Ecco, partendo proprio da qui: mamma mia come sono belli! 

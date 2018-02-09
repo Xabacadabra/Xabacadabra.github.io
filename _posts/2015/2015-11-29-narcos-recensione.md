@@ -23,14 +23,14 @@ Il binomio brasiliano **José Padilha** (regia) e **Wagner Moura** (interprete d
 
 **Narcos è uno di quei casi in cui tutta la potenza del racconto romanzato può rendere partecipi di vera storia, pur trascendendo la fredda schematica dell'inchiesta giornalistica.**
 
-Vale un po' quello che dissi per [_Suburra_](http://xabacadabra.com/2015/suburra-recensione/):
+Vale un po' quello che dissi per [_Suburra_](https://xabacadabra.com/2015/suburra-recensione/):
 
 **Narcos non è un documentario**, è puro intrattenimento d'alta qualità, e proprio per questo riesce ad essere incredibilmente potente, abbastanza dal restare scolpito nelle memorie di chi lo guarda.
 
 ## Storia di un _paisa_
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-QCyuB4CLbTk/VlrIkLH4LsI/AAAAAAAANY0/bJ8WgzzI5PA/s320/mug.jpg" alt="pablo escobar">
+	<img src="https://2.bp.blogspot.com/-QCyuB4CLbTk/VlrIkLH4LsI/AAAAAAAANY0/bJ8WgzzI5PA/s320/mug.jpg" alt="pablo escobar">
 </figure>
 
 Personalmente io le peripezie del **Cartello di Medellin** e di Pablo Escobar le conoscevo un po', ma solo per sommi capi:
@@ -51,7 +51,7 @@ Il tratto negativo di Narcos ? Per quanto mi riguarda, solo due:
 
 L'accentramento a tratti eccessivo sulle figure degli agenti della DEA Javier Peña (**Pedro Pascal** di _GameofThronesiana_ memoria) e soprattutto **Steve Murphy** (**Boyd Holbrook**).
 
-Del resto, come l'autentico Peña ha specificato in [una bella intervista](http://observer.com/2015/08/dea-agents-on-hunting-pablo-escobar-el-chapo-and-the-accuracy-of-netflixs-narcos/) rivolta ad entrambi i poliziotti: _"i veri eroi sono i membri delle forze di polizia colombiane"_
+Del resto, come l'autentico Peña ha specificato in [una bella intervista](https://observer.com/2015/08/dea-agents-on-hunting-pablo-escobar-el-chapo-and-the-accuracy-of-netflixs-narcos/) rivolta ad entrambi i poliziotti: _"i veri eroi sono i membri delle forze di polizia colombiane"_
 
 E francamente, io credo che **Narcos avrebbe potuto tranquillamente chiamarsi _Escobar_:**
 
@@ -62,7 +62,7 @@ Piaccia o meno, **Pablo è l'epicentro di tutto**, e conseguentemente lo è pure
 Il fatto che sia Murphy e non Peña lo sbirro a ritrovarsi nelle vesti del narratore sembra darmi ulteriormente ragione.
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-JwdkibufSH4/VlsdU6yBpEI/AAAAAAAANZM/6huIPRHRMtI/s320/breaking%2Bpablo.jpg
+	<img src="https://4.bp.blogspot.com/-JwdkibufSH4/VlsdU6yBpEI/AAAAAAAANZM/6huIPRHRMtI/s320/breaking%2Bpablo.jpg
 " alt="Breaking Pablo
 ">
 </figure>
@@ -86,7 +86,7 @@ Consigliata a tutti quanti, imprescindibile per i veri amanti del genere: solo p
 
 <script type="application/ld+json">
 {
-  "@context":"http://schema.org",
+  "@context":"https://schema.org",
   "@type":"TVSeries",
   "name":"Narcos", 
   "review": {

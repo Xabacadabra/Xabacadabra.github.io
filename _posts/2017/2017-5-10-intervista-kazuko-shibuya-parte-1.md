@@ -15,7 +15,7 @@ published: true
 comments: true
 ---
 
-Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).
+Quest'IMMENSA intervista è stata realizzata da [4gamer](https://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](https://shmuplations.com/kazukoshibuya/).
 {:.notice-info}
 
 Sapevate che la pixel art di molti classici Final Fantasy si deve al lavoro di una bravissima fanciulla ? 
@@ -59,7 +59,7 @@ Mai! Ancor oggi non gioco minimamente ai videogiochi.
 Le illustrazioni per il libretto delle istruzioni di [_Alpha_](https://www.youtube.com/watch?v=6fuDz8pa6HQ). Però i miei ricordi di quel periodo sono un po' fumosi. [risate]
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/alpha.jpg' alt='Alpha'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/alpha.jpg' alt='Alpha'>
 <figcaption>Una pagina del libretto d'istruzioni di Alpha, avventura fantascientifica realizzata da Square per il NEC PC-8801, con illustrazioni della Shibuya (nota di xab: prima o poi ci dovrò dare un'occhiata )</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Penso di sì. Qualcuno l'aveva comprato, e ricordo bene tutti in giro guardando 
 ...la camminata da granchio dell'eroe. [risate]
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/dragoncrab.gif' alt='dragon-quest'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/dragoncrab.gif' alt='dragon-quest'>
 <figcaption>E come darle torto?</figcaption>
 </figure>
 
@@ -110,6 +110,6 @@ Non conosco i videogiochi molto bene, quindi quando lo vidi rimasi shockata: "uh
 
 Restate sintonizzati per la seconda parte dell'intervista: si parla di **Yoshitaka Amano** e di tante altre belle cose (sapevate che il vecchio staff Square lavorava in una stanza di 13 metri quadrati?!)
 
-1. [**Seconda Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2/)
+1. [**Seconda Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-2/)
 
-2. [**Terza Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
+2. [**Terza Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)

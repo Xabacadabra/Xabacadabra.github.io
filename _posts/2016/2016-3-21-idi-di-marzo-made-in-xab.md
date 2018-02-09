@@ -20,7 +20,7 @@ Ultimamente sono un po' scomparso da questi lidi per un bel po' di motivi divers
 ## Akira (manga).
 
 <figure>
-<img src='http://vignette4.wikia.nocookie.net/akira/images/e/ec/Akira-2243121.jpg/revision/latest?cb=20130610193205' alt='akira'>
+<img src='https://vignette4.wikia.nocookie.net/akira/images/e/ec/Akira-2243121.jpg/revision/latest?cb=20130610193205' alt='akira'>
 </figure>
 
 In realtà l'ho finito nei primi del mese: 
@@ -34,7 +34,7 @@ Penso sia **una lettura obbligata per ogni estimatore del cyberpunk e della cult
 ## 20th century boys 
 
 <figure>
-<img src='http://i7.mangareader.net/20th-century-boys/80/20th-century-boys-84752.jpg' alt='20thcenturyboys'>
+<img src='https://i7.mangareader.net/20th-century-boys/80/20th-century-boys-84752.jpg' alt='20thcenturyboys'>
 </figure>
 
 Giusto per stare nel giro del fumetto nipponico...e, incredibile a dirsi, **credo sia diventato di diritto il mio manga preferito.**
@@ -46,7 +46,7 @@ Dovrei scrivere un bel po' di cose su 20th century boys, ma è complicato anche 
 ## La quarta stagione di House of Cards
 
 <figure>
-<img src='http://www.cinefilos.it/serietv/wp-content/uploads/sites/3/2016/01/house-of-cards-4-anything-for-america.jpg' alt='house-of-cards-4'>
+<img src='https://www.cinefilos.it/serietv/wp-content/uploads/sites/3/2016/01/house-of-cards-4-anything-for-america.jpg' alt='house-of-cards-4'>
 </figure>
 
 Che è anche assolutamente la più bella di tutte e quattro per quanto mi concerne, forse complice il fatto che nell'America vera ferve nel clima da primarie (sulla politica nostrana preferisco stare zitto perché non sono tipo da bestemmie). 
@@ -54,7 +54,7 @@ Che è anche assolutamente la più bella di tutte e quattro per quanto mi concer
 ## La seconda stagione di Daredevil 
 
 <figure>
-<img src='http://when-will.net/images/artikel/2015/april/Daredevil.jpg' alt='daredevil'>
+<img src='https://when-will.net/images/artikel/2015/april/Daredevil.jpg' alt='daredevil'>
 </figure>
 
 Appena iniziata, hype a mille e per fortuna Netflix ha la splendida abitudine di buttare le serie in pacchi completi da 12 episodi pronti da sniffare
@@ -69,7 +69,7 @@ Una notizia abbastanza chiusa nella nerdfera nostrana, ma mi andava di commentar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZpZ0hDpObk" frameborder="0" allowfullscreen></iframe>
 
-Ho appreso con sommo rammarico che [Spaziogames](http://www.spaziogames.it/) dovrà fare a meno di **Pregianza**, per chi scrive uno dei pochi recensori italiani degni di essere letti:
+Ho appreso con sommo rammarico che [Spaziogames](https://www.spaziogames.it/) dovrà fare a meno di **Pregianza**, per chi scrive uno dei pochi recensori italiani degni di essere letti:
 
 forse c'entrerà poco, ma mi ricorda un po' come il mondo "da rivista di videogiochi" che tanto avevo amato da bambino stia progressivamente svanendo, mutando anche nelle sue eredità digitali
 

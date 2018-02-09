@@ -44,7 +44,7 @@ Con lui **Masmune Shirow** è diventato di diritto uno degli autori giapponesi p
 ## Il relativo film
 
 <figure>
-<img src='http://static.srcdn.com/wp-content/uploads/ghost-shell-live-action-movie-paramount.jpg' alt='ghost in the shell'>
+<img src='https://static.srcdn.com/wp-content/uploads/ghost-shell-live-action-movie-paramount.jpg' alt='ghost in the shell'>
 </figure>
 
 Ovvero quello del 1995, **che a me piace molto meno del manga** (sempre trovato troppo serioso) ma resta parimenti **uno dei massimi esponenti dell'animazione giappa**, nonché un capolavoro di regia firmato **Mamoru Oshii**.
@@ -66,7 +66,7 @@ Personalmente **l'ho sempre trovato una gigantesca e interessante pippa mentale 
 ## Il manga 1.5
 
 <figure>
-<img src='http://static4.comicvine.com/uploads/scale_small/0/8015/224619-19532-116738-1-ghost-in-the-shell-1.jpg' alt='ghost in the shell'>
+<img src='https://static4.comicvine.com/uploads/scale_small/0/8015/224619-19532-116738-1-ghost-in-the-shell-1.jpg' alt='ghost in the shell'>
 </figure>
 
 Che per contro invece rappresenta uno dei massimi esponenti di _"poliziesco cyberpunk seriale_":
@@ -102,7 +102,7 @@ No, non è noia, tenete a freno il vostro Califano interiore:
 ## Scarlett Johansson
 
 <figure>
-<img src='http://opus.fm/_assets/entries/scarlett-johanson-ghost-in-the-shell.jpg' alt='ghost in the shell'>
+<img src='https://opus.fm/_assets/entries/scarlett-johanson-ghost-in-the-shell.jpg' alt='ghost in the shell'>
 </figure>
 
 Eh, Scarlettona mia bella...
@@ -136,7 +136,7 @@ Ma oh, ci si accontenta eh. Anzi...
 
 Il problema grosso del live action semmai è un fatto d'origine:
 
-**Ghost in the Shell è una delle cose più giapponesi che ci siano**, soprattutto di quel famoso Giappone anni '90 che [metteva in mostra un futuro mai nato....](http://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/)
+**Ghost in the Shell è una delle cose più giapponesi che ci siano**, soprattutto di quel famoso Giappone anni '90 che [metteva in mostra un futuro mai nato....](https://xabacadabra.com/2014/perch%C3%A9-non-mi-piacciono-pi%C3%B9-anime-e-manga/)
 
 Ecco, gli americani al massimo _son quelli di Matrix_, per carità pure bello ma tutto n'altro paio di maniche.
 

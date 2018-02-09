@@ -46,7 +46,7 @@ Ma, prima di tutto questo, giunse la mistica entità suprema che avrebbe cambiat
 ## MEEEEEEEERDAAAAA
 
 <figure>
-<img src='http://66.media.tumblr.com/tumblr_m9e81lPyG51r15h74o1_1280.png' alt='apocalypse ps1 gioco'>
+<img src='https://66.media.tumblr.com/tumblr_m9e81lPyG51r15h74o1_1280.png' alt='apocalypse ps1 gioco'>
 <figcaption>la quintessenza dell'estetica di un periodo</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Sì, direi proprio qualcosa tipo lo _Svisceratore IV_ per Bart.
 ## Chi era Bruce Willis nel 1998
 
 <figure>
-<img src='http://estaticos.elperiodico.com/resources/jpg/4/7/bruce-willis-pasea-por-barcelona-anuncio-vodafone-italia-1463590774674.jpg' alt='bruce willis wi-fi'>
+<img src='https://estaticos.elperiodico.com/resources/jpg/4/7/bruce-willis-pasea-por-barcelona-anuncio-vodafone-italia-1463590774674.jpg' alt='bruce willis wi-fi'>
 </figure>
 
 Attenzione che questa è nostalgia che fa male:
@@ -81,7 +81,7 @@ Vent'anni fa Bruce Willis era QUESTO:
 > Just another American who saw too many movies as a child? Another orphan of a bankrupt culture who thinks he's John Wayne? Rambo? Marshal Dillon?
 
 <figure>
-<img src='http://pad.mymovies.it/filmclub/2003/01/011/locandina.jpg' alt='esercito delle 12 scimmie'>
+<img src='https://pad.mymovies.it/filmclub/2003/01/011/locandina.jpg' alt='esercito delle 12 scimmie'>
 <figcaption>
 A proposito di Willis: ricordatevi che prima o poi dovrò scrivere de L' Esercito delle 12 scimmie, uno dei miei film preferiti.
 </figcaption>
@@ -122,13 +122,13 @@ Le boss fight erano interessanti, impegnative e ben congegnate: come tutto il re
 ## Ambientazione
 
 <figure>
-<img src='http://www.mobygames.com/images/shots/l/489065-apocalypse-playstation-screenshot-loading-screens-have-bible.jpg' alt='apocalypse ps1 gioco'>
+<img src='https://www.mobygames.com/images/shots/l/489065-apocalypse-playstation-screenshot-loading-screens-have-bible.jpg' alt='apocalypse ps1 gioco'>
 </figure>
 
 Tralasciando il gioco giocato e l'imperiosa figura di Willis, un merito non da poco (per chi scrive probabilmente il migliore) erano i colori, lo stile e la scelte estetiche caratterizzanti il teatro che faceva da sfondo delle peripezie di Kincaid.
 
 <figure>
-<img src='http://www.mobygames.com/images/shots/l/489056-apocalypse-playstation-screenshot-intro-the-reverend-creates.jpg' alt='apocalypse ps1 gioco'>
+<img src='https://www.mobygames.com/images/shots/l/489056-apocalypse-playstation-screenshot-intro-the-reverend-creates.jpg' alt='apocalypse ps1 gioco'>
 </figure>
 
 **Sulla carta nulla di particolarmente originale eh**, eppure un minimo forse sì:
@@ -153,12 +153,12 @@ E in questo fu semplicemente meraviglioso.
 
 Il boss finale, **la Bestia, l'anticristo, è il Presidente degli Stati Uniti**.
 
-...e sì, direi che stiamo pensando tutti [alla stessa cosa.](http://xabacadabra.com/2016/trump/)
+...e sì, direi che stiamo pensando tutti [alla stessa cosa.](https://xabacadabra.com/2016/trump/)
 
 ## Grafica
 
 <figure>
-<img src='http://www.mobygames.com/images/shots/l/395423-apocalypse-playstation-screenshot-city-level.png' alt='apocalypse ps1 gioco'>
+<img src='https://www.mobygames.com/images/shots/l/395423-apocalypse-playstation-screenshot-city-level.png' alt='apocalypse ps1 gioco'>
 </figure>
 
 Paragrafo che ai fanatici del 4K farà ridere, ma che risultò molto importante per il successo di Apocalypse e della stessa Neversoft, che **impiegò lo stesso engine** per il debutto del sopracitato Tony Hawk e il gioco di Spiderman del 2000.

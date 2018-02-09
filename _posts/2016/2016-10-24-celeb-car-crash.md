@@ -48,7 +48,7 @@ Volendola dare per buona, un po' per pigrizia e un po' per comodità, potremmo s
 	<img src="/gallery/ccc/cover.jpg" alt="Celeb Car Crash">
 </figure>
 
-Menzione di merito all'artwork di [**Maleonn**](http://www.maleonn.com/), visionario artista cinese noto per collaborazioni con il Guardian e la BBC: 
+Menzione di merito all'artwork di [**Maleonn**](https://www.maleonn.com/), visionario artista cinese noto per collaborazioni con il Guardian e la BBC: 
 
 Da profano forse lo interpreto nei modi sbagliati, ma m'ha strappato un ciccionissimo sorriso.
 
@@ -96,7 +96,7 @@ se anche _un_ solo ascoltatore dovesse pensare questo, per me potremmo parlare d
 
 Ecco: in questo caso, onestamente, **quell'ascoltatore non sono io.**
 
-**People Are The Best Show** l'ho percepito come un disco "di mestiere" di una band americana di vent'anni fa che si diverte ancora a suonare...qualcosa di simile a quanto dissi per [Lightning Bolt dei Pearl Jam](http://xabacadabra.com/2013/pearl-jam-lightning-bolt-recensione/), o che potrei dire di molte cose nuove dei già citati **Alter Bridge**...
+**People Are The Best Show** l'ho percepito come un disco "di mestiere" di una band americana di vent'anni fa che si diverte ancora a suonare...qualcosa di simile a quanto dissi per [Lightning Bolt dei Pearl Jam](https://xabacadabra.com/2013/pearl-jam-lightning-bolt-recensione/), o che potrei dire di molte cose nuove dei già citati **Alter Bridge**...
 
 Sensazioni eh, certo:
 

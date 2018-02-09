@@ -16,9 +16,9 @@ comments: true
 
 Me lo chiedono ogni anno in molti, ed è curioso notare come in tre anni di blog io abbia sommariamente "recensito" tutte le edizioni senza fare una piega:
 
-1. [Sanremo 2013](http://xabacadabra.com/2013/sanremo-duemilatredici/)
-2. [Sanremo 2014](http://xabacadabra.com/2014/sanremo-2014/)
-3. [Sanremo 2015](http://xabacadabra.com/2015/sanremo-2015/)
+1. [Sanremo 2013](https://xabacadabra.com/2013/sanremo-duemilatredici/)
+2. [Sanremo 2014](https://xabacadabra.com/2014/sanremo-2014/)
+3. [Sanremo 2015](https://xabacadabra.com/2015/sanremo-2015/)
 
 *Sanremo fa schifo* è uno slogan parecchio facilone, anche se spesso veritiero, come veritieri sono l'immane spesa ed il considerevole intrallazzo che ogni anno il festival si porta appresso.
 
@@ -53,7 +53,7 @@ C'è da dire poi che **Il format del "grande varietà" con lustrini e paillette 
 Per ogni grande festa, c'è sempre un Titanic che affonda, un Gatsby che piange.
 
 <figure>
-	<img src='http://screenprism.com/assets/img/article/_1080x400/178763.jpg' alt='shining'>
+	<img src='https://screenprism.com/assets/img/article/_1080x400/178763.jpg' alt='shining'>
 	<figcaption>O un Jack Nicholson che tenta di ammazzare la moglie</figcaption>
 </figure>	
 

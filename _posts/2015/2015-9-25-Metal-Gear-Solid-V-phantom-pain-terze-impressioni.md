@@ -15,9 +15,9 @@ comments: true
 
 Per le puntate precedenti:
 
-1. [Prime Impressioni a caldo](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/)
+1. [Prime Impressioni a caldo](https://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-prime-impressioni/)
 
-2. [Seconde Impressioni a tiepido (?!)](http://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)
+2. [Seconde Impressioni a tiepido (?!)](https://xabacadabra.github.io/2015/Metal-Gear-Solid-V-phantom-pain-seconde-impressioni/)
 Sono più 60 ore. Che ho smesso di contare le ore.
 
 Devo ancora raggiungere il "vero finale", per cui preciso che la recensione vera e propria arriverà solo in seguito (quindi tra qualche secolo).
@@ -47,7 +47,7 @@ Affatto, seguitemi, è un discorso molto difficile da rendere senza correre il r
 
 Spesso nei miei post ho evidenziato come da qualche anno a questa parte il "vero" cinema passi dalla televisione, dalle famigerate Serie che qualitativamente oramai superano di gran lunga la maggior parte delle produzioni hollywoodiane 
 
-> Well I try to watch stuff every day, but I’m coming into Breaking Bad a bit late. I just got done with season two of Breaking Bad and that was pretty depressing. I got depressed for like a week. I was very pissed off, because I wasn’t the one to think of that story. That depressed me. The kind of topics they’re handling in Breaking Bad, the way they express them and put them on screen, let’s say I tried to create a game with similar topics and similar expressions, it would be hard to get approval in the company. The way these guys are putting the planning for this project and making it a commercial success – that’s somewhere I feel very jealous as a creator. - [Gameinformer](http://www.gameinformer.com/b/features/archive/2015/07/09/hideo-kojima-the-full-interview.aspx)
+> Well I try to watch stuff every day, but I’m coming into Breaking Bad a bit late. I just got done with season two of Breaking Bad and that was pretty depressing. I got depressed for like a week. I was very pissed off, because I wasn’t the one to think of that story. That depressed me. The kind of topics they’re handling in Breaking Bad, the way they express them and put them on screen, let’s say I tried to create a game with similar topics and similar expressions, it would be hard to get approval in the company. The way these guys are putting the planning for this project and making it a commercial success – that’s somewhere I feel very jealous as a creator. - [Gameinformer](https://www.gameinformer.com/b/features/archive/2015/07/09/hideo-kojima-the-full-interview.aspx)
 
 Kojima è uno che di cinema se ne intende parecchio, e come si legge qui sopra, parlando di Breaking Bad, questa piega degli eventi non è sfuggita nemmeno a lui, tanto è vero che lo ha portato ad una sua personale versione di Serie TV.
 

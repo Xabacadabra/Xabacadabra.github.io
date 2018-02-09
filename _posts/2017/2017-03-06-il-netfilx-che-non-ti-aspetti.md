@@ -57,7 +57,7 @@ Intendiamoci, nulla contro il bel doppiaggio italiano con il meraviglioso **Gigi
 ## Abstract: The Art of Design
 
 <figure>
-<img src='http://assets.itsnicethat.com/system/files/012017/588091df7fa44cc1b30020e3/images_slice_large/Abstract_Art_of_Design_Its_Nice_That.png?1484821235' alt='Abstract: The Art of Design'>
+<img src='https://assets.itsnicethat.com/system/files/012017/588091df7fa44cc1b30020e3/images_slice_large/Abstract_Art_of_Design_Its_Nice_That.png?1484821235' alt='Abstract: The Art of Design'>
 </figure> 
 
 Recente produzione documentaristica seriale Made in Netflix: per ora ho visto solo il primo episodio (dedicato al fantastico illustratore **Cristoph Niemann**) e **l'ho trovato meraviglioso ed interessantissimo**.

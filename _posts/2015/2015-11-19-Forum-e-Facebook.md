@@ -25,7 +25,7 @@ O anche uno di quei fieri cavalieri romanzati che un tempo tutti volevamo essere
 Uno che in genere al proprio cavallo ci teneva, considerava quasi un amico, più che un mezzo di trasporto.
 
 <figure>
-<img src='http://2.bp.blogspot.com/-3v3fuG1HBSo/Vk3TMZqesOI/AAAAAAAANVc/DuCX0-yEeuA/s1600/raoul.jpg' alt='raoul'>
+<img src='https://2.bp.blogspot.com/-3v3fuG1HBSo/Vk3TMZqesOI/AAAAAAAANVc/DuCX0-yEeuA/s1600/raoul.jpg' alt='raoul'>
 </figure>
 
 Ora immaginatevi l'avvento dell'automobile.

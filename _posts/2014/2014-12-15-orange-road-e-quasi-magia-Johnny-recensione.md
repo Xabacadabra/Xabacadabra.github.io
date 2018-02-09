@@ -23,7 +23,7 @@ Se vent'anni fa aveste domandato agli adolescenti quale fosse il triangolo amoro
 [^nota]: Specifico che ho seguito rispettivamente la versione mediaset (censurata) da bimbo, e quella riveduta e corretta dalla Yamato Video all'incirca quattro-cinque annetti fa. Mai letto il manga però, quindi le mie osservazioni sono legate esclusivamente alla serie animata</small>
 
 <figure>
-<img src='http://4.bp.blogspot.com/-S8mKUl3Cnkk/VI5eo_Ws6WI/AAAAAAAALHs/iQvZAA-x4-c/s1600/kimagureorangeroad.jpg' alt='sabrina-johnny-tinetta'>
+<img src='https://4.bp.blogspot.com/-S8mKUl3Cnkk/VI5eo_Ws6WI/AAAAAAAALHs/iQvZAA-x4-c/s1600/kimagureorangeroad.jpg' alt='sabrina-johnny-tinetta'>
 </figure>
 
 Mettetevi comodi, perché il trenino della nostalgia ha appena iniziato a fare *ciuff*.
@@ -51,7 +51,7 @@ La componente sovrannaturale della storia, così come le questioni di collettivi
 ## Ma...ma sei un mostro! Un criticone bastardo! MUORI!
 
 <figure>
-<img src='http://3.bp.blogspot.com/-x8g7_BtqT7Q/VI5hAm5tzPI/AAAAAAAALIQ/WIMiJ8sPIi4/s1600/1300370385_5.jpg' alt='è quasi magia Johnny'>
+<img src='https://3.bp.blogspot.com/-x8g7_BtqT7Q/VI5hAm5tzPI/AAAAAAAALIQ/WIMiJ8sPIi4/s1600/1300370385_5.jpg' alt='è quasi magia Johnny'>
 </figure>
 
 EH! Quanto mi piace giocare d'anticipo.
@@ -79,10 +79,10 @@ Ma allora....
 ## Perché Orange Road è così bello? 
 
 <figure>
-<img src='http://2.bp.blogspot.com/-y-n8CDQT8L0/VI5gHXppUzI/AAAAAAAALIA/K3Kq_M7C-x8/s1600/1.jpg' alt='è-quasi-magia-Johnny'>
+<img src='https://2.bp.blogspot.com/-y-n8CDQT8L0/VI5gHXppUzI/AAAAAAAALIA/K3Kq_M7C-x8/s1600/1.jpg' alt='è-quasi-magia-Johnny'>
 </figure>
 
-**Perché le peripezie di Johnny/Kyusuke hanno coinvolto così tante generazioni d'italiani**, tanto da renderlo per un periodo **una sorta di cavallo di battaglia dell'ascolto per la vecchia Mediaset** ? <small>(un [dragonball](http://xabacadabra.com/2013/dragon-ball-in-italia/) anteliteram, se vogliamo)</small>
+**Perché le peripezie di Johnny/Kyusuke hanno coinvolto così tante generazioni d'italiani**, tanto da renderlo per un periodo **una sorta di cavallo di battaglia dell'ascolto per la vecchia Mediaset** ? <small>(un [dragonball](https://xabacadabra.com/2013/dragon-ball-in-italia/) anteliteram, se vogliamo)</small>
 
 Non è facile rispondere a questa domanda.
 
@@ -93,7 +93,7 @@ uno di quelli che chiamerei **"Maestro dell'Archetipo"**, ovvero i migliori mang
 ## Archetipi Manga
 
 <figure>
-<img src='http://1.bp.blogspot.com/-1sc_FnKXMuc/VI5ic3_8UnI/AAAAAAAALIc/0EFqm9kh09w/s1600/anime_archetypes__my_ocs_by_punkichi-d6jh23m.png' alt='è-quasi-magia-Johnny'>
+<img src='https://1.bp.blogspot.com/-1sc_FnKXMuc/VI5ic3_8UnI/AAAAAAAALIc/0EFqm9kh09w/s1600/anime_archetypes__my_ocs_by_punkichi-d6jh23m.png' alt='è-quasi-magia-Johnny'>
 </figure>
 
 Lasciamo perdere la narrativa in generale: **manga (e videogiochi) giapponesi da sempre funzionano giocando _palesemente_ sugli stereotopi**, in un modo vagamente paragonabile alla nostra Commedia dell'Arte, ma moderno e articolato:
@@ -107,7 +107,7 @@ Dovendo gestire tutti questi ingredienti, ampiamente testati e di sicuro gradime
 ## La Regina del Celebrità
 
 <figure>
-<img src='http://2.bp.blogspot.com/-atBOoSbBgPA/VI5feRBj-DI/AAAAAAAALH4/_bV8Lf3RYLo/s1600/KimagureOrangeRoad7.jpg' alt='è-quasi-magia-Johnny'>
+<img src='https://2.bp.blogspot.com/-atBOoSbBgPA/VI5feRBj-DI/AAAAAAAALH4/_bV8Lf3RYLo/s1600/KimagureOrangeRoad7.jpg' alt='è-quasi-magia-Johnny'>
 </figure>
 
 E, parlando del frutto principale, torniamo a una delle prime risposte alla domanda *"perché Orange Road è così bello?"*: 
@@ -125,7 +125,7 @@ Allo stesso modo, **ha incarnato il modello della ragazza grintosa, un po' ribel
 ## La Terza Incomoda 
 
 <figure>
-<img src='http://2.bp.blogspot.com/-BdU98mstV08/VI5j6RSmnsI/AAAAAAAALIo/rh0JDtkHHTk/s1600/Kimagure.Orange.Road.full.69441.jpg' alt='è-quasi-magia-Johnny'>
+<img src='https://2.bp.blogspot.com/-BdU98mstV08/VI5j6RSmnsI/AAAAAAAALIo/rh0JDtkHHTk/s1600/Kimagure.Orange.Road.full.69441.jpg' alt='è-quasi-magia-Johnny'>
 </figure>
 
 A dirla tutta, vale anche per **Tinetta/Hikaru, in genere personaggio fin troppo sottovalutato e bistrattato** <small>(non senza QUALCHE ragione eh)</small>, in realtà possedeva retroscena e sfaccettature interessanti, specie considerando gli anni in cui è stato scritto.
@@ -141,7 +141,7 @@ Ma *la Domanda*, dicevamo...
 ## Orange Road può piacere anche ad un ragazzino di oggi?
 
 <figure>
-<img src='http://4.bp.blogspot.com/-5UZIhoChO8E/VI5gkDItNZI/AAAAAAAALII/IOsNTD7O-m0/s1600/orangeakemi5.JPG' alt='è-quasi-magia-Johnny'>
+<img src='https://4.bp.blogspot.com/-5UZIhoChO8E/VI5gkDItNZI/AAAAAAAALII/IOsNTD7O-m0/s1600/orangeakemi5.JPG' alt='è-quasi-magia-Johnny'>
 </figure>
 
 **Temo di no.** 

@@ -52,7 +52,7 @@ Negli ultimi anni **La7 è diventata praticamente una rete _All News_ a sfondo p
 <blockquote class="twitter-video" data-lang="it"><p lang="it" dir="ltr">&quot;Che fine hanno fatto quelli di <a href="https://twitter.com/hashtag/Gazebo?src=hash">#Gazebo</a>?&quot; <a href="https://t.co/LkDIlY6qiJ">pic.twitter.com/LkDIlY6qiJ</a></p>&mdash; Gazebo (@welikechopin) <a href="https://twitter.com/welikechopin/status/865865150808674304">20 maggio 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Circa [**quattro anni fa** scrivevo da queste parti](http://xabacadabra.com/2013/gazebo/) che _"Gazebo mi ha fatto tornare a guardare la televisione"_
+Circa [**quattro anni fa** scrivevo da queste parti](https://xabacadabra.com/2013/gazebo/) che _"Gazebo mi ha fatto tornare a guardare la televisione"_
 
 La cosa importa perché, ovviamente, **col tempo questo è diventato vero per un numero sempre crescente di persone** e per me in particolar modo un buon motivo per **guardare la RAI** la stessa che ho sempre cercato un minimo di difendere, almeno nel mio piccolo, sopratutto sponda RAI3.
 

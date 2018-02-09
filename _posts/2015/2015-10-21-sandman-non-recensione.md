@@ -17,7 +17,7 @@ comments: true
 Ho parlato, raffigurato, scarabocchiato e citato _Sandman_ a più riprese in questo blog, eppure non ho mai avuto il coraggio di scriverci sopra qualcosa...
 
 <figure>
-<img src='http://3.bp.blogspot.com/-Pu3kO6s4n6E/VicgbwWAjFI/AAAAAAAANEs/IlPKFPedVMQ/s1600/lucifer.jpg' alt='sandman'>
+<img src='https://3.bp.blogspot.com/-Pu3kO6s4n6E/VicgbwWAjFI/AAAAAAAANEs/IlPKFPedVMQ/s1600/lucifer.jpg' alt='sandman'>
 </figure>
 
 In parte, credo questo dipenda dal fatto che Sandman non è una di quelle opere che si possono recensire.
@@ -27,7 +27,7 @@ Cioè: evidentemente io NON posso recensirlo, **ma sinceramente penso che chiunq
 ## E allora ?
 
 <figure>
-<img src='http://2.bp.blogspot.com/-1BO4U37K3HA/VicfU4VDl8I/AAAAAAAANEU/R5N-XZWiNjM/s1600/sandman.jpg' alt='sandman'>
+<img src='https://2.bp.blogspot.com/-1BO4U37K3HA/VicfU4VDl8I/AAAAAAAANEU/R5N-XZWiNjM/s1600/sandman.jpg' alt='sandman'>
 </figure>
 
 Boh, volete un caffè ? Nel dubbio metto su la moka...
@@ -45,7 +45,7 @@ Perché vedete, **Sandman è un fantastico spettacolo di visualità, narrativa, 
 ## Eterno ed Universale
 
 <figure>
-<img src='http://1.bp.blogspot.com/-UVFHpgskOpc/VicfgeKaScI/AAAAAAAANEc/p1oNVlZRj0k/s1600/sandman2.jpg' alt='sandman'>
+<img src='https://1.bp.blogspot.com/-UVFHpgskOpc/VicfgeKaScI/AAAAAAAANEc/p1oNVlZRj0k/s1600/sandman2.jpg' alt='sandman'>
 </figure>
 
 Cercando di dare un tono utile a questo post, ricompensando quei pochi coraggiosi che dovessero essere giunti a leggere le mie elucubrazioni fino a qui, **penso valga la pena precisare come Sandman non sia propriamente per tutti.**
@@ -65,5 +65,5 @@ Di fumetti come Sandman, sfortunatamente, no.
 Il vostro caffè.
 
 <figure>
-<img src='http://3.bp.blogspot.com/-pXH2kmU0w4g/VicglgJKEXI/AAAAAAAANE0/cDe1n75LSZA/s1600/Death_%2528DC_Comics%2529.jpg' alt='sandman'>
+<img src='https://3.bp.blogspot.com/-pXH2kmU0w4g/VicglgJKEXI/AAAAAAAANE0/cDe1n75LSZA/s1600/Death_%2528DC_Comics%2529.jpg' alt='sandman'>
 </figure>

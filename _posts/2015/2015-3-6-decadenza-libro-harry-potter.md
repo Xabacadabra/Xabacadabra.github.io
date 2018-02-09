@@ -24,7 +24,7 @@ Bene, come avrete letto dal titolo, oggi su Xaba Cadabra si parla (credo per la 
 ## Decadenza...?!
 
 <figure>
- <img src='http://4.bp.blogspot.com/-sUjprmo7Nqs/VPlwVGwHBLI/AAAAAAAALno/Bd9_5xGXSQY/s1600/kibuishi-spine-image.jpg' alt='Harry Potter'>
+ <img src='https://4.bp.blogspot.com/-sUjprmo7Nqs/VPlwVGwHBLI/AAAAAAAALno/Bd9_5xGXSQY/s1600/kibuishi-spine-image.jpg' alt='Harry Potter'>
  <figcaption>Gli artwork di questo post sono opera del fenomenale Kazu Kibuishi</figcaption>
  </figure>
 
@@ -57,7 +57,7 @@ Personalmente ho sempre trovato la conclusione della saga un punto estremamente 
 ## Conclusioni
 
 <figure>
- <img src='http://1.bp.blogspot.com/-4h0X4yR1Uao/VPlz867yePI/AAAAAAAALn0/HzSM91MGjQY/s1600/harry-potter-prisoner-azkaban-15th-anniversary-cover-main-300x213.jpg' alt='Harry Potter'>
+ <img src='https://1.bp.blogspot.com/-4h0X4yR1Uao/VPlz867yePI/AAAAAAAALn0/HzSM91MGjQY/s1600/harry-potter-prisoner-azkaban-15th-anniversary-cover-main-300x213.jpg' alt='Harry Potter'>
  </figure>
 
 Questo è quanto, ma aggiungo solo una piccola nota a margine:

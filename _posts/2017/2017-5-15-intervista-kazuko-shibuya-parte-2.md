@@ -17,12 +17,12 @@ comments: true
 
 Seconda parte dell'intervista alla storica Designer della Serie: lo sviluppo di Final Fantasy 1, il problema nell'adattare i disegni di Yoshitaka Amano nei mostri del gioco e tanto altro!
 
-Quest'IMMENSA intervista è stata realizzata da [4gamer](http://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](http://shmuplations.com/kazukoshibuya/).
+Quest'IMMENSA intervista è stata realizzata da [4gamer](https://www.4gamer.net/games/064/G006480/20130227073/) nel 2013, ed originariamente tradotta in inglese dall'ottimo [**Shmuplations**](https://shmuplations.com/kazukoshibuya/).
 {:.notice-info}
 
-1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
+1. [**Prima Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
 
-2. [**Terza Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
+2. [**Terza Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
 
 <hr />
 
@@ -45,7 +45,7 @@ Se volevamo creare un certo accento nello scenario, prima capovolgevamo lo sprit
 Come ulteriore contromisura per economizzare sullo spazio a disposizione, realizzammo la scena in primo piano completamente in nero, rappresentando solo la collina e i personaggi lì sopra.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/ffopening.png' alt='final-fantasy-opening'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/ffopening.png' alt='final-fantasy-opening'>
 <figcaption>L'introduzione di Final Fantasy</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Come ulteriore contromisura per economizzare sullo spazio a disposizione, realiz
 
 Sì, anche vedendola oggi, posso determinare chi si trova dove. Lavorare con mezzi tanto limitati si rivelò una buona cosa per me. [^limiti] [risate] Penso di aver avuto vent'anni quando l'ho disegnata.
 
-[^limiti]: Questa faccenda torna spesso fuori: qualche vecchio lettore di Xaba Cadabra forse ricorderà  <a href='http://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/'>un discorso analogo</a> che partiva da Nobuo Uematsu, compositore storico della serie.
+[^limiti]: Questa faccenda torna spesso fuori: qualche vecchio lettore di Xaba Cadabra forse ricorderà  <a href='https://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/'>un discorso analogo</a> che partiva da Nobuo Uematsu, compositore storico della serie.
 
 **Impressionante! Ed è stata anche la responsabile della pixel art?**
 
@@ -76,7 +76,7 @@ Inoltre, parecchi altri mostri furono concepiti da altri membri dello staff, inc
 Già. I miei disegni avevano qualcosa del "tocco di Amano" all'epoca. Spesi una marea di tempo a studiare la sua arte.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/Amano_FF1_Golem.gif' alt='final-fantasy-golem'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/Amano_FF1_Golem.gif' alt='final-fantasy-golem'>
 <figcaption>Illustrazione del Golem di Yoshitaka Amano</figcaption>
 </figure>
 
@@ -111,7 +111,7 @@ Alzavo la mano esclamando "Sakaguchi-saaaan" e lui arrivava. [risate]
 Era troppo piccola, quindi finivamo sempre per litigare! [risate] I programmatori e i tre in mezzo finivano spesso per dirsele quattro...[risate]
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/square1986.jpg' alt='final-fantasy-staff'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/square1986.jpg' alt='final-fantasy-staff'>
 <figcaption>Lo staff Square nel 1986.</figcaption>
 </figure>
 
@@ -132,18 +132,18 @@ L'ultimo boss, _Kurayami no Kumo_ (Cloud of Darkness). Se osservate le illustraz
 Finii per realizzare un grosso "remix" per donarle l'adeguata maestosità.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/amano-cloudofdarkness.jpg' alt='cloud-of-darkness-amano'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/amano-cloudofdarkness.jpg' alt='cloud-of-darkness-amano'>
 <figcaption>Concept originale di Yoshitaka Amano per Cloud of Darkness</figcaption>
 </figure>
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/ff3-finalbattle01.png' alt='cloud-of-darkness-shibuya'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/ff3-finalbattle01.png' alt='cloud-of-darkness-shibuya'>
 <figcaption>Resa in-game di Cloud of Darkness realizzata dalla Shibuya</figcaption>
 </figure>
 
 **Anche se ne ha mostrato solo la metà superiore, lo stile rievoca decisamente quello di Amano**
 
-In FFIII dovetti ridisegnare personalmente molti mostri in questo modo. Di quelli grandi come [Gaurda](http://static1.wikia.nocookie.net/__cb20120604124411/finalfantasy/images/0/03/Garuda_Amano.jpg) e [Hein](http://static4.wikia.nocookie.net/__cb20120604122640/finalfantasy/images/4/43/Amano_Hein.jpg) prendevo le immagini inviate da Amano, le inserivo in una griglia pixel tentando di risistemarli il meglio che potevo.
+In FFIII dovetti ridisegnare personalmente molti mostri in questo modo. Di quelli grandi come [Gaurda](https://static1.wikia.nocookie.net/__cb20120604124411/finalfantasy/images/0/03/Garuda_Amano.jpg) e [Hein](https://static4.wikia.nocookie.net/__cb20120604122640/finalfantasy/images/4/43/Amano_Hein.jpg) prendevo le immagini inviate da Amano, le inserivo in una griglia pixel tentando di risistemarli il meglio che potevo.
 
 **Ah, non sapevo avesse fatto quel genere di lavoro. Dopo FFIII, uscì su Game Boy _Seiken Densetsu_** [^seiken]
 
@@ -159,14 +159,14 @@ In realtà, lavorare al Game Boy fu più facile. Lavorare in bianco e nero è pi
 
 Sì. Non lavorai direttamente ai dati del gioco, ma realizzai i _nitoushin_ [^nitoushin] per l'illustrazione dei personaggi.
 
-[^nitoushin]: è un termine giapponese che indica illustrazioni in cui testa e corpo dei personaggi posseggono le medesime dimensioni: <a href='http://dic.pixiv.net/a/2頭身'>esempio</a>
+[^nitoushin]: è un termine giapponese che indica illustrazioni in cui testa e corpo dei personaggi posseggono le medesime dimensioni: <a href='https://dic.pixiv.net/a/2頭身'>esempio</a>
 
 **Come i personaggi allineati nella cover art del Super Famicon?**
 
 Sì. Ho disegnato le illustrazioni su cui sono basati. All'esibizione per il venticinquesimo anniversario di _Final Fantasy_, ho presentato il mio sketchbook contenente parecchi nitoushin di _Final Fantasy IV_.
 
 <figure>
-<img src='http://www.hellandheavennet.com/files/final-fantasy-4/box-snes-jp-1.jpg' alt='final-fantasy-iv-cover-art'>
+<img src='https://www.hellandheavennet.com/files/final-fantasy-4/box-snes-jp-1.jpg' alt='final-fantasy-iv-cover-art'>
 <figcaption>Box giapponese di Final Fantasy IV</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ Sì, disegni fatti a mano con gli acquarelli. Non c'era Photoshop all'epoca. [ri
 Mi spiegava cose del tipo "questo personaggio dovrebbe essere così" eccetera. Era un lavoro semplice per me, e credo anche per lui. Lavoriamo seguendo lo stesso metodo tuttoggi, in effetti.
 
 <figure>
-<img src='http://shmuplations.com/wp-content/uploads/2014/02/shibuyasketchbook.jpg' alt='shibuya-sketchbook'>
+<img src='https://shmuplations.com/wp-content/uploads/2014/02/shibuyasketchbook.jpg' alt='shibuya-sketchbook'>
 <figcaption>Lo sketchbook della Shibuya mostrato durante le celebrazioni per il 25° anniversario di Final Fantasy.</figcaption>
 </figure>
 
@@ -187,6 +187,6 @@ Mi spiegava cose del tipo "questo personaggio dovrebbe essere così" eccetera. E
 
 Nella prossima puntata... si parlerà di _Romancing Saga_, _Final Fantasy IX_ e Hawaii! (?!?)
 
-1. [**Prima Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
+1. [**Prima Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-1)
 
-2. [**Terza Parte**](http://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)
+2. [**Terza Parte**](https://xabacadabra.com/2017/intervista-kazuko-shibuya-parte-3)

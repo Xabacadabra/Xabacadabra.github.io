@@ -15,7 +15,7 @@ comments: true
 ---
 ATTENZIONE! Questo post è estremamente complottista (e infatti è derivato per buona parte da alcune discussioni su ffonline)
 
-Prima di tutto se non conoscete Grandia 2, [andate qua.](http://xabacadabra.github.io/2013/grandia-2-recensione/)
+Prima di tutto se non conoscete Grandia 2, [andate qua.](https://xabacadabra.github.io/2013/grandia-2-recensione/)
 
 Se invece non conoscete Final Fantasy X , amen. Che non c'ho voglia di recensirlo ed è già abbastanza famoso di suo
 
@@ -40,7 +40,7 @@ Va però detto, giusto per smontare l'ipotesi del complotto, che negli anime/vid
 Poi vabbè, uno vede Kimahri e Mareg:
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-Ts9tR_vuwV4/VPL10VvAZGI/AAAAAAAALk8/e4nF_sMGwTw/s1600/Grandia_2_e_kimahri.jpg" alt="Kimahri e Mareg"></a>
+	<img src="https://4.bp.blogspot.com/-Ts9tR_vuwV4/VPL10VvAZGI/AAAAAAAALk8/e4nF_sMGwTw/s1600/Grandia_2_e_kimahri.jpg" alt="Kimahri e Mareg"></a>
 	<figcaption>Praticamente: Sampdoria - Genoa</figcaption>
 </figure>
 

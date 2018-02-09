@@ -26,7 +26,7 @@ Specifichiamo subito che la virata vera e propria del Dylan Dog-verse è rimanda
 ## Disegni (E Colori!)
 
 <figure>
-<img src='http://2.bp.blogspot.com/-fq92GTqMeIM/VDv3SP4D4SI/AAAAAAAAKVg/rZRq3ADvKh8/s1600/spazio-profondo-il-nuovo-corso-di-dylan-dog-n-L-MAXqhY.jpeg' alt='Spazio Profondo Dylan Dog scan'>
+<img src='https://2.bp.blogspot.com/-fq92GTqMeIM/VDv3SP4D4SI/AAAAAAAAKVg/rZRq3ADvKh8/s1600/spazio-profondo-il-nuovo-corso-di-dylan-dog-n-L-MAXqhY.jpeg' alt='Spazio Profondo Dylan Dog scan'>
 </figure>
 
 **Nicola Mari** ha un tratto che mi è sempre piaciuto un sacco (ricordo ancora con sommo affetto Goliath), però forse per il colore - opera di **Lorenzo De Felici**, che fa un grandissimo lavoro - forse per l'ambientazione, questa volta non lo ho apprezzato al 100%
@@ -41,7 +41,7 @@ Risposta: **nì**
 
 Partiamo dal presupposto che io e la fantascienza salvo qualche occasione non andiamo molto d'accordo (fanno eccezione specifici i sottorami come il mio amatissimo cyberpunk, Asimov o la space opera), e **anche se Alien mi è sempre piaciuto molto trovo molto stancante la continua riproposizione del suo "modus hoperandi" nei più svariati contesti**...per intenderci, il concetto spaziale della casa stregata (astronave).
 
-Sarà forse che **Roberto Recchioni** mi ha abituato fin troppo bene (ricordo sempre che [Mater Morbi](http://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/) è una delle mie storie di Dylan terrificantemente preferite) ma chiarito questo punto, sottolineando come comunque Spazio Profondo attinga da diverse fonti senza "copiarne" nessuna (peraltro in perfetto stile DyD) **globalmente l'albo non mi ha appassionato ne davvero convinto**, ma **ho molto apprezzato la psicologia nella caratterizzazione di (dei) Dylan**, più che altro nelle interazioni tra Numero 5 e Numero 4.
+Sarà forse che **Roberto Recchioni** mi ha abituato fin troppo bene (ricordo sempre che [Mater Morbi](https://xabacadabra.com/2013/dylan-dog-280-mater-morbi-recensione/) è una delle mie storie di Dylan terrificantemente preferite) ma chiarito questo punto, sottolineando come comunque Spazio Profondo attinga da diverse fonti senza "copiarne" nessuna (peraltro in perfetto stile DyD) **globalmente l'albo non mi ha appassionato ne davvero convinto**, ma **ho molto apprezzato la psicologia nella caratterizzazione di (dei) Dylan**, più che altro nelle interazioni tra Numero 5 e Numero 4.
 
 ## Conclusione
 

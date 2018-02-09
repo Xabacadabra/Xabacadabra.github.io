@@ -13,15 +13,15 @@ published: true
 comments: true
 ---
 
-_Late Messiah_ è una serie di racconti originariamente pensati per la community di [Cetramod](http://xabacadabra.com/2013/cetramod/), iniziata nel 2009 e terminata nel 2015.
+_Late Messiah_ è una serie di racconti originariamente pensati per la community di [Cetramod](https://xabacadabra.com/2013/cetramod/), iniziata nel 2009 e terminata nel 2015.
 
-Attualmente può essere letta per gentile concessione di Arcweb.it [**cliccando questo link**](http://www.arcweb.it/latemessiah/).
+Attualmente può essere letta per gentile concessione di Arcweb.it [**cliccando questo link**](https://www.arcweb.it/latemessiah/).
 
 ## Altre Spiegazioni Spicce
 
 Late Messiah è stato un esperimento disordinato, caotico e per certi versi contradittorio: 
 
-un guazzabuglio nato e cresciuto negli ultimi mesi del 2009 come "sottospecie" di gioco di ruolo per il forum di Cetramod (i primi 10-11 capitoli sono usciti praticamente a cadenza settimanale), in seguito è diventata una criptica "web novel" scollegata dal suo contesto originale, e ha avuto una gestazione parecchio complicata, che l'ha portata a  [concludersi](http://www.arcweb.it/latemessiah/?p=1482) solo nel 2015.
+un guazzabuglio nato e cresciuto negli ultimi mesi del 2009 come "sottospecie" di gioco di ruolo per il forum di Cetramod (i primi 10-11 capitoli sono usciti praticamente a cadenza settimanale), in seguito è diventata una criptica "web novel" scollegata dal suo contesto originale, e ha avuto una gestazione parecchio complicata, che l'ha portata a  [concludersi](https://www.arcweb.it/latemessiah/?p=1482) solo nel 2015.
 
 **Contiene un sacco di errori, ortografici e non**, più volte mi sono ripromesso una nuova stesura ordinata, ripulita, riveduta e corretta (magari in un Epub) ma conoscendomi non ci conterei troppo...anche perché **chi doveva leggerla oramai l'ha letta**, quindi nuove edizioni rappresenterebbero soltanto uno sfizio personale.
 
@@ -29,11 +29,11 @@ un guazzabuglio nato e cresciuto negli ultimi mesi del 2009 come "sottospecie" d
 
 Quanto scrivo qui è legato ad una storia cominciata esattamente sei anni fa.
 
-Una roba molto mia, o dovrei dire molto nostra, molto [cetriana](http://xabacadabra.com/2013/cetramod/)...ma neanche poi così tanto:
+Una roba molto mia, o dovrei dire molto nostra, molto [cetriana](https://xabacadabra.com/2013/cetramod/)...ma neanche poi così tanto:
 
 Perché sì, Late Messiah nasce su Cetramod, per Cetramod e in Cetramod...ma la verità è che, fin da subito, è stato un qualcosa di connesso soprattutto ad uno stretto numero di determinate persone, che con la community potevano essere più o meno legate.
 
-Certo: diciamo pure che tutto, ma proprio TUTTO parte con [Arc](http://arcweb.it/), che di Cetramod è sommo autore, mungitore ed ucciditore...ma per quanto riguarda Late Messiah (ed il suo [Rig Veda](http://www.cetramod.it/rigveda/appendice/cenni-storici/)) direi che ha contato più che altro il **Marco Bortone** individuo, piuttosto che il webmaster della community più pazza (e più chiusa) del web.
+Certo: diciamo pure che tutto, ma proprio TUTTO parte con [Arc](https://arcweb.it/), che di Cetramod è sommo autore, mungitore ed ucciditore...ma per quanto riguarda Late Messiah (ed il suo [Rig Veda](https://www.cetramod.it/rigveda/appendice/cenni-storici/)) direi che ha contato più che altro il **Marco Bortone** individuo, piuttosto che il webmaster della community più pazza (e più chiusa) del web.
 
 Da li in poi il discorso si è molto allargato pur rimanendo pressapoco lo stesso, inglobando più persone, per la maggior parte presenze sporadiche...quelle che, molto sommariamente, potremmo catalogare come i _"ti leggo per farti un piacere"_ - cosa che, intendiamoci, ci sta pure eh: è un po' lo scotto da pagare per lo spirito "interattivo" con cui LM è originariamente nato.
 

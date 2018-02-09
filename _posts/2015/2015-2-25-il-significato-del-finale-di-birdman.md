@@ -15,7 +15,7 @@ comments: true
 ads: true
 ---
 
-Ok, [l'avevo preannunciato](http://xabacadabra.com/2015/birdman-recensione/), e ci siamo arrivati.
+Ok, [l'avevo preannunciato](https://xabacadabra.com/2015/birdman-recensione/), e ci siamo arrivati.
 
 Come avrete visto nel titolo e dovrebbe essere ovvio, **questo post è totalmente spoiler:** guardatevi Birdman prima di leggere altrimenti, tanto per restare in tema, sono **volatici diabetici**
 {: .notice-warning}
@@ -29,7 +29,7 @@ Chiariti questi punti fondamentali, partiamo:
 ## Riggan diventa Birdman
 
 <figure>
- <img src="http://2.bp.blogspot.com/-DWRu_V0hEPI/VO3JmYWGZbI/AAAAAAAALck/ImxwdJjEJLM/s1600/finalebirdman.jpg" alt="Il significato del finale di Birdman">
+ <img src="https://2.bp.blogspot.com/-DWRu_V0hEPI/VO3JmYWGZbI/AAAAAAAALck/ImxwdJjEJLM/s1600/finalebirdman.jpg" alt="Il significato del finale di Birdman">
 </figure>
 
 Quando Riggan si leva le bende, mostrando il suo "naso nuovo", possiamo osservare come quest'ultimo ricordi vagamente un becco, rassomigliante la maschera di Birdman (che non a caso è seduto li a fianco a farsi una bella cagata)
@@ -73,7 +73,7 @@ La situazione cambia (forse) nel finale:
 ## Il sorriso di Emma Stone / Sam Thomson
 
 <figure>
- <img src="http://2.bp.blogspot.com/-4zxbuRTwUX8/VO3IPmW86tI/AAAAAAAALcY/CCllJ96WICQ/s1600/Birdman_69883.jpg" alt="Il significato del finale di Birdman Emma Stone">
+ <img src="https://2.bp.blogspot.com/-4zxbuRTwUX8/VO3IPmW86tI/AAAAAAAALcY/CCllJ96WICQ/s1600/Birdman_69883.jpg" alt="Il significato del finale di Birdman Emma Stone">
 </figure>
 
 **Sam guarda fuori dalla finestra, impaurita, scrutando verso il basso** alla ricerca del corpo del padre, **quindi rivolge lo sguardo in alto, verso il cielo, illuminandosi e sorridendo**

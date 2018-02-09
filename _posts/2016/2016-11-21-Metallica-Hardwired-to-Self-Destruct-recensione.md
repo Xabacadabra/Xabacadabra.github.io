@@ -120,7 +120,7 @@ Poco da dire: **per me una delle canzoni più brutte dell'album, forse la peggio
 
 ### Murder One
 
-**Il tributo al buon [Lemmy](http://xabacadabra.com/2015/Lemmy/).** 
+**Il tributo al buon [Lemmy](https://xabacadabra.com/2015/Lemmy/).** 
 
 Apprezzo molto il gesto, che mi pare sinceramente sentito e tutto fuorché retorico...il video poi è veramente carino:
 

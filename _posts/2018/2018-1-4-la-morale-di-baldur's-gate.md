@@ -20,13 +20,13 @@ Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire 
 **le _Enhanced Edition_ ad opera di Beamdog**.
 
 <figure>
-<img src="http://www.gatheryourparty.com/wp-content/uploads/2012/12/Baldurs-Gate-Enhanced-Edition.jpg" alt="Baldur's Gate Enhanced Edition">
+<img src="https://www.gatheryourparty.com/wp-content/uploads/2012/12/Baldurs-Gate-Enhanced-Edition.jpg" alt="Baldur's Gate Enhanced Edition">
 </figure>
 
 Questa "recensione-panoramica" è abbastanza pachidermica (al solito amo perdermi in svariate fregnacce, capitemi) ergo la strutturerò in punti salienti, in modo che ognuno possa concentrarsi sul determinato argomento d'interesse.
 
 <figure>
-<img src="http://www.nohighscores.com/wp-content/uploads/2012/07/baldursgate_ee_newstuff.png" alt="NPC Baldur's Gate Enhanced Edition">
+<img src="https://www.nohighscores.com/wp-content/uploads/2012/07/baldursgate_ee_newstuff.png" alt="NPC Baldur's Gate Enhanced Edition">
 </figure>
 
 Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti legati alla serie classica.
@@ -100,7 +100,7 @@ La main quest di Hexxat, in particolare, rappresentava potenzialmente **un'occas
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0YRPiygI2Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <small>L'EPICITÀ</small>
 
-Ultimamente sto provando il recente _Tyranny_ e le mie memorie di <a href="http://xabacadabra.com/2016/pillars-of-eternity-recensione/">Pillars of Eternity</a> sono ancora abbastanza fresche, quindi lo posso dire senza mezzi termini:
+Ultimamente sto provando il recente _Tyranny_ e le mie memorie di <a href="https://xabacadabra.com/2016/pillars-of-eternity-recensione/">Pillars of Eternity</a> sono ancora abbastanza fresche, quindi lo posso dire senza mezzi termini:
 
 Nella scuola dei RPG isometrici, **la saga di Baldur's Gate** è ancora imbattibile.
 

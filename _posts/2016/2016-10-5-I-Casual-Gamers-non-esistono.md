@@ -36,7 +36,7 @@ Una cosa, però, è effettivamente cambiata:
 ## L'esigenza di sentirsi "TRVE"
 
 <figure>
-<img src="http://img.desmotivaciones.es/201311/TRVECVLT.jpg" alt="true">
+<img src="https://img.desmotivaciones.es/201311/TRVECVLT.jpg" alt="true">
 </figure>
 
 Più puro, estremo, hardcore, in una parola **elitario** e, come tale, necessitante una plebe da bistrattare: 

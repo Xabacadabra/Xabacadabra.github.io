@@ -15,7 +15,7 @@ published: true
 comments: true
 ---
 
-Il fantastico artwork qui sopra è del bravissimo [Ron Chan](http://www.ronchan.net/)
+Il fantastico artwork qui sopra è del bravissimo [Ron Chan](https://www.ronchan.net/)
 {: .notice-info}
 
 Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso soprattutto con la relativa pop culture animata e videogiocosa...
@@ -30,7 +30,7 @@ Partiamo dal principio, e quindi da lui:
 
 Sicuramente, è il primo cartone di cui ho memoria e, a detta dei miei genitori, lo guardavo ancor prima di camminare o proferire parola!
 
-Certo, qualche anno dopo sarei stato investito dal fenomeno [_**Dragon Ball**_](http://xabacadabra.com/2013/dragon-ball-in-italia/), quello che per noi altri nati tra la fine degli anni '80 e l'inizio dei '90 è assurto a tutti gli effetti una sorta di credo religioso, accompagnato da tantissimi annessi e connessi mediasettari del caso (tipo un certo [Johnny](http://xabacadabra.com/2014/orange-road-e-quasi-magia-Johnny-recensione/)) ma tutto, almeno nel mio caso, era partito con Lupin, per poi cristallizzarsi, ed in un certo senso esplodere, con Cowboy Bebop, ragion per cui non riesco a non parlare di entrambi in questo post:
+Certo, qualche anno dopo sarei stato investito dal fenomeno [_**Dragon Ball**_](https://xabacadabra.com/2013/dragon-ball-in-italia/), quello che per noi altri nati tra la fine degli anni '80 e l'inizio dei '90 è assurto a tutti gli effetti una sorta di credo religioso, accompagnato da tantissimi annessi e connessi mediasettari del caso (tipo un certo [Johnny](https://xabacadabra.com/2014/orange-road-e-quasi-magia-Johnny-recensione/)) ma tutto, almeno nel mio caso, era partito con Lupin, per poi cristallizzarsi, ed in un certo senso esplodere, con Cowboy Bebop, ragion per cui non riesco a non parlare di entrambi in questo post:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aw3fN3OPk3A" frameborder="0" allowfullscreen></iframe>
 
@@ -51,19 +51,19 @@ E che dire poi di jazz, poliziotteschi anni '70 all'italiana, heist movie (o cap
 Pure i samurai!
 
 <figure>
-	<img src='http://2.bp.blogspot.com/-sHaVrwWkH-g/VeVy2uuR3wI/AAAAAAAAMXQ/O670q2hRsaU/s1600/goemon.jpg' alt='Goemon'>
+	<img src='https://2.bp.blogspot.com/-sHaVrwWkH-g/VeVy2uuR3wI/AAAAAAAAMXQ/O670q2hRsaU/s1600/goemon.jpg' alt='Goemon'>
 </figure>
 
-Oppure pistoleri _bassisti carismatici_, per citare [il mitico Doc Manhattan](http://docmanhattan.blogspot.it/2014/01/i-10-piu-grandi-bassisti-carismatici-di-sempre.html)
+Oppure pistoleri _bassisti carismatici_, per citare [il mitico Doc Manhattan](https://docmanhattan.blogspot.it/2014/01/i-10-piu-grandi-bassisti-carismatici-di-sempre.html)
 
 <figure>
-	<img src='http://4.bp.blogspot.com/-bkOclJS-23k/VeVzNTRt5PI/AAAAAAAAMXY/9JLtv5GHyhg/s1600/Jigen_4969.jpg' alt='Jigen'>
+	<img src='https://4.bp.blogspot.com/-bkOclJS-23k/VeVzNTRt5PI/AAAAAAAAMXY/9JLtv5GHyhg/s1600/Jigen_4969.jpg' alt='Jigen'>
 </figure>
 
 O Miyazaki!
 
 <figure>
-	<img src='http://pad.mymovies.it/filmclub/2007/06/028/locandina.jpg' alt='Cagliostro'>
+	<img src='https://pad.mymovies.it/filmclub/2007/06/028/locandina.jpg' alt='Cagliostro'>
 </figure>
 
 **Se ci penso, in quasi ogni cosa che mi piace esiste un frammento che almeno in minima parte riconduce a Lupin.**

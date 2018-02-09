@@ -47,7 +47,7 @@ E questo nonostante Claudio _"Cesaroni"_ Amendola![^amendola] (si scherza eh!
   
 **Qualità internazionale, diciamo pure americana, cucita nel più pieno stile italiano.**  
   
-Mi verrebbe inevitabilmente da fare **un discorso simile a [quello che scrissi per _La Grande Bellezza_](http://xabacadabra.blogspot.it/2014/03/la-grande-bellezza-recensione.html)**, ma la verità è che per genere, stile e mentalità **io sono naturalmente più portato al cinema di Sollima che a quello di Sorrentino**, quindi credo sia meglio tralasciare scomodi paragoni dove non potrei minimamente risultare obbiettivo.  
+Mi verrebbe inevitabilmente da fare **un discorso simile a [quello che scrissi per _La Grande Bellezza_](https://xabacadabra.blogspot.it/2014/03/la-grande-bellezza-recensione.html)**, ma la verità è che per genere, stile e mentalità **io sono naturalmente più portato al cinema di Sollima che a quello di Sorrentino**, quindi credo sia meglio tralasciare scomodi paragoni dove non potrei minimamente risultare obbiettivo.  
 
 ## Romanità
 
@@ -55,7 +55,7 @@ Dirò una cosa che potrebbe suonare abbastanza fraintendibile e mi renderà sicu
   
 **La criminalità romana, cinematograficamente parlando, non mi convince per niente.**  
   
-Amo un sacco il dialetto e l'accento capitolino, l'ho semplicemente adorato in _[Arance e Martello](http://xabacadabra.com/2015/arance-e-martello-recensione/)_, piuttosto che nei vecchi classici di Alberto Sordi (a tratti anche di Tomas Milian), o altri contesti ancora (da [Gazebo](http://xabacadabra.com/2013/gazebo) a Zerocalcare), ma ecco...in opere simili, secondo me, mostra troppo il fianco.  
+Amo un sacco il dialetto e l'accento capitolino, l'ho semplicemente adorato in _[Arance e Martello](https://xabacadabra.com/2015/arance-e-martello-recensione/)_, piuttosto che nei vecchi classici di Alberto Sordi (a tratti anche di Tomas Milian), o altri contesti ancora (da [Gazebo](https://xabacadabra.com/2013/gazebo) a Zerocalcare), ma ecco...in opere simili, secondo me, mostra troppo il fianco.  
   
 **Il romano non si traduce bene con l'epicità criminale degli eventi e delle scene che mostra.**  
   

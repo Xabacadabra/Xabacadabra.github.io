@@ -24,7 +24,7 @@ parliamo di alta definizione, inquadrature astruse e complesse, combattimenti gi
 
 Anche perché, e mi preme sottolinearlo, questo Mad Max Fury Road è un film serio, non amorevolmente macchiettistico come possono esserlo i (pur divertentissimi) Mercenari di Stallone, e del resto non è neppure uno dei tanti film d'azione di fascia bassa delocalizzati nell'Europa dell'est con due rupie:
 
-<img src ="http://4.bp.blogspot.com/-EW3b-6_n5TI/VXvn-xjQz7I/AAAAAAAAMJI/9tzIKZSARqM/s1600/Mad-Max4.jpg" alt="mad max"> 
+<img src ="https://4.bp.blogspot.com/-EW3b-6_n5TI/VXvn-xjQz7I/AAAAAAAAMJI/9tzIKZSARqM/s1600/Mad-Max4.jpg" alt="mad max"> 
 
 **Mad Max: Fury Road è a tutti gli effetti un capolavoro visuale con tutta la potenza di un blockbuster, possiede il valore artistico di un William Blake sotto acidi e una trama a malapena degna del prologo di una missione secondaria di Fallout 3, ed è una cosa che va spaventosamente bene:**
 

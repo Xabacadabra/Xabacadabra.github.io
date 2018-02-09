@@ -34,7 +34,7 @@ E ne avrei avuta di roba da scrivere:
 - Rosy Bindi all'Antimafia
 - Le allegre intercettazioni degli Stati (spioni) Uniti d'America
 
-![V for Vendetta]({{site.baseurl}}http://1.bp.blogspot.com/-kKlCvPfuoIE/Umc7sFLvo4I/AAAAAAAAFG8/oE1NG6ic708/s1600/V-for-Vendetta_05-05.jpg)
+![V for Vendetta]({{site.baseurl}}https://1.bp.blogspot.com/-kKlCvPfuoIE/Umc7sFLvo4I/AAAAAAAAFG8/oE1NG6ic708/s1600/V-for-Vendetta_05-05.jpg)
 
 Alla fine, non ho scritto niente.
 

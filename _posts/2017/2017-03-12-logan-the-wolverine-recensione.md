@@ -20,7 +20,7 @@ _Logan_ è un bel film.
 
 <span itemprop="headline">Soprattutto **è un _Film_, non l'episodio della gargantuesca serie tv rappresentata dal Marvel Cinematic Universe:**</span> 
 
-Vale insomma ciò che scrissi per [_Batman V Superman_](http://xabacadabra.com/2016/batman-v-superman-dawn-of-justice-recensione/)...**con la sostanziale differenza che quello era na ciofeca, mentre come detto _Logan_ è effettivamente un _bel_ film.**
+Vale insomma ciò che scrissi per [_Batman V Superman_](https://xabacadabra.com/2016/batman-v-superman-dawn-of-justice-recensione/)...**con la sostanziale differenza che quello era na ciofeca, mentre come detto _Logan_ è effettivamente un _bel_ film.**
 
 Certo, con **un bel po' di difetti ciccioni**, soprattutto nella sua seconda metà, ma nulla che ne comprometta davvero l'ottima performance.
 
@@ -32,7 +32,7 @@ Parlando di performance, **Hugh Jackman è fantastico** e PER L'AMOR DI DIO QUAL
 
 <figure>
 	<img src='https://crackedrearviewer.files.wordpress.com/2017/02/gbu4.jpg' alt='clint-eastwood'>
-	<figcaption>Tra Jackman ed <a href='http://xabacadabra.com/2014/black-sails-recensione/'> il figlio della McGrannit che interpreta Flint</a> abbiamo dei papabilissimi cosplayer di sua maestà Eastwood.</figcaption>
+	<figcaption>Tra Jackman ed <a href='https://xabacadabra.com/2014/black-sails-recensione/'> il figlio della McGrannit che interpreta Flint</a> abbiamo dei papabilissimi cosplayer di sua maestà Eastwood.</figcaption>
 </figure> 
 
 **Il suo Wolverine un po' attempato, depresso e distrutto è credibile ed interpretato alla grande:** 
@@ -60,7 +60,7 @@ Certo, aldilà di tutto questo, i difetti veri e propri del self-titled di _Ghio
 
 <figure>
 <img src='https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/17015640_679216565583899_8634977701366976455_o.jpg?oh=af057e6de48801672f4311a6311d176c&oe=5963117B' alt='logan-the-wolverine'>
-<figcaption>C'è anche Murphy di <a href='http://xabacadabra.com/2015/narcos-recensione/'>Narcos</a>, che senza il suo buddy Pedro "Vipera Rossa" Pascal si rivela un po' na pippa.
+<figcaption>C'è anche Murphy di <a href='https://xabacadabra.com/2015/narcos-recensione/'>Narcos</a>, che senza il suo buddy Pedro "Vipera Rossa" Pascal si rivela un po' na pippa.
 </figcaption>
 </figure> 
 

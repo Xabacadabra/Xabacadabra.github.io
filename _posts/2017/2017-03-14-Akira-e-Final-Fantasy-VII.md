@@ -61,13 +61,13 @@ Probabilmente le parole di **Oppenheimer** riguardo il [test di Trinity](https:/
 
 > Sapevamo che il mondo non sarebbe stato più lo stesso. Alcuni risero, altri piansero, i più rimasero in silenzio. Mi ricordai del verso delle scritture Indù, il Baghavad-Gita. Vishnu tenta di convincere il Principe che dovrebbe compiere il suo dovere e per impressionarlo assume la sua forma dalle molteplici braccia e dice, "Adesso sono diventato Morte, il distruttore dei mondi." Suppongo lo pensammo tutti, in un modo o nell'altro.
 
-Su questo punto, a mio avviso **cruciale per comprendere tutta l'industria dell'intrattenimento del sol levante**, consiglio a chi mastica l'inglese [**quest'ottimo articolo**](http://theconversation.com/the-deep-influence-of-the-a-bomb-on-anime-and-manga-45275) di _The Conversation_.
+Su questo punto, a mio avviso **cruciale per comprendere tutta l'industria dell'intrattenimento del sol levante**, consiglio a chi mastica l'inglese [**quest'ottimo articolo**](https://theconversation.com/the-deep-influence-of-the-a-bomb-on-anime-and-manga-45275) di _The Conversation_.
 
 ## Spiritualità e Scienza
 
-Forse anche per quanto appena scritto, **lo sci-fi giapponese ha spesso avuto un sapore ai limiti del mistico** <small>(congratulazioni Shinji!)</small>, una sorta di <i>"religiosità laica"</i> spesso e volentieri pesantemente influenzata tanto dalle visioni post-apocalittiche del _Mad Max_ di **George Miller** quanto dal cyberpunk di **William Gibson** o da film come _Blade Runner_ <small>[(vi ricordate che diceva Hironobu Sakaguchi a tal proposito, sì?)](http://xabacadabra.com/2017/intervista-hironobu-sakaguchi/)</small>.
+Forse anche per quanto appena scritto, **lo sci-fi giapponese ha spesso avuto un sapore ai limiti del mistico** <small>(congratulazioni Shinji!)</small>, una sorta di <i>"religiosità laica"</i> spesso e volentieri pesantemente influenzata tanto dalle visioni post-apocalittiche del _Mad Max_ di **George Miller** quanto dal cyberpunk di **William Gibson** o da film come _Blade Runner_ <small>[(vi ricordate che diceva Hironobu Sakaguchi a tal proposito, sì?)](https://xabacadabra.com/2017/intervista-hironobu-sakaguchi/)</small>.
 
-**Probabilmente _Ghost in the Shell_ ha rappresentato il summa di tutto questo discorso**, ma questa è un'altra storia, già brevemente accennata qui su Xaba Cadabra [in altra sede](http://xabacadabra.com/2016/ghost-in-the-shell/).
+**Probabilmente _Ghost in the Shell_ ha rappresentato il summa di tutto questo discorso**, ma questa è un'altra storia, già brevemente accennata qui su Xaba Cadabra [in altra sede](https://xabacadabra.com/2016/ghost-in-the-shell/).
 
 ## Moto!
 
@@ -146,7 +146,7 @@ Classismo che, com'è tipico anzitutto nella vita reale, **va riflettendosi tant
 
 ## Il Futuro passato del Giappone
 
-Questo argomento, già sfiorato sopra, è molto profondo e cruciale: faccio a meno di trattarlo in modo approfondito perché ci ha già pensato [**il Dottor Manhattan qualche anno fa in modo meraviglioso**](http://docmanhattan.blogspot.it/2014/08/giappone-in-film-fantascienza-anni-80-e-90.html) <small>(personalmente lo ritengo uno dei post più belli e potenti dell'Antro Atomico, il che è tutto dire!)</small>.
+Questo argomento, già sfiorato sopra, è molto profondo e cruciale: faccio a meno di trattarlo in modo approfondito perché ci ha già pensato [**il Dottor Manhattan qualche anno fa in modo meraviglioso**](https://docmanhattan.blogspot.it/2014/08/giappone-in-film-fantascienza-anni-80-e-90.html) <small>(personalmente lo ritengo uno dei post più belli e potenti dell'Antro Atomico, il che è tutto dire!)</small>.
 
 Stando sul tema, possiamo certamente notare come **Akira (1988) e Final Fantasy VII (1997) abbiano rispettivamente aperto e <small>(praticamente)</small>chiuso una delle decadi più intensamente creative ed ispirate della storia moderna**, e non solo a livello concettuale, ma anche in termini molto pratici:
 

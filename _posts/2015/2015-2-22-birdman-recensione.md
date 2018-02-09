@@ -42,7 +42,7 @@ Ebbene, mi fece uno schifo inaudito, e fu da quel giorno che "divorziai" o per m
 Da questa base, parte praticamente di tutto.
 
 <figure>
- <img src="http://4.bp.blogspot.com/-8Uj8ATIR--U/VOkjmQ-BgmI/AAAAAAAALbQ/B5JP4Jgue24/s1600/JPBIRDMAN2-articleLarge.jpg" alt="Emma Stone Edward Norton">
+ <img src="https://4.bp.blogspot.com/-8Uj8ATIR--U/VOkjmQ-BgmI/AAAAAAAALbQ/B5JP4Jgue24/s1600/JPBIRDMAN2-articleLarge.jpg" alt="Emma Stone Edward Norton">
  <figcaption>In queste due scene è come se ci fosse una fetta del mio cuore </figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Ed è ironico che io ne parli qui, in una pseudo-recensione (è più un'ovazione
 
 ## Sul Finale ci sentiamo poi
 
-No sentite, qua nel caso [ci facciamo un post a parte con spoiler scritto nel titolo grande come una casa](http://xabacadabra.github.io/2015/il-significato-del-finale-di-birdman/), perché sennò non si può fare.
+No sentite, qua nel caso [ci facciamo un post a parte con spoiler scritto nel titolo grande come una casa](https://xabacadabra.github.io/2015/il-significato-del-finale-di-birdman/), perché sennò non si può fare.
 
 ## Conclusione
 

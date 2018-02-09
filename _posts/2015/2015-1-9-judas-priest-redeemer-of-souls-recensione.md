@@ -18,7 +18,7 @@ Almeno un po'.
 
 Solo che l'album non era questo. E manco il gruppo!
 
-Scherzi a parte, visto che vanno a concertare assieme in lungo e in largo e condividono lo status di leggende assolute del relativo genere musicale, mi riuscirebbe davvero difficile non ripetere **certi discorsi che feci coi [Motörhead di Aftershock](http://xabacadabra.com/2013/Mot%C3%B6rhead-Aftershock-Recensione/), con questi Judas Priest di _Redeemer of Souls_.**
+Scherzi a parte, visto che vanno a concertare assieme in lungo e in largo e condividono lo status di leggende assolute del relativo genere musicale, mi riuscirebbe davvero difficile non ripetere **certi discorsi che feci coi [Motörhead di Aftershock](https://xabacadabra.com/2013/Mot%C3%B6rhead-Aftershock-Recensione/), con questi Judas Priest di _Redeemer of Souls_.**
 
 ## Un disco di mestiere
 
@@ -39,7 +39,7 @@ Però per dire, c'è, tra le altre chicche, tutto il piacere di sentirsi i nostr
 ## Quindi?
 
 <figure>
-<img src='http://4.bp.blogspot.com/-Ml9DXRB7H7o/VLBDu8HnUPI/AAAAAAAALR0/konq-xWBKA8/s1600/icms_imagePreview.jpg' alt='judas-priest'>
+<img src='https://4.bp.blogspot.com/-Ml9DXRB7H7o/VLBDu8HnUPI/AAAAAAAALR0/konq-xWBKA8/s1600/icms_imagePreview.jpg' alt='judas-priest'>
 </figure>
 
 Semplicemente un bellissimo, ma davvero bellissimo disco heavy metal fatto da un gruppo di stagionati ragazzotti che a farlo credo ci si siano pure divertiti un bel po'. 

@@ -28,13 +28,13 @@ Preciso che il post sarà suddiviso in due parti: la prima più "Alta" con l'art
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartoonsonthebay%2Fvideos%2F10155280387289759%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-Manco a farlo apposta, nel 2015 io scrissi [un post](http://xabacadabra.com/2015/lupin-3-cowboy-bebop/) che analizzava **il rapporto tra la saga di Monkey Punch e Cowboy Bebop.**
+Manco a farlo apposta, nel 2015 io scrissi [un post](https://xabacadabra.com/2015/lupin-3-cowboy-bebop/) che analizzava **il rapporto tra la saga di Monkey Punch e Cowboy Bebop.**
 
 <small>(quindi sì, anche se è un collegamento parecchio scontato, ora un po' mi bullo scusate</small>)
 
 ## Adattamenti Occidentali 
 
-La domanda prendeva esplicitamente in causa il recente live-action di _Ghost in the Shell_ ([qui](http://xabacadabra.com/2017/ghost-in-the-shell-film-2017-recensione/) la recensione _xabrosa_), e la risposta di Sensei Watanabe è stata garbatamente lapidaria: 
+La domanda prendeva esplicitamente in causa il recente live-action di _Ghost in the Shell_ ([qui](https://xabacadabra.com/2017/ghost-in-the-shell-film-2017-recensione/) la recensione _xabrosa_), e la risposta di Sensei Watanabe è stata garbatamente lapidaria: 
 
 > Io penso che gli adattamenti dovrebbero rispettare le intenzioni dell'autore originale.
 

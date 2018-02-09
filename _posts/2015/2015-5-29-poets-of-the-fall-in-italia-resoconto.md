@@ -24,7 +24,7 @@ Eppure scrivo di **uno dei concerti più belli che io abbia mai visto.**
 Come mai ?
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-XSfq1mPXZiU/VWhBJCg1aOI/AAAAAAAAMFE/jAPd6HdWb8A/s1600/vlcsnap-2015-05-29-11h55m25s879.png" alt="poets of the fall in italia">
+	<img src="https://3.bp.blogspot.com/-XSfq1mPXZiU/VWhBJCg1aOI/AAAAAAAAMFE/jAPd6HdWb8A/s1600/vlcsnap-2015-05-29-11h55m25s879.png" alt="poets of the fall in italia">
 </figure> 
 
 Difficile dirlo, e non penso che nessuna foto o video possa rendere davvero bene l'idea del mio concetto del concerto (a-ah).
@@ -34,7 +34,7 @@ Si parla spesso, nella musica, di passione, di presenza scenica, di carisma.
 Ecco, i Poets of the Fall hanno una biografia del tutto particolare: legati a doppiofilo con la storia videoludica della **Remedy Software**, dotati di una buona affermazione commerciale e partoriti dall'**esigenza poetica** (perdonatemi) di andare oltre, pur sempre assemblando il conosciuto, senza per questo sacrificare la propria orecchiabile accessibilità.
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-Ba4xcXWzH8A/VWhB3TuNm5I/AAAAAAAAMFU/qL1bHIH4HOI/s1600/vlcsnap-2015-05-29-11h51m56s738.png" alt="poets of the fall in italia">
+	<img src="https://2.bp.blogspot.com/-Ba4xcXWzH8A/VWhB3TuNm5I/AAAAAAAAMFU/qL1bHIH4HOI/s1600/vlcsnap-2015-05-29-11h51m56s738.png" alt="poets of the fall in italia">
 </figure> 
 
 A tratti appaiono artisti consumati, imperiosi nella sicurezza dei propri mezzi ma, per altri versi, mantengono tutta quella genuinità e freschezza che caratterizza l'anima delle band di nicchia, il classico _"prima di tutto, io a suonare mi diverto"_ 
@@ -44,7 +44,7 @@ Ma soprattutto, e come solo taluni gruppi sono in grado di fare, i Poets sanno m
 **Marko Saaresto**, leader e voce della band, è decisamente il summa di tutto questo discorso.
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-YX1vRyfNs4c/VWhBityN-QI/AAAAAAAAMFM/lyxdTnwu37k/s1600/vlcsnap-2015-05-29-11h49m45s270.png" alt="poets of the fall in italia">
+	<img src="https://4.bp.blogspot.com/-YX1vRyfNs4c/VWhBityN-QI/AAAAAAAAMFM/lyxdTnwu37k/s1600/vlcsnap-2015-05-29-11h49m45s270.png" alt="poets of the fall in italia">
 </figure> 
 
 Non tanto perché sia il miglior cantante del mondo (ha una voce bellissima, ma tecnicamente non è certo un Russell Allen), ma perché possiede **quella passione**, quel talento e quella capacità non tanto di tenere il palcoscenico, ma proprio di **nutrirsene.**
@@ -56,7 +56,7 @@ Kurt Cobain, prima di lasciare questa valle di lacrime, lasciò detto:
 Credo che, con tutte le dovute differenze/proporzioni del caso, **Saaresto possegga un'anima istrionica simile al mai troppo compianto cantante dei Queen**, anche se probabilmente parliamo di un'anima più contorta, più dark, _noir_:
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-GRBjYWNuTHM/VWhCV5A3JDI/AAAAAAAAMFc/VH4tAlEi8-0/s1600/vlcsnap-2015-05-29-12h13m33s008.png" alt="poets of the fall in italia">
+	<img src="https://4.bp.blogspot.com/-GRBjYWNuTHM/VWhCV5A3JDI/AAAAAAAAMFc/VH4tAlEi8-0/s1600/vlcsnap-2015-05-29-12h13m33s008.png" alt="poets of the fall in italia">
 </figure> 
 
 si parla pur sempre di un uomo che ha venduto tutto ciò che possedeva per consacrare la propria esistenza alla musica, o meglio, **allo Spettacolo nel senso più altamente musicale del termine.**
@@ -66,7 +66,7 @@ Ecco, giust'appunto: **musicalmente parlando, sono stato piacevolmente sorpreso 
 E poi....eppoi vabbè, ci sono cose che non si possono descrivere e si sentono e basta.
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-AlEFPeWWIko/VWhAwhxMTTI/AAAAAAAAME8/B_icZpmCU0U/s1600/batterista.jpg" alt="Jari Salminen">
+	<img src="https://2.bp.blogspot.com/-AlEFPeWWIko/VWhAwhxMTTI/AAAAAAAAME8/B_icZpmCU0U/s1600/batterista.jpg" alt="Jari Salminen">
 	<figcaption>Anche quando c'è Alessandro Borghese alla batteria.</figcaption>
 </figure> 
 
@@ -87,7 +87,7 @@ E, forse, di descrivere i Poets of the Fall in generale.
 Per il resto, basta un generico e timido _Grazie._
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-0CWZfBlORXc/VWhCigVsAhI/AAAAAAAAMFk/lHudkSklGmQ/s1600/vlcsnap-2015-05-29-12h20m06s189.png" alt="poets of the fall in italia">
+	<img src="https://1.bp.blogspot.com/-0CWZfBlORXc/VWhCigVsAhI/AAAAAAAAMFk/lHudkSklGmQ/s1600/vlcsnap-2015-05-29-12h20m06s189.png" alt="poets of the fall in italia">
 </figure> 
 
 ----
@@ -95,7 +95,7 @@ Per il resto, basta un generico e timido _Grazie._
 ## [Bonus Personale] Le Lombarde Peripezie di Xab
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-5GjoMV5w4iM/VWhDq0jFS4I/AAAAAAAAMF0/6lxFJoPb3GY/s1600/vlcsnap-2015-05-29-12h46m34s925.png" alt="poets of the fall in italia">
+	<img src="https://1.bp.blogspot.com/-5GjoMV5w4iM/VWhDq0jFS4I/AAAAAAAAMF0/6lxFJoPb3GY/s1600/vlcsnap-2015-05-29-12h46m34s925.png" alt="poets of the fall in italia">
 	<figcaption>strabismo delle 2 di notte (l'ora in cui più o meno sei tornato a casa)</figcaption>
 </figure> 
 
@@ -114,7 +114,7 @@ Ma vabbè. _Quisquiglie, pinzillacchere!_
 Sono le 18 e qualcosa ed ecco Cadorna
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-KIPYySwGL5Y/VWhID0jivhI/AAAAAAAAMGw/bjTMabzUQug/s1600/cadorna.jpg" alt="cadorna">
+	<img src="https://1.bp.blogspot.com/-KIPYySwGL5Y/VWhID0jivhI/AAAAAAAAMGw/bjTMabzUQug/s1600/cadorna.jpg" alt="cadorna">
 </figure> 
 
 prossima destinazione metropolitana linea verde, capolinea di Gessate!
@@ -146,7 +146,7 @@ Ma poi, finalmente, Gessate.
 Un luogo scartato dal più sadico degli sviluppatori di Fallout con motivazione "no regà, va bene il postapocalittico, ma anche io c'ho un cuore"
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-vZJrkjeQu1k/VWhGU6TStzI/AAAAAAAAMGg/n3OoNU7sMVk/s1600/gessate.jpg" alt="gessate">
+	<img src="https://3.bp.blogspot.com/-vZJrkjeQu1k/VWhGU6TStzI/AAAAAAAAMGg/n3OoNU7sMVk/s1600/gessate.jpg" alt="gessate">
 </figure> 
 
 Gessate.
@@ -164,13 +164,13 @@ Di poco eh, però sul momento non te ne rendi conto e da Urlo di Munch ti trasfo
 Corri, cammini, corri e d'un tratto, ti balza in mente il buon Sanji di onepieciana memoria:
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-8Nid9QAcgH0/VWhEZt1u5MI/AAAAAAAAMF8/INQjE3_GcY4/s1600/sanji.jpg" alt="Sanji">
+	<img src="https://2.bp.blogspot.com/-8Nid9QAcgH0/VWhEZt1u5MI/AAAAAAAAMF8/INQjE3_GcY4/s1600/sanji.jpg" alt="Sanji">
 </figure> 
 
 E allora voli, anche tu, perché cenare è un lusso, il mal di schiena non esiste.
 
 <figure>
-	<img src="http://3.bp.blogspot.com/-wD54pTmyCsA/VWhF8xbEO6I/AAAAAAAAMGY/QdQVu2SXFd0/s1600/trezzo.jpg" alt="trezzo">
+	<img src="https://3.bp.blogspot.com/-wD54pTmyCsA/VWhF8xbEO6I/AAAAAAAAMGY/QdQVu2SXFd0/s1600/trezzo.jpg" alt="trezzo">
 </figure> 
 
 Il resto, beh, è storia.

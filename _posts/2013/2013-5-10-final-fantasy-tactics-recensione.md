@@ -23,7 +23,7 @@ Ma (per forza di cose) bisognerà attendere solo gli anni recenti e il porting s
 
 ## La final fantasia più aurea
 
-![Final Fantasy Tactics Ramza e Delita](http://25.media.tumblr.com/tumblr_m2u0r5cX3l1r9kt29o1_500.gif)
+![Final Fantasy Tactics Ramza e Delita](https://25.media.tumblr.com/tumblr_m2u0r5cX3l1r9kt29o1_500.gif)
 
 I Final Fantasy dell'era classica, come i fan del resto sanno bene, per certi versi si somigliano un po' tutti : 
 
@@ -45,7 +45,7 @@ Non che manchi una storia "personale" a stagliarsi meravigliosamente sullo sfond
 
 Si tratta di qualcosa di inedito in tutta (l'allora decennale) serie, e molto più simile alla saga Tactics Ogre uscita per SNES (non a caso ad opera del solito Yasumi Matsuno, il disegnatore Akihiko Yoshida, il direttore artistico Hiroshi Minagawa e il compositore Hitoshi Sakimoto) o anche Bahamut Lagoon, altro splendido titolo SNES realizzato dalla Squaresoft
 
-![Final Fantasy Tactic Gameplay](http://25.media.tumblr.com/tumblr_m6ylewWZwH1qe2qqzo1_250.gif)
+![Final Fantasy Tactic Gameplay](https://25.media.tumblr.com/tumblr_m6ylewWZwH1qe2qqzo1_250.gif)
 
 Final Fantasy Tactics vede infatti un approccio scacchistico al combattimento, riprendendo dai vecchi JRPG (e quindi dagli stilemi partiti con Dungeons & Dragons ) classi (jobs), magie e molti aspetti di fondo come insegna la storia dei jrpg tattici:
 

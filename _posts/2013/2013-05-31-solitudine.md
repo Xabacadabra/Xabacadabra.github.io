@@ -33,12 +33,12 @@ Chi è stato solo per un certo periodo, e per _solo_ ed _un certo periodo_ inten
 [^umani]: all'infuori di eventuali commessi dei supermercati (che generalmente in questo stato appaiono ne più ne meno come degli automi) e al limite la telefonata a mamma per farle sapere che si, sei ancora vivo (e non ci credi manco tu)
 
 <figure>
-<img src='http://4.bp.blogspot.com/-XMnNajTXSH0/UJs-nvMnxKI/AAAAAAAAAJg/FKPnPI-jp-s/s1600/Sato.jpg' alt='welcome to the nhk'>
+<img src='https://4.bp.blogspot.com/-XMnNajTXSH0/UJs-nvMnxKI/AAAAAAAAAJg/FKPnPI-jp-s/s1600/Sato.jpg' alt='welcome to the nhk'>
 </figure>
 
 Io così ci passai come minimo un annetto (più varie "leggere ricadute" saltuarie che mi capitano ancora ogni tanto), condito da allegre **crisi agorafobiche.**
 
-Fossi stato in Giappone, suppongo che mi avrebbero definito [hikikomori](http://it.wikipedia.org/wiki/Hikikomori) (ma come si fa a definirli poi, se nessuno li vede abbastanza per confermare davvero se esistono ? )
+Fossi stato in Giappone, suppongo che mi avrebbero definito [hikikomori](https://it.wikipedia.org/wiki/Hikikomori) (ma come si fa a definirli poi, se nessuno li vede abbastanza per confermare davvero se esistono ? )
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Cw1ng75KP0" frameborder="0" allowfullscreen></iframe>
 
@@ -56,7 +56,7 @@ Dopo un po' uno non è integrato non solo perché è un **emarginato sociale**..
 E questa **è una cosa che a tante persone mette ansia.**
 
 <figure>
-<img src='http://1.bp.blogspot.com/-z_AmID851QQ/UahVD0DVheI/AAAAAAAAEAU/pbEXZmKYw20/s1600/dydilgranbastardo.png' alt='solitudine dylan dog'>
+<img src='https://1.bp.blogspot.com/-z_AmID851QQ/UahVD0DVheI/AAAAAAAAEAU/pbEXZmKYw20/s1600/dydilgranbastardo.png' alt='solitudine dylan dog'>
 <figcaption>Da "Il Gran Bastardo", Dylan Dog 239 - De Nardo / Bigliardo</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Ci si adegua anche al concetto rimarcato splendidamente dagli **Elio e Le Storie
 **si parla male di quello che non c'è**, e si fa in modo di esserci sempre per evitare di essere quello di cui si parla male.
 
 <figure>
-<img src='http://i196.photobucket.com/albums/aa81/knedopak/Outta%20this%20world/5a_millenium_falcon.jpg' alt='solitudine ian solo'>
+<img src='https://i196.photobucket.com/albums/aa81/knedopak/Outta%20this%20world/5a_millenium_falcon.jpg' alt='solitudine ian solo'>
 </figure>
 
 Ecco, in questo senso io (e credo buona parte degli altri Ian Solo della galassia) funziono un po' al contrario: in genere tendo a difendere gli assenti, anche i peggiori (magari talvolta sfottendoli, ma nello stesso modo _amorevole_ che utilizzerei se li avessi li di fronte), e conseguentemente **malsopportare i presenti.** 

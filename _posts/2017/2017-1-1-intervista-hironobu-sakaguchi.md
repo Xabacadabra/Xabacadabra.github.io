@@ -20,7 +20,7 @@ Il papà di Final Fantasy racconta un bel po' di cose riguardo il suo processo c
 
 ## Premesse & Disclaimer
 
-Ho liberamente tradotto questa bella intervista ad opera di [**James Mielke**](https://twitter.com/jamesmielke), apparsa su [**Glixel**](http://www.glixel.com/interviews/final-fantasy-creator-sakaguchi-on-remakes-xv-and-square-w452889
+Ho liberamente tradotto questa bella intervista ad opera di [**James Mielke**](https://twitter.com/jamesmielke), apparsa su [**Glixel**](https://www.glixel.com/interviews/final-fantasy-creator-sakaguchi-on-remakes-xv-and-square-w452889
 ) circa un mese fa.
 
 Semplicemente, come chi ha già frequentato questo affacendato, confuso e polveroso blog saprà, io sono perdutamente innamorato della serie Final Fantasy...almeno, fino al decimo capitolo (per cui nutro comunque qualche riserva), e l'ammirazione che provo per quest'allegro signore baffuto è difficilmente quantificabile...quindi niente, mi pareva il modo migliore per iniziare questo 2017 😌
@@ -151,7 +151,7 @@ Questo probabilmente conta per i giochi che ho realizzato in passato e realizzer
 
 Ma quello che spero che la gente tragga dai miei videogame è un'energia positiva alla fine di ciascun gioco, la sensazione che si siano trovati di fronte ad una bella storia. Un altro aspetto chiave per me è la "densità", come i vari contenuti sono distribuiti durante l'esperienza di gioco. Non voglio che le persone percepiscano la sensazione di fare la stessa cosa a ripetizione. Voglio che vivano un esperienza interamente appassionante dall'inizio alla fine. [^densita]
 
-[^densita]: Questo discorso lo rapporto bene con un concetto che ho eposto di recente parlando di [Final Fantasy IX](http://xabacadabra.com/2016/final-fantasy-ix-remastered/)
+[^densita]: Questo discorso lo rapporto bene con un concetto che ho eposto di recente parlando di [Final Fantasy IX](https://xabacadabra.com/2016/final-fantasy-ix-remastered/)
 
 **Pensa che il lieto fine rappresenti una sorta di obbligo in un videogame ?**
 
@@ -159,8 +159,8 @@ Sì, non dubito che si possano realizzare giochi con finali aperti, artistici co
 
 ## Post correlati
 
-1. [Esplorando Final Fantasy IX](http://xabacadabra.com/2016/final-fantasy-ix-remastered/)
-2. [Remake di Final Fantasy VII[Trailer e Commento #1]](http://xabacadabra.com/2015/remake-di-final-fantasy-vii-1/)
-3. [Remake di Final Fantasy VII[Trailer e Commento #2]](http://xabacadabra.com/2015/remake-di-final-fantasy-vii-2/)
-4. [Nobuo Uematsu e la bellezza dei limiti](http://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/)
-5. [Due parole su Final Fantasy XIII](http://xabacadabra.com/2013/due-parole-su-final-fantasy-xiii/)
+1. [Esplorando Final Fantasy IX](https://xabacadabra.com/2016/final-fantasy-ix-remastered/)
+2. [Remake di Final Fantasy VII[Trailer e Commento #1]](https://xabacadabra.com/2015/remake-di-final-fantasy-vii-1/)
+3. [Remake di Final Fantasy VII[Trailer e Commento #2]](https://xabacadabra.com/2015/remake-di-final-fantasy-vii-2/)
+4. [Nobuo Uematsu e la bellezza dei limiti](https://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/)
+5. [Due parole su Final Fantasy XIII](https://xabacadabra.com/2013/due-parole-su-final-fantasy-xiii/)

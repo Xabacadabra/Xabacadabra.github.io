@@ -17,10 +17,10 @@ comments: true
 Altrimenti detto "se questi fumetti li disegnava un uomo finiva crocifisso" , ma evidentemente il titolo era troppo lungo :D
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-uryj5FUHcy0/UmV_tMiOPHI/AAAAAAAAFDo/ftX4NDBUTDE/s1600/renzabio.jpg" alt="Renza Bio">
+	<img src="https://2.bp.blogspot.com/-uryj5FUHcy0/UmV_tMiOPHI/AAAAAAAAFDo/ftX4NDBUTDE/s1600/renzabio.jpg" alt="Renza Bio">
 </figure>	
 
-Burle a parte, dopo [Drizzit](http://xabacadabra.github.io/2013/drizzit-recensione/) finalmente torno a parlare della scena del fumetto indipendente italiano (nella fattispecie quello diffuso via facebook) e della questione a me tanto cara del Budget Zero (zero che io auguro sempre a tutti i vari artisti di riempire)
+Burle a parte, dopo [Drizzit](https://xabacadabra.github.io/2013/drizzit-recensione/) finalmente torno a parlare della scena del fumetto indipendente italiano (nella fattispecie quello diffuso via facebook) e della questione a me tanto cara del Budget Zero (zero che io auguro sempre a tutti i vari artisti di riempire)
 
 Ok, veniamo subito alla cosa più importante: 
 
@@ -37,13 +37,13 @@ La semplicità e l'immediatezza delle brevi vicissitudini di Renza hanno un preg
 ## Autoironia al Femminile
 
 <figure>
-	<img src="http://4.bp.blogspot.com/-0XzEOu0rRvo/UmV-8Kb2eQI/AAAAAAAAFDI/ARwJeju05Go/s1600/renza+quattro.jpg" alt="Renza Episodio 4">
+	<img src="https://4.bp.blogspot.com/-0XzEOu0rRvo/UmV-8Kb2eQI/AAAAAAAAFDI/ARwJeju05Go/s1600/renza+quattro.jpg" alt="Renza Episodio 4">
 </figure>	
 
 La peculiarità del fumetto sta anzitutto in questo: **saper sfottere le contraddizioni portate in scena dal (pseudo)femminismo senza scadere nei banali vicoli ciechi maschili(sti)**
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-7SwptDmejcs/UmWBvEDNzAI/AAAAAAAAFD4/CLdo9qbrgFM/s1600/renzanuda.jpg" alt="Renza hot!">
+	<img src="https://2.bp.blogspot.com/-7SwptDmejcs/UmWBvEDNzAI/AAAAAAAAFD4/CLdo9qbrgFM/s1600/renzanuda.jpg" alt="Renza hot!">
 </figure>	
 
 A mio modo di vedere, è mediamente più semplice sfottere efficacemente un uomo rispetto che una donna, soprattutto quando non si sta parlando di uno stereotipo visto-e-rivisto della suddetta, anzi: 
@@ -63,7 +63,7 @@ Questo, bene inteso, non è un difetto che infastidisce nella lettura (essendo f
 ## Postilla: Maschilismo recondito ?
 
 <figure>
-	<img src="http://2.bp.blogspot.com/-iPeF20eaaoo/UmV_kJ_vxzI/AAAAAAAAFDg/N7zNVIpOopI/s1600/renza+cine.jpg" alt="Renza cinema">
+	<img src="https://2.bp.blogspot.com/-iPeF20eaaoo/UmV_kJ_vxzI/AAAAAAAAFDg/N7zNVIpOopI/s1600/renza+cine.jpg" alt="Renza cinema">
 </figure>	
 
 Nessuna giustificazione per il genere maschile, sia ben chiaro: 
@@ -73,11 +73,11 @@ Nessuna giustificazione per il genere maschile, sia ben chiaro:
 Personalmente, a scanso di equivoci, **credo che una Renza sia sempre meglio della relativa controparte al maschile** (forse perché in media ho sempre stimato più donne che uomini, ma è una frase troppo da piacione quindi la scrivo in piccolo), semplicemente su quest'ultima lo humor ci ha ricamato sopra fin troppo
 
 <figure>
-	<img src="http://1.bp.blogspot.com/-JueyJXWJvW0/UmX9h869XOI/AAAAAAAAFEU/tty0EN8Mvbo/s1600/agata+curami.jpg" alt="Agata">
+	<img src="https://1.bp.blogspot.com/-JueyJXWJvW0/UmX9h869XOI/AAAAAAAAFEU/tty0EN8Mvbo/s1600/agata+curami.jpg" alt="Agata">
 </figure>
 
 ## Prossimamente su questi schermi porcellosi
 
-Dulcis in fundo, con questo post mi trovo anche davanti ad un "tramite indiretto" per alcune cosucce zozze legate a [Cyrano Comics](http://cyranocomics.blogspot.it/) di cui tuttavia si parlerà soltanto dopo il Lucca Comics & Games 2013
+Dulcis in fundo, con questo post mi trovo anche davanti ad un "tramite indiretto" per alcune cosucce zozze legate a [Cyrano Comics](https://cyranocomics.blogspot.it/) di cui tuttavia si parlerà soltanto dopo il Lucca Comics & Games 2013
 
 stay tuned ! 

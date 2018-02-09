@@ -18,7 +18,7 @@ comments: true
 
 La modalità **"My Career"** concepita dai 2k per me è sempre stata uno di quei sogni che diventano realtà:
 
-La dimostrazione di come certe prerogative, **nel settore fin troppo spesso stupidamente considerate esclusive degli RPG**, possano essere **potenzialmente applicate a qualsiasi tipo di gioco**, pure ai simulatori sportivi. ([In effetti, ho già accennato qualcosa a riguardo.](http://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/))
+La dimostrazione di come certe prerogative, **nel settore fin troppo spesso stupidamente considerate esclusive degli RPG**, possano essere **potenzialmente applicate a qualsiasi tipo di gioco**, pure ai simulatori sportivi. ([In effetti, ho già accennato qualcosa a riguardo.](https://xabacadabra.com/2013/la-creazione-di-un-personaggio-nei-videogiochi/))
 
 Peccato che **Spike Lee abbia buttato tutto nel cesso.**
 
@@ -33,7 +33,7 @@ Al titolo _Living 'da dream_ manca un pezzo:
 ## Personalizzazioni
 
 <figure>
-	<img src='http://4.bp.blogspot.com/-TsNruFZx2qI/Vg0_cCFcUII/AAAAAAAAMxs/sRHk9j0JaSs/s1600/NBA2K16-editor-tatuajes.jpg' alt='nba-2k16'>
+	<img src='https://4.bp.blogspot.com/-TsNruFZx2qI/Vg0_cCFcUII/AAAAAAAAMxs/sRHk9j0JaSs/s1600/NBA2K16-editor-tatuajes.jpg' alt='nba-2k16'>
 </figure>
 
 Certo, sulla carta, grazie al potente editor di gioco potete creare il personaggio che volete: nero, bianco, asiatico, ispanico, con il nome che più vi piace. In teoria. 
@@ -49,7 +49,7 @@ Insomma, i peggio cliché di **un regista a suo tempo geniale**, ma oggigiorno p
 ## Di Razzismi
 
 <figure>
-	<img src='http://3.bp.blogspot.com/-0Xlcm0IFldY/Vg0_1z1pxlI/AAAAAAAAMx0/99daZZ91Bzw/s1600/eastwood-to-spike-lee-shut-up.jpeg' alt='nba-2k16'>
+	<img src='https://3.bp.blogspot.com/-0Xlcm0IFldY/Vg0_1z1pxlI/AAAAAAAAMx0/99daZZ91Bzw/s1600/eastwood-to-spike-lee-shut-up.jpeg' alt='nba-2k16'>
 </figure>
 
 Chiariamoci: **che noi altri Europei, ma anche Africani, Asiatici, Oceanici e Sud Americani non venissimo minimamente considerati lo posso pure comprendere.**
@@ -73,7 +73,7 @@ Dulcis in fundo, **uno come Wilt Chamberlain di tutto il teatrino vittimistico d
 ## I bianchi sono stronzi. Sopratutto se sono pure italiani.
 
 <figure>
-	<img src='http://2.bp.blogspot.com/-sdnWJlBhYyY/Vg08aVrgxkI/AAAAAAAAMxU/LXyMhRlhE78/s1600/spike%2Blee.jpg' alt='nba-2k16'>
+	<img src='https://2.bp.blogspot.com/-sdnWJlBhYyY/Vg08aVrgxkI/AAAAAAAAMxU/LXyMhRlhE78/s1600/spike%2Blee.jpg' alt='nba-2k16'>
 </figure>
 
 Fa ridere notare **la solita figura del manager italoamericano** "modello Joe Pesci", ovvero avido stronzo e coatto (quest'ultima per creare un distinguo, perché altrimenti sarebbe potuto benissimo essere un ebreo, chiaramente), o il GM della tua squadra (pure lui bianco e stronzo, ma non coatto) che ti minaccia dicendo _"Se non tieni a bada quel coglione dell'amico tuo ti faccio fare la fine di un mio giocatore che ora fa il sesto uomo a Venezia. Si, Venezia, con le gondole e blabla"_
@@ -83,7 +83,7 @@ Fa ridere notare **la solita figura del manager italoamericano** "modello Joe Pe
 ## Sostanza
 
 <figure>
-	<img src='http://4.bp.blogspot.com/-0GQUmoMkP9k/Vg0_Aoi7dwI/AAAAAAAAMxk/aUSZ7_GGMH0/s1600/katyperry.gif' alt='nba-2k16'>
+	<img src='https://4.bp.blogspot.com/-0GQUmoMkP9k/Vg0_Aoi7dwI/AAAAAAAAMxk/aUSZ7_GGMH0/s1600/katyperry.gif' alt='nba-2k16'>
 </figure>
 
 Lasciando per un attimo perdere tutti questi discorsi al limite dell'etico, vorrei sottolineare più che altro **l'aspetto pragmatico della faccenda:**

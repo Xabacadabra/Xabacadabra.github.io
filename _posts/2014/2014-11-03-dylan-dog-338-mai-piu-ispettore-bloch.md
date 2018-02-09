@@ -46,7 +46,7 @@ Anzi, a dire la verità forse un pochino premere sull'acceleratore del cambiamen
 ## Forzature
 
 <figure>
-<img src="http://2.bp.blogspot.com/-C7LjAYDoqo4/VFcpgal-vlI/AAAAAAAAKzs/hAxPqNcKcOI/s1600/bloch.jpg" alt="Dylan Dog 338 - Mai più, ispettore Bloch Scan">
+<img src="https://2.bp.blogspot.com/-C7LjAYDoqo4/VFcpgal-vlI/AAAAAAAAKzs/hAxPqNcKcOI/s1600/bloch.jpg" alt="Dylan Dog 338 - Mai più, ispettore Bloch Scan">
 </figure>
 
 Non ne ho trovate, e personalmente per me la notizia è questa.
@@ -59,7 +59,7 @@ E per un personaggio tanto complesso qual'è Bloch riuscire a portare a casa il 
 
 ## Disegni
 <figure>
-<img src='http://3.bp.blogspot.com/-8FmsC-3dq4I/VFcotUeGqoI/AAAAAAAAKzk/b41ZkShTGhQ/s1600/bloch211.jpg' alt='Dylan Dog 338 - Mai più, ispettore Bloch Scan'>
+<img src='https://3.bp.blogspot.com/-8FmsC-3dq4I/VFcotUeGqoI/AAAAAAAAKzk/b41ZkShTGhQ/s1600/bloch211.jpg' alt='Dylan Dog 338 - Mai più, ispettore Bloch Scan'>
 </figure>
 
 **Bruno Brindisi** è un istituzione, che gli vai a dire?
