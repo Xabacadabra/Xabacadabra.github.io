@@ -7,33 +7,56 @@ header:
 author_profile: true
 ---
 
-(Che emozione, è da quando ero un giovane scavezzacollo digitale che volevo fare un articolo del genere!)
+<small>(è da quando ero un giovane scavezzacollo digitale che volevo scrivere una pagina HTML del genere)</small>
 
 Dunque...Xaba Cadabra nasce nel San Valentino del 2013.
 
 A San Valentino come il relativo Massacro, e a testimonianza dell'allora precaria vita sentimentale del sottoscritto 😄
 
+![san-valentino](https://upload.wikimedia.org/wikipedia/commons/0/01/Rom%2C_Santa_Maria_in_Cosmedin%2C_Reliquien_des_Hl._Valentin_von_Terni.jpg)
+
 ## Da blog a "personal webzine"
 
 Aprire un blog dopo il 2010 è diventata una sorta di follia: 
 
-Lo strapotere dei **Social Network**, la proliferazione di **Youtuber** e la rapida sintesi imperante sul web hanno cambiato radicalmente tutta la scena del blogging, e per cambiato intendo pressapoco _massacrato_, o giù di lì.
+Lo strapotere dei **Social Network**, la proliferazione di **Youtuber** e la rapida sintesi imperante sul web hanno cambiato radicalmente tutta la scena del blogging, e per cambiato intendo pressapoco _distrutto_, o giù di lì...
+
+![internet](https://2.bp.blogspot.com/-PTqyFlh_Q2k/VE-HxC_PwbI/AAAAAAAAKpQ/306jPVlOd1w/s1600/gangsofweb1.png)
+
+In realtà si tratta di [un discorso che ho affrontato più volte](/2014/la-storia-di-internet-e-il-web-15/), e che è un po' applicabile a tutto l'internet nel complesso.
+
+## Xab the Third
 
 **Xaba Cadabra è il mio terzo esperimento del settore**, quello più serio, consapevole e duraturo.
 
-Il primo blog con cui mi cimentai risale probabilmente al 2005, ed in effetti mi rendo conto che un po' per i tempi, un po' per mie precise "scelte stilistiche", Xaba Cadabra è nato da subito portando in se molto della vecchia webzine di videogiochi più che del sito-diario con cui propriamente s'intende con blog.
+<figure>
+	<img src="/gallery/xabacadabra-story/night-garden.jpg" alt="Night Garden">
+	<figcaption>Mamma mia che vergogna. Però per certi versi mi faccio tenerezza da solo</figcaption>
+</figure>
+
+Il primo blog con cui mi cimentai risale probabilmente al 2005. 
+
+In effetti mi rendo conto che un po' per i tempi, un po' per mie precise _"scelte stilistiche"_, Xaba Cadabra è nato da subito portando in se **molto della vecchia webzine di videogiochi** più che del sito-diario con cui propriamente s'intende con blog.
+
+Un po' è sempre stata na mia cifra, un po' probabilmente è il senso di nostalgia che provo verso vecchi siti ormai scomparsi (_yourff, phoenixdown_ ecc.)
 
 ## Cetramod ad Personam
 
-Da un certo punto di vista, Xaba Cadabra nasce come una sorta di [Cetramod](/2013/cetramod) fatto su misura per me:
+![cetramod](https://www.xabacadabra.com/images/cetramod.jpg)
 
-Una sorta di versione singolare, personale e ritagliata su me stesso di tutto ciò che avrei voluto vedere in quella community a me tanto cara e ahimè tanto morta, almeno nel senso "partecipato" del termine.
+Fermo restando quanto appena scritto, da un certo punto di vista Xaba Cadabra nasce come una sorta di [Cetramod](/2013/cetramod) fatto su misura per me:
 
-Tuttavia, **questa maledizione che spinge a scrivere ciarpame di varia natura con continuità non è contagiosa**, oramai l'ho capito da un pezzo (del resto se per molti risulta impegnativo scrivere un post facebookiano di più di venti righe, è abbastanza chiaro che certe cose ai più risulteranno sempre precluse).
+Una visione ritagliata su me stesso di **tutto ciò che avrei voluto vedere in quella community a me tanto cara e dove negli ultimi tempi scrivevo praticmente solo io**, quindi Xaba Cadabra è stata un po' una conseguenza logica.
+
+## La Maledizione
+
+L'esperienza Cetramod mi ha fatto capire che **questa maledizione che spinge a scrivere ciarpame di varia natura non è contagiosa**, almeno se s'intende con una certa continuità.
+
+O anche che per molti scrivere un post di 20 righe è più impegnativo che guardarsi un video di 20 minuti <small>(il che per me è proprio inconcepibile in quanto _user_, prima ancora che da _content provider_)</small>.
 
 ## Polemiche
 
-Possedere un sito (per quanto piccolo, personale e quindi decisamente di nicchia) mette in conto discussioni, insulti litigate e polemiche.
+Possedere un sito (per quanto piccolo, personale e quindi decisamente di nicchia) mette in **conto discussioni, insulti litigate e polemiche.**
 
 Per chi come me nel web è stato letteralmente svezzato dai forum, la faccenda si riesce a gestire bene: 
 
@@ -110,4 +133,4 @@ Tre anni dopo, rieccoci qua: la 5.0 è la versione di Xaba Cadabra che state vis
 
 Per certi versi ha rappresentato un ritorno al passato con una scelta in netta controtendenza con l'internet moderno: **sfondo scuro e scritte chiare.**
 
-Del resto, anche i blog vanno in controtendenza in questi anni e personalmente è una scelta stilistica che ho sempre amato sin dai miei primi anni su internet.
+Del resto, anche i blog vanno in controtendenza in questi anni e personalmente è una scelta stilistica che ho sempre amato.
