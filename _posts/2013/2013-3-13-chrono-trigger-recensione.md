@@ -60,7 +60,7 @@ Colpi di scena e intrecci temporali non mancheranno e, a seconda delle azioni de
 
 Anche in questo senso, **Chrono Trigger rappresentò un JRPG piuttosto atipico:**
 
-Rispetto alla linearità tipica del genere infatti, Chrono Trigger vanta una sua sorta di _dinamicità_ di fondo, che spesso mette (più o meno consapevolmente) alla prova il giocatore, dando a quest'ultimo **l'opportunità di influenzare uno svariato numero di eventi a suo piacimento - o suo malgrado.**
+Rispetto alla linearità caratteristica del genere infatti, Chrono Trigger vanta una sua sorta di _dinamicità_ di fondo, che spesso mette (più o meno consapevolmente) alla prova il giocatore, dando a quest'ultimo **l'opportunità di influenzare uno svariato numero di eventi a suo piacimento - o suo malgrado.**
 
 ## Gameplay
 
