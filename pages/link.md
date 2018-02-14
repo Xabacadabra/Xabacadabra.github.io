@@ -14,12 +14,6 @@ Siti e Blog che amo leggere per un motivo o per l'altro, tutti angoli dell'Inter
   <p class="post-excerpt">Nel dubbio, l'Autore. Nella certezza, il webmaster del Giuggizzu e Santa Rosalia™</p>
 </figure>
 
-<figure>
-  <a href="https://www.arcweb.it/cetramod/backup/home.php" target="blank"><img src="/images/teasercetramod.jpg">
-  <h2 class="post-title"><i class="fa fa-circle"></i> Cetramod</h2></a>
-  <p class="post-excerpt">Il "museo" del sito/forum più bello del mondo (perché ci scrivevamo io e quello del link di prima)</p>
-</figure>
-
 Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze particolari)
 
 ### <i class="fa fa-globe"></i> Siti
