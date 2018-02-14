@@ -64,7 +64,7 @@ Rispetto alla linearità tipica del genere infatti, Chrono Trigger vanta una sua
 
 ## Gameplay
 
-![marle](https://lh6.ggpht.com/_g-zAaRuBbyY/TBZajLhjQPI/AAAAAAAAAio/UlqItYZbz1s/marle.jpg){: .align-left}
+![marle](https://cdn.wikimg.net/strategywiki/images/5/57/Chrono_Trigger_Portraits_Marle.png){: .align-left}
 
 Come detto, Chrono Trigger rappresentò senza dubbio qualcosa di nuovo nell'ambito del JRPG e la cosa si traduce anche nel gameplay vero e proprio:
 
