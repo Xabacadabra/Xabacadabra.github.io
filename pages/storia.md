@@ -55,7 +55,7 @@ Xaba Cadabra è stata un po' la conseguenza volta ad incanalare quel medesimo "b
 
 ![stan](https://media.giphy.com/media/12J4OrceK0Wrvy/giphy.gif)
 
-L'esperienza Cetramod mi ha fatto capire quanto **questa maledizione che spinge a scrivere ciarpame non sia contagiosa**, almeno se s'intende farlo con una certa continuità (ne parlavo nel 2017 in [un piccolo compendio](/2016/Scrivere-Blog-nel-nel-2017/) sul blogging).
+L'esperienza Cetramod mi ha fatto capire quanto **questa maledizione che spinge a scrivere ciarpame non sia contagiosa**, almeno se s'intende farlo con una certa continuità.
 
 Per molti oggigiorno scrivere un post di 20 righe è più impegnativo che guardarsi un video di 20 minuti <small>(il che per me è proprio inconcepibile in quanto _user_, prima ancora che da _content provider_)</small>, e questa è una cosa a cui non mi abituerò mai _(grazie al cielo)_.
 
