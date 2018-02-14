@@ -26,7 +26,7 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 | [**Qhimm**](https://forums.qhimm.com/index.php){:target="_blank"} | Specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod. |
 | [**Shmuplations**](https://shmuplations.com/){:target="_blank"} | Traduzioni in Inglese di numerosissime interviste a sviluppatori di videogiochi giapponesi attivi negli anni '90. |
 | [**SadNES City**](https://www.sadnescity.it/){:target="_blank"} | Miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni. |
-| [**i 400 Calci**](https://www.i400calci.com/){:target="_blank"} | Cinema da combattimento (e non solo), forse il miglior sito di di recensioni cinematografiche in italiano. |
+| [**i 400 Calci**](https://www.i400calci.com/){:target="_blank"} | Cinema da combattimento (e non solo), forse il miglior sito di recensioni cinematografiche in italiano. |
 | [**Retroedicola**](https://www.retroedicola.it/){:target="_blank"} | Da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra trae diretta ispirazione. |
 | [**The Cutting Room Floor**](https://tcrf.net/){:target="_blank"} | Il regno degli smanettoni che amano hackerare e sviscerare i videogiochi, la Debug Room di tutte le Debug Room! |
 | [**Final Fantasy VII Citadel**](https://www.ff7citadel.com){:target="_blank"} | Da anni il mio sito preferito a tema Final Fantasy VII (tolto cetramod, ma sono di parte). |
