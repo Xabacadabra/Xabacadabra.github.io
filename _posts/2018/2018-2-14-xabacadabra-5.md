@@ -43,7 +43,7 @@ Vediamo un paio di altre cosette veloci veloci...
 
 In soldoni, nella barra degli indirizzi potete vedere che **Xaba Cadabra è sicuro** e si risparmierà un bel bagno di sangue digitale nei mesi a venire.
 
-Di mio, devo ringraziare **Cloudflare** che mi ha fatto fare tutto aggratis 🤑
+Di mio, devo ringraziare **Cloudflare** che mi ha fatto fare tutto aggratis. 🤑
 
 ## Abbiamo Piallato Disqus !
 
@@ -55,7 +55,7 @@ CAMPIONI DEL MONDO, CAMPIONI DEL MONDOOOOOOOOO
 
 Lasciatemelo dire, sembrerà poco ma per me è una vera rivoluzione levarmelo dai piedi, soprattutto visto che sono **riuscito ad importare tutti i vecchi commenti in [Staticman](https://staticman.net/)**, quindi anche loro se ne stanno comodi comodi al calduccio di Github.
 
-Restano ancora da implementare **le risposte siingole** e cercare di rendere il sistema più reattivo, ma vedremo più in la, una cosa per volta signora mia.
+Restano ancora da implementare **le risposte singole** e cercare di rendere il sistema più reattivo, ma vedremo più in la, una cosa per volta signora mia.
 
 ## Statistiche
 
