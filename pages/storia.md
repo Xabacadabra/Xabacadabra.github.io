@@ -11,7 +11,7 @@ author_profile: true
 
 Dunque...Xaba Cadabra nasce nel San Valentino del 2013.
 
-A San Valentino come il relativo Massacro, e a testimonianza dell'allora precaria vita sentimentale del sottoscritto 😄
+A San Valentino come il relativo Massacro, a testimonianza dell'allora precaria vita sentimentale del sottoscritto 😄
 
 ![san-valentino](https://upload.wikimedia.org/wikipedia/commons/0/01/Rom%2C_Santa_Maria_in_Cosmedin%2C_Reliquien_des_Hl._Valentin_von_Terni.jpg)
 
@@ -46,13 +46,17 @@ Un po' è sempre stata na mia cifra, un po' probabilmente è il senso di nostalg
 
 Fermo restando quanto appena scritto, da un certo punto di vista Xaba Cadabra nasce come una sorta di [Cetramod](/2013/cetramod) fatto su misura per me:
 
-Una visione ritagliata su me stesso di **tutto ciò che avrei voluto vedere in quella community a me tanto cara e dove negli ultimi tempi scrivevo praticmente solo io**, quindi Xaba Cadabra è stata un po' una conseguenza logica.
+Una visione ritagliata su me stesso di **tutto ciò che avrei voluto vedere in quella community a me tanto cara e dove negli ultimi tempi scrivevo praticmente solo io**.
+
+Xaba Cadabra è stata un po' la conseguenza volta ad incanalare quel medesimo "bisogno di scrivere".
 
 ## La Maledizione
 
-L'esperienza Cetramod mi ha fatto capire che **questa maledizione che spinge a scrivere ciarpame di varia natura non è contagiosa**, almeno se s'intende con una certa continuità.
+![stan](https://media.giphy.com/media/12J4OrceK0Wrvy/giphy.gif)
 
-O anche che per molti scrivere un post di 20 righe è più impegnativo che guardarsi un video di 20 minuti <small>(il che per me è proprio inconcepibile in quanto _user_, prima ancora che da _content provider_)</small>.
+L'esperienza Cetramod mi ha fatto capire quanto **questa maledizione che spinge a scrivere ciarpame non sia contagiosa**, almeno se s'intende farlo con una certa continuità (ne parlavo nel 2017 in un piccolo compendio sul blogging).
+
+Per molti oggigiorno scrivere un post di 20 righe è più impegnativo che guardarsi un video di 20 minuti <small>(il che per me è proprio inconcepibile in quanto _user_, prima ancora che da _content provider_)</small>, e questa è una cosa a cui non mi abituerò mai _(grazie al cielo)_.
 
 ## Polemiche
 
