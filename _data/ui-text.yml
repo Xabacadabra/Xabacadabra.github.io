@@ -70,7 +70,7 @@ it: &DEFAULT_IT
   categories_label           : "Anno:"
   date_label                 : "Aggiornato:"
   comments_label             : "Scrivi un commento"
-  comments_title             :
+  comments_title             : "Commenti"
   more_label                 : "Scopri di più"
   related_label              : "Leggi pure:"
   follow_label               : "Segui:"
