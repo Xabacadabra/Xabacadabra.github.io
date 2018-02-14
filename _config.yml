@@ -59,7 +59,7 @@ search_full_content      : # true, false (default)
 google_site_verification :
 bing_site_verification   : A60698FCF56ED9E0FC9FDB981ADF8A69
 yandex_site_verification : 62fa683c0dfc7807
-naver_site_verification  :
+naver_site_verification  : naverc68de8ec494921a502b54c97f2e57ca8
 
 # Social Sharing
 twitter:
