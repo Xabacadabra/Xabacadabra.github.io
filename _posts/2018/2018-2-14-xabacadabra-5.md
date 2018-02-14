@@ -31,11 +31,19 @@ E, come forse avrete notato, **da queste parti abbiamo riverniciato casa!**
 
 ## Nuovo Look
 
-> Per certi versi ha rappresentato un ritorno al passato con una scelta in netta controtendenza con l’internet moderno: sfondo scuro e scritte chiare. Del resto, anche i blog vanno in controtendenza in questi anni e personalmente è una scelta stilistica che ho sempre amato sin dai miei primi anni su internet.
+> Per certi versi ha rappresentato un ritorno al passato con una scelta in netta controtendenza con l’internet moderno: sfondo scuro e scritte chiare. Del resto, anche i blog vanno in controtendenza in questi anni e personalmente è una scelta stilistica che ho sempre amato.
 
 Per altre menate sulla storia di Xaba Cadabra andate pure [qua](/storia/) che non vi voglio ammorbare più del dovuto in questa sede.
 
-Vediamo un paio di altre cosette veloci veloci.
+Vediamo un paio di altre cosette veloci veloci...
+
+## HTTPS
+
+È stata una grande fatica ma, tra le varie migliorie comprese nel cambio di theme, [mi sono adeguato ai tempi](https://searchengineland.com/effective-july-2018-googles-chrome-browser-will-mark-non-https-sites-as-not-secure-291623)
+
+In soldoni, nella barra degli indirizzi potete vedere che **Xaba Cadabra è sicuro** e si risparmierà un bel bagno di sangue digitale nei mesi a venire.
+
+Di mio, devo ringraziare **Cloudflare** che mi ha fatto fare tutto aggratis 🤑
 
 ## Abbiamo Piallato Disqus !
 
@@ -47,7 +55,7 @@ CAMPIONI DEL MONDO, CAMPIONI DEL MONDOOOOOOOOO
 
 Lasciatemelo dire, sembrerà poco ma per me è una vera rivoluzione levarmelo dai piedi, soprattutto visto che sono **riuscito ad importare tutti i vecchi commenti in [Staticman](https://staticman.net/)**, quindi anche loro se ne stanno comodi comodi al calduccio di Github.
 
-Restano ancora da implementare **le risposte ai singoli commenti**, ma vedremo più in la, una cosa per volta signora mia.
+Restano ancora da implementare **le risposte siingole** e cercare di rendere il sistema più reattivo, ma vedremo più in la, una cosa per volta signora mia.
 
 ## Statistiche
 
