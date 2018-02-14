@@ -37,7 +37,7 @@ In realtà si tratta di [un discorso che ho affrontato più volte](/2014/la-stor
 
 Il primo blog con cui mi cimentai risale probabilmente al 2005. 
 
-In effetti mi rendo conto che un po' per i tempi, un po' per mie precise _"scelte stilistiche"_, Xaba Cadabra è nato da subito portando in se **molto della vecchia webzine di videogiochi** più che del sito-diario con cui propriamente s'intende con blog.
+In effetti mi rendo conto che un po' per i tempi, un po' per mie precise _"scelte stilistiche"_, Xaba Cadabra è nato da subito portando in se **molto della vecchia webzine di videogiochi** più che del sito-diario con cui propriamente s'intendono i blog.
 
 Un po' è sempre stata na mia cifra, un po' probabilmente è il senso di nostalgia che provo verso vecchi siti ormai scomparsi (_yourff, phoenixdown_ ecc.)
 
