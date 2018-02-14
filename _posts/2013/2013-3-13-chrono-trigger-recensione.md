@@ -102,7 +102,7 @@ Chrono Trigger nasce ovviamente per Super Nintendo, ed è stato [tradotto amator
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Rc3I8rZCgk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-In seguito sono stati effettuati due porting del gioco: uno per **Playstation** (che aggiunse i filmati stile Anime) e uno per **Nintendo DS** (che aggiunge anche altri elementi, come dungeon o nuovi approfondimenti narrativi).
+In seguito sono stati effettuati due porting del gioco: uno per **Playstation** (a cui si devono i filmati stile Anime) e uno per **Nintendo DS** (che aggiunge anche altri elementi, come dungeon o nuovi approfondimenti narrativi).
 
 ## New Game +
 
