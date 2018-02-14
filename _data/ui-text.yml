@@ -1,0 +1,97 @@
+# User interface text and labels
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  page                       : "Page"
+  pagination_previous        : "Previous"
+  pagination_next            : "Next"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Toggle Menu"
+  toc_label                  : "On This Page"
+  ext_link_label             : "Direct Link"
+  less_than                  : "less than"
+  minute_read                : "minute read"
+  share_on_label             : "Share on"
+  meta_label                 :
+  tags_label                 : "Tags:"
+  categories_label           : "Categories:"
+  date_label                 : "Updated:"
+  comments_label             : "Leave a Comment"
+  comments_title             : "Comments"
+  more_label                 : "Learn More"
+  related_label              : "You May Also Enjoy"
+  follow_label               : "Follow:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Recent Posts"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "Comment"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "Email address"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "Submit Comment"
+  comment_btn_submitted      : "Submitted"
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  loading_label              : "Loading..."
+  search_placeholder_text    : "Enter your search term..."
+  results_found              : "Result(s) found"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Italian
+# -----------------
+it: &DEFAULT_IT
+  page                       : "Pagina"
+  pagination_previous        : "Precedente"
+  pagination_next            : "Successivo"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 :
+  toc_label                  : "Indice"
+  ext_link_label             : "Link"
+  less_than                  : "meno di"
+  minute_read                : "minuti di lettura"
+  share_on_label             : "Condividi"
+  meta_label                 :
+  tags_label                 : "Etichette:"
+  categories_label           : "Anno:"
+  date_label                 : "Aggiornato:"
+  comments_label             : "Scrivi un commento"
+  comments_title             :
+  more_label                 : "Scopri di più"
+  related_label              : "Leggi pure:"
+  follow_label               : "Segui:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Articoli Recenti"
+  undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
+  comment_form_info          : "Il tuo indirizzo email non sarà pubblicato. Sono segnati i campi obbligatori"
+  comment_form_comment_label : "Commenta !"
+  comment_form_md_info       : "Formattazione Markdown supportata"
+  comment_form_name_label    : "Nome"
+  comment_form_email_label   : "Indirizzo email"
+  comment_form_website_label : "Sito Web"
+  comment_btn_submit         : "Invia commento"
+  comment_btn_submitted      : "Inviato"
+  comment_success_msg        : "Grazie per il tuo commento! Verrà visualizzato una volta che sarà approvato."
+  comment_error_msg          : "Invio commento fallito. Assicurati di aver completato i campi necessari."
+  loading_label              : "Caricamento..."
+  search_placeholder_text    : "Inserisci il termine di ricerca"
+  results_found              : "Risultati trovati"
+it-IT:
+  <<: *DEFAULT_IT

@@ -1,0 +1,22 @@
+main:
+  - title: "Archivio"
+    url: /archivio/
+  - title: "Categorie"
+    url: /categorie/  
+  - title: "Recensioni"
+    url: /tag/recensioni/  
+  - title: "Link"
+    url: /link/  
+  - title: "About"
+    url: /storia/      
+
+kazuko:
+  - title: "Intervista a Kazuko Shibuya"
+    children:
+      - title: "Parte 1"
+        url: /2017/intervista-kazuko-shibuya-parte-1/
+      - title: "Parte 2"
+        url: /2017/intervista-kazuko-shibuya-parte-2/
+      - title: "Parte 3"
+        url: /2017/intervista-kazuko-shibuya-parte-3/  
+    
