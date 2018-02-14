@@ -90,7 +90,7 @@ I boss infatti andranno molto più spesso sconfitti con una buona dose di strate
 
 La colonna sonora è altresì un inaudito capolvoro del Mitsuda con l'importante apporto di Noriko Matsueda e del leggendario Uematsu:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eDZ2W0GpP_E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131010609&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Temi medievaleggianti, cupe ballate futuristiche, sinfonie demoniache e ritmi tribali...grazie alla varietà che l'ambientazione garantisce, Mitsuda si è davvero potuto sbizzarrire, dando sfoggio a tutto il suo notevole estro.
 
