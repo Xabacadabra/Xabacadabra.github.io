@@ -24,31 +24,19 @@ Il resto è quasi tutto ordinato come un loculo al cimitero (senza preferenze pa
 
 ### <i class="fa fa-globe"></i> Siti
 
-- [**Netwars**](http://netwars-project.com/){:target="_blank"} - uno dei progetti più interessanti, emozionanti e tecnicamente magnifici che mi sia mai capitato di vedere in rete
-
-- [**Link-age**](http://newmediasoc.com/projects/link-age/){:target="_blank"} - progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre
-
-- [**Radio Garden**](http://radio.garden/){:target="_blank"} - stazioni radio di tutto il globo selezionabili da un gigantesco mappamondo. Dopo averlo scoperto, mi sono commosso dalla felicità
-
-- [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} - specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod
-
-- [**Shmuplations**](http://shmuplations.com/){:target="_blank"} - Traduzioni in Inglese di numerosissime interviste a sviluppatori di videogiochi giapponesi attivi negli anni '90 
-
-- [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} - miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni
-
-- [**i 400 Calci**](http://www.i400calci.com/){:target="_blank"} - cinema da combattimento (e non solo), forse il miglior sito di di recensioni cinematografiche in italiano
-
-- [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} - da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra trae diretta ispirazione
-
-- [**The Cutting Room Floor**](https://tcrf.net/){:target="_blank"} - il regno degli smanettoni che amano hackerare e sviscerare i videogiochi, la Debug Room di tutte le Debug Room!
-
-- [**Final Fantasy VII Citadel**](http://www.ff7citadel.com){:target="_blank"} - da anni il mio sito preferito a tema Final Fantasy VII (tolto cetramod, ma sono di parte)
-
-- [**Lucasdelirium**](http://www.lucasdelirium.it/){:target="_blank"} -  inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms
-
-- [**Adventure's Planet**](http://www.adventuresplanet.it/){:target="_blank"} - caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame
-
-- [**Gazebo**](http://www.gazebo.rai.it){:target="_blank"} - il programma che mi ha riavvicinato al mezzo televisivo, un capolavoro mediatico
+| [**Netwars**](http://netwars-project.com/){:target="_blank"} | Uno dei progetti più interessanti, emozionanti e tecnicamente magnifici che mi sia mai capitato di vedere in rete. |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Link-age**](http://newmediasoc.com/projects/link-age/){:target="_blank"} | Progetto del leggendario blogger [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan) legato a quel concetto di "vecchio web" di cui parlo sempre. |
+| [**Radio Garden**](http://radio.garden/){:target="_blank"} | Stazioni radio di tutto il globo selezionabili da un gigantesco mappamondo. Dopo averlo scoperto, mi sono commosso dalla felicità. |
+| [**Qhimm**](http://forums.qhimm.com/index.php){:target="_blank"} | Specializzati nel modding di Final Fantasy, vero punto di riferimento originario per il nostro Cetramod. |
+| [**Shmuplations**](http://shmuplations.com/){:target="_blank"} | Traduzioni in Inglese di numerosissime interviste a sviluppatori di videogiochi giapponesi attivi negli anni '90. |
+| [**SadNES City**](http://www.sadnescity.it/){:target="_blank"} | Miti assoluti. Hanno reso accessibili e spesso più belli dei videogiochi ovviando a numerose cappellate dei traduttori anglofoni. |
+| [**i 400 Calci**](http://www.i400calci.com/){:target="_blank"} | Cinema da combattimento (e non solo), forse il miglior sito di di recensioni cinematografiche in italiano. |
+| [**Retroedicola**](http://www.retroedicola.it/){:target="_blank"} | Da _pasionario_ della nostalgia canalis [cit] non posso non consigliarla: ottimo archivio per sfogliare tante vecchie riviste da cui Xaba Cadabra trae diretta ispirazione. |
+| [**The Cutting Room Floor**](https://tcrf.net/){:target="_blank"} | Il regno degli smanettoni che amano hackerare e sviscerare i videogiochi, la Debug Room di tutte le Debug Room! |
+| [**Final Fantasy VII Citadel**](http://www.ff7citadel.com){:target="_blank"} | Da anni il mio sito preferito a tema Final Fantasy VII (tolto cetramod, ma sono di parte). |
+| [**Lucasdelirium**](http://www.lucasdelirium.it/){:target="_blank"} | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms. |
+| [**Adventure's Planet**](http://www.adventuresplanet.it/){:target="_blank"} | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame. |
 
 ### <i class="fa fa-pencil-alt"></i> Blog
 
