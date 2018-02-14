@@ -1,8 +1,4 @@
-# www.robotstxt.org/
-# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
-
+---
+---
 User-agent: *
-Sitemap: https://www.xabacadabra.com/sitemap.xml
-
-User-agent: *
-Disallow: https://www.xabacadabra.com/media-tracker
+Sitemap: {{ site.url }}/sitemap.xml
