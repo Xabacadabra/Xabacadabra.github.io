@@ -21,7 +21,7 @@ A voler tenere in conto certe nerdate, **Chrono Trigger potrebbe esserlo sul ser
 
 ## Il Dream Team
 
-![crono](https://starsmedia.ign.com/stars/image/object/142/14217688/crono_chrono-trigger_pictureboxart_160w.jpg){: .align-left}
+![crono](https://www.chronocompendium.com/images/wiki/8/8a/Crono1.jpg){: .align-left}
 
 Il gruppo di sviluppatori di Chrono Trigger rappresentò un po' l'equivalente videoludico della Nazionale americana di Basket del '92: 
 
@@ -38,7 +38,7 @@ Questi sono _alcuni_ dei nomi principali, ma moltissimi altri pesi massimi del s
 
 ## Trama
 
-![magus](https://starsmedia.ign.com/stars/image/object/142/14217695/magusboxart_160w.jpg){: .align-right}
+![magus](https://www.chronocompendium.com/images/wiki/9/98/Magus2.jpg){: .align-right}
 
 Incentrata sul **viaggio nel tempo e sui paradossi tanto cari al relativo archetipo narrativo**, la trama di Chrono Trigger risulta caratterizzata da uno sviluppo fresco ed originale:
 
