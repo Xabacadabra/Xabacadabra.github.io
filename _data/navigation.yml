@@ -1,10 +1,10 @@
 main:
-  - title: "Archivio"
-    url: /archivio/
   - title: "Categorie"
-    url: /categorie/  
+    url: /categorie/
   - title: "Recensioni"
-    url: /tag/recensioni/  
+    url: /tag/recensioni/        
+  - title: "Archivio"
+    url: /archivio/ 
   - title: "Link"
     url: /link/  
   - title: "About"
