@@ -9,7 +9,7 @@ tags:
 header:  
   image:  images/undertale.jpg
   teaser: images/teaser-undertale.jpg
-published: false
+published: true
 comments: true
 toc: true
 ---
