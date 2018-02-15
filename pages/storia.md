@@ -47,7 +47,7 @@ Un po' è sempre stata na mia cifra, un po' probabilmente è il senso di nostalg
 
 Fermo restando quanto appena scritto, da un certo punto di vista Xaba Cadabra nasce come una sorta di [Cetramod](/2013/cetramod) fatto su misura per me:
 
-Una visione ritagliata su me stesso di **tutto ciò che avrei voluto vedere in quella community a me tanto cara e dove negli ultimi tempi scrivevo praticmente solo io**.
+Una visione ritagliata su me stesso di **tutto ciò che avrei voluto vedere in quella community a me tanto cara e dove negli ultimi tempi scrivevo praticamente solo io**.
 
 Xaba Cadabra è stata un po' la conseguenza volta ad incanalare quel medesimo "bisogno di scrivere".
 
