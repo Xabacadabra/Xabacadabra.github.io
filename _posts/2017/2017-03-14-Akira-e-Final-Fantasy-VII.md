@@ -16,7 +16,7 @@ comments: true
 toc: true
 ---
 ATTENZIONE! In questo post tento di non rivelare nulla riguardo le trame delle due opere in questione. Ciò detto, consiglio di proseguire nella lettura solo se le si conosce entrambe!
-{: .notice-info}
+{: .notice--info}
 
 Penso a questo post da circa un annetto, da quando cioè lessi per la prima volta il manga del capolavoro di **Katsuhiro Otomo** dopo essere mezzo cresciuto avendo visto e rivisto l'omonimo film. 
 

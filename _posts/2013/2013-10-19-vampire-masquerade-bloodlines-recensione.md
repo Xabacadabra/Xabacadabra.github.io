@@ -141,7 +141,7 @@ Prima e per certi versi forse unica nota dolente: **il gioco è completamente in
 Semplicemente, **è uno di quei giochi che non può mancare a nessuno**...soltanto un acceso detrattore dei Giochi di Ruolo e del Vampirismo dovrebbe lasciarsi scappare questo gioiello.
 
 **5 su 5** vampirici braccobaldi !
-{: .notice-success}
+{: .notice--success}
 
 <script type="application/ld+json">
 {

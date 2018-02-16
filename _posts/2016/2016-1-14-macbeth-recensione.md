@@ -83,7 +83,7 @@ Il punto è che **una tragedia come Macbeth non può permettersi di essere "solo
 Dovendo braccobaldizzarlo:
 
 **nella solita scala da 1 a 5 ci metterei un dignitoso 3**
-{: .notice-warning}
+{: .notice--warning}
 
 Personalmente lo vedrei pure un punto sotto...ma che ci volete fare, ogni tanto mi tocca fare _l'oggettivo._
 

@@ -12,7 +12,7 @@ comments: true
 ---
 
 ## Pro:
-{: .notice-success}
+{: .notice--success}
 
 - **Fantasy _"neilgaimaniano"_**, quindi per qualche motivo squisitamente digeribile e dal gusto amabilmente britannico
 
@@ -33,7 +33,7 @@ comments: true
 - **Romanticismo fiabesco** tanto classico quanto apprezzabile: smielato sì, ma il giusto (il british humor di cui sopra in questo senso aiuta)
 
 ## Contro
-{: .notice-danger}
+{: .notice--danger}
 
 - * **Gli effetti speciali del discount** di cui sopra contribuiscono ad invecchiarlo di parecchio: come detto resta visivamente godibile, ma bisogna considerare che i vari Signore degli Anelli all'epoca erano già in giro da 5-6 anni e da questo punto di vista sono invecchiati certamente meglio (pur con tutt'altro budget, s'intende: qui s'è privilegiato spender in casting che per me è anche una scelta migliore, ma vabbè)
 
@@ -46,4 +46,4 @@ comments: true
 ## Voto
 
 Promosso su tutta la linea con degli ottimi 4 bracchi su 5!
-{: .notice-success}
+{: .notice--success}

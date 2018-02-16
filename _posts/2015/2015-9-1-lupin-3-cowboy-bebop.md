@@ -14,7 +14,7 @@ comments: true
 ---
 
 Il fantastico artwork qui sopra è del bravissimo [Ron Chan](https://www.ronchan.net/)
-{: .notice-info}
+{: .notice--info}
 
 Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso soprattutto con la relativa pop culture animata e videogiocosa...
 

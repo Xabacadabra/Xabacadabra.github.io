@@ -13,7 +13,7 @@ comments: true
 Niente pipponi mentali, solo due amabili e pregni elenchi di PRO e CONTRO, vediamo assieme quanto c'è di bello (e di brutto) in Iron Man 3:
 
 ## Iron Man 3 è Bello perché
-{: .notice-success}
+{: .notice--success}
 
 - è una action comedy che pare uscita dal '97, un film positivista, di quelli che nell'America post 11 settembre sembrano in via d'estinzione peggio dei panda, e che quindi fa piacere rivedere
 
@@ -25,7 +25,7 @@ nel complesso è girato in modo ottimo, forse anche meglio dei due predecessori
 - il colpo di scena legato al cattivo, checché ne dica il pubblico nerd, **è ben congeniato e soprendente** e rivela un antagonista interpretato benissimo: abbastanza originale nel porsi, per quanto estremamente classico nella sostanza
 
 ##Iron Man 3 è Brutto perché
-{: .notice-danger}
+{: .notice--danger}
 
 - è _troppo_ action comedy per famiglie, se consideriamo il percorso di Iron Man 1 e 2 e il climax raggiunto con The Avengers: il senso da comic movie appare qui molto lontano (e il lato sesso alcool rock'n' roll e la spocchia di Tony Stark si vedono poco o nulla)
 

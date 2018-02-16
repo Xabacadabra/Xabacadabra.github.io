@@ -101,4 +101,4 @@ Oggi (ahimè), visti i seguiti, mi pare giusto una bella gnocca, ma questa è un
 ## Valutazione
 
 5 ciccionissimi Braccobaldi su 5, con lode e bacio accademico!
-{: .notice-success}
+{: .notice--success}

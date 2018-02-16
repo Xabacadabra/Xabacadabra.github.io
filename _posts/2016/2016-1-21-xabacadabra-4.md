@@ -47,7 +47,7 @@ Per fare un esempio che li vale tutti, il succo della recente recensione di [Xen
 Semplicemente, **il mio vecchio post era vago e approssimativo**, non una recensione vera e propria, quindi ho pensato valesse la pena risistemarlo come si deve e farne un pezzo rinnovato, senza rinnegare nulla di quanto già scritto nel 2013.
 
 (a questo proposito: se c'è qualcosa d'importante che manca contattatemi che vedo di scartabellare un po' e ripescarla con una certa priorità!)
-{: .notice-info}
+{: .notice--info}
 
 ## Quanto durerà la fase di transizione ?
 

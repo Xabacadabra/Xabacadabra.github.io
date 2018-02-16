@@ -78,7 +78,7 @@ Sostanzialmente, parliamo **del più bell'esponente della saga in termini di lon
 Perché, interpellando il mio cuore da vecchio fan, **emotivamente è di gran lunga il peggior Metal Gear Solid con un numero affianco.**
 
 Dovendo fare una media braccobaldica tra questi due cruciali elementi, la mia personale valutazione raggiunge a malapena la sufficienza: **3 su 5**.
-{: .notice-warning} 
+{: .notice--warning} 
 
 E certo, è una valutazione soggettiva. Ci mancherebbe.
 

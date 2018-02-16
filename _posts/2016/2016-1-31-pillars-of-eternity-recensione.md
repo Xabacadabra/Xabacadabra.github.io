@@ -181,7 +181,7 @@ Personalmente, da detrattore dell'abuso del fantasy quale sono, confesso che ne 
 Magari ecco, la prossima volta recuperando qualcosa anche da Neverwinter Nights e proseguendo delle ottime idee della compianta Troika Games.
 
 **4 Braccobaldi su 5**
-{: .notice-success}
+{: .notice--success}
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Pillars of Eternity</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Apr 1 2017<br /> </span> Voto: <span class="rating">4</span></span></span></div>

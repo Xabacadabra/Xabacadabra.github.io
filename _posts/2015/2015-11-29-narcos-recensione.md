@@ -80,7 +80,7 @@ Diciamo solo che il mio _quinto senso e mezzo_ pizzica un po' nervosamente, ecco
 Consigliata a tutti quanti, imprescindibile per i veri amanti del genere: solo plomo per voi se ve la fate scappare, ¡malcriados!
 
 **Quattro Braccobaldi e mezzo su 5!**
-{: .notice-success}
+{: .notice--success}
 
 <script type="application/ld+json">
 {

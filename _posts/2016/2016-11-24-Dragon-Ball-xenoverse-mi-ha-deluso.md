@@ -14,7 +14,7 @@ toc: true
 
 Disclaimer: questo post è stato scritto di getto alle 4:30 del mattino e, come si potrà notare, va degenerando sempre di più.
 Avviso in anticipo elevati standard di volgarità, bile e follie random
-{: .notice-danger}
+{: .notice--danger}
 
 E vabbè, son quei 10 euro che mi ritornano in tasca grazie al rimborso Steam (tanto probabilmente li spenderò di nuovo lì, approfittando dei saldi da black friday incombente)
 

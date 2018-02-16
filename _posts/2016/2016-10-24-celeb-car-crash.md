@@ -119,5 +119,5 @@ E io, d'inedito, in People Are The Best Show non c'ho sentito granché.
 
 Non è certamente negativo...ma decisamente neutro. 
 E per un disco rock, forse questa è la cosa peggiore
-{: .notice-warning}
+{: .notice--warning}
  

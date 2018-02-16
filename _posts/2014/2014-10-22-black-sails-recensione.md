@@ -99,6 +99,6 @@ Ciò detto, partiamo con i "pro e contro" perché come avrete capito una recensi
 </figure>
 
 **Consigliatissima in tutto e per tutto a chiunque abbia anche solo un vago amore per il mondo dei filibustieri, soprattutto quelli storici e romanzeschi.**
-{: .notice-success}
+{: .notice--success}
 
 **Credo possa piacere anche ad un pubblico abbastanza eterogeneo**, tenendo ben presente che potrebbe non essere così facilmente fruibile come si potrebbe pensare: e questo, bene inteso, non è un difetto, ma un merito di una storia intrigante e complessa.

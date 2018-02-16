@@ -43,4 +43,4 @@ Ecco: se da questo sottotesto nascono dei giochi effettivamente interessanti e c
 ## Valutazione
 
 1 braccobaldo su 5
-{: .notice-danger}
+{: .notice--danger}

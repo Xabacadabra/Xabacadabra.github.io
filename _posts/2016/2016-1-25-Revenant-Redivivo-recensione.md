@@ -15,7 +15,7 @@ toc: true
 ---
 
 Ovviamente, **nessuno spoiler**
-{: .notice-info}
+{: .notice--info}
 
 E attenzione: questa è una di quelle _lunghe._
 
@@ -187,4 +187,4 @@ Certo è condito da una buona dose d'egocentrismo autoriale, che tuttavia non gu
 ## Voto:
 
 **4 Braccobaldi e mezzo su 5**
-{: .notice-success}
+{: .notice--success}

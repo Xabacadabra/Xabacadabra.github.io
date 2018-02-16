@@ -15,7 +15,7 @@ toc: true
 ---
 
 ATTENZIONE - QUESTO POST CONTIENE ALTE DOSI DI NOSTALGIA
-{: .notice-danger}
+{: .notice--danger}
 
 Se vent'anni fa aveste domandato agli adolescenti quale fosse il triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo *Brenda - Dylan - Kelly*...ma, interpellando i più *pischelli*, la risposta sarebbe stata una sola: *Sabrina - Johnny - Tinetta* (o, canonicamente parlando, *Madoka - Kyusuke - Hikaru*). [^nota]
 

@@ -141,4 +141,4 @@ soprattutto nei suoi lati più seri (davvero, ci sono anche quelli), **trovo che
 Durasse un po' meno e fosse uscito una decina d'anni fa probabilmente ne avrebbe guadagnato parecchio, ma anche così resta un film divertente, convincente e ben strutturato.
 
 3 Braccobaldi e mezzo su 5
-{: .notice-success}
+{: .notice--success}

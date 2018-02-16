@@ -13,7 +13,7 @@ toc: true
 ---
 
 **Nota:** Sono all'incirca quattro annetti che provo a recensire come si deve Xenogears...questa è la terza riedizione. Parlare di questo gioco non è mai un'impresa facile.
-{: .notice-info}
+{: .notice--info}
 
 ## Xeno chi ?
 
@@ -71,7 +71,7 @@ Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, re
 Quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** (in questo senso palma d'oro agli Anziani del Ministero di Gazel: roba che un momento ti pare di star guardando _Escaflowne_, ed un secondo dopo ti ritrovi a _Ballarò_).
 
 A proposito di dialoghi: se v'interessa **Xenogears in italiano** annate a fare un saluto ai SadNES [qui](https://www.sadnescity.it/traduzioni/xeno/xeno.php) ! 
-{: .notice-info}
+{: .notice--info}
 
 Chiaro: **c'è il fattore rigiocabilità**, ma trattandosi di un JRPG non proprio brevissimo e con altri problemi di cui parliamo tra poco, **non credo sia il caso di farci troppo affidamento.**
 
@@ -93,7 +93,7 @@ La verità, più semplicemente, è che l'autore **Tatsuya Takahashi** risultava 
 **Xenogears nasce come quinto episodio di un'ideale serie mai realizzata** (Che NO, non è Xenosaga. Temi, autore e citazioni rimandanti a Xenogears ci sono, è vero, ma si parla comunque di un'altra storia) e per forza di cose tenta di concentrare in se stesso tanti rimandi e riferimenti che non avranno mai degni approfondimenti se non nel _Perfect Works_ 
 
 _**Perfect Works:**_ libro mai uscito al di fuori dei confini nipponici, amatorialmente tradotto in italiano [qui](https://xenogearsitalia.jimdo.com/)
-{: .notice-info}
+{: .notice--info}
 
 
 Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo potesse ricevere lo stesso riscontro di pubblico di un capitolo di un brand già arcinoto quale Final Fantasy era non utopico..._deppiù._
@@ -168,7 +168,7 @@ E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tan
 Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede **realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri** (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), che saprà abbondantemente ripagare, donando una delle massime esperienze videoludiche a chiunque avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
 
 I braccobaldi non possono che essere **5 su 5** !
-{: .notice-success}
+{: .notice--success}
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Xenogears</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Gen 1 2016<br /> </span> Voto: <span class="rating">5</span></span></span></div>

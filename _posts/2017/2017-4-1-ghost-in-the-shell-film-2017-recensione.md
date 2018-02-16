@@ -161,7 +161,7 @@ Se invece conoscete Ghost in the Shell, soprattutto i manga di Shirow, e li amat
 ## Verdetto
 
 Due Cyber-braccobaldi che si guardano in faccia annoiati su 5
-{: .notice-danger}
+{: .notice--danger}
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Ghost in the Shell</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Apr 1 2017<br /> </span> Voto: <span class="rating">2</span></span></span></div>

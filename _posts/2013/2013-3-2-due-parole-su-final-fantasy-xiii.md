@@ -13,7 +13,7 @@ comments: true
 ---
 
 **Attenzione!** non c'è nessuno Spoiler diretto, ma la letta potrebbe rovinarvi l'esperienza di gioco se non lo conoscete) 
-{: .notice-warning}
+{: .notice--warning}
 
 In breve? Tanto potenziale sprecato. 
 

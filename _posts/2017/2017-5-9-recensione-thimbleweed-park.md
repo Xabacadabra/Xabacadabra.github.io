@@ -129,7 +129,7 @@ Amo ciò che rappresenta, il modo in cui è stato costruito, e mi pare un esperi
 E boh, io ci spero, _fan***bip!***_
 
 4.5 Braccobaldi che stanno come un 9/10.
-{: .notice-success} 
+{: .notice--success} 
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Thimbleweed Park </span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Mag 9 2017<br /> </span> Voto: <span class="rating">4.5</span></span></span></div>

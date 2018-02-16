@@ -68,13 +68,13 @@ Controversa è poi la questione che lo coinvolge con il disneyano Atlantis - L'I
 4. Staff d'eccezione
 5. Il leggendario team Gratan!
 6. Un vero e proprio cult
-{: .notice-success}
+{: .notice--success}
 
 **Perché NON guardarlo:** 
 1. Puntate filler fastidiosissime
 2. Un po' lento ad entrare "nel vivo"
 3. Ripetitività di alcuni dialoghi volti ad enfatizzare il duello "scienza/natura", a tratti portandolo all'esasperazione
-{: .notice-danger}
+{: .notice--danger}
 
 ## Note
 

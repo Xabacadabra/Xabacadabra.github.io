@@ -157,7 +157,7 @@ E questo, con buona pace dei votacci di _RottenTomatoes_, è in effetti tutto ci
 ## Voto
 
 4 Braccobaldi su 5
-{: .notice-success} 
+{: .notice--success} 
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Kingsglaive - Final Fantasy XV</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Sep 5 2017<br /> </span> Voto: <span class="rating">4</span></span></span></div>

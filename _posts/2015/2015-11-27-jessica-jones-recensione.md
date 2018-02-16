@@ -80,7 +80,7 @@ Specificando che attendo con ansia la serie su Luke Cage (Mike Colter forse è t
 Insomma: **niente male ragazza**, però perdonami...ci sono davvero tante squadre in questo campionato, **ed il livello qui s'è alzato parecchio.** (però in un'avventura grafica alla Still Life ti ci vedrei un sacco lo stesso!)
 
 **Tre Braccobaldi e mezzo su 5!**
-{: .notice-success}
+{: .notice--success}
 
 <script type="application/ld+json">
 {

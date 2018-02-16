@@ -141,7 +141,7 @@ Tolto questo, **una sceneggiatura un po' blanda con un soggetto classico, poca e
 ## Voto
 
 Due magici braccboaldi e mezzo su 5
-{: .notice-warning}
+{: .notice--warning}
 
 <div class="hreview" style="display: none;">
 <span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Harry Potter e La Maledizione dell'Erede</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Apr 5 2017<br /> </span> Voto: <span class="rating">2,5</span></span></span></div>

@@ -189,12 +189,12 @@ Certamente non privo di perdonabili difetti (primo fra tutti l'ovvio invecchiame
 Voto nostalgico:
 
 **4 braccobaldi su 5** !
-{: .notice-success}
+{: .notice--success}
 
 Voto moderno:
 
 **3 braccobaldi su 5**!
-{: .notice-warning}
+{: .notice--warning}
 
 ## Bonus: Excursus Personale
 
