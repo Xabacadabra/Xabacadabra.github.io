@@ -1,6 +1,6 @@
 ---
 title: "Gangsta. [Recensione]"
-last_modified_at: 2017-23-03
+last_modified_at: 2017-3-23
 categories: [2015]
 excerpt: "Nicholas Brown e Worick Arcangelo sono dei faccendieri di una città dal nomen-omen ridicolo (Ergastulum. Eh. Son giapponesi, capiteli), città che in effetti è più che altro una perfetta sintesi delle peggio periferie italiane..."
 tags: 
