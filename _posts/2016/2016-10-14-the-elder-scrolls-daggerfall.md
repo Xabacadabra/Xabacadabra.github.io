@@ -1,6 +1,6 @@
 ---
 title: "The Elder Scrolls II Daggerfall nel 2016"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Dopo una solida manciata di ore passate testando OpenMW che ha portato il mio vecchio amore The Elder Scrolls..."
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Il Corvo - Una retrospettiva sul film"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Quella che segue è un'elaborazione più estesa di un commento spiccio a caldo, un commento che m'è uscito mentre condividevo su facebook...."
 tags: [cinema]

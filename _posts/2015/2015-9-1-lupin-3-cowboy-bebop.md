@@ -1,6 +1,6 @@
 ---
 title: "Lupin III e Cowboy Bebop"
-modified: 2017-03-9
+last_modified_at: 2017-03-9
 categories: [2015]
 excerpt: "Questo post rende esplicito un profondissimo debito: quello nei confronti del Giappone, inteso soprattutto con la relativa pop culture animata e videogiocosa..."
 tags: 

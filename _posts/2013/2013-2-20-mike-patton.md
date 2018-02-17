@@ -1,6 +1,6 @@
 ---
 title: "Mike Patton"
-modified: 2018-5-2
+last_modified_at: 2018-5-2
 categories: [2013]
 excerpt: "Nell'anno in cui sono venuto al mondo (1989), mentre cadeva il Muro di Berlino e l'hair metal iniziava a venire (in più di un senso)..."
 tags: [musica]

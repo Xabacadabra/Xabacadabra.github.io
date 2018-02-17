@@ -1,6 +1,6 @@
 ---
 title: "Parasite Eve [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Un anno dopo il successo di Final Fantasy VII, Squaresoft proseguì la propria linea narrativa più spiccatamente fanta-urbano-cyberpunkettona con..."
 tags: [recensioni, videogiochi]

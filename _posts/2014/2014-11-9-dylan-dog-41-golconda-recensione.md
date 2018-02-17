@@ -1,6 +1,6 @@
 ---
 title: "Dylan Dog 41 - Golconda! [Mini-Recensione]"
-modified: 2017-03-23
+last_modified_at: 2017-03-23
 categories: [2014]
 excerpt: "In Golconda ci sono buona parte dei deliri più belli di Tiziano Sclavi"
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "La Creazione di un Personaggio nei Videogiochi"
-modified: 2017-01-09
+last_modified_at: 2017-01-09
 categories: [2013]
 excerpt: "La libertà di fare praticamente tutto, andare ovunque, interagire con ogni cosa e l'idea stessa di creare un personaggio..."
 tags: [videogiochi]

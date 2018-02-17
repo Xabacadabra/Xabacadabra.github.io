@@ -1,6 +1,6 @@
 ---
 title: "Un post da blog"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Oggi avevo una gran voglia di postare qualcosa qui. IL CHE è TERRIBILE...."
 tags:

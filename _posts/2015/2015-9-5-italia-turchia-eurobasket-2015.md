@@ -1,6 +1,6 @@
 ---
 title: "Italia - Turchia 87 - 89 [Eurobasket 2015]"
-modified:
+last_modified_at:
 categories: [2015]
 excerpt: "Intanto da un lato è stata un po' Gallinari - Turchia."
 tags: [sport]

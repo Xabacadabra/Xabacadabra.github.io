@@ -1,6 +1,6 @@
 ---
 title: "Italia - Lituania 85 - 95 [Eurobasket 2015]"
-modified:
+last_modified_at:
 categories: [2015]
 excerpt: "Ironia della sorte, forse la partita più bella dell'Europeo."
 tags: [sport]

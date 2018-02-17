@@ -1,7 +1,7 @@
 ---
 
 title: "Logan - The Wolverine [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Logan è un bel film. Soprattutto, è un Film e non l'episodio della gargantuesca serie tv rappresentata dal Marvel Cinematic Universe: vale insomma ciò che scrissi per Batman V Superman...."
 tags:

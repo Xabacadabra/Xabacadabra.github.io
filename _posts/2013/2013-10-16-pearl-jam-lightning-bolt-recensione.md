@@ -1,6 +1,6 @@
 ---
 title: "Pearl Jam – Lightning Bolt [Recensione]"
-modified:
+last_modified_at:
 categories: [2013]
 excerpt: "Eddie Vedder inizia ad andare per la cinquantina, e questo mi porta a sentire l'infanzia più remota e lontana..."
 tags: [musica, recensioni]

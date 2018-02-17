@@ -1,6 +1,6 @@
 ---
 title: "Xenogears [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che sembra quasi una presa per il di dietro..."
 tags: [recensioni, videogiochi]

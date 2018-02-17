@@ -1,6 +1,6 @@
 ---
 title: "Metal Gear Solid V: The Phantom Pain [Prime Impressioni a caldo]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Mi sono fermato dopo la quarta missione, ho preso ad esplorare, reclutare tizi / cose / animali..."
 tags: [videogiochi]

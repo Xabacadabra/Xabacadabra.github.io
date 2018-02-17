@@ -1,6 +1,6 @@
 ---
 title: "Intervista a Hironobu Sakaguchi [Tradotto da Glixel]"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "A proposito di Final Fantasy XV, Remake, il rapporto con Akira Toriyama e molto altro. Traduzione in italiano dell'intervista di James Mielke"
 tags:

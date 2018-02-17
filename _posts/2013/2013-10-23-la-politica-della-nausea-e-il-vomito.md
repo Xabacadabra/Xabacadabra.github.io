@@ -1,6 +1,6 @@
 ---
 title: "La Politica della Nausea e il Vomito Catartico"
-modified: null
+last_modified_at: null
 categories: [2013]
 excerpt: "Come chi ha avuto l'ardire di seguire questo blog saprà, spesso ho scritto qualcosina in merito alla..."
 tags:

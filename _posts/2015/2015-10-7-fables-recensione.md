@@ -1,6 +1,6 @@
 ---
 title: Fables [Recensione]
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Prima di tutto Fables è di gran lunga uno dei più bei fumetti che io abbia mai letto in senso lato."
 tags: 

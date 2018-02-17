@@ -1,6 +1,6 @@
 ---
 title: "Web Archive: Archeologia Cybernetica e il Tempo di Internet"
-modified: null
+last_modified_at: null
 categories: [2013]
 excerpt: "Chi vive internet, o meglio chi ha vissuto un certo tipo di internet, penso sia senza ombra di dubbio invecchiato precocemente..."
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Macbeth (2015) [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Commento lapidario ma onesto? Che palle. Commento un minimo più articolato ed esplicatore? Macbeth non è un brutto film, anzi!"
 tags:

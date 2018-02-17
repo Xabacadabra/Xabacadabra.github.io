@@ -1,6 +1,6 @@
 ---
 title: "Poets of the Fall in Italia [Resoconto]"
-modified:
+last_modified_at:
 categories: [2015]
 excerpt: "L'acustica forse forse non delle migliori, il pubblico poco (ma buono, diciamocelo da soli: di quelli che sanno farsi sentire)..."
 tags: [musica]

@@ -1,6 +1,6 @@
 ---
 title: "Come Spike Lee rovinò NBA 2k16"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "La modalità My Career concepita dai 2k per me è sempre stata uno di quei sogni che diventano realtà. Peccato che Spike Lee abbia buttato tutto nel cesso...."
 tags: 

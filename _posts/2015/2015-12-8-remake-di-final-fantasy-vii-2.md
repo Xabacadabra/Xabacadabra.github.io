@@ -1,6 +1,6 @@
 ---
 title: "Remake di Final Fantasy VII [News e Commento #2]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Lo so: questo blog rischia di diventare seriamente monotematico, ma se mi seguite da un po' dovreste sapere come la mia sia..."
 tags: [videogiochi]

@@ -1,6 +1,6 @@
 ---
 title: "10 suggerimenti per scrivere Blog nel 2017"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Ha ancora un senso? La risposta è la solita: dipende..."
 tags:

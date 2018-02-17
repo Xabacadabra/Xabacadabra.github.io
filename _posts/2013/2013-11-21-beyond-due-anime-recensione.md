@@ -1,6 +1,6 @@
 ---
 title: "Beyond: Due Anime [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2013]
 excerpt: "Altrimenti detto David Cage Begins"
 tags: [recensioni, videogiochi]

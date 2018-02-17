@@ -1,6 +1,6 @@
 ---
 title: "I Casual Gamers non esistono"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "E se esistessero rappresenterebbero i videogiocatori originali, tipo i vampiri nei vecchi film"
 tags:

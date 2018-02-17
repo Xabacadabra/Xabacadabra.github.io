@@ -1,6 +1,6 @@
 ---
 title: "Incontro con Shin'ichirō Watanabe [Cartoons on the Bay - Torino 2017]"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Reportage sull'evento organizzato da Rai Com con ospite Shin'ichirō Watanabe, il regista di Cowboy Bebob! Preciso che il post sarà suddiviso in due parti..."
 tags: 

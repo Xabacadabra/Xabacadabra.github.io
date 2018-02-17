@@ -1,6 +1,6 @@
 ---
 title: "Sognando Gundam - 1979 [Netflix]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Cosa ci può trovare un giovane nella prima serie di Gundam?"
 tags:

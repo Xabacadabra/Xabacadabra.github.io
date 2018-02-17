@@ -1,6 +1,6 @@
 ---
 title: "Iron Man 3 [Mini-Recensione]"
-modified: null
+last_modified_at: null
 categories: [2013]
 excerpt: "Niente pipponi mentali, solo due amabili e pregni elenchi di PRO e CONTRO, vediamo assieme quanto c'è di bello (e di brutto) in Iron Man 3:"
 tags: [recensioni, cinema]

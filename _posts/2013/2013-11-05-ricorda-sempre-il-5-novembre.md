@@ -1,6 +1,6 @@
 ---
 title: "Ricorda per sempre il 5 novembre"
-modified: 2016-11-05
+last_modified_at: 2016-11-05
 categories: [2013]
 excerpt: "Oggi è un giorno molto importante, nei risvolti mediatici ancor più che storici"
 tags:

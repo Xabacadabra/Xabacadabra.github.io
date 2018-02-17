@@ -1,6 +1,6 @@
 ---
 title: "Intervista a Kazuko Shibuya [Parte 3]"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Terza parte dell'intervista alla storica Designer della Serie: Romancing Saga, i Job di Final Fantasy V, l'avvento della Playstation e Final Fantasy alle Hawaii (!)"
 tags:

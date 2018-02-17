@@ -1,6 +1,6 @@
 ---
 title: "Pillars of Eternity [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Bene. è stato lungo è faticoso, ma finalmente ho terminato Pillars of Eternity, e credo di poterlo recensire come si deve."
 tags:

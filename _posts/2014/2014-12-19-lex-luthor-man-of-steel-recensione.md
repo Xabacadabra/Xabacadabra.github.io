@@ -1,6 +1,6 @@
 ---
 title: "Lex Luthor - Man of Steel [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2014]
 excerpt: "E se vi dicessi che il più bel fumetto di Superman ha come protagonista Lex Luthor ?"
 tags: 

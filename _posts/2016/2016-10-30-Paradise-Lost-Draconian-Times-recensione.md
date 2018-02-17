@@ -1,6 +1,6 @@
 ---
 title: "Paradise Lost - Draconian Times [Recensione]"
-modified:
+last_modified_at:
 categories: [2016]
 excerpt: "Attenzione: quelle che seguono sono impressioni istintive buttate giù di getto, un tipo di recensione non-ragionata che m'andava semplicemente di fare dopo l'ascolto di quest'album."
 tags: 

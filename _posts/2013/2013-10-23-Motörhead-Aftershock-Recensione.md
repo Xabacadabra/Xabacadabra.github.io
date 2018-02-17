@@ -1,6 +1,6 @@
 ---
 title: "Motörhead - Aftershock [Mini-Recensione]"
-modified:
+last_modified_at:
 categories: [2013]
 excerpt: "Dicevo, parlando dei Pearl Jam nella mia ultima recensione musicale, che mi pareva di notare una certa..."
 tags: [musica, recensioni]

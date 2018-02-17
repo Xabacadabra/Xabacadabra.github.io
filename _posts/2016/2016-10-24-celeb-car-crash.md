@@ -1,6 +1,6 @@
 ---
 title: "Celeb Car Crash - People Are The Best Show [Recensione]"
-modified:
+last_modified_at:
 categories: [2016]
 excerpt: "I Celeb Car Crash sono una band italiana che in realtà d'italiano ha ben poco. Ecco: stop, rewind e qualche precisazione:"
 tags: 

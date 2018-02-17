@@ -1,6 +1,6 @@
 ---
 title: "The Hateful Eight [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "The Hateful Eight è riuscito a farmi rinnamorare del cinema di Tarantino."
 tags:

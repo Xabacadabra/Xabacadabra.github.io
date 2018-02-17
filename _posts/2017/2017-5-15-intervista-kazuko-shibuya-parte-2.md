@@ -1,6 +1,6 @@
 ---
 title: "Intervista a Kazuko Shibuya [Parte 2]"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Seconda parte dell'intervista alla storica Designer della Serie: lo sviluppo di Final Fantasy 1, il problema nell'adattare i disegni di Yoshitaka Amano nei mostri del gioco e tanto altro!"
 tags:

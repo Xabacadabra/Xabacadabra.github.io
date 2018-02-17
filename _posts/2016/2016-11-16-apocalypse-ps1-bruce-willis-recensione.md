@@ -1,6 +1,6 @@
 ---
 title: "Apocalypse [PS1] [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "C'è stato un tempo in cui la scienza era la mia religione, ora la religione è diventata la mia scienza e la mia SPADA!"
 tags: [videogiochi, recensioni]

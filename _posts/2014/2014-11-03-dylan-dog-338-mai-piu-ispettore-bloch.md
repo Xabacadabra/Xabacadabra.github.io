@@ -1,6 +1,6 @@
 ---
 title: Dylan Dog 338 - Mai più, ispettore Bloch [Recensione]
-modified: 2016-10-31
+last_modified_at: 2016-10-31
 categories: [2014]
 excerpt: "Di sicuro s'è fatta attendere, questa pensione. Per Bloch, giusto quella trentina d'anni scarsi. Per noi, un annetto o giù di li...."
 tags: 

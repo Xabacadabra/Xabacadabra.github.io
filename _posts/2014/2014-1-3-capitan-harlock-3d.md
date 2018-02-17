@@ -1,6 +1,6 @@
 ---
 title: "Capitan Harlock 3d [Recensione]"
-modified: 2016-11-19
+last_modified_at: 2016-11-19
 categories: [2014]
 excerpt: "Leggendario è uno di quei tanti aggettivi andati svalutandosi nel corso degli anni..."
 tags: 

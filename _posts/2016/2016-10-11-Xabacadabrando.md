@@ -1,6 +1,6 @@
 ---
 title: "Xabacadabrando"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Piccolo aggiornamento tecnico, che sono cose che dovrei fare più spesso perché in prospettiva mi tornano utili"
 tags:

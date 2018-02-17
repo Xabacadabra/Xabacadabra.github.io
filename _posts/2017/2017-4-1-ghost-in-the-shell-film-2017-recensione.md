@@ -1,6 +1,6 @@
 ---
 title: "Ghost in the Shell - Il film (2017) [Recensione]"
-modified: 2017-4-3
+last_modified_at: 2017-4-3
 categories: [2017]
 excerpt: "Io non amo quelli che rigirano la frittata per ore prima di cacciare numeri e pagelle, quindi vi do subito il mio verdetto: Il live action di Ghost in the Shell è na fetenzia..."
 tags:

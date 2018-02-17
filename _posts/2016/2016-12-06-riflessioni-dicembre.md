@@ -1,6 +1,6 @@
 ---
 title: "Riflessioni di Dicembre"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Come ogni tanto succede, sfrutto Xaba Cadabra per quello che era all'origine: un blog!"
 tags:

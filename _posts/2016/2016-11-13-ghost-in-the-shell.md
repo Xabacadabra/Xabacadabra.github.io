@@ -1,6 +1,6 @@
 ---
 title: "Ghost in the Shell"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "È dal 2013, quando ho aperto questo blog, che vorrei scrivere qualcosa a riguardo. Pure prima, in verità..."
 tags:

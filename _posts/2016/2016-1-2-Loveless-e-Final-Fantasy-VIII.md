@@ -1,6 +1,6 @@
 ---
 title: "Loveless e Final Fantasy VIII"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."
 tags: 

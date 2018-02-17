@@ -1,6 +1,6 @@
 ---
 title: "Il Cinema non è all'altezza dei Videogiochi"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Storicamente il Cinema è stato tutelato più o meno da tutta l'intellighenzia moderna, mentre solo in tempi recenti il videogame ha acquisito un minimo di dignità pubblicamente riconosciuta:..."
 tags:

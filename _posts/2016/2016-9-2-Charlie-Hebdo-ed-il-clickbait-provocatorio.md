@@ -1,6 +1,6 @@
 ---
 title: "Charlie Hebdo ed il Clickbait provocatorio"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Sulla questione Charlie Hebdo e le vignette con il recente terremoto del 24 agosto come soggetto non dirò..."
 tags: [xabologia]

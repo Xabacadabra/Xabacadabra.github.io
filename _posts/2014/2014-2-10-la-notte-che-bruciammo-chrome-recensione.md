@@ -1,6 +1,6 @@
 ---
 title: "La notte che bruciammo Chrome - William Gibson [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2014]
 excerpt: "Immagina un alieno, mi aveva detto una volta Fox, che arrivi sulla Terra per identificare la forma intelligente dominate sul pianeta"
 tags: [recensioni, libri]

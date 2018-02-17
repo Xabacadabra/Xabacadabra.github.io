@@ -1,6 +1,6 @@
 ---
 title: "L'Uomo d'Acciaio [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Considerando che Batman V Superman m'ispira poco ma m'incuriosisce tanto, l'altro giorno ho finalmente colto la palla mediaset al balzo ..."
 tags:

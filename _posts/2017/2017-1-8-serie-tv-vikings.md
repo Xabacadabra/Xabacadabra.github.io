@@ -1,6 +1,6 @@
 ---
 title: "La Lezione di Vikings"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno della quarta stagione."
 tags:

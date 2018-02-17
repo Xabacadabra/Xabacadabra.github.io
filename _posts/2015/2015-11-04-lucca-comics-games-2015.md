@@ -1,6 +1,6 @@
 ---
 title: "Lucca Comics & Games 2015"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Quest'anno fino all'ultimo ero proprio convinto che non ce la si faceva, e già a malincuore programmavo un post gramo e rosicone, ma invece..."
 tags: [fumetti, spettacolo]

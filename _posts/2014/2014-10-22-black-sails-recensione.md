@@ -1,6 +1,6 @@
 ---
 title: "Black Sails [Recensione]"
-modified: 2016-01-22
+last_modified_at: 2016-01-22
 categories: [2014]
 excerpt: "Black Sails è una di quelle serie che scopri in sordina, che non ha sulla carta il cast (ne le pretese) di lavori più impegnati quali..."
 tags:

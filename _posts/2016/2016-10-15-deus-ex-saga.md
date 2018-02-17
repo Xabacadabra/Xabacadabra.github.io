@@ -1,6 +1,6 @@
 ---
 title: "La Saga di Deus Ex"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "O meglio una panoramica sui tre giochi antecedenti a Mankind Divided (che magari un giorno giocherò e recensirò, prima di morire speriamo)"
 tags: 

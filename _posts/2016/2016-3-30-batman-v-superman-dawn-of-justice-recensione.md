@@ -1,6 +1,6 @@
 ---
 title: "Batman V Superman [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Checché ne dica Marvel Studios, la vera Civil War s'è scatenata tra gli spettatori di questo film..."
 tags:

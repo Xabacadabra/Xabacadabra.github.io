@@ -1,6 +1,6 @@
 ---
 title: "Revenant - Redivivo [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Ovviamente, nessuno spoiler. E attenzione: questa è una di quelle lunghe..."
 tags:

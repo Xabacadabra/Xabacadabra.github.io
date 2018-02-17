@@ -1,6 +1,6 @@
 ---
 title: "The Propaganda Game [Netflix]: di Corea, bufale e gomblotti"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Tra un'accozzaglia, una scrofa ferita e via degenerando, passando per Trump e tutti i catastrofismi del caso..."
 tags:

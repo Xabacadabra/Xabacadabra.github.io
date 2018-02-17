@@ -1,6 +1,6 @@
 ---
 title: "Arance & Martello [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Della mia stima per Zoro (Diego Bianchi) e del suo Gazebo televisivo ho già fatto sapere a più riprese, ed è cosa nota per chiunque..."
 tags:

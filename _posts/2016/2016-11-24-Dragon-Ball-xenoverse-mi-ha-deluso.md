@@ -1,6 +1,6 @@
 ---
 title: "[Saldi Steam] Dragon Ball Xenoverse è una delusione"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "E vabbè, son quei 10 euro che mi ritornano in tasca grazie al rimborso Steam..."
 tags: [videogiochi]

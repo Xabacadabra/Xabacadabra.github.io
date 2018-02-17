@@ -1,6 +1,6 @@
 ---
 title: "Rocky Joe - Joe del Domani"
-modified: 2017-3-29
+last_modified_at: 2017-3-29
 categories: [2014]
 excerpt: "Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno affascinato nei vecchi classici prodotti d'animazione/fumettistici del..."
 tags: 

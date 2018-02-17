@@ -1,6 +1,6 @@
 ---
 title: "La dolce decadenza dell'ultimo libro di Harry Potter"
-modified: 2017-3-24
+last_modified_at: 2017-3-24
 categories: [2015]
 excerpt: "Tutti i miei coscritti (la classe '89) e le generazioni a noi più prossime abbiano avuto due elementi comuni a condizionare le rispettive infanzie: La Playstation ed Harry Potter"
 tags: 

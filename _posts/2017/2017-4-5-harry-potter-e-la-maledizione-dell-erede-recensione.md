@@ -1,6 +1,6 @@
 ---
 title: "Harry Potter e la maledizione dell'erede [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Prima di tutto enuncerò alcuni punti chiave: l'ho letto tutto d'un fiato in due orette scarse, contiene momenti bellissimi, frutta l'espediente narrativo più stupido, pericoloso e sputtanante presente nella serie originale:..."
 tags: 

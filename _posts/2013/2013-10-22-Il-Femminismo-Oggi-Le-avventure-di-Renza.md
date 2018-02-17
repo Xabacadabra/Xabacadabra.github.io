@@ -1,6 +1,6 @@
 ---
 title: Il Femminismo Oggi Le avventure di Renza & Co
-modified: null
+last_modified_at: null
 categories: [2013]
 excerpt: "Altrimenti detto se questi fumetti li disegnava un uomo finiva crocifisso, ma evidentemente il titolo era troppo lungo..."
 tags: 

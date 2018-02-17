@@ -1,7 +1,7 @@
 ---
 
 title: "8 suggerimenti per il Videogioco di Ruolo ideale"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "no, Mass Effect, Fallout e Dragon Age per me non sono abbastanza. Diamine, hanno scelte e binari più ridotti del già citato Planescape: Torment, o Vampire the Masquerade: Bloodlines, che a loro confronto sono degli arzilli vecchietti...capisco che i costi e le risorse da impiegare siano aumentati..."
 tags: 

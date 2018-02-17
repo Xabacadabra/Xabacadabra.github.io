@@ -1,6 +1,6 @@
 ---
 title: "Il significato del finale di Birdman [SPOILER]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Come avrete visto nel titolo e dovrebbe essere ovvio, questo post è totalmente spoiler..."
 tags:

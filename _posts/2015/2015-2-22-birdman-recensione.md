@@ -1,6 +1,6 @@
 ---
 title: "Birdman [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Ho sentito quel qualcosa che mi facevano sentire i film di Kubrick."
 tags:

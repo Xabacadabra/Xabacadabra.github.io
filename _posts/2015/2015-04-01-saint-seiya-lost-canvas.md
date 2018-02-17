@@ -1,6 +1,6 @@
 ---
 title: "Saint Seiya - Lost Canvas"
-modified: 2016-11-1
+last_modified_at: 2016-11-1
 categories: [2015]
 excerpt: "C'è del marcio in Giappolandia. Non vi è davvero altra spiegazione plausibile, mi trovo a dover riconfermare quanto già detto qualche mese fa."
 tags: 

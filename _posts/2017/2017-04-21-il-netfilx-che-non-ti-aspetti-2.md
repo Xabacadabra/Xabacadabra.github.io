@@ -1,6 +1,6 @@
 ---
 title: "Il Netflix che non ti aspetti #2"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Secondo episodio di una rubrica che avrei potuto benissimo chiamare Cazzeggiando su Netflix, ma a 'ste cose uno ci pensa sempre dopo..."
 tags:

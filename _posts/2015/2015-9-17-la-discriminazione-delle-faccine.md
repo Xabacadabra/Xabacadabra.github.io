@@ -1,6 +1,6 @@
 ---
 title: "La Discriminazione delle Faccine / Emoticon"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Da qualche tempo mi è capitato di notare come, soprattutto tra le Pagine di Facebook, risulti di moda farsi fighi..."
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Italia - Israele 82 - 52 [Eurobasket 2015]"
-modified:
+last_modified_at:
 categories: [2015]
 excerpt: "Potere e Potenza, dicevano gli evroniani."
 tags: [sport]

@@ -1,6 +1,6 @@
 ---
 title: "Kingsglaive: Final Fantasy XV [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Dopo i discorsi fatti in quel di marzo, eccoci di fronte al film che introduce all'universo di Final Fantasy XV."
 tags:

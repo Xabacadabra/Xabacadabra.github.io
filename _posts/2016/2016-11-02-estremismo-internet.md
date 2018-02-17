@@ -1,6 +1,6 @@
 ---
 title: "L'Estremismo di Internet"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Polarizzare le opinioni su due punti opposti, vivere la discussione senza mediazioni e spesso scadere nell'insulto della parte avversa."
 tags:

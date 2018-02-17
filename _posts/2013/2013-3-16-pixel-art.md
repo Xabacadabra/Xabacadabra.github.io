@@ -1,6 +1,6 @@
 ---
 title: "Pixel Art is Awesome!"
-modified: 2015-12-22T00:00:00.000Z
+last_modified_at: 2015-12-22T00:00:00.000Z
 categories: [2013]
 excerpt: "Essere retrogamer vuol dire moltissime cose. Prima di tutto provare un amore viscerale e nostalgico..."
 tags: 

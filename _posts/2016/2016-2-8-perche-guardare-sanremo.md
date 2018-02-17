@@ -1,6 +1,6 @@
 ---
 title: "Perché guardare Sanremo"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Me lo chiedono ogni anno in molti, ed è curioso notare come in tre anni di blog io abbia sommariamente recensito tutte le edizioni senza fare una piega:"
 tags:

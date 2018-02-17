@@ -1,6 +1,6 @@
 ---
 title: "Metal Gear Solid V: The Phantom Pain [Seconde Impressioni a tiepido (?!)]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "Otto giorni fa eravamo rimasti così. Oggi, 40 ore e rotte di gioco giocatissimo dopo, posso dirmi..."
 tags: [videogiochi]

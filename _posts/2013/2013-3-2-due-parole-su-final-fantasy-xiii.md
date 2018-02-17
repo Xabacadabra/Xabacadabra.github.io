@@ -1,6 +1,6 @@
 ---
 title: "Due parole su Final Fantasy XIII"
-modified: 2015-12-22T00:00:00.000Z
+last_modified_at: 2015-12-22T00:00:00.000Z
 categories: [2013]
 excerpt: "Dopo averci giocato in prima persona per la maggior parte della sua durata (10 capitoli su 13) l'ho abbandonato..."
 tags: 

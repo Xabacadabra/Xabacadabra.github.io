@@ -1,6 +1,6 @@
 ---
 title: "Italia - Islanda 71 - 64 [Eurobasket 2015]"
-modified:
+last_modified_at:
 categories: [2015]
 excerpt: "Diciamo così, abbiamo rotto il ghiaccio."
 tags: [sport]

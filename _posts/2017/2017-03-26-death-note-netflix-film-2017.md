@@ -1,6 +1,6 @@
 ---
 title: "[Netflix] Death Note - Il film, e le imbarazzanti premesse"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Hello, America. So che suona strano, ma siamo nel 2017, e l'era digitale ha contribuito ad abbattere diverse barriere culturali..."
 tags:

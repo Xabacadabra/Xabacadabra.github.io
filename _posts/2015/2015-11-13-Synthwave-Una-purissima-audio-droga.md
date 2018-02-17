@@ -1,6 +1,6 @@
 ---
 title: "Synthwave - Una purissima audio droga"
-modified:
+last_modified_at:
 categories: [2015]
 excerpt: "Ieri il buon vecchio Diccì, mio amorevole figlioccio di cetramoddiana memoria, se ne è uscito tutto baldanzoso parlandoci della Synthwave"
 tags: [musica]

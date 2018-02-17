@@ -1,6 +1,6 @@
 ---
 title: "Addio Chris Cornell"
-modified:
+last_modified_at:
 categories: [2017]
 excerpt: "Qualche parola a braccio."
 tags: 

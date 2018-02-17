@@ -1,6 +1,6 @@
 ---
 title: "Metallica - Hardwired... to Self-Destruct [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2016]
 excerpt: "Recensione personale, senza conservanti (ma un po' d'olio di palma) dell'ultimo disco dei Metallica"
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "David Bowie"
-modified:
+last_modified_at:
 categories: [2016]
 excerpt: "Sono un po' scosso.
 Sembra che questo blog stia diventando una sorta di enorme necrologio..."

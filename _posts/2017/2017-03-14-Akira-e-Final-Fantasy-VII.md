@@ -1,6 +1,6 @@
 ---
 title: "Akira e Final Fantasy VII"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Il gioco delle influenze: Da un lato, manga a parte, abbiamo il più costoso lungometraggio animato giapponese della sua epoca, dall'altro la prima grande opera videoludica in tre dimensioni..."
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Chrono Trigger [Recensione]"
-modified: 2018-5-2
+last_modified_at: 2018-5-2
 categories: [2013]
 excerpt: "Chrono Trigger è un po' gigione. Cioè, è il classico prodotto di stampo giapponese che viene narrato con toni leggeri e spensierati, pur presentando una storyline decisamente complessa..."
 tags: [recensioni, videogiochi]

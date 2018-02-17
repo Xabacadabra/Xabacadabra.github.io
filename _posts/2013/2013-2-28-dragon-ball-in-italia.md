@@ -1,6 +1,6 @@
 ---
 title: "Dragon Ball in Italia"
-modified: 2015-12-22T00:00:00.000Z
+last_modified_at: 2015-12-22T00:00:00.000Z
 categories: [2013]
 excerpt: "Esiste un'ancestrale domanda che ci si pone sin dalla fine di Non è la Rai..."
 tags: 

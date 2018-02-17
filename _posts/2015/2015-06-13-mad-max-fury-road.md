@@ -1,6 +1,6 @@
 ---
 title: "L'importanza di chiamarsi Mad Max"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "L'action sporco, più o meno ottantiano (non è che esistevano solo i Kung Fury del caso eh) portato in scena con tutta la potenza tecnologica oggi a disposizione dei registi... "
 tags:

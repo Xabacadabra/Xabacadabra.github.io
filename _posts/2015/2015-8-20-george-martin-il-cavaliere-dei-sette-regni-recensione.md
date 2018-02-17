@@ -1,6 +1,6 @@
 ---
 title: "George R. R. Martin - Il Cavaliere dei Sette Regni [Recensione]"
-modified: 2016-11-15
+last_modified_at: 2016-11-15
 categories: [2015]
 excerpt: "Con la prosa di George Martin possiedo un rapporto d'amore-odio, lo ribadisco spesso."
 tags: 

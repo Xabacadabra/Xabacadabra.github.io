@@ -1,6 +1,6 @@
 ---
 title: "Deep Purple - Now What ?! [Mini-Recensione]"
-modified:
+last_modified_at:
 categories: [2013]
 excerpt: "E mo cosa ?! Ci dicono Ian Gillan e soci, anticipando la lecita domanda di mezzo mondo alla notizia di un nuovo album dei Deep Purple..."
 tags: [musica, recensioni]

@@ -1,6 +1,6 @@
 ---
 title: Dylan Dog 337 - Spazio Profondo [Recensione]
-modified: 2016-11-2
+last_modified_at: 2016-11-2
 categories: [2014]
 excerpt: "Di sicuro s'è fatta attendere, questa pensione. Per Bloch, giusto quella trentina d'anni scarsi. Per noi, un annetto o giù di li...."
 tags: 

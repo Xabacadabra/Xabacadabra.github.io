@@ -1,6 +1,6 @@
 ---
 title: "Intervista a Kazuko Shibuya [Parte 1]"
-modified: null
+last_modified_at: null
 categories: [2017]
 excerpt: "Sapevate che la pixel art di molti classici Final Fantasy si deve al lavoro di una bravissima fanciulla ? Conosciamo meglio Kazuko Shibuya, l'unica donna dell'originale staff di Final Fantasy, since 1986!"
 tags:

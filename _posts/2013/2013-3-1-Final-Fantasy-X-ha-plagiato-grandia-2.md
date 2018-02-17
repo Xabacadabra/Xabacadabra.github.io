@@ -1,6 +1,6 @@
 ---
 title: "Final Fantasy X e Grandia 2: il Plagio?"
-modified: 2015-12-22T00:00:00.000Z
+last_modified_at: 2015-12-22T00:00:00.000Z
 categories: [2013]
 excerpt: "Il tema principale, i concetti di fondo (principalmente la questione teologica e come viene vissuta dalle rispettive protagoniste femminili) ..."
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Suburra [Recensione]"
-modified: null
+last_modified_at: null
 categories: [2015]
 excerpt: "l'estetica di Sollima è uno spettacolo meraviglioso, complice la bravura di un ottimo Paolo Carnera alla fotografia... "
 tags:
