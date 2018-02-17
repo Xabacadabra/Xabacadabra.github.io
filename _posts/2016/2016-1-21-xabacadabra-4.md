@@ -1,6 +1,6 @@
 ---
 title: "Xaba Cadabra 4"
-last_modified_at: 11-22-2016
+last_modified_at: 2016-11-22
 categories: [2016]
 excerpt: "Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?"
 tags: [xabologia]
