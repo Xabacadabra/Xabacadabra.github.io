@@ -1,6 +1,6 @@
 ---
 title: "L'hashtag #IoNonLeggoRepubblica è una stronzata"
-last_modified_at: 2016-22-11
+last_modified_at: 2016-11-22
 categories: [2015]
 excerpt: "Scrivo qui per comodità, perché so già che 140 caratteri non mi bastano, però includo un po' di miei tweet sul tema:"
 tags: [politica]
