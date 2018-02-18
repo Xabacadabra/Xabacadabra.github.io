@@ -15,21 +15,21 @@ toc: true
 
 > Man mano che lo scrivevo questo post è andato ingigantendosi oltre ogni previsione, chiedo preventivamente scusa a tutti!
 
-Mi ero mezzo ripromesso di tralasciare le venture elezioni politiche del 4 marzo e tutto ciò che ne consegue...è che mi sono reso conto di un fatto curioso:
+Mi ero mezzo ripromesso di tralasciare le venture **elezioni politiche del 4 marzo** e tutto ciò che ne consegue...è che mi sono reso conto di un fatto curioso:
 
 **Questo blog nasce praticamente poco prima delle Elezioni del 2013, ben _tre_ governi fa.**
 
 Quindi boh, insomma, non buttar lì quattro scemate sul tema mi pareva brutto.
 
-Anche perché, oggi più di allora, **non saprei proprio chi votare.**
+Anche perché, oggi più di allora, **non saprei proprio per chi votare.**
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgalbadia%2Fposts%2F1787885704609224&width=500" width="500" height="399" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgalbadia%2Fposts%2F1787885704609224&width=500" width="500" height="399" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="false"></iframe>
 
 ## Chi hai votato nel 2013 ?
 
 ![2013](https://triskel182.files.wordpress.com/2013/02/risultati-elezioni-20131.jpg)
 
-<small>Ve lo ricordate il 2013 sì? Non è l'anteguerra eh</small>
+<small>Ve lo ricordate il 2013 sì? Pare l'anteguerra, eh ?</small>
 
 Il **Movimento 5 Stelle**, e senza alcun entusiasmo.
 
@@ -47,17 +47,17 @@ Tipo il discorso del 2003 di Luciano Violante [^violante], che in pochi ricordan
 
 [^violante]: Violante, al tempo PDS, viene dalla "storia rossa" del Partito Democratico, nell'area bersano-d'alemiana che oggi è per massima parte traslocata in Liberi e Uguali.
 
-E soprattutto, abitando a Genova <small>(che non a caso da qualche tempo è _inaspettatamente_ virata a destra...)</small> non avrei potuto e non potrò MAI votare il partito di **Marta Vincenzi** [^vincenzi] e **Claudio Burlando**.
+Soprattutto, abitando a Genova <small>(che non a caso da qualche tempo è _inaspettatamente_ virata a destra...)</small> non avrei potuto e non potrò MAI votare il partito di **Marta Vincenzi** [^vincenzi] e **Claudio Burlando**.
 
 [^vincenzi]: [Condannata in primo grado per omicidio colposo plurimo, disastro colposo e falso, sempre bene citarlo](http://genova.repubblica.it/cronaca/2016/11/28/news/processo_alluvione_fereggiano_sentenza_attesa_per_le_16-152999420/)
 
-Ergo, avversione per la linea Renziana e macelli con le banche a parte, **in quanto ligure d'adozione il PD mi pare aldilà di ogni speranza.**
+Ergo, avversione per la linea Renziana e macelli con le banche a parte, **in quanto ligure d'adozione il PD mi pare aldilà di ogni redenzione.**
 
 ## Il Movimento 5 Stelle del 2013
 
 ![movimento-5-stelle](https://meetuptaviano.files.wordpress.com/2013/01/ricerca-rappresentanti-di-lista21.jpg)
 
-Il Movimento, dal canto suo, **poneva temi eticamente interessanti sia sul piano morale che su quello etico-ecologico** uniti al sempre fascinoso aspetto della **e-democracy** dal basso.
+Il Movimento, dal canto suo, **poneva temi eticamente interessanti sia sul piano morale che su quello etico-ecologico**, uniti al sempre fascinoso aspetto della **e-democracy** dal basso.
 
 Sebbene...
 
@@ -67,9 +67,9 @@ Ecco: l'effetto _"dilettanti allo sbaraglio"_ unito a referendum no-Euro, alle i
 
 [^grandi]: Tipo l'alleanza con quel "simpatico soggetto" di Farage. 
 
-Del resto **non mi è mai piaciuto manco il concetto _"destra e sinistra sono categorie superate"_**, che è nei fatti na paraculata per acchiappare voti da ambo le parti.
+Del resto **non mi è mai piaciuto manco il concetto _"destra e sinistra sono categorie superate"_**, che è nei fatti na paraculata per acchiappare voti da ambo le parti. [^disgusto]
 
-E non a caso, pochissimo tempo dopo il voto, raggiunsi una sorta di _climax_ del disgusto per la politica [sempre nel 2013](https://www.xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), disgusto che da allora non ha fatto altro che andare _aumentando_.
+[^disgusto]: non a caso, pochissimo tempo dopo il voto, raggiunsi una sorta di _climax_ del disgusto per la politica [sempre nel 2013](https://www.xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), disgusto che da allora non ha fatto altro che andare _aumentando_.
 
 ## 4 Marzo 2018
 
@@ -85,7 +85,7 @@ Bella domanda.
 
 Zoro, in questa bellissima intervista, pone al Movimento 5 Stelle più o meno tutte le critiche che avrei elencato pure io.
 
-Mi limito ad aggiungere due elementi:
+Mi limito a sottolineare due elementi:
 
 1. La pericolosa **deriva no-vax** che interessa una parte consistente della base M5S e da cui lo stesso sembra non volersi smarcare del tutto (emblematico [il caso Raggi](http://www.lastampa.it/2017/09/11/italia/politica/raggi-apre-ai-genitori-no-vax-il-ministero-nessuna-deroga-EMGLgZve6hy1JKd5HMKfAL/pagina.html) dello scorso Novembre)
 
@@ -130,22 +130,22 @@ A me non frega granché di **rimborsopoli**, preoccupa molto di più gente come 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flogocomuneofficial%2Fposts%2F393126814462566&width=500" width="500" height="502" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-Spostandoci a sinistra troviamo **Liberi e Uguali**, che come detto si porta dietro **parecchia di quella zavorra che non mi fece votare il PD nel 2013** puntando su un ex-magistrato da poco prestato alla politica. [^grasso]
+Spostandoci a sinistra troviamo **Liberi e Uguali**, che come detto si porta dietro **parecchia di quella zavorra che non mi fece votare il PD nel 2013**, seppure ben celata dalla figura di un ex-magistrato prestato alla politica. [^grasso]
 
 [^grasso]: Grasso è una figura rispettabile intendiamoci, ma sembra fare da foglia di fico ad un insieme variopinto di gente politicamente non proprio di primo pelo a caccia di un posto in Parlamento (non tutta eh, ma almeno un po'). Sensazioni da Rivoluzione Civile 2.0 con na spruzzata di SEL, ecco.
 
-Soprattutto, **un partito di sinistra che non ha i numeri per aspirare ad essere forza di governo per me di base non ha molto senso.**
+Oltre a questo, **un partito di sinistra che non ha i numeri per aspirare ad essere forza di governo per me di base non ha molto senso.**
 
 Perché sì, siamo tornati al proporzionale, ma **mica nella Prima Repubblica:**
 
-Sono lontani i tempi in cui anche i piccoli Radicali <small>(oggi con Tabacci...)</small> riuscivano a portare avanti referendum su aborto e divorzio nel pieno del dualismo DC-PCI.
+Sono lontani i tempi in cui anche **i piccoli Radicali** <small>(oggi con Tabacci...)</small> riuscivano a portare avanti referendum su aborto e divorzio nel pieno del dualismo DC-PCI.
 
 Poi, a prescindere dai numeri, fondamentalmente uno come Civati lo voterei pure [^civati], uno come D'Alema _meno_, ecco.
 
 <blockquote class="twitter-video" data-lang="it"><p lang="it" dir="ltr">Alcuni tra i più assurdi commenti che sono stati lasciati sui miei social in queste settimane, le reazioni sorgono spontanee. <a href="https://twitter.com/hashtag/Civaticon?src=hash&amp;ref_src=twsrc%5Etfw">#Civaticon</a> <a href="https://t.co/eXEys9M94C">pic.twitter.com/eXEys9M94C</a></p>&mdash; Giuseppe Civati (@civati) <a href="https://twitter.com/civati/status/965166392692690944?ref_src=twsrc%5Etfw">18 febbraio 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<small>però Pippo, capisco l'effetto simpatia ma anche meno, ecco...</small>
+<small>(Pippo, capisco l'effetto simpatia ma anche meno, ecco...)</small>
 
 [^civati]: in effetti **l'ho anche fatto**, spendendo quei famosi due euro alle Primarie del PD nella speranza di arginare lo strapotere renziano.
 
@@ -161,6 +161,11 @@ Vale pressapoco il medesimo discorso appena scritto, a cui aggiungerei **la puzz
 
 **L'origine da _"centro sociale"_ per me sarebbe quindi l'ultimo dei problemi**, anzi, e mi piace il fatto che guardino a **Corbyn, Mélenchon e Podemos**.
 
+<figure>
+<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/28/14/jeremy-corbyn-1.jpg" alt="corbyn">
+<figcaption>Invidiare un post-comunista inglese. Chissà che ne penserebbero Gramsci e Berlinguer.</figcaption>
+</figure>
+
 Che però, vorrei far sommessamente notare, **hanno tutti perso**.
 
 E venivano da partiti con un _minimo_ di numeri e storia (anche se recente [^recente] ), tolto ovviamente Corbyn che si porta dietro **il solido colosso rappresentato dai laburisti inglesi** <small>(eh, avercene)</small>.
@@ -168,6 +173,10 @@ E venivano da partiti con un _minimo_ di numeri e storia (anche se recente [^rec
 [^recente]: Podemos è stato fondato nel 2014, il Parti de Gauche di Mélenchon nel 2008 mentre i laburisti britannici hanno una storia pluricentenaria risalente al 1900. 
 
 In termini di _realpolitk_, **Potere al Popolo è una forza improvvisata che può aspirare al massimo al 3%.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iubLuLhzoac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<small>dopo tutti questi anni, ancora qua stiamo.</small>
 
 Quindi, anche se per assurdo dovesse fare fronte comune con LeU, parliamo di una _cosa rossa_ che **a stento piglierebbe il 10%.**
 
@@ -195,6 +204,8 @@ Dicevo sopra che in tutta Europa le Sinistre hanno perso.
 
 Alla base, soprattutto in Italia, sfugge il fatto che **prima di portare un partito di sinistra alle elezioni lo si deve riportare per le strade**, quelle dove c'è chi sta peggio:
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fespressonline%2Fposts%2F10156186835699241&width=500" width="500" height="219" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="false"></iframe>
+
 **Non è un caso se le periferie [^periferie] oggi votano destra, i 5 stelle o stanno direttamente a casa.**
 
 [^periferie]: Ma anche molte altre realtà: emblematico il caso di Salvatore, malinconico pastore sardo [intervistato sempre da Propaganda Live](http://www.la7.it/propagandalive/rivedila7/propaganda-live-puntata-16022018-17-02-2018-234285).
@@ -211,7 +222,7 @@ In fin della fiera, personalmente non so che fare.
 
 Forse **Liberi e Uguali** ? O **Movimento 5 Stelle** ?
 
-LeU perché più che altro **ha proposto una buona lista** dalle mie parti (leggo i nomi di Sergio Cofferati, Silvio Del Buono e Roberto Amen), mentre **dal Movimento aspetto anzitutto la lista dei ministri** per fare una valutazione a livello nazionale, visto che almeno ha i numeri dalla sua.
+Cito LeU nonostante tutto perché **ha proposto una buona lista** dalle mie parti (leggo i nomi di Sergio Cofferati, Silvio Del Buono e Roberto Amen), mentre **dal Movimento aspetto anzitutto la lista dei ministri** per una valutazione a livello nazionale, visto che almeno ha i numeri dalla sua.
 
 In confidenza, tocca ammetterlo: **non sono mai stato tanto tentato dalla scheda bianca.**
 
