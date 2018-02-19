@@ -41,7 +41,7 @@ Lo votai perché **Rivoluzione Civile** mi pareva un'accozzaglia giustizialista 
 
 Poi ci sarebbero pure **altri trascorsi pesanti tra PD e Berlusconi**, ben antecedenti al solito _renzismo_ che oggigiorno va tanto per la maggiore. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/swntE1iWB5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://www.youtube.com/embed/swntE1iWB5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Tipo il discorso del 2003 di Luciano Violante [^violante], che in pochi ricordano ma io mi porto dietro da più di una decina d'anni. 
 
@@ -81,7 +81,7 @@ Eh.
 
 Bella domanda.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gqk5sE_tI9o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://www.youtube.com/embed/gqk5sE_tI9o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Zoro, in questa bellissima intervista, pone al Movimento 5 Stelle più o meno tutte le critiche che avrei elencato pure io.
 
@@ -174,7 +174,7 @@ E venivano da partiti con un _minimo_ di numeri e storia (anche se recente [^rec
 
 In termini di _realpolitk_, **Potere al Popolo è una forza improvvisata che può aspirare al massimo al 3%.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iubLuLhzoac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://www.youtube.com/embed/iubLuLhzoac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <small>dopo tutti questi anni, ancora qua stiamo.</small>
 
@@ -194,7 +194,7 @@ Forse incide anche l'affrontare una serie di guai personali di un certo peso por
 
 Insomma: son diventato Mario Brega con la _zoccolé_.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bH5HUexDmwM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://www.youtube.com/embed/bH5HUexDmwM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Guardare in basso prima di guardare in alto
 
@@ -228,4 +228,4 @@ In confidenza, tocca ammetterlo: **non sono mai stato tanto tentato dalla scheda
 
 Un po' per la campagna elettorale, un po' perché, alla fine, so che ha già vinto lui.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flogocomuneofficial%2Fvideos%2F393312291110685%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flogocomuneofficial%2Fvideos%2F393312291110685%2F&show_text=0&width=360" width="360" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
