@@ -2,7 +2,7 @@
 title: "Undertale [Recensione]"
 last_modified_at: null
 categories: [2018]
-excerpt: "Leviamoci subito il sassolone dalla scarpa: Dalla sua uscita, Undertale sembrava come missione lo starmi sulle balle."
+excerpt: "Leviamoci subito il sassolone dalla scarpa: Dalla sua uscita, Undertale sembrava avere come missione lo starmi sulle balle."
 tags:
   - videogiochi
   - recensioni
