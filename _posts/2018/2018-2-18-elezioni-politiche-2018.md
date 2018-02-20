@@ -145,7 +145,7 @@ Poi, a prescindere dai numeri, fondamentalmente uno come Civati lo voterei pure 
 <blockquote class="twitter-video" data-lang="it"><p lang="it" dir="ltr">Alcuni tra i più assurdi commenti che sono stati lasciati sui miei social in queste settimane, le reazioni sorgono spontanee. <a href="https://twitter.com/hashtag/Civaticon?src=hash&amp;ref_src=twsrc%5Etfw">#Civaticon</a> <a href="https://t.co/eXEys9M94C">pic.twitter.com/eXEys9M94C</a></p>&mdash; Giuseppe Civati (@civati) <a href="https://twitter.com/civati/status/965166392692690944?ref_src=twsrc%5Etfw">18 febbraio 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<small>(Pippo, capisco l'effetto simpatia ma anche meno, ecco...)</small>
+<small>(Pippo, capisco l'effetto simpatia ma anche meno, ti prego...)</small>
 
 [^civati]: in effetti **l'ho anche fatto**, spendendo quei famosi due euro alle Primarie del PD nella speranza di arginare lo strapotere renziano.
 
