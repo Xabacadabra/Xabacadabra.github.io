@@ -2,7 +2,7 @@
 title: "Sulla Lega: Toni Iwobi, il Sud"
 modified: null
 categories: [2018]
-excerpt: "Mi ero mezzo ripromesso di tralasciare le venture elezioni politiche del 4 marzo e tutto ciò che ne consegue, ma mi sono reso conto di un fatto curioso..."
+excerpt: "In questi giorni ha fatto molta notizia l'elezione di Toni Iwobi, primo senatore nero della Repubblica Italiana, candidato con la Lega di Salvini..."
 tags:
   - politica
 header:  
