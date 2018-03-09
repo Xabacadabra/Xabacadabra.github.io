@@ -14,6 +14,9 @@ comments: true
 
 Ok, [l'avevo preannunciato](/2015/birdman-recensione/), e ci siamo arrivati.
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=xabacadabra-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B00T1O6HL2&linkId=32dee476ebe11e4f37f0badb3b7bba57&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+
 Come avrete visto nel titolo e dovrebbe essere ovvio, **questo post è totalmente spoiler:** guardatevi Birdman prima di leggere altrimenti, tanto per restare in tema, sono **volatici diabetici**
 {: .notice--warning}
 
