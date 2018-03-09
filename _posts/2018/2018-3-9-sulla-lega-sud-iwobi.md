@@ -52,9 +52,9 @@ Il defunto **Gianluca Buonanno** (origini pugliesi), il _"celebre"_ **Francesco 
 
 ## La Lega Nazionale
 
-La svolta nazionalista di Salvini è quindi figlia di un **inevitabile capolavoro politico** visto che, anche senza tirare in ballo i vari scandali e la 'ndrangheta [^ndragheta] , il vecchio Carroccio sarebbe stato fisiologicamente destinato ad estinguersi.
+La svolta nazionalista di Salvini è quindi figlia di un **inevitabile capolavoro politico** visto che, anche senza tirare in ballo i vari scandali e la 'ndrangheta [^ndragheta], il vecchio Carroccio sarebbe stato fisiologicamente destinato ad estinguersi.
 
-[^ndrangheta]: [Qualche ricordo](http://www.linkiesta.it/it/article/2012/04/10/lega-nord-e-ndrangheta-un-rapporto-che-nasce-prima-di-belsito/5529/)
+[^ndrangheta]: <a href="http://www.linkiesta.it/it/article/2012/04/10/lega-nord-e-ndrangheta-un-rapporto-che-nasce-prima-di-belsito/5529/">Qualche ricordo</a>
 
 ## Salvini
 
