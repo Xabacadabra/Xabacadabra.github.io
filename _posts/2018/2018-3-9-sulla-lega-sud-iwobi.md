@@ -60,13 +60,13 @@ La svolta nazionalista di Salvini è quindi figlia di un **inevitabile capolavor
 
 ![salvini balla](http://images.bergamo.corriereobjects.it/methode_image/Video/2016/08/30/Bergamo/Foto%20Bergamo%20-%20Trattate/salviniballa-u43040621048785vu--656x369corriere-web-bergamo_640x360.jpg)
 
-Per cominciare, **Salvini è uno dei migliori comunicatori di questa fase della politica italiana**.
+Per cominciare, **Salvini è uno dei migliori comunicatori in questa fase della politica italiana**.
 
 ![salvini comunista](https://www.video.mediaset.it/bin/249.$plit/640x360_C_2_video_491878_videoThumbnail.jpg)
 
-Del resto di esperienza ne ha da vendere:
+Del resto, di esperienza ne ha da vendere:
 
-Con un linguaggio popolare, un passato da **Comunista Padano** che all'epoca **non disdegnava i tanti bistrattati centri sociali** (chiedere al Leoncavallo), **Salvini nella vita ha fatto praticamente SOLO il politico di professione**, esattamente come un D'Alema qualsiasi, cominciando già nei beati anni '90.
+Con un linguaggio popolare, un passato da **Comunista Padano** che all'epoca **non disdegnava gli oggi tanto bistrattati centri sociali** <small>(chiedere al Leoncavallo)</small>, **Salvini nella vita ha fatto praticamente SOLO il politico di professione**, esattamente come un D'Alema qualsiasi, cominciando già nei beati anni '90.
 
 Anche per questo, **è sbagliato definire Salvini un fascista, un razzista, un'estremista eccetera eccetera.**
 
@@ -84,6 +84,6 @@ Non a caso, pure **Renzi è un finto giovane** che vanta un'esperienza politica 
 
 ## Morale
 
-Amici stupidi ed indignati: **abituatevi.**
+Amici stupiti ed indignati: **abituatevi.**
 
 Perché **Salvini incarnerà quasi certamente il futuro del centrodestra italiano** e, se continuerà all'opposizione, probabilmente guadagnerà sempre più consenso tra **meridionali e immigrati regolari**.
