@@ -52,13 +52,13 @@ Il defunto **Gianluca Buonanno** (origini pugliesi), il _"celebre"_ **Francesco 
 
 ## La Lega Nazionale
 
-La svolta nazionalista di Salvini è quindi figlia di un **inevitabile capolavoro politico** visto che, anche senza tirare in ballo i vari scandali e la 'ndrangheta [^ndragheta], il vecchio Carroccio sarebbe stato fisiologicamente destinato ad estinguersi.
+La svolta nazionalista di Salvini è quindi figlia di un **inevitabile capolavoro politico** visto che, anche senza tirare in ballo i vari scandali e la 'ndrangheta [^ndragheta] , il vecchio Carroccio sarebbe stato fisiologicamente destinato ad estinguersi.
 
-[^ndrangheta]: http://www.linkiesta.it/it/article/2012/04/10/lega-nord-e-ndrangheta-un-rapporto-che-nasce-prima-di-belsito/5529/
+[^ndrangheta]: [Qualche ricordo](http://www.linkiesta.it/it/article/2012/04/10/lega-nord-e-ndrangheta-un-rapporto-che-nasce-prima-di-belsito/5529/)
 
 ## Salvini
 
-![salvini balla](https://media1.giphy.com/media/cnDtCyN34vJSg/giphy.gif)
+![salvini balla](http://images.bergamo.corriereobjects.it/methode_image/Video/2016/08/30/Bergamo/Foto%20Bergamo%20-%20Trattate/salviniballa-u43040621048785vu--656x369corriere-web-bergamo_640x360.jpg)
 
 Per cominciare, **Salvini è uno dei migliori comunicatori di questa fase della politica italiana**.
 
