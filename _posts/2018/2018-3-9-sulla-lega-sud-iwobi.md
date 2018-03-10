@@ -66,7 +66,7 @@ Del resto, di esperienza ne ha da vendere:
 
 Con un linguaggio popolare, un passato da **Comunista Padano** che all'epoca **non disdegnava gli oggi tanto bistrattati centri sociali** <small>(chiedere al Leoncavallo)</small>, **Salvini nella vita ha fatto praticamente SOLO il politico di professione**, esattamente come un D'Alema qualsiasi, cominciando già nei beati anni '90.
 
-Anche per questo, **è sbagliato definire Salvini un fascista, un razzista, un'estremista eccetera eccetera.**
+Anche per questo, **è sbagliato definire Salvini un fascista, un razzista, un estremista eccetera eccetera.**
 
 Pure quando certi toni effettivamente _li accarezza_, intendiamoci.
 
