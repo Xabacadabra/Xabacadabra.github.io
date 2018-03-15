@@ -37,13 +37,13 @@ Quindi, ho riflettuto.
 
 Onestamente, credo sia **pressoché impossibile che un gioco simile possa avere successo.** [^successo]
 
-[^successo]: per successo non intendo numeri eclatanti o altro, giusto un buon risultato che consenta allo sviluppatore di guadagnare qualcosa e cimentarsi con un altri videogame in futuro
+[^successo]: per successo non intendo numeri eclatanti o altro, giusto un buon risultato che consenta allo sviluppatore di guadagnare qualcosa e cimentarsi con altri videogame in futuro.
 
 E che, allargandola, il discorso **si applica a quasi tutti i Giochi di Ruolo Indie**.
 
 ## Perché ?
 
-Perché per la loro intrinseca natura **sono videogame che richiedono una mole spropositata di tempo** e, soprattutto parlando di quelli tattici, **offrono poche occasioni per fare una partita al volo**.
+Perché per loro intrinseca natura **sono videogame che richiedono una mole spropositata di tempo** e, soprattutto parlando di quelli tattici, **offrono poche occasioni per fare una partita al volo**.
 
 ## Ma LA TRAMA...
 
@@ -91,17 +91,25 @@ Ultimamente sto giocando allo splendido _Axiom Verge_, un palese figlio dei vari
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-HiQUw5Np8o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Discorso pressoché identico per _Crypt of the NecroDancer_, piccolo gioiello appartenente ad un genere completamente diverso che oltretutto rappresenta **qualcosa di originale e mai visto prima**, forte di una colonna sonora fantastica, uno stile invidiabile e, ancora una volta, **di un'immediatezza assoluta**.
+Discorso pressoché identico lo potrei fare pure per _Crypt of the NecroDancer_, piccolo gioiello appartenente ad un genere completamente diverso che in più offre **qualcosa di originale e mai visto prima**:
+
+Un titolo forte di una colonna sonora fantastica, stile invidiabile e, ancora una volta, **di un'immediatezza assoluta**.
 
 ![undertale flowey](https://ih1.redbubble.net/image.151777527.0072/flat,800x800,070,f.u3.jpg)
 
-E va detto che financo un RPG come **Undertale** (di cui [abbiamo recentemente discusso](/2018/undertale)) ha fatto della sua (pseudo) **"scarsa longevità"** un importante appiglio per tanti giocatori occasionali, i fantomatici _casual gamer_ che, [come si diceva un paio d'anni fa](https://www.xabacadabra.com/2016/I-Casual-Gamers-non-esistono/), **per me non esistono**.
+Va detto che pure un Gioco di Ruolo come **Undertale** (di cui [abbiamo recentemente discusso](/2018/undertale)) ha fatto della sua (pseudo) **"scarsa longevità"** un importante appiglio per tanti giocatori occasionali, i fantomatici _casual gamer_ che, [come si diceva un paio d'anni fa](https://www.xabacadabra.com/2016/I-Casual-Gamers-non-esistono/), **per me non esistono**.
 
 ## Morale
 
-Se potessi, **consiglierei a tutti gli aspiranti creatori di videogiochi di non cimentarsi mai con titoli lunghi ed impegnativi**, almeno all'inizio.
+![tetris](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Emacs_Tetris_vector_based_detail.svg/220px-Emacs_Tetris_vector_based_detail.svg.png)
 
-Mi rendo conto che più o meno tutti abbiamo nel cassetto **una megastoria da raccontare** (e che spesso _merita_ di essere raccontata, intendiamoci), diciamo solo che, prima di farlo, bisogna prima conquistarsi **la famosa fiducia** su cui costruire la propria credibilità futura.
+**Consiglierei a tutti gli aspiranti creatori di videogiochi di non cimentarsi mai con titoli lunghi ed impegnativi**, almeno all'inizio.
+
+Mi rendo conto che più o meno tutti abbiamo nel cassetto **una megastoria da raccontare** (e che spesso _merita_ di essere raccontata, intendiamoci)...
+
+![indie-game-developers](https://media.makeameme.org/created/indie-game-developers.jpg)
+
+Diciamo solo che, prima di farlo, bisogna prima conquistarsi **la famosa fiducia** su cui costruire la propria credibilità futura.
 
 Ma riflettendoci, forse vale un po' per tutto 😏
 
