@@ -19,12 +19,12 @@ Ma guarda te se mi tocca difendere Zuckerberg.
 
 Come avrete sicuramente letto in giro in questi giorni, pare che la società **Cambridge Analytica** abbia violato **51 milioni di profili facebook** per influenzare la campagna elettorale di **Donald Trump** e, in modo analogo, la **Brexit** del 2016.
 
-La commissaria alla Giustizia dell'Unione Europea, tale Věra Jourová, ha trovato tutto ciò _orripilante_.
+La commissaria alla Giustizia dell'Unione Europea, tale **Věra Jourová**, ha trovato tutto ciò _orripilante_.
 
 <blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">Horrifying, if confirmed. Personal data of 50 mln <a href="https://twitter.com/hashtag/Facebook?src=hash&amp;ref_src=twsrc%5Etfw">#Facebook</a> users could be so easily mishandled &amp; used for political purpose. We don&#39;t want this in the EU. <a href="https://twitter.com/hashtag/GDPR?src=hash&amp;ref_src=twsrc%5Etfw">#GDPR</a> <a href="https://t.co/p2czcodOsi">https://t.co/p2czcodOsi</a></p>&mdash; Věra Jourová (@VeraJourova) <a href="https://twitter.com/VeraJourova/status/975435613632651264?ref_src=twsrc%5Etfw">18 marzo 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-A margine, vorrei far notare quanto l'UE non manchi d'esprimersi in modo molto sentito su questo tema, mentre **contemporaneamente ignora [il massacro di Afrin](http://www.linkiesta.it/it/article/2018/03/20/la-caduta-di-afrin-e-la-prova-che-del-terrorismo-e-dei-morti-non-ce-ne/37496/) ad opera della cara amica Turchia**.
+A margine, vorrei far notare quanto l'UE non manchi d'esprimersi in modo molto sentito su questo tema, mentre **contemporaneamente pare indifferente [al massacro di Afrin](http://www.linkiesta.it/it/article/2018/03/20/la-caduta-di-afrin-e-la-prova-che-del-terrorismo-e-dei-morti-non-ce-ne/37496/) ad opera della cara amica Turchia**.
 
 ![afrin](https://kurddaily.com/wp-content/uploads/2018/01/20180122-20180122-dui0ib1x0aukqolaffe32-image45397e-image.jpg)
 
@@ -111,9 +111,9 @@ Tolta **la spregiudicata raccolta dati di Cambridge Analytica** (e l'eventuale c
 - Adattarsi al linguaggio che va per la maggiore;
 - Assoldare "strilloni" in grado di alimentare l'[_Effetto Gregge_](https://it.wikipedia.org/wiki/Comportamento_del_gregge);
 - Trovare un valido **Capro espiatorio** per ogni problema;
-- [Conventio ad excludendum](https://it.wikipedia.org/wiki/Conventio_ad_excludendum)
+- [Conventio ad excludendum](https://it.wikipedia.org/wiki/Conventio_ad_excludendum);
 
-Insomma: in modo certamente più sofisticato in termini di tecnologie, non abbiamo di fronte a nulla di troppo diverso da ciò che è nei fatti **la creazione del consenso.**
+Insomma: in modo certamente più sofisticato in termini di tecnologie, non abbiamo di fronte nulla di troppo diverso da ciò che è nei fatti **la creazione del consenso.**
 
 ## Morale
 
