@@ -121,6 +121,6 @@ Insomma: in modo certamente più sofisticato in termini di tecnologie, non abbia
 
 In pochi hanno realizzato che **non sono gli elettori che hanno imitato Trump, ma viceversa è Trump che ha imitato loro**. 
 
-In questo senso, per paradosso **abbiamo della democrazia**. 
+In questo senso, per paradosso, **abbiamo della democrazia**. 
 
 Sporca, pilotata e spesso artificiosamente indotta con le famigerate _fake news_ (che però sono un'altra storia), ma tant'è.    
