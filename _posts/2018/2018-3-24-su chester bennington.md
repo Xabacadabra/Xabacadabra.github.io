@@ -50,13 +50,14 @@ Perché quando ero ragazzino facevo mezzo-parte della **chiusissima scena metal 
 
 [^dura]: Anche se ad onor del vero io "puro" non lo sono mai stato, e infatti già all'epoca fui sempre un acceso sostenitore di Crawling tra la mia fitta schiera di "colleghi" (va inoltre precisato che l'avversione era allargata a tutto il cosidetto "nu metal", di cui i LP vennero identificati alfieri loro malgrado).
 
-![mtv music awards 2000](https://i.pinimg.com/originals/65/77/82/657782b0ebc4564c3610cd355e3a3c0d.jpg)
-
 E badate bene: 
 
 ![rock-tv](https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Rock_TV_logo.jpg/220px-Rock_TV_logo.jpg)
 
 <small>Rock Tv era roba _"da ricchi"_ che avevano Tele+ / Sky</small>
+
+![mtv music awards 2000](https://i.pinimg.com/originals/65/77/82/657782b0ebc4564c3610cd355e3a3c0d.jpg)
+
 
 **In quel periodo la televisione e la radio contavano infinitamente più di oggi musicalmente parlando**, specie per chi ascoltava musica _"di nicchia"_, aveva pochi spicci e **una povera connessione a 56k**.
 
