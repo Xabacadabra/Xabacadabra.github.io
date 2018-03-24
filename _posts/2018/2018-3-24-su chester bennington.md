@@ -28,7 +28,7 @@ Nel Luglio 2017 l'avrei voluto fare anche per Chester.
 
 Scrissi giusto un paio di parole a caldo su facebook, perché comunque **per tutti quelli della mia generazione era un lutto un po' impossibile da ignorare**.
 
-Perché, in un sito web, in questi casi si ha sempre il terrore di mostrarsi portatori sano di **_cordoglio da clickbait_**...
+Perché, in un sito web, in questi casi si ha sempre il terrore di mostrarsi portatori sani di **_cordoglio da clickbait_**...
 
 Ma, e forse soprattutto, perché mi sembrava di **appropriarmi di un lutto non "mio"**.
 
@@ -116,13 +116,13 @@ Sempre tramite Arc conobbi pure i **Gray Daze**, primo gruppo di Chester, e ne f
 
 ![chester ai tempi dei gray daze](https://i.ytimg.com/vi/2XRrXAvqEu4/hqdefault.jpg)
 
-**L'anima grunge di Chester era palpabile in quel sound certamente più grezzo**, sporco e a suo modo _"classico"_ che non proprio per questo poteva non conquistarmi.
-
-Del resto, come ho scritto in altra sede, ho sempre amato la scena grunge, Chris Cornell ed i Soundgarden: la lunghezza d'onda era un po' quella, sebbene d'altro respiro.
+**L'anima grunge di Chester era palpabile in quel sound certamente più grezzo**, sporco e a suo modo _"classico"_ che proprio per questo non poteva non conquistarmi.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9XhMr6bfbO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Per certi versi questo Chester _"acerbo"_ resta sempre quello che mi piace di più, probabilmente perché più vicino ai miei trascorsi e alle mie corde.
+
+Del resto, come ho scritto varie volte, **ho sempre amato la scena "grunge"**, soprattutto Chris Cornell ed i Soundgarden: la lunghezza d'onda dei Grey Daze era un po' quella, sebbene di diverso respiro musicale.
 
 ## Living Things, The Hunting Party, One More Light
 
@@ -144,7 +144,7 @@ Stranamente, non troppo tempo prima della morte di Chester, **riscoprii nei mean
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71CvlYX1Bqc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Inutile dire che dopo la morte di Chester ho finito per ascoltarmela per diversi giorni e che, da _maniaco depressivo bipolare_ quale sono, resto sentitamente affascinato dal testo e sopratutto di come la voce di Chester lo sa gestire.
+Inutile dire che dopo la morte di Chester ho finito per ascoltarmela per diversi giorni e che, da _maniaco depressivo bipolare_ quale sono, resto sentitamente affascinato dal testo e sopratutto da quanto la voce di Chester lo sappia ben gestire.
 
 ## Respiro
 
@@ -154,15 +154,15 @@ Dicevo all'inizio che **quando Chester se ne è andato non me la sono sentita di
 
 **Non ci ho mezzo pensato manco al suo compleanno**, pochi giorni fa (20 marzo), e se l'avessi fatto probabilmente mi sarebbe sembrato ugualmente frustrante e _fasullo_, soprattutto **forzato**.
 
-Io qua alla fine scrivo sempre e solo quando mi sale quel _bisogno_, spesso malsano, a metà tra il tabagismo e l'alcolismo <small>(non a caso non sono estraneo a entrambi</small>.
+Io qua alla fine scrivo sempre e solo quando mi sale quel _bisogno_, spesso malsano, a metà tra il tabagismo e l'alcolismo <small>(...non per niente non sono estraneo a entrambi)</small>.
 
 ## Ossigeno
 
 ![ossigeno](https://sentireascoltare.com/wp-content/uploads/2018/02/ossigeno-manuel-agnelli.jpg)
 
-Ecco, mentre scoprivo la replica della prima (bellissima) puntata di [**Ossigeno**](https://www.raiplay.it/video/2018/02/Ossigeno-10e844ce-dece-4f66-877f-dc470dbdcae6.html), mi si è innescato quel bisogno lì...precisamente durante l'intervista a Paolo Giordano, **mentre si parla di tutt'altro e i Linkin Park non vengono menzionati manco di striscio**.
+Ecco, mentre scoprivo la replica della prima (bellissima) puntata di [**Ossigeno**](https://www.raiplay.it/video/2018/02/Ossigeno-10e844ce-dece-4f66-877f-dc470dbdcae6.html), mi si è innescato quel bisogno lì...precisamente durante l'intervista a Paolo Giordano, il tutto **mentre si parla di tutt'altro e i Linkin Park non vengono menzionati manco di striscio**.
 
-Non so come, ma qualche parte del mio cervello **è uscita fuori la necessità di mettere un mio ricordo di Chester Bennigton quaggiù**, di codificare bene un concetto:
+Non so come, ma qualche parte del mio cervello **è uscita fuori la necessità di mettere un mio ricordo di Chester Bennigton quaggiù**, di codificare bene quanto lasciato in sospeso lo scorso luglio:
 
 **Chester fu la _rabbia_**.
 
@@ -172,7 +172,7 @@ Disperata, strozzata, incompresa e soprattutto **contaminata**...e _no_ non parl
 
 ![buio](http://3.bp.blogspot.com/-W2E2dmo-7bE/UciW--UYN4I/AAAAAAAAACg/jsT5g8L1UnE/s1600/Black-Wallpapers-Desktop-Windows-7.jpg)
 
-Parlo di **quel certo tipo di _buio_ che tanti ex-ragazzini sentono o sentivano addosso**, e che morivano dalla voglia **qualcuno gridasse fuori anche per loro.**
+Parlo di **quel certo tipo di _buio_ che tanti ex-ragazzini sentono o sentivano addosso**, e che morivano dalla voglia **qualcuno gridasse fuori anche al posto loro.**
 
 E per quasi vent'anni, **quel qualcuno è stato certamente Chester Bennington.**
 
