@@ -58,7 +58,6 @@ E badate bene:
 
 ![mtv music awards 2000](https://i.pinimg.com/originals/65/77/82/657782b0ebc4564c3610cd355e3a3c0d.jpg)
 
-
 **In quel periodo la televisione e la radio contavano infinitamente più di oggi musicalmente parlando**, specie per chi ascoltava musica _"di nicchia"_, aveva pochi spicci e **una povera connessione a 56k**.
 
 ![cassette](https://themorningnews.org/images/Hinkes-Digital.jpg)
