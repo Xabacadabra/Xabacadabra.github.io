@@ -44,7 +44,7 @@ E qui parte un lunghissimo excursus.
 
 Perché coi Linkin Park ho sempre un rapporto strano, controverso, altalenante.
 
-![metallaro](http://www.meme-italia.it/albums/userpics/10057/rpm8.jpg)
+![metallaro](https://memegenerator.net/img/instances/34938331/youre-not-metal-bro.jpg)
 
 Perché quando ero ragazzino facevo mezzo-parte della **chiusissima scena metal _dura&pura_** [^dura], la stessa che i Linkin Park non li poteva vedere, visto che **nei primissimi anni 2000 i Linkin Park erano tipo _ovunque_.**
 
@@ -54,7 +54,7 @@ Perché quando ero ragazzino facevo mezzo-parte della **chiusissima scena metal 
 
 E badate bene: 
 
-![rock-tv](http://www.u2place.it/u2news/wp-content/uploads/2011/03/rock_tv_nero.gif)
+![rock-tv](https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Rock_TV_logo.jpg/220px-Rock_TV_logo.jpg)
 
 <small>Rock Tv era roba _"da ricchi"_ che avevano Tele+ / Sky</small>
 
@@ -64,7 +64,7 @@ E badate bene:
 
 Ergo, per noi altri che **spacciavamo vecchie cassette e i primi quintali di cd masterizzati** con dentro _Pantera, Death, Slayer, Blind Guardian, Guns N' Roses, Iced Earth_ e via dicendo **i Linkin Park parevano occupare "abusivamente" spazi inevitabilmente preclusi ai nostri beniamini**...
 
-![metallica-mtv-icon](http://images5.fanpop.com/image/photos/26900000/MTV-Icon-Metallica-03-05-03-avril-lavigne-26928496-500-404.jpg)
+![metallica-mtv-icon](https://s7.favim.com/610/151209/metallica-Favim.com-3739877.jpg)
 
 <small>Ricordo ancora distintamente i bestemmioni inveiti contro i Metallica al MTV Icon del 2003. Con Avril Lavigne che cantava Fuel (e voi ve lamentate di Lady Gaga...)</small>
 
@@ -170,7 +170,7 @@ Non so come, ma qualche parte del mio cervello **è uscita fuori la necessità d
 
 Disperata, strozzata, incompresa e soprattutto **contaminata**...e _no_ non parlo mica di droga, che è un mero sintomo:
 
-![buio](http://3.bp.blogspot.com/-W2E2dmo-7bE/UciW--UYN4I/AAAAAAAAACg/jsT5g8L1UnE/s1600/Black-Wallpapers-Desktop-Windows-7.jpg)
+![buio](https://i.ytimg.com/vi/g17jW-zirhA/maxresdefault.jpg)
 
 Parlo di **quel certo tipo di _buio_ che tanti ex-ragazzini sentono o sentivano addosso**, e che morivano dalla voglia **qualcuno gridasse fuori anche al posto loro.**
 
