@@ -1,7 +1,7 @@
 ---
 title: "Su Chester Bennington"
 last_modified_at:
-categories: [2018]
+categories: [2017]
 excerpt: "Tra queste pagine digitali ho trattato alcuni lutti importanti [...] Nel Luglio 2017 l'avrei voluto fare anche per Chester. Però non me la sono sentita."
 tags: 
      - musica
