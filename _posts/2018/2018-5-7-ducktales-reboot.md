@@ -110,6 +110,10 @@ Anche qui, è un po' triste vedere la resa macchiettistica di colui che ha sempr
 
 A differenza del ben più bonario **Rockerduck** <small>(poco noto al pubblico americano)</small>, i classici **Bassotti** e la nostra cara **Amelia**, Cuoredipietra è sempre stato inquadrato tra i massimi esempi di malvagità concepibili tra le pagine di un Topolino.
 
+![cuoredipietra](https://blog.screenweek.it/wp-content/uploads/2017/10/ducktales-1x7-copertina.jpg)
+
+E insomma, vederlo relegato ad una specie di Sergente Garcia mi ha un po' affranto...un po' come la ridicolizzazione di LeChuck a partire da _The Curse of Monkey Island_.
+
 ## Conclusioni
 
 Prodotto fresco e divertente per tutta la famiglia, **il nuovo Ducktales risulta essere una delle migliori operazioni nostalgia degli ultimi anni**, e da cui molti potrebbero trarre qualcosa..
