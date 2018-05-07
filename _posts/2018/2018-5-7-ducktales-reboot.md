@@ -46,12 +46,12 @@ Però c'era un guaio:
 Da accanito lettore di _Topolino_, e nella fattispecie estimatore delle bislacche, caserecce avventure dei Paperi nostrani, **a confronto DuckTales l'ho sempre trovato un melenso polpettone americano** privo di tutto quel "pepe" che è nei fatti **materia principe della nostra scuola disneyana**, da Guido Martina in giù.
 
 <figure>
-<img src="https://www.papersera.net/immagini/articoli/aIn4/01.jpg" alt="ducktales 2017">
+<img src="https://static.next-episode.net/tv-shows-images/huge/ducktales-2017.jpg" alt="ducktales 2017">
 </figure>
 
 Insomma: abituato a debiti, intrallazzi, **sindaci maiali** e maltrattamenti di varia natura inferti dal Paperone fumettistico ai danni del nipotame, recepivo **le bonarie avventure dello Zione in DuckTales [^nonnino] parecchio noiose e dimenticabili**.
 
-[^nonnino] Paperone pare più che altro un buon nonnino un po' parsimonioso, niente a che vedere con la malsana cupidigia caratteristica della versione a fumetti, che spesso sfocia oltre i limiti del codice penale 
+[^nonnino]: Paperone pare più che altro un buon nonnino un po' parsimonioso, niente a che vedere con la malsana cupidigia caratteristica della versione a fumetti, che spesso sfocia oltre i limiti del codice penale 
 
 <figure>
 <img src="https://outducks.org/webusers/webusers/2008/12/it_tl_2133c_001.jpg" alt="ducktales 2017">
@@ -68,7 +68,9 @@ Insomma: abituato a debiti, intrallazzi, **sindaci maiali** e maltrattamenti di 
 
 **Nel reboot la situazione per fortuna è cambiata**, virando molto più nella direzione fumettosa: 
 
-Sebbene ricopra la medesima bonaria figura, **Paperone risulta molto più genuinamente avventuroso e irruente** e il fatto che **Paperino risulti una presenza fissa** aiuta non poco. 
+Sebbene ricopra la medesima bonaria figura, **Paperone risulta molto più genuinamente avventuroso e irruente**: 
+
+In questo senso, il fatto che **Paperino risulti una presenza fissa** (sebbene spesso esterna alla trama principale dell'episodio) aiuta non poco. 
 
 ## Le strizzate d'occhio
 
@@ -84,15 +86,19 @@ Le tre giovani marmotte sono infatti pensate per incarnare **lo spirito del pisc
 
 L'anonima Gaia invece è stata trasformata totalmente:
 
-![ducktales gaia](https://vignette.wikia.nocookie.net/paperpedia/images/3/3e/Gaia.jpg)
-
 ![ducktales gaia](https://blog.screenweek.it/wp-content/uploads/2017/06/ducktales-gaia-copertina.jpg)
 
 Emblema (a tratti forzato) della solita, moderna _"emancipazione a tutti i costi"_, per certi versi mi è sembrata una versione infantile della Jess protagonista di _New Girl_...**il che andrebbe bene, non fosse spesso così centrale da risultare un po' _stucchevole_.**
 
 <small>E sì, ho appena scritto "_stucchevole_" in una recensione quindi mi vado a fustigare da solo.</small>
 
-Insomma: è bene uscire dal vecchio cliché e creare un nuovo modello per le bambine d'oggi...il rischio però è quello di saltare da un estremo all'altro, sconfinando nello **stereotipo 2.0**.
+![jess](http://hallofseries.com/wp-content/uploads/2016/04/Jess-Day-New-Girl.jpg)
+
+<small>(lei in realtà la trovo adorabile, anche se New Girl l'ho mollato da un pezzo)</small>
+
+Insomma: **è bene uscire dal vecchio cliché e creare un nuovo modello per le bambine d'oggi**, ci mancherebbe.
+
+Il rischio, però, è quello di saltare da un estremo all'altro, sconfinando nello **stereotipo 2.0**.
 
 ## Cuordipietra Famedoro
 
@@ -100,12 +106,12 @@ Insomma: è bene uscire dal vecchio cliché e creare un nuovo modello per le bam
 
 Anche qui, è un po' triste vedere la resa macchiettistica di colui che ha sempre rappresentato la nemesi per eccellenza di Paperone:
 
-![cuoredipietra](https://vignette.wikia.nocookie.net/paperpedia/images/d/d6/Il_segreto_di_cuordipietra_005.jpg)
+![cuoredipietra](https://vignette.wikia.nocookie.net/paperpedia/images/d/d6/Il_segreto_di_cuordipietra_005.jpg/revision/latest/scale-to-width-down/250?cb=20171123161059&path-prefix=it)
 
 A differenza del ben più bonario **Rockerduck** <small>(poco noto al pubblico americano)</small>, i classici **Bassotti** e la nostra cara **Amelia**, Cuoredipietra è sempre stato inquadrato tra i massimi esempi di malvagità concepibili tra le pagine di un Topolino.
 
 ## Conclusioni
 
-Prodotto fresco e divertente per tutta la famiglia, **il nuovo Ducktales una delle migliori operazioni nostalgia degli ultimi anni**, da cui molti potrebbero trarre qualcosa...
+Prodotto fresco e divertente per tutta la famiglia, **il nuovo Ducktales risulta essere una delle migliori operazioni nostalgia degli ultimi anni**, e da cui molti potrebbero trarre qualcosa..
 
-Altrimenti basta aspettare un po', che tanto prima o poi la Disney, vera incarnazione aziendale di PdP, si compra tutto 🤑.
+Altrimenti basta aspettare un po', che tanto prima o poi la Disney, vera incarnazione aziendale di PdP, vi si compra tutti.
