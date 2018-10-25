@@ -54,7 +54,7 @@ Come ulteriore contromisura per economizzare sullo spazio a disposizione, realiz
 
 Sì, anche vedendola oggi, posso determinare chi si trova dove. Lavorare con mezzi tanto limitati si rivelò una buona cosa per me. [^limiti] [risate] Penso di aver avuto vent'anni quando l'ho disegnata.
 
-[^limiti]: Questa faccenda torna spesso fuori: qualche vecchio lettore di Xaba Cadabra forse ricorderà  <a href='https://xabacadabra.com/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/'>un discorso analogo</a> che partiva da Nobuo Uematsu, compositore storico della serie.
+[^limiti]: Questa faccenda torna spesso fuori: qualche vecchio lettore di Xaba Cadabra forse ricorderà  <a href='https://xabacadabra.github.io/2015/nobuo-uematsu-e-la-bellezza-dei-limiti/'>un discorso analogo</a> che partiva da Nobuo Uematsu, compositore storico della serie.
 
 **Impressionante! Ed è stata anche la responsabile della pixel art?**
 

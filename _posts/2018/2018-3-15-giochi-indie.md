@@ -97,7 +97,7 @@ Un titolo forte di una colonna sonora fantastica, stile invidiabile e, ancora un
 
 ![undertale flowey](https://ih1.redbubble.net/image.151777527.0072/flat,800x800,070,f.u3.jpg)
 
-Va detto che pure un Gioco di Ruolo come **Undertale** (di cui [abbiamo recentemente discusso](/2018/undertale)) ha fatto della sua (pseudo) **"scarsa longevità"** un importante appiglio per tanti giocatori occasionali, i fantomatici _casual gamer_ che, [come si diceva un paio d'anni fa](https://www.xabacadabra.com/2016/I-Casual-Gamers-non-esistono/), **per me non esistono**.
+Va detto che pure un Gioco di Ruolo come **Undertale** (di cui [abbiamo recentemente discusso](/2018/undertale)) ha fatto della sua (pseudo) **"scarsa longevità"** un importante appiglio per tanti giocatori occasionali, i fantomatici _casual gamer_ che, [come si diceva un paio d'anni fa](https://www.xabacadabra.github.io/2016/I-Casual-Gamers-non-esistono/), **per me non esistono**.
 
 ## Morale
 

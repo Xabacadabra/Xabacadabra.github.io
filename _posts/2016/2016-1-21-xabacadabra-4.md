@@ -14,7 +14,7 @@ toc: true
 
 ## Can you _read_ me, Major Tom ? [^tom]
 
-[^tom]: questo titoletto l'avevo abozzato prima della <a href="https://xabacadabra.com/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono...ero indeciso se modificarlo, ma alla fine ho preferito lasciarlo lì :')
+[^tom]: questo titoletto l'avevo abozzato prima della <a href="https://xabacadabra.github.io/2016/David-Bowie/">triste notizia</a>, essendo questo post in cantiere da un mesetto buono...ero indeciso se modificarlo, ma alla fine ho preferito lasciarlo lì :')
 
 Prova-prova...siete ben sintonizzati con i vostri schermi ? Mi leggete ?
 
@@ -26,7 +26,7 @@ Bene, spero di sì:
 
 Se il nome non vi giunge nuovo (in caso contrario magari fate un salto [qui](/blog/story/)) dovreste aver notato un bel po' di cambiamenti, primo fra tutti l'indirizzo:
 
-**xabacadabra.blogspot.it** d'ora in poi sarà relegato a mero redirect per questi lidi (xabacadabra.com), e **la piattaforma di blogger ufficialmente abbandonata.**
+**xabacadabra.blogspot.it** d'ora in poi sarà relegato a mero redirect per questi lidi (xabacadabra.github.io), e **la piattaforma di blogger ufficialmente abbandonata.**
 
 ## Perché ?
 
@@ -53,7 +53,7 @@ Semplicemente, **il mio vecchio post era vago e approssimativo**, non una recens
 
 Contando che è partita solo lo scorso 18 dicembre, all'atto pratico **qualche mese:** 
 
-se poi consideriamo il fatto che il dominio xabacadabra.com è fresco fresco, minimo tre per farlo digerire come si deve a Google.
+se poi consideriamo il fatto che il dominio xabacadabra.github.io è fresco fresco, minimo tre per farlo digerire come si deve a Google.
 
 ## Quindi il blog è chiuso al pubblico ?!
 

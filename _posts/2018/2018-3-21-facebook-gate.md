@@ -59,7 +59,7 @@ Il punto è che **per un computer la parola chiave "Pippo" resta sempre uguale, 
 
 Ecco. 
 
-Ora: [già nel 2013](https://www.xabacadabra.com/2013/la-web-ossessione-per-la-privacy/) parlavo di come buona parte del Web fosse **inutilmente ossessionato con la privacy**.
+Ora: [già nel 2013](https://www.xabacadabra.github.io/2013/la-web-ossessione-per-la-privacy/) parlavo di come buona parte del Web fosse **inutilmente ossessionato con la privacy**.
 
 O meglio: 
 

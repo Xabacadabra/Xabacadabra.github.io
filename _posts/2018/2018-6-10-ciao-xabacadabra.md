@@ -15,7 +15,7 @@ Ricordatevi di prendere le vostre cose prima di scendere!
 
 Ebbene sì: **oggi Xabacadabra chiude ufficialmente i battenti.**
 
-Lo scrivo con largo anticipo (il dominio xabacadabra.com dovrebbe rimanere attivo fino all'anno prossimo)
+Lo scrivo con largo anticipo (il dominio xabacadabra.github.io dovrebbe rimanere attivo fino all'anno prossimo)
 
 È un po' dura, dopo 5 anni, ma la verità è che il mezzo (blog? Sito? Webzine) è diventato davvero troppo ostico da gestire e digerire in rapporto alla beneamata voglia di scrivere che, per un motivo e per l'altro, è andata inevitabilmente scemando.
 

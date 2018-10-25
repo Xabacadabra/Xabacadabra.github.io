@@ -63,13 +63,13 @@ Sebbene...
 
 ![grillo-farage-biani](https://pbs.twimg.com/media/Bo-liVTCUAAkSGa.jpg)
 
-Ecco: l'effetto _"dilettanti allo sbaraglio"_ unito a referendum no-Euro, alle ingerenze della **Casaleggio Associati** e tante altre cose più o meno grandi[^grandi] **mi hanno sempre fatto schifo**, esattamente come **parecchie sparate di Grillo** (da queste parti trattai l'argomento un paio di volte, tipo [qua](https://www.xabacadabra.com/2015/hashtag-iononleggorepubblica-e-una-stronzata/)).
+Ecco: l'effetto _"dilettanti allo sbaraglio"_ unito a referendum no-Euro, alle ingerenze della **Casaleggio Associati** e tante altre cose più o meno grandi[^grandi] **mi hanno sempre fatto schifo**, esattamente come **parecchie sparate di Grillo** (da queste parti trattai l'argomento un paio di volte, tipo [qua](https://www.xabacadabra.github.io/2015/hashtag-iononleggorepubblica-e-una-stronzata/)).
 
 [^grandi]: Tipo l'alleanza con quel "simpatico soggetto" di Farage. 
 
 Del resto **non mi è mai piaciuto manco il concetto _"destra e sinistra sono categorie superate"_**, che è nei fatti na paraculata per acchiappare voti da ambo le parti. [^disgusto]
 
-[^disgusto]: non a caso, pochissimo tempo dopo il voto, raggiunsi una sorta di _climax_ del disgusto per la politica [sempre nel 2013](https://www.xabacadabra.com/2013/la-politica-della-nausea-e-il-vomito/), disgusto che da allora non ha fatto altro che andare _aumentando_.
+[^disgusto]: non a caso, pochissimo tempo dopo il voto, raggiunsi una sorta di _climax_ del disgusto per la politica [sempre nel 2013](https://www.xabacadabra.github.io/2013/la-politica-della-nausea-e-il-vomito/), disgusto che da allora non ha fatto altro che andare _aumentando_.
 
 ## 4 Marzo 2018
 

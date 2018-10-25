@@ -118,7 +118,7 @@ Infondo, _a che serve?_
 Voglio dire: avete presente _Kingsglaive_, il film-prequel di Final Fantasy XV realizzato in computer grafica ? <small>(se non sapete di che sto parlando, cliccate pure [qui](/2016/Kingsglaive-Final-Fantasy-XV-Recensione/))</small>
 
 <figure>
-<img src='https://xabacadabra.com/gallery/kingsglaive/2.jpg' alt='Kingsglaive-Final-Fantasy-XV'>
+<img src='https://xabacadabra.github.io/gallery/kingsglaive/2.jpg' alt='Kingsglaive-Final-Fantasy-XV'>
 </figure> 
 
 Ci terreste _davvero_ a vederne una nuova versione con **attori in carne ed ossa che ciarlano tra uno schermo verde e l'altro ?** [^gandalf]

@@ -14,7 +14,7 @@ title                    : "Xaba Cadabra"
 title_separator          : "-"
 name                     : "Xab"
 description              : "Xaba Cadabra è un blog colmo di recensioni e speculazioni caustiche riguardo Videogiochi, Serie TV, Fumetti e tutte quelle robe nerd."
-url                      : "https://www.xabacadabra.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xabacadabra.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xabacadabra/Xabacadabra.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -91,7 +91,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : http://xabacadabra.com/ # null (default), "absolute or relative url to link to author home"
+  home             : http://xabacadabra.github.io/ # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :

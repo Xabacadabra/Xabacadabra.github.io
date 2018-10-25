@@ -103,7 +103,7 @@ Personalmente lo vedrei pure un punto sotto...ma che ci volete fare, ogni tanto 
     "author": {
       "@type": "Person",
       "name": "Andrea Xab Corinti",
-    "image": "https://xabacadabra.com/images/macbeth.jpg",
+    "image": "https://xabacadabra.github.io/images/macbeth.jpg",
    },
    "datePublished": "2016-1-14",
    "dateCreated" : "2016-1-14",

@@ -43,7 +43,7 @@ Un po' è sempre stata na mia cifra, un po' probabilmente è il senso di nostalg
 
 ## Cetramod ad Personam
 
-![cetramod](https://www.xabacadabra.com/images/cetramod.jpg)
+![cetramod](https://www.xabacadabra.github.io/images/cetramod.jpg)
 
 Fermo restando quanto appena scritto, da un certo punto di vista Xaba Cadabra nasce come una sorta di [Cetramod](/2013/cetramod) fatto su misura per me:
 

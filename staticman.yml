@@ -43,7 +43,7 @@ comments:
   moderation: false
 
   # Name of the site. Used in notification emails.
-  name: "xabacadabra.com"
+  name: "xabacadabra.github.io"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account

@@ -90,7 +90,7 @@ Detto questo, stando così le cose, semplicemente **ha ragione Lex Luthor**, poc
  <img src="https://1.bp.blogspot.com/-xdiaka-L-64/VJRODAfYJ0I/AAAAAAAALMk/OSf0K8gPB7s/s1600/lex.gif" alt="lex luthor">
 </figure>
 
-(tratto da Lex Luthor: Man of Steel, che tempo fa avevo recensito <a href src="https://xabacadabra.com/2014/lex-luthor-man-of-steel-recensione">qui.</a>)
+(tratto da Lex Luthor: Man of Steel, che tempo fa avevo recensito <a href src="https://xabacadabra.github.io/2014/lex-luthor-man-of-steel-recensione">qui.</a>)
 
 Così come ha ragione **il Batman di Frank Miller** (che con il ragazzone di Krypton c'è sempre andato giù abbastanza pesante):
 

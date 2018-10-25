@@ -13,5 +13,5 @@ header:
 ---
 
 <script type="text/javascript">
-    window.location = "https://www.xabacadabra.com/2018/su-chester-bennington/";
+    window.location = "https://www.xabacadabra.github.io/2018/su-chester-bennington/";
 </script>
