@@ -1,6 +1,4 @@
 ---
-redirect_to:
- - "https://xabacadabra.github.io"
 layout: splash
 permalink: /
 header:
