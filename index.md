@@ -15,7 +15,3 @@ excerpt: 'Recensioni e speculazioni caustiche riguardo Videogiochi, Musica, Anim
   {% include archive-single.html type="grid" %}
  {% endfor %}
 </div>
-
-window.onload = function() {
-    window.location.replace("http://andreacorinti.com");
-}
